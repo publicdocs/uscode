@@ -25,7 +25,7 @@
 
     Requests for approval of assignment or sublease shall be processed promptly by the Secretary. Except where the assignment or sublease is not in accordance with applicable law, the approval shall be given within 60 days of the date of receipt by the Secretary of a request for such approval. Upon approval of any assignment or sublease, the assignee or sublessee shall be bound by the terms of the lease to the same extent as if such assignee or sublessee were the original lessee, any conditions in the assignment or sublease to the contrary notwithstanding. Any partial assignment of any lease shall segregate the assigned and retained portions thereof, and as above provided, release and discharge the assignor from all obligations thereafter accruing with respect to the assigned lands; and such segregated leases shall continue in full force and effect for the primary term of the original lease, but for not less than two years after the date of discovery of oil or gas in paying quantities upon any other segregated portion of the lands originally subject to such lease. Assignments under this section may also be made of parts of leases which are in their extended term because of any provision of this chapter. Upon the segregation by an assignment of a lease issued after September 2, 1960 and held beyond its primary term by production, actual or suspended, or the payment of compensatory royalty, the segregated lease of an undeveloped, assigned, or retained part shall continue for two years, and so long thereafter as oil or gas is produced in paying quantities.
 
-([Feb. 25, 1920, ch. 85, § 30A][/us/act/1920-02-25/ch85/s30A], formerly § 30a, as added [Aug. 8, 1946, ch. 916, § 7][/us/act/1946-08-08/ch916/s7], [60 Stat. 955][/us/stat/60/955]; amended [July 29, 1954, ch. 644, § 1(6)][/us/act/1954-07-29/ch644/s1/6], [68 Stat. 585][/us/stat/68/585]; [Pub. L. 86–705, § 6][/us/pl/86/705/s6], Sept. 2, 1960, [74 Stat. 790][/us/stat/74/790]; renumbered § 30A and amended [Pub. L. 100–203, title V, § 5103][/us/pl/100/203/s5103], Dec. 22, 1987, [101 Stat. 1330–258][/us/stat/101/1330-258].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 30A, formerly § 30a, as added [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 7, [60 Stat. 955][/us/stat/60/955]; amended [July 29, 1954, ch. 644][/us/act/1954-07-29/ch644], § 1(6), [68 Stat. 585][/us/stat/68/585]; [Pub. L. 86–705][/us/pl/86/705], § 6, Sept. 2, 1960, [74 Stat. 790][/us/stat/74/790]; renumbered § 30A and amended [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5103, Dec. 22, 1987, [101 Stat. 1330–258][/us/stat/101/1330-258].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Leases Issued Prior to__  __September 2, 1960__ 
 
-[Pub. L. 86–705, § 6][/us/pl/86/705/s6], Sept. 2, 1960, [74 Stat. 790][/us/stat/74/790], provided in part that: 
+[Pub. L. 86–705][/us/pl/86/705], § 6, Sept. 2, 1960, [74 Stat. 790][/us/stat/74/790], provided in part that: 
 
 > “The provisions of this section 6 \[amending this section\] shall not be applicable to any lease issued prior to the effective date of this Act \[Sept. 2, 1960\].”
 
@@ -53,19 +53,19 @@
 ----------
 
 [/us/usc/t30/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs187
-[/us/act/1920-02-25/ch85/s30A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs30A
-[/us/act/1946-08-08/ch916/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs7
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F955
-[/us/act/1954-07-29/ch644/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch644%2Fs1%2F6
+[/us/act/1954-07-29/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch644
 [/us/stat/68/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F585
-[/us/pl/86/705/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs6
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F790
-[/us/pl/100/203/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5103
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-258
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/86/705/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs6
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F790
 
 

@@ -19,7 +19,7 @@
 
     All permits or leases hereunder shall inure to the benefit of the claimant and all persons claiming through or under him by lease, contract, or otherwise, as their interests may appear.
 
-([Feb. 25, 1920, ch. 85, § 19][/us/act/1920-02-25/ch85/s19], [41 Stat. 445][/us/stat/41/445].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 19, [41 Stat. 445][/us/stat/41/445].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs19
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F445
 [/us/usc/t30/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs227
 

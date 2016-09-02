@@ -49,7 +49,7 @@
 
         Following the final disapproval of a State program, and prior to promulgation of a Federal program or a Federal lands program pursuant to this chapter, including judicial review of such a program, existing surface coal mining operations may continue surface mining operations pursuant to the provisions of this section. During such period no new permits shall be issued by the State whose program has been disapproved. Permits which lapse during such period may continue in full force and effect until promulgation of a Federal program or a Federal lands program.
 
-([Pub. L. 95–87, title V, § 502][/us/pl/95/87/s502], Aug. 3, 1977, [91 Stat. 468][/us/stat/91/468].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 502, Aug. 3, 1977, [91 Stat. 468][/us/stat/91/468].)
 
 ----------
 
@@ -64,7 +64,7 @@
 [/us/usc/t30/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253
 [/us/usc/t30/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1254
 [/us/usc/t30/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1302
-[/us/pl/95/87/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs502
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F468
 
 

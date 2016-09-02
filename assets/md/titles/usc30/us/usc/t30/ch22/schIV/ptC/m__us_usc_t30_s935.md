@@ -17,7 +17,7 @@
 
     With the consent and cooperation of State agencies charged with administration of State workmen’s compensation laws, the Secretary may, for the purpose of carrying out his functions and duties under [section 932 of this title][/us/usc/t30/s932], utilize the services of State and local agencies and their employees and, notwithstanding any other provision of law, may advance funds to or reimburse such State and local agencies and their employees for services rendered for such purposes.
 
-([Pub. L. 91–173, title IV, § 425][/us/pl/91/173/s425], Dec. 30, 1969, [83 Stat. 798][/us/stat/83/798].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 425, Dec. 30, 1969, [83 Stat. 798][/us/stat/83/798].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
-[/us/pl/91/173/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs425
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F798
 
 

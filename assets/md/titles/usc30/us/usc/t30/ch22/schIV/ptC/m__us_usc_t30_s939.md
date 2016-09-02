@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary of Labor such sums as may be necessary to carry out his responsibilities under this subchapter. Such sums shall remain available until expended.
 
-([Pub. L. 91–173, title IV, § 429][/us/pl/91/173/s429], as added [Pub. L. 92–303, § 5(8)][/us/pl/92/303/s5/8], May 19, 1972, [86 Stat. 156][/us/stat/86/156].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 429, as added [Pub. L. 92–303][/us/pl/92/303], § 5(8), May 19, 1972, [86 Stat. 156][/us/stat/86/156].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/173/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs429
-[/us/pl/92/303/s5/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs5%2F8
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F156
 
 

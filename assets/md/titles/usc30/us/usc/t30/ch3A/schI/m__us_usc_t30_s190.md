@@ -17,7 +17,7 @@
 
     All statements, representations, or reports required by the Secretary of the Interior under this chapter shall be upon oath, unless otherwise specified by him, and in such form and upon such blanks as the Secretary of the Interior may require.
 
-([Feb. 25, 1920, ch. 85, § 33][/us/act/1920-02-25/ch85/s33], [41 Stat. 450][/us/stat/41/450].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 33, [41 Stat. 450][/us/stat/41/450].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs33
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F450
 
 

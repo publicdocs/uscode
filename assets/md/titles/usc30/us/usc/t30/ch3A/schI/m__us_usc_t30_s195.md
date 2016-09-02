@@ -63,7 +63,7 @@
 
         (5) Nothing in this section shall deprive a State of jurisdiction to enforce its own civil and criminal laws against any person who may also be subject to civil and criminal action under this section.
 
-([Feb. 25, 1920, ch. 85, § 41][/us/act/1920-02-25/ch85/s41], as added [Pub. L. 100–203, title V, § 5108][/us/pl/100/203/s5108], Dec. 22, 1987, [101 Stat. 1330–260][/us/stat/101/1330-260].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 41, as added [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5108, Dec. 22, 1987, [101 Stat. 1330–260][/us/stat/101/1330-260].)
 
 ----------
 
@@ -72,8 +72,8 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs41
-[/us/pl/100/203/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5108
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-260
 
 

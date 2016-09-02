@@ -25,7 +25,7 @@
 
     (b) The National Aeronautics and Space Administration is authorized to undertake and carry out those programs assigned to it by the Project.
 
-([Pub. L. 93–410, title I, § 102][/us/pl/93/410/s102], Sept. 3, 1974, [88 Stat. 1081][/us/stat/88/1081]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
+([Pub. L. 93–410, title I][/us/pl/93/410/tI], § 102, Sept. 3, 1974, [88 Stat. 1081][/us/stat/88/1081]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
 
  __Change of Name__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/93/410/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs102
+[/us/pl/93/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtI
 [/us/stat/88/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1081
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31

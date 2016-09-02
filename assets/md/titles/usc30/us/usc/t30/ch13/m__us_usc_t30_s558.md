@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  as may be necessary to carry out the provisions and purposes of this chapter.
 
-([Aug. 31, 1954, ch. 1156, § 8][/us/act/1954-08-31/ch1156/s8], [68 Stat. 1011][/us/stat/68/1011]; [Pub. L. 102–486, title XXV, § 2504(d)(3)][/us/pl/102/486/s2504/d/3], Oct. 24, 1992, [106 Stat. 3106][/us/stat/106/3106].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 8, [68 Stat. 1011][/us/stat/68/1011]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2504(d)(3), Oct. 24, 1992, [106 Stat. 3106][/us/stat/106/3106].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-31/ch1156/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs8
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1011
-[/us/pl/102/486/s2504/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fd%2F3
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3106
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 

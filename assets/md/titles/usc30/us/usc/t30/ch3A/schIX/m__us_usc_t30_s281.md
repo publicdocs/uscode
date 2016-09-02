@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for chlorides, sulphates, carbonates, borates, silicates, or nitrates of potassium in lands belonging to the United States for a period of not exceeding two years: Provided, That the area to be included in such a permit shall not exceed two thousand five hundred and sixty acres of land in reasonably compact form: Provided further, That the prospecting provisions of this subchapter shall not apply to lands and deposits in or adjacent to Searles Lake, California, which lands may be leased by the Secretary of the Interior under the terms and provisions of this subchapter.
 
-([Feb. 7, 1927, ch. 66, § 1][/us/act/1927-02-07/ch66/s1], [44 Stat. 1057][/us/stat/44/1057].)
+([Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], § 1, [44 Stat. 1057][/us/stat/44/1057].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-07/ch66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66%2Fs1
+[/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1057
 [/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1057

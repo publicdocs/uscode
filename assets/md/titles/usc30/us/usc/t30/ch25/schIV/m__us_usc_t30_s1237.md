@@ -65,15 +65,15 @@
 
         In addition to the authority to acquire land under subsection (d) of this section the Secretary is authorized to use money in the fund to acquire land by purchase, donation, or condemnation, and to reclaim and transfer acquired land to any State or to a political subdivision thereof, or to any person, firm, association, or corporation, if he determines that such is an integral and necessary element of an economically feasible plan for the project to construct or rehabilitate housing for persons disabled as the result of employment in the mines or work incidental thereto, persons displaced by acquisition of land pursuant to this section, or persons dislocated as the result of adverse effects of coal mining practices which constitute an emergency as provided in [section 1240 of this title][/us/usc/t30/s1240] or persons dislocated as the result of natural disasters or catastrophic failures from any cause. Such activities shall be accomplished under such terms and conditions as the Secretary shall require, which may include transfers of land with or without monetary consideration: Provided, That, to the extent that the consideration is below the fair market value of the land transferred, no portion of the difference between the fair market value and the consideration shall accrue as a profit to such persons, firm, association, or corporation. No part of the funds provided under this subchapter may be used to pay the actual construction costs of housing. The Secretary may carry out the purposes of this subsection directly or he may make grants and commitments for grants, and may advance money under such terms and conditions as he may require to any State, or any department, agency, or instrumentality of a State, or any public body or nonprofit organization designated by a State.
 
-([Pub. L. 95–87, title IV, § 407][/us/pl/95/87/s407], Aug. 3, 1977, [91 Stat. 462][/us/stat/91/462]; [Pub. L. 101–508, title VI, § 6012(d)(4)][/us/pl/101/508/s6012/d/4]–(7), Nov. 5, 1990, [104 Stat. 1388–298][/us/stat/104/1388-298].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 407, Aug. 3, 1977, [91 Stat. 462][/us/stat/91/462]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6012(d)(4)–(7), Nov. 5, 1990, [104 Stat. 1388–298][/us/stat/104/1388-298].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 6012(d)(4)][/us/pl/101/508/s6012/d/4], (5), substituted a semicolon for the period at end of par. (4) and “then, upon giving notice” for “Then, upon giving notice” in concluding provisions.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 6012(d)(4), (5), substituted a semicolon for the period at end of par. (4) and “then, upon giving notice” for “Then, upon giving notice” in concluding provisions.
 
-    Subsec. (e). [Pub. L. 101–508, § 6012(d)(6)][/us/pl/101/508/s6012/d/6], substituted “paragraph (1) of subsection (c)” for “paragraph (1), of this subsection”.
+    Subsec. (e). [Pub. L. 101–508][/us/pl/101/508], § 6012(d)(6), substituted “paragraph (1) of subsection (c)” for “paragraph (1), of this subsection”.
 
-    Subsec. (g)(2). [Pub. L. 101–508, § 6012(d)(7)][/us/pl/101/508/s6012/d/7], substituted “use or” for “use of” before “disposition”.
+    Subsec. (g)(2). [Pub. L. 101–508][/us/pl/101/508], § 6012(d)(7), substituted “use or” for “use of” before “disposition”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -87,13 +87,13 @@
 ----------
 
 [/us/usc/t30/s1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240
-[/us/pl/95/87/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs407
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F462
-[/us/pl/101/508/s6012/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F4
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-298
-[/us/pl/101/508/s6012/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F4
-[/us/pl/101/508/s6012/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F6
-[/us/pl/101/508/s6012/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F7
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231

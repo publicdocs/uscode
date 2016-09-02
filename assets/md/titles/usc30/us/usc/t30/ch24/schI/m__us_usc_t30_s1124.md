@@ -43,7 +43,7 @@
 
     (b) The Chairman, acting through the appropriate Federal agencies and in cooperation with non-Federal entities, shall implement a coordinated program of research and development in order to demonstrate the technical means for the extraction and utilization of the resource base, including any by-products of such base, and in order to accomplish the goals established by subsection (a). Research authorized by this chapter having potential applications in matters other than geothermal energy may be pursued to the extent that the findings of such research can be published in a form for utilization by others.
 
-([Pub. L. 93–410, title I, § 104][/us/pl/93/410/s104], Sept. 3, 1974, [88 Stat. 1083][/us/stat/88/1083].)
+([Pub. L. 93–410, title I][/us/pl/93/410/tI], § 104, Sept. 3, 1974, [88 Stat. 1083][/us/stat/88/1083].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/93/410/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs104
+[/us/pl/93/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtI
 [/us/stat/88/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1083
 
 

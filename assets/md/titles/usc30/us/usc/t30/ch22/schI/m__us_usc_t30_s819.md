@@ -31,7 +31,7 @@
 
         Each operator of a coal or other mine subject to this chapter shall file with the Secretary the name and address of such mine and the name and address of the person who controls or operates the mine. Any revisions in such names or addresses shall be promptly filed with the Secretary. Each operator of a coal or other mine subject to this chapter shall designate a responsible official at such mine as the principal officer in charge of health and safety at such mine, and such official shall receive a copy of any notice, order, citation, or decision issued under this chapter affecting such mine. In any case where the mine is subject to the control of any person not directly involved in the daily operations of the coal or other mine, there shall be filed with the Secretary the name and address of such person and the name and address of a principal official of such person who shall have overall responsibility for the conduct of an effective health and safety program at any coal or other mine subject to the control of such person, and such official shall receive a copy of any notice, order, citation, or decision issued affecting any such mine. The mere designation of a health and safety official under this subsection shall not be construed as making such official subject to any penalty under this chapter.
 
-([Pub. L. 91–173, title I, § 109][/us/pl/91/173/s109], Dec. 30, 1969, [83 Stat. 756][/us/stat/83/756]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1310][/us/stat/91/1310].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 109, Dec. 30, 1969, [83 Stat. 756][/us/stat/83/756]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1310][/us/stat/91/1310].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/91/173/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs109
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F756
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1310
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

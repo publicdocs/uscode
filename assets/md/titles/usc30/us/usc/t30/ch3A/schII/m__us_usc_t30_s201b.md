@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 9, 1928, ch. 159, § 2][/us/act/1928-03-09/ch159/s2], [45 Stat. 251][/us/stat/45/251], provided for extension of coal permits already expired for a period of two years from Mar. 9, 1928.
+    Section, [act Mar. 9, 1928, ch. 159][/us/act/1928-03-09/ch159], § 2, [45 Stat. 251][/us/stat/45/251], provided for extension of coal permits already expired for a period of two years from Mar. 9, 1928.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-03-09/ch159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-09%2Fch159%2Fs2
+[/us/act/1928-03-09/ch159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-09%2Fch159
 [/us/stat/45/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F251
 
 

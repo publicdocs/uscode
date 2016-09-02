@@ -153,11 +153,11 @@
 
         Any person ordered by the Secretary or a delegated State to pay any obligation (other than an assessment) shall be entitled to a stay of such payment without bond or other surety instrument pending an administrative or judicial proceeding if the person periodically demonstrates to the satisfaction of the Secretary that such person is financially solvent or otherwise able to pay the obligation. In the event the person is not able to so demonstrate, the Secretary may require a bond or other surety instrument satisfactory to cover the obligation. Any person ordered by the Secretary or a delegated State to pay an assessment shall be entitled to a stay without bond or other surety instrument.
 
-([Pub. L. 97–451, title I, § 115][/us/pl/97/451/s115], as added [Pub. L. 104–185, § 4(a)][/us/pl/104/185/s4/a], Aug. 13, 1996, [110 Stat. 1704][/us/stat/110/1704]; amended [Pub. L. 104–200, § 1(2)][/us/pl/104/200/s1/2], Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 115, as added [Pub. L. 104–185][/us/pl/104/185], § 4(a), Aug. 13, 1996, [110 Stat. 1704][/us/stat/110/1704]; amended [Pub. L. 104–200][/us/pl/104/200], § 1(2), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
 
  __Codification__ 
 
-    [Pub. L. 104–185, § 4(a)][/us/pl/104/185/s4/a], which directed the addition of this section after section 114 of the Federal Oil and Gas Royalty Management Act of 1982, [Pub. L. 97–451][/us/pl/97/451], was executed by adding this section after section 113 to reflect the probable intent of Congress because [Pub. L. 97–451][/us/pl/97/451] did not contain a section 114.
+    [Pub. L. 104–185][/us/pl/104/185], § 4(a), which directed the addition of this section after section 114 of the Federal Oil and Gas Royalty Management Act of 1982, [Pub. L. 97–451][/us/pl/97/451], was executed by adding this section after section 113 to reflect the probable intent of Congress because [Pub. L. 97–451][/us/pl/97/451] did not contain a section 114.
 
  __Amendments__ 
 
@@ -186,12 +186,12 @@
 [/us/usc/t30/s1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1735
 [/us/usc/t30/s1712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1712%2Fa
 [/us/usc/t30/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1713
-[/us/pl/97/451/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs115
-[/us/pl/104/185/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs4%2Fa
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1704
-[/us/pl/104/200/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F2
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
 [/us/stat/110/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2421
-[/us/pl/104/185/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs4%2Fa
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200

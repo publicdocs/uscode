@@ -17,7 +17,7 @@
 
     Except as this chapter provides for (a) validation of certain mining claims located on lands described in [section 501 of this title][/us/usc/t30/s501], and (b) the modification and amendment of certain withdrawals or reservations of land, nothing in this chapter shall affect any power or authority duly vested in the Atomic Energy Commission or any other agency, department or officer of the United States to make leases, withdrawals, reservations or other arrangements with respect to source materials as defined in section 5(b)(1) of the Atomic Energy Act of 1946, as amended.
 
-([Aug. 12, 1953, ch. 405, § 4][/us/act/1953-08-12/ch405/s4], [67 Stat. 540][/us/stat/67/540].)
+([Aug. 12, 1953, ch. 405][/us/act/1953-08-12/ch405], § 4, [67 Stat. 540][/us/stat/67/540].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t30/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs501
-[/us/act/1953-08-12/ch405/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405%2Fs4
+[/us/act/1953-08-12/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405
 [/us/stat/67/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F540
 [/us/usc/t42/s1805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fb%2F1
 [/us/usc/t42/s2014/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fz

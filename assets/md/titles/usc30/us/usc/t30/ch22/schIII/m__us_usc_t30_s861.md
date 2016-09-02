@@ -23,13 +23,13 @@
 
         The purpose of this subchapter is to provide for the immediate application of mandatory safety standards developed on the basis of experience and advances in technology and to prevent newly created hazards resulting from new technology in coal mining. The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies, investigations, and research to further upgrade such standards and to develop and promulgate new and improved standards promptly that will provide increased protection to the miners, particularly in connection with hazards from trolley wires, trolley feeder wires, and signal wires, the splicing and use of trailing cables, and in connection with improvements in vulcanizing of electric conductors, improvement in roof control measures, methane drainage in advance of mining, improved methods of measuring methane and other explosive gases and oxygen concentrations, and the use of improved underground equipment and other sources of power for such equipment.
 
-([Pub. L. 91–173, title III, § 301][/us/pl/91/173/s301], Dec. 30, 1969, [83 Stat. 765][/us/stat/83/765]; [Pub. L. 95–164, title II, § 203][/us/pl/95/164/s203], Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 301, Dec. 30, 1969, [83 Stat. 765][/us/stat/83/765]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 203, Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317].)
 
  __Amendments__ 
 
-    1977—Subsec. (b). [Pub. L. 95–164, § 203(a)][/us/pl/95/164/s203/a], substituted “The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies” for “The Secretary shall immediately initiate studies”.
+    1977—Subsec. (b). [Pub. L. 95–164][/us/pl/95/164], § 203(a), substituted “The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies” for “The Secretary shall immediately initiate studies”.
 
-    Subsecs. (c), (d). [Pub. L. 95–164, § 203(b)][/us/pl/95/164/s203/b], struck out subsec. (c) which related to the modification of standards, and subsec. (d) which related to the applicability of [section 553 of title 5][/us/usc/t5/s553] in cases where the provisions of sections 862 to 878 of this title had provided that certain actions, conditions, or requirements be carried out as prescribed by the Secretary or the Secretary of Health, Education, and Welfare.
+    Subsecs. (c), (d). [Pub. L. 95–164][/us/pl/95/164], § 203(b), struck out subsec. (c) which related to the modification of standards, and subsec. (d) which related to the applicability of [section 553 of title 5][/us/usc/t5/s553] in cases where the provisions of sections 862 to 878 of this title had provided that certain actions, conditions, or requirements be carried out as prescribed by the Secretary or the Secretary of Health, Education, and Welfare.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t30/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs811
 [/us/usc/t30/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs811
-[/us/pl/91/173/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs301
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F765
-[/us/pl/95/164/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs203
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1317
-[/us/pl/95/164/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs203%2Fa
-[/us/pl/95/164/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs203%2Fb
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/95/164/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs307

@@ -19,7 +19,7 @@
 
     (b) For the three remaining institutions referred to in the last sentence of [section 1311(a) of this title][/us/usc/t30/s1311/a], there are authorized to be appropriated not to exceed $6,500,000 for the fiscal year 1980 (including the cost of construction, equipment, and startup expenses), and not to exceed $2,000,000 for each fiscal year after fiscal year 1980 ending before October 1, 1984, to carry out the provisions of this subchapter.
 
-([Pub. L. 95–87, title VIII, § 806][/us/pl/95/87/s806], Aug. 3, 1977, [91 Stat. 529][/us/stat/91/529]; [Pub. L. 95–617, title VI, § 604(b)][/us/pl/95/617/s604/b], Nov. 9, 1978, [92 Stat. 3166][/us/stat/92/3166].)
+([Pub. L. 95–87, title VIII][/us/pl/95/87/tVIII], § 806, Aug. 3, 1977, [91 Stat. 529][/us/stat/91/529]; [Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 604(b), Nov. 9, 1978, [92 Stat. 3166][/us/stat/92/3166].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t30/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1311%2Fa
 [/us/usc/t30/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1311%2Fa
-[/us/pl/95/87/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs806
+[/us/pl/95/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVIII
 [/us/stat/91/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F529
-[/us/pl/95/617/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fb
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3166
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/usc/t30/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1311%2Fa

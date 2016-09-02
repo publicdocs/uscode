@@ -99,13 +99,13 @@
 
         The Secretary shall coordinate unitization and pooling activities with appropriate State agencies.
 
-([Pub. L. 91–581, § 18][/us/pl/91/581/s18], Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 100–443, § 4][/us/pl/100/443/s4], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 109–58, title II, § 227][/us/pl/109/58/s227], Aug. 8, 2005, [119 Stat. 666][/us/stat/119/666].)
+([Pub. L. 91–581][/us/pl/91/581], § 18, Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 100–443][/us/pl/100/443], § 4, Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 227, Aug. 8, 2005, [119 Stat. 666][/us/stat/119/666].)
 
  __Amendments__ 
 
     2005—[Pub. L. 109–58][/us/pl/109/58] inserted section catchline and amended text generally. Prior to amendment, text related to cooperative or unit plan of development or operation of geothermal pool, field, or like area, public interest, determination and certification, regulations, protection of parties in interest, authority respecting rate of prospecting, development, and production, five year review, and leases excepted from control for purposes of State acreage limitation.
 
-    1988—[Pub. L. 100–443, § 4][/us/pl/100/443/s4], inserted provisions relating to five year review of plans and elimination of leases from plans.
+    1988—[Pub. L. 100–443][/us/pl/100/443], § 4, inserted provisions relating to five year review of plans and elimination of leases from plans.
 
 ----------
 
@@ -117,13 +117,13 @@
 [/us/usc/t30/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1006
 [/us/usc/t30/s1005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1005%2Fg
 [/us/usc/t30/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1006
-[/us/pl/91/581/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs18
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1571
-[/us/pl/100/443/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs4
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1768
-[/us/pl/109/58/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs227
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F666
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/100/443/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs4
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 
 

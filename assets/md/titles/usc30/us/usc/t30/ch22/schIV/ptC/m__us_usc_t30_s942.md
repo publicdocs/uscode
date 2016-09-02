@@ -19,7 +19,7 @@
 
     (b) Any employer who fails or refuses to file any report required of such employer under this section shall be subject to a civil penalty of not more than $500 for each such failure or refusal.
 
-([Pub. L. 91–173, title IV, § 432][/us/pl/91/173/s432], as added [Pub. L. 95–239, § 12(b)][/us/pl/95/239/s12/b], Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 432, as added [Pub. L. 95–239][/us/pl/95/239], § 12(b), Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/91/173/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs432
-[/us/pl/95/239/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs12%2Fb
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F101
 [/us/pl/95/239/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs20%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901

@@ -21,7 +21,7 @@
 
     (b) on any other lands, upon obtaining proper consent or the necessary rights or interests in such lands: Provided, however, That expenditure of Federal funds for this purpose in any privately owned operating coal mine shall be limited to the acts authorized in [section 553(a) of this title][/us/usc/t30/s553/a].
 
-([Aug. 31, 1954, ch. 1156, § 4][/us/act/1954-08-31/ch1156/s4], [68 Stat. 1009][/us/stat/68/1009].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 4, [68 Stat. 1009][/us/stat/68/1009].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t30/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs553
 [/us/usc/t30/s553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs553%2Fa
-[/us/act/1954-08-31/ch1156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs4
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1009
 
 

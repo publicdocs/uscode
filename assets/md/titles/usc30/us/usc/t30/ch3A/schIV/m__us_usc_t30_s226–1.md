@@ -31,7 +31,7 @@
 
         Any lease issued prior to September 2, 1960, which has been maintained in accordance with applicable statutory requirements and regulations and which pertains to land on which, or for which under an approved cooperative or unit plan of development or operation, actual drilling operations were commenced prior to the end of its primary term and are being diligently prosecuted at that time shall be extended for two years and so long thereafter as oil or gas is produced in paying quantities.
 
-([Pub. L. 86–705, § 4][/us/pl/86/705/s4], Sept. 2, 1960, [74 Stat. 789][/us/stat/74/789].)
+([Pub. L. 86–705][/us/pl/86/705], § 4, Sept. 2, 1960, [74 Stat. 789][/us/stat/74/789].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/86/705/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs4
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F789
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

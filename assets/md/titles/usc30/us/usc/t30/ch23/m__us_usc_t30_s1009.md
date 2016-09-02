@@ -17,7 +17,7 @@
 
     The holder of any geothermal lease at any time may make and file in the appropriate land office a written relinquishment of all rights under such lease or of any legal subdivision of the area covered by such lease. Such relinquishment shall be effective as of the date of its filing. Thereupon the lessee shall be released of all obligations thereafter accruing under said lease with respect to the lands relinquished, but no such relinquishment shall release such lessee, or his surety or bond, from any liability for breach of any obligation of the lease, other than an obligation to drill, accrued at the date of the relinquishment, or from the continued obligation, in accordance with the applicable lease terms and regulations, (1) to make payment of all accrued rentals and royalties, (2) to place all wells on the relinquished lands in condition for suspension or abandonment, and (3) to protect or restore substantially the surface and surface resources.
 
-([Pub. L. 91–581, § 10][/us/pl/91/581/s10], Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II, § 236(10)][/us/pl/109/58/s236/10], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 10, Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(10), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs10
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1570
-[/us/pl/109/58/s236/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F10
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

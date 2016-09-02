@@ -29,7 +29,7 @@
 
     (b) The institutes are authorized and encouraged to plan and conduct programs under this subchapter in cooperation with each other and with such other agencies and individuals as may contribute to the solution of the mining and mineral resources problems involved. Moneys appropriated pursuant to this subchapter shall be available for paying the necessary expenses of planning, coordinating, and conducting such cooperative research.
 
-([Pub. L. 98–409, § 3][/us/pl/98/409/s3], Aug. 29, 1984, [98 Stat. 1538][/us/stat/98/1538].)
+([Pub. L. 98–409][/us/pl/98/409], § 3, Aug. 29, 1984, [98 Stat. 1538][/us/stat/98/1538].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1223, [Pub. L. 95–87, title III, § 303][/us/pl/95/87/s303], Aug. 3, 1977, [91 Stat. 453][/us/stat/91/453], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1223, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 303, Aug. 3, 1977, [91 Stat. 453][/us/stat/91/453], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 ----------
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/98/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs3
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1538
-[/us/pl/95/87/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs303
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F453
 
 

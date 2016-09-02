@@ -19,7 +19,7 @@
 
     (b) The operator of a surface coal mine shall replace the water supply of an owner of interest in real property who obtains all or part of his supply of water for domestic, agricultural, industrial, or other legitimate use from an underground or surface source where such supply has been affected by contamination, diminution, or interruption proximately resulting from such surface coal mine operation.
 
-([Pub. L. 95–87, title VII, § 717][/us/pl/95/87/s717], Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 717, Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs717
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F526
 
 

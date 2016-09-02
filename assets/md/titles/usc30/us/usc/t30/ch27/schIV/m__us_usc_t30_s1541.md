@@ -17,7 +17,7 @@
 
     The option of using geothermal energy or geothermal energy resources shall be considered fully in any new Federal building, facility, or installation which is located in a geothermal resource area as designated by the Secretary.
 
-([Pub. L. 96–294, title VI, § 642][/us/pl/96/294/s642], June 30, 1980, [94 Stat. 769][/us/stat/94/769].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 642, June 30, 1980, [94 Stat. 769][/us/stat/94/769].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs642
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F769
 
 

@@ -17,7 +17,7 @@
 
     Where the lands for which application is made under [section 701 of this title][/us/usc/t30/s701] have been withdrawn in aid of a function of a Federal department or agency other than the Department of the Interior, or of a State, county, municipality, water district, or other local governmental subdivision or agency, the Secretary of the Interior may convey an interest therein only with the consent of the head of the governmental unit concerned and under such terms and conditions as said head may deem necessary.
 
-([Pub. L. 87–851, § 3][/us/pl/87/851/s3], Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127].)
+([Pub. L. 87–851][/us/pl/87/851], § 3, Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs701
-[/us/pl/87/851/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs3
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1127
 
 

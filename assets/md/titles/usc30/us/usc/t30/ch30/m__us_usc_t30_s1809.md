@@ -27,7 +27,7 @@
 
     (5) to exercise such authorities as may be necessary and incidental to carrying out its responsibilities and duties under this chapter.
 
-([Pub. L. 98–373, title II, § 210][/us/pl/98/373/s210], July 31, 1984, [98 Stat. 1253][/us/stat/98/1253]; [Pub. L. 100–418, title V, § 5183][/us/pl/100/418/s5183], Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 210, July 31, 1984, [98 Stat. 1253][/us/stat/98/1253]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5183, Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/98/373/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs210
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1253
-[/us/pl/100/418/s5183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5183
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1454
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

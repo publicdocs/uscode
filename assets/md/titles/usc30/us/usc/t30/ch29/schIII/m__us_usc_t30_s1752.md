@@ -17,7 +17,7 @@
 
     The Secretary shall submit to the Congress an annual report on the implementation of this chapter. The information to be included in the report and the format of the report shall be developed by the Secretary after consulting with the Committees on Natural Resources of the House of Representatives and on Energy and Natural Resources of the Senate. The Secretary shall also report on the progress of the Department in reconciling account balances.
 
-([Pub. L. 97–451, title III, § 302][/us/pl/97/451/s302], Jan. 12, 1983, [96 Stat. 2461][/us/stat/96/2461]; [Pub. L. 103–437, § 11(a)(2)][/us/pl/103/437/s11/a/2], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 105–362, title IX, § 901(j)(1)][/us/pl/105/362/s901/j/1], Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 302, Jan. 12, 1983, [96 Stat. 2461][/us/stat/96/2461]; [Pub. L. 103–437][/us/pl/103/437], § 11(a)(2), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(j)(1), Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Study of the Adequacy of Royalty Management for Minerals on Federal and Indian Lands__ 
 
-    [Pub. L. 97–451, title III, § 303][/us/pl/97/451/s303], Jan. 12, 1983, [96 Stat. 2461][/us/stat/96/2461], directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
+    [Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 303, Jan. 12, 1983, [96 Stat. 2461][/us/stat/96/2461], directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
 
 ----------
 
@@ -40,17 +40,17 @@
 ----------
 ----------
 
-[/us/pl/97/451/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs302
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2461
-[/us/pl/103/437/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs11%2Fa%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/105/362/s901/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fj%2F1
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3290
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/97/451/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs303
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2461
 
 

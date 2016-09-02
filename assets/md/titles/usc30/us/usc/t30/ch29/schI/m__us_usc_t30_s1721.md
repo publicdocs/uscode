@@ -69,7 +69,7 @@
 
         The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
 
-([Pub. L. 97–451, title I, § 111][/us/pl/97/451/s111], Jan. 12, 1983, [96 Stat. 2455][/us/stat/96/2455]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–185, § 6(a)][/us/pl/104/185/s6/a]–(e), (h)(1), Aug. 13, 1996, [110 Stat. 1712–1715][/us/stat/110/1712-1715]; [Pub. L. 104–200, § 1(3)][/us/pl/104/200/s1/3]–(6), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421]; [Pub. L. 113–67, div. A, title III, § 305(a)][/us/pl/113/67/s305/a], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183]; [Pub. L. 113–291, div. B, title XXX, § 3021(c)(2)][/us/pl/113/291/s3021/c/2], Dec. 19, 2014, [128 Stat. 3761][/us/stat/128/3761]; [Pub. L. 114–94, div. C, title XXXII, § 32301][/us/pl/114/94/s32301], Dec. 4, 2015, [129 Stat. 1741][/us/stat/129/1741].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 111, Jan. 12, 1983, [96 Stat. 2455][/us/stat/96/2455]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–185][/us/pl/104/185], § 6(a)–(e), (h)(1), Aug. 13, 1996, [110 Stat. 1712–1715][/us/stat/110/1712-1715]; [Pub. L. 104–200][/us/pl/104/200], § 1(3)–(6), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421]; [Pub. L. 113–67, div. A, title III][/us/pl/113/67/dA/tIII], § 305(a), Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3021(c)(2), Dec. 19, 2014, [128 Stat. 3761][/us/stat/128/3761]; [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32301, Dec. 4, 2015, [129 Stat. 1741][/us/stat/129/1741].)
 
  __References in Text__ 
 
@@ -83,39 +83,39 @@
 
     2015—Subsec. (h). [Pub. L. 114–94][/us/pl/114/94] redesignated subsec. (j) as (h), struck out “If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment.” after “underpaid amount.”, and struck out former subsec. (h) which related to lessee or designee interest.
 
-    Subsec. (i). [Pub. L. 114–94, § 32301(1)][/us/pl/114/94/s32301/1], (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 32301(1), (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
 
-    Subsec. (j). [Pub. L. 114–94, § 32301(2)][/us/pl/114/94/s32301/2], redesignated subsec. (l) as (j). Former subsec. (j) redesignated (h).
+    Subsec. (j). [Pub. L. 114–94][/us/pl/114/94], § 32301(2), redesignated subsec. (l) as (j). Former subsec. (j) redesignated (h).
 
-    Subsecs. (k), (l). [Pub. L. 114–94, § 32301(2)][/us/pl/114/94/s32301/2], redesignated subsecs. (k) and (l) as (i) and (j), respectively.
+    Subsecs. (k), (l). [Pub. L. 114–94][/us/pl/114/94], § 32301(2), redesignated subsecs. (k) and (l) as (i) and (j), respectively.
 
     2014—Subsec. (h). [Pub. L. 113–291][/us/pl/113/291] substituted “a rate equal to the sum of the Federal short-term rate determined under [section 6621(b) of title 26][/us/usc/t26/s6621/b] plus 1 percentage point.” for “the rate obtained by applying the provisions of subparagraphs (A) and (B) of [section 6621(a)(1) of title 26][/us/usc/t26/s6621/a/1], but determined without regard to the sentence following subparagraph (B) of section 6621(a)(1).”
 
     2013—Subsec. (i). [Pub. L. 113–67][/us/pl/113/67] inserted subsec. heading; designated first sentence as par. (1), inserted heading, and substituted “Interest shall not be paid on any excessive overpayment.” for “Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment.”; and designated second sentence as par. (2) and inserted heading.
 
-    1996—[Pub. L. 104–185, § 6(h)(1)][/us/pl/104/185/s6/h/1], substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
+    1996—[Pub. L. 104–185][/us/pl/104/185], § 6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
 
-    Subsec. (h). [Pub. L. 104–185, § 6(a)][/us/pl/104/185/s6/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–185][/us/pl/104/185], § 6(a), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 104–200, § 1(3)][/us/pl/104/200/s1/3], inserted “not” after “receiving interest, interest shall”.
+    Subsec. (i). [Pub. L. 104–200][/us/pl/104/200], § 1(3), inserted “not” after “receiving interest, interest shall”.
 
-    [Pub. L. 104–185, § 6(b)][/us/pl/104/185/s6/b], added subsec. (i).
+    [Pub. L. 104–185][/us/pl/104/185], § 6(b), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 104–200, § 1(4)][/us/pl/104/200/s1/4], (5), substituted “date royalties are due” for “rate royalties are due”, “interest is owed on the underpaid amount” for “interest is owned on the underpaid amount”, and “interest is owed on the overpayment” for “interest is owned on the overpayment”.
+    Subsec. (j). [Pub. L. 104–200][/us/pl/104/200], § 1(4), (5), substituted “date royalties are due” for “rate royalties are due”, “interest is owed on the underpaid amount” for “interest is owned on the underpaid amount”, and “interest is owed on the overpayment” for “interest is owned on the overpayment”.
 
-    [Pub. L. 104–185, § 6(c)][/us/pl/104/185/s6/c], added subsec. (j).
+    [Pub. L. 104–185][/us/pl/104/185], § 6(c), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 104–185, § 6(d)][/us/pl/104/185/s6/d], added subsec. (k).
+    Subsec. (k). [Pub. L. 104–185][/us/pl/104/185], § 6(d), added subsec. (k).
 
-    Subsec. (k)(4). [Pub. L. 104–200, § 1(6)][/us/pl/104/200/s1/6], substituted “additional royalties due” for “additional royalties dues”.
+    Subsec. (k)(4). [Pub. L. 104–200][/us/pl/104/200], § 1(6), substituted “additional royalties due” for “additional royalties dues”.
 
-    Subsec. (l). [Pub. L. 104–185, § 6(e)][/us/pl/104/185/s6/e], added subsec. (l).
+    Subsec. (l). [Pub. L. 104–185][/us/pl/104/185], § 6(e), added subsec. (l).
 
     1986—Subsecs. (a), (b), (d). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–67, div. A, title III, § 305(b)][/us/pl/113/67/s305/b], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183], provided that: 
+[Pub. L. 113–67, div. A, title III][/us/pl/113/67/dA/tIII], § 305(b), Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2014.”
 
@@ -129,7 +129,7 @@
 
  __Payment of Interest Charges From Current Receipts__ 
 
-[Pub. L. 108–447, div. E, title I][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3053][/us/stat/118/3053], as amended by [Pub. L. 110–161, div. F, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2109][/us/stat/121/2109], provided in part: 
+[Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], Dec. 8, 2004, [118 Stat. 3053][/us/stat/118/3053], as amended by [Pub. L. 110–161, div. F, title I][/us/pl/110/161/dF/tI], Dec. 26, 2007, [121 Stat. 2109][/us/stat/121/2109], provided in part: 
 
 > “That in fiscal year 2005 and thereafter, notwithstanding [30 U.S.C. 191(a)][/us/usc/t30/s191/a] and [43 U.S.C. 1338][/us/usc/t43/s1338], the Secretary shall pay amounts owed to States and Indian accounts under the provisions of [30 U.S.C. 1721(b)][/us/usc/t30/s1721/b] and (d) from amounts received as current receipts from bonuses, royalties, interest collected from lessees and designees, and rentals of the public lands and the outer continental shelf under provisions of the Mineral Leasing Act ([30 U.S.C. 181][/us/usc/t30/s181] et seq.), and the Outer Continental Shelf Lands Act ([43 U.S.C. 1331][/us/usc/t43/s1331] et seq.), which are not payable to a State or the Reclamation Fund.”
 
@@ -147,19 +147,19 @@
 [/us/usc/t30/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1714
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
-[/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2455
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/104/185/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fa
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1712-1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1712-1715
-[/us/pl/104/200/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F3
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
 [/us/stat/110/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2421
-[/us/pl/113/67/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs305%2Fa
+[/us/pl/113/67/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtIII
 [/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
-[/us/pl/113/291/s3021/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fc%2F2
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3761
-[/us/pl/114/94/s32301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1741
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628
@@ -168,24 +168,24 @@
 [/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
 [/us/usc/t30/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fa
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/114/94/s32301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301%2F1
-[/us/pl/114/94/s32301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301%2F2
-[/us/pl/114/94/s32301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32301%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t26/s6621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fb
 [/us/usc/t26/s6621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fa%2F1
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
-[/us/pl/104/185/s6/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fh%2F1
-[/us/pl/104/185/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fa
-[/us/pl/104/200/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F3
-[/us/pl/104/185/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fb
-[/us/pl/104/200/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F4
-[/us/pl/104/185/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fc
-[/us/pl/104/185/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fd
-[/us/pl/104/200/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F6
-[/us/pl/104/185/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fe
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/113/67/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs305%2Fb
+[/us/pl/113/67/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtIII
 [/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs11
@@ -193,9 +193,9 @@
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3053
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtI
 [/us/stat/121/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2109
 [/us/usc/t30/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fa
 [/us/usc/t43/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1338

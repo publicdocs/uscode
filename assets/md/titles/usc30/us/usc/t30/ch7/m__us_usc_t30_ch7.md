@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_ch6.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
+[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_s321...325.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
 
 ## CHAPTER 7—LEASE OF MINERAL DEPOSITS WITHIN ACQUIRED LANDS
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_ch6.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
+[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_s321...325.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
 
 ----------
 ----------

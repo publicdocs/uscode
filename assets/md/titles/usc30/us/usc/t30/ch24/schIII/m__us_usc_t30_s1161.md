@@ -17,7 +17,7 @@
 
     In the conduct of its activities, the Project and any participating public or private persons or agencies shall place particular emphasis upon the objective of assuring that the environment and the safety of persons or property are effectively protected; and the program under subchapter I shall include such special research and development as may be necessary for the achievement of that objective.
 
-([Pub. L. 93–410, title III, § 301][/us/pl/93/410/s301], Sept. 3, 1974, [88 Stat. 1088][/us/stat/88/1088].)
+([Pub. L. 93–410, title III][/us/pl/93/410/tIII], § 301, Sept. 3, 1974, [88 Stat. 1088][/us/stat/88/1088].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/410/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs301
+[/us/pl/93/410/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtIII
 [/us/stat/88/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1088
 
 

@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs28" data-uslm-ref="/us/usc/t30/s28">28</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs28l" data-uslm-ref="/us/usc/t30/s28l">28l.</a>  </td>
 
     <td> Collection of mining law administration fees.  </td>
 

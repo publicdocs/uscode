@@ -39,7 +39,7 @@
 
         All haulage equipment acquired by an operator of a coal mine on or after one year after the operative date of this subchapter shall be equipped with automatic couplers which couple by impact and uncouple without the necessity of persons going between the ends of such equipment. All haulage equipment without automatic couplers in use in a mine on the operative date of this subchapter shall also be so equipped within four years after the operative date of this subchapter.
 
-([Pub. L. 91–173, title III, § 314][/us/pl/91/173/s314], Dec. 30, 1969, [83 Stat. 786][/us/stat/83/786].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 314, Dec. 30, 1969, [83 Stat. 786][/us/stat/83/786].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs314
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F786
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

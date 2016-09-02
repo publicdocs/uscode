@@ -67,7 +67,7 @@
 
         The Secretary of Health and Human Services is authorized to make grants to any public or private agency, institution, or organization, and operators or individuals for research and experiments to develop effective respiratory equipment.
 
-([Pub. L. 91–173, title V, § 501][/us/pl/91/173/s501], Dec. 30, 1969, [83 Stat. 798][/us/stat/83/798]; [Pub. L. 95–164, title III, § 303(a)][/us/pl/95/164/s303/a], Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 501, Dec. 30, 1969, [83 Stat. 798][/us/stat/83/798]; [Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 303(a), Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–164, § 303(a)(1)][/us/pl/95/164/s303/a/1], (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
+    1977—Subsec. (a). [Pub. L. 95–164][/us/pl/95/164], § 303(a)(1), (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
 
-    Subsec. (b). [Pub. L. 95–164, § 303(a)(1)][/us/pl/95/164/s303/a/1], (3), inserted references to mines other than coal mines, inserted “through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970” after “Secretary of Health, Education, and Welfare”, and substituted “carried out by the Secretary of the Interior in coordination with the Secretary” for “carried out by the Secretary”.
+    Subsec. (b). [Pub. L. 95–164][/us/pl/95/164], § 303(a)(1), (3), inserted references to mines other than coal mines, inserted “through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970” after “Secretary of Health, Education, and Welfare”, and substituted “carried out by the Secretary of the Interior in coordination with the Secretary” for “carried out by the Secretary”.
 
-    Subsec. (c). [Pub. L. 95–164, § 303(a)(4)][/us/pl/95/164/s303/a/4], substituted “the Secretary of the Interior and the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary and the Secretary of Health, Education, and Welfare” and “the Secretary of the Interior or the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary or the Secretary of Health, Education, and Welfare”.
+    Subsec. (c). [Pub. L. 95–164][/us/pl/95/164], § 303(a)(4), substituted “the Secretary of the Interior and the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary and the Secretary of Health, Education, and Welfare” and “the Secretary of the Interior or the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary or the Secretary of Health, Education, and Welfare”.
 
-    Subsec. (d). [Pub. L. 95–164, § 303(a)(1)][/us/pl/95/164/s303/a/1], inserted reference to mines other than coal mines.
+    Subsec. (d). [Pub. L. 95–164][/us/pl/95/164], § 303(a)(1), inserted reference to mines other than coal mines.
 
-    Subsec. (e). [Pub. L. 95–164, § 303(a)(5)][/us/pl/95/164/s303/a/5], substituted “Secretary of the Interior” for “Secretary” and “$60,000,000” for “$30,000,000”.
+    Subsec. (e). [Pub. L. 95–164][/us/pl/95/164], § 303(a)(5), substituted “Secretary of the Interior” for “Secretary” and “$60,000,000” for “$30,000,000”.
 
  __Change of Name__ 
 
@@ -108,11 +108,11 @@
 
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t30/s861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs861%2Fb
-[/us/pl/91/173/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs501
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F798
-[/us/pl/95/164/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fa
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1320
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
@@ -120,11 +120,11 @@
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/95/164/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fa%2F1
-[/us/pl/95/164/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fa%2F1
-[/us/pl/95/164/s303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fa%2F4
-[/us/pl/95/164/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fa%2F1
-[/us/pl/95/164/s303/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fa%2F5
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164

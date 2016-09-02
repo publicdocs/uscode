@@ -41,7 +41,7 @@
 
         (5) participate with appropriate Federal agencies and non-Federal entities in research to develop, improve, and test technologies for the discovery and evaluation of all forms of geothermal resources, and conduct research into the principles controlling the location, occurrence, size, temperature, energy content, producibility, and economic lifetimes of geothermal reservoirs.
 
-([Pub. L. 93–410, title I, § 103][/us/pl/93/410/s103], Sept. 3, 1974, [88 Stat. 1082][/us/stat/88/1082]; [Pub. L. 95–238, title V, § 503][/us/pl/95/238/s503], Feb. 25, 1978, [92 Stat. 86][/us/stat/92/86]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
+([Pub. L. 93–410, title I][/us/pl/93/410/tI], § 103, Sept. 3, 1974, [88 Stat. 1082][/us/stat/88/1082]; [Pub. L. 95–238, title V][/us/pl/95/238/tV], § 503, Feb. 25, 1978, [92 Stat. 86][/us/stat/92/86]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/93/410/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs103
+[/us/pl/93/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtI
 [/us/stat/88/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1082
-[/us/pl/95/238/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs503
+[/us/pl/95/238/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtV
 [/us/stat/92/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F86
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154

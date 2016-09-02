@@ -57,7 +57,7 @@
 
         The stratigraphic drilling authorized in subsection (b) shall be carried out in such a manner as to obtain information pertaining to all recoverable reserves. For the purpose of complying with subsection (a), the Secretary shall require all those authorized to conduct stratigraphic drilling pursuant to subsection (b) to supply a statement of the results of test boring of core sampling including logs of the drill holes; the thickness of the coal seams found; an analysis of the chemical properties of such coal; and an analysis of the strata layers lying above all the seams of coal. All drilling activities shall be conducted using the best current technology and practices.
 
-([Feb. 25, 1920, ch. 85, § 8A][/us/act/1920-02-25/ch85/s8A], as added [Pub. L. 94–377, § 7][/us/pl/94/377/s7], Aug. 4, 1976, [90 Stat. 1087][/us/stat/90/1087].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 8A, as added [Pub. L. 94–377][/us/pl/94/377], § 7, Aug. 4, 1976, [90 Stat. 1087][/us/stat/90/1087].)
 
  __References in Text__ 
 
@@ -74,8 +74,8 @@
 
 [/us/usc/t30/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201%2Fa%2F3
 [/us/usc/t30/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201%2Fb
-[/us/act/1920-02-25/ch85/s8A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs8A
-[/us/pl/94/377/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs7
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1087
 [/us/usc/t30/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201
 [/us/usc/t30/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs202

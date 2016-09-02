@@ -17,11 +17,11 @@
 
     The Secretary of the Interior shall promulgate rules and regulations to carry out the terms and conditions of sections 28f to 28k of this title as soon as practicable after August 10, 1993.
 
-([Pub. L. 103–66, title X, § 10106][/us/pl/103/66/s10106], Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407].)
+([Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10106, Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407].)
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
+    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381/tI], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/103/66/s10106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10106
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F407
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtI
 [/us/stat/106/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1378
 
 

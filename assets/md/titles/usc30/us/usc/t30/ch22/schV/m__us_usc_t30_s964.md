@@ -87,7 +87,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 91–173, title V, § 515][/us/pl/91/173/s515], as added [Pub. L. 109–236, § 12][/us/pl/109/236/s12], June 15, 2006, [120 Stat. 502][/us/stat/120/502].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 515, as added [Pub. L. 109–236][/us/pl/109/236], § 12, June 15, 2006, [120 Stat. 502][/us/stat/120/502].)
 
 ----------
 
@@ -96,8 +96,8 @@
 ----------
 ----------
 
-[/us/pl/91/173/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs515
-[/us/pl/109/236/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs12
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F502
 
 

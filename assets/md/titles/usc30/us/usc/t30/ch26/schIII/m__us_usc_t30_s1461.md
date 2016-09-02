@@ -31,7 +31,7 @@
 
     (7) to interfere with, delay, or prevent, by any means, the apprehension or arrest of any other person subject to this section knowing that such other person has committed any act prohibited by this section.
 
-([Pub. L. 96–283, title III, § 301][/us/pl/96/283/s301], June 28, 1980, [94 Stat. 577][/us/stat/94/577].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 301, June 28, 1980, [94 Stat. 577][/us/stat/94/577].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t30/s1428/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1428%2Fe
-[/us/pl/96/283/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs301
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F577
 
 

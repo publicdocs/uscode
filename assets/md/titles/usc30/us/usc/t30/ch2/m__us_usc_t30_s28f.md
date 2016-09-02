@@ -55,7 +55,7 @@
 
         (3) If a small miner waiver application is determined to be defective for any reason, the claimant shall have a period of 60 days after receipt of written notification of the defect or defects by the Bureau of Land Management to: (A) cure such defect or defects, or (B) pay the $100 claim maintenance fee due for such period.
 
-([Pub. L. 103–66, title X, § 10101][/us/pl/103/66/s10101], Aug. 10, 1993, [107 Stat. 405][/us/stat/107/405]; [Pub. L. 105–240, § 116][/us/pl/105/240/s116], Sept. 25, 1998, [112 Stat. 1570][/us/stat/112/1570]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–235; [Pub. L. 107–63, title I][/us/pl/107/63], (1), Nov. 5, 2001, [115 Stat. 418][/us/stat/115/418]; [Pub. L. 108–108, title I][/us/pl/108/108], (1), Nov. 10, 2003, [117 Stat. 1245][/us/stat/117/1245]; [Pub. L. 110–161, div. F, title I][/us/pl/110/161], (2), Dec. 26, 2007, [121 Stat. 2101][/us/stat/121/2101]; [Pub. L. 111–8, div. E, title I][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 704][/us/stat/123/704]; [Pub. L. 111–88, div. A, title I][/us/pl/111/88], Oct. 30, 2009, [123 Stat. 2907][/us/stat/123/2907]; [Pub. L. 112–74, div. E, title IV, § 430][/us/pl/112/74/s430], Dec. 23, 2011, [125 Stat. 1047][/us/stat/125/1047]; [Pub. L. 113–6, div. F, title IV, § 1403][/us/pl/113/6/s1403], Mar. 26, 2013, [127 Stat. 419][/us/stat/127/419].)
+([Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10101, Aug. 10, 1993, [107 Stat. 405][/us/stat/107/405]; [Pub. L. 105–240][/us/pl/105/240], § 116, Sept. 25, 1998, [112 Stat. 1570][/us/stat/112/1570]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–235; [Pub. L. 107–63, title I][/us/pl/107/63/tI], (1), Nov. 5, 2001, [115 Stat. 418][/us/stat/115/418]; [Pub. L. 108–108, title I][/us/pl/108/108/tI], (1), Nov. 10, 2003, [117 Stat. 1245][/us/stat/117/1245]; [Pub. L. 110–161, div. F, title I][/us/pl/110/161/dF/tI], (2), Dec. 26, 2007, [121 Stat. 2101][/us/stat/121/2101]; [Pub. L. 111–8, div. E, title I][/us/pl/111/8/dE/tI], Mar. 11, 2009, [123 Stat. 704][/us/stat/123/704]; [Pub. L. 111–88, div. A, title I][/us/pl/111/88/dA/tI], Oct. 30, 2009, [123 Stat. 2907][/us/stat/123/2907]; [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 430, Dec. 23, 2011, [125 Stat. 1047][/us/stat/125/1047]; [Pub. L. 113–6, div. F, title IV][/us/pl/113/6/dF/tIV], § 1403, Mar. 26, 2013, [127 Stat. 419][/us/stat/127/419].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–6, § 1403(1)][/us/pl/113/6/s1403/1], substituted “before, on, or after August 10, 1993” for “on or after August 10, 1993”.
+    2013—Subsec. (a)(1). [Pub. L. 113–6][/us/pl/113/6], § 1403(1), substituted “before, on, or after August 10, 1993” for “on or after August 10, 1993”.
 
-    Subsec. (a)(2). [Pub. L. 113–6, § 1403(2)][/us/pl/113/6/s1403/2], struck out “located” after “United States”, substituted “subsection (a)(1)” for “subsection (a)”, and inserted at end “Such claim maintenance fee shall be in lieu of the assessment work requirement contained in the Mining Law of 1872 ([30 U.S.C. 28][/us/usc/t30/s28] to 28e) and the related filing requirements contained in section 1744(a) and (c) of title 43.”
+    Subsec. (a)(2). [Pub. L. 113–6][/us/pl/113/6], § 1403(2), struck out “located” after “United States”, substituted “subsection (a)(1)” for “subsection (a)”, and inserted at end “Such claim maintenance fee shall be in lieu of the assessment work requirement contained in the Mining Law of 1872 ([30 U.S.C. 28][/us/usc/t30/s28] to 28e) and the related filing requirements contained in section 1744(a) and (c) of title 43.”
 
-    2011—Subsec. (a)(1). [Pub. L. 112–74, § 430(1)(A)][/us/pl/112/74/s430/1/A], designated existing provisions as par. (1) and substituted “The holder of each unpatented lode mining claim, mill site, or tunnel site, located pursuant to the mining laws of the United States on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in appropriations Acts, a claim maintenance fee of $100 per claim or site, respectively.” for “The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before, on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in Appropriations Acts, a claim maintenance fee of $100 per claim or site”.
+    2011—Subsec. (a)(1). [Pub. L. 112–74][/us/pl/112/74], § 430(1)(A), designated existing provisions as par. (1) and substituted “The holder of each unpatented lode mining claim, mill site, or tunnel site, located pursuant to the mining laws of the United States on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in appropriations Acts, a claim maintenance fee of $100 per claim or site, respectively.” for “The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before, on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in Appropriations Acts, a claim maintenance fee of $100 per claim or site”.
 
-    Subsec. (a)(2). [Pub. L. 112–74, § 430(1)(B)][/us/pl/112/74/s430/1/B], added par. (2).
+    Subsec. (a)(2). [Pub. L. 112–74][/us/pl/112/74], § 430(1)(B), added par. (2).
 
-    Subsec. (b). [Pub. L. 112–74, § 430(2)][/us/pl/112/74/s430/2], substituted “The claim main tenance fee under subsection (a) shall be paid for the year in which the location is made, at the time the location notice is recorded with the Bureau of Land Management.” for “The claim maintenance fee payable pursuant to subsection (a) of this section for any assessment year shall be paid before the commencement of the assessment year, except that for the initial assessment year in which the location is made, the locator shall pay the claim maintenance fee at the time the location notice is recorded with the Bureau of Land Management.”
+    Subsec. (b). [Pub. L. 112–74][/us/pl/112/74], § 430(2), substituted “The claim main tenance fee under subsection (a) shall be paid for the year in which the location is made, at the time the location notice is recorded with the Bureau of Land Management.” for “The claim maintenance fee payable pursuant to subsection (a) of this section for any assessment year shall be paid before the commencement of the assessment year, except that for the initial assessment year in which the location is made, the locator shall pay the claim maintenance fee at the time the location notice is recorded with the Bureau of Land Management.”
 
     2009—Subsec. (a). [Pub. L. 111–88][/us/pl/111/88] substituted “, to the extent provided in advance in Appropriations Acts,” for “for years 2004 through 2008,”. See Codification note above.
 
@@ -105,7 +105,7 @@
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
+    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381/tI], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
 
 ----------
 
@@ -122,25 +122,25 @@
 [/us/usc/t30/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs242
 [/us/usc/t30/s28–28e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28%E2%80%9328e
 [/us/usc/t26/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs152
-[/us/pl/103/66/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10101
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F405
-[/us/pl/105/240/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F240%2Fs116
+[/us/pl/105/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F240
 [/us/stat/112/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1570
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F418
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1245
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtI
 [/us/stat/121/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2101
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtI
 [/us/stat/123/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F704
-[/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
+[/us/pl/111/88/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtI
 [/us/stat/123/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2907
-[/us/pl/112/74/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs430
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1047
-[/us/pl/113/6/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1403
+[/us/pl/113/6/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtIV
 [/us/stat/127/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F419
 [/us/usc/t30/s28–28e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28%E2%80%9328e
 [/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
@@ -163,12 +163,12 @@
 [/us/pl/105/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F240
 [/us/usc/t30/s28f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28f
 [/us/pl/103/66/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10101
-[/us/pl/113/6/s1403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1403%2F1
-[/us/pl/113/6/s1403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1403%2F2
+[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/usc/t30/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28
-[/us/pl/112/74/s430/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs430%2F1%2FA
-[/us/pl/112/74/s430/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs430%2F1%2FB
-[/us/pl/112/74/s430/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs430%2F2
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
@@ -178,7 +178,7 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F240
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtI
 [/us/stat/106/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1378
 
 

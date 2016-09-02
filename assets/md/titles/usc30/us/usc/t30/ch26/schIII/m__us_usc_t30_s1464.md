@@ -47,7 +47,7 @@
 
         Proprietary and privileged information seized or maintained under this subchapter concerning a person or vessel engaged in exploration or commercial recovery shall not be made available for general or public use or inspection. The Administrator and the Secretary of the department in which the Coast Guard is operating shall issue regulations to insure the confidentiality of privileged and proprietary information.
 
-([Pub. L. 96–283, title III, § 304][/us/pl/96/283/s304], June 28, 1980, [94 Stat. 578][/us/stat/94/578].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 304, June 28, 1980, [94 Stat. 578][/us/stat/94/578].)
 
  __Transfer of Functions__ 
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t30/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1461
 [/us/usc/t30/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1463
-[/us/pl/96/283/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs304
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F578
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

@@ -69,11 +69,11 @@
 
         The provisions of this subchapter relating to State and Federal programs, permits, bonds, inspections and enforcement, public review, and administrative and judicial review shall be applicable to surface operations and surface impacts incident to an underground coal mine with such modifications to the permit application requirements, permit approval or denial procedures, and bond requirements as are necessary to accommodate the distinct difference between surface and underground coal mining. The Secretary shall promulgate such modifications in accordance with the rulemaking procedure established in [section 1251 of this title][/us/usc/t30/s1251].
 
-([Pub. L. 95–87, title V, § 516][/us/pl/95/87/s516], Aug. 3, 1977, [91 Stat. 495][/us/stat/91/495].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 516, Aug. 3, 1977, [91 Stat. 495][/us/stat/91/495].)
 
  __References in Text__ 
 
-    The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by [Pub. L. 95–164, title I, § 101][/us/pl/95/164/s101], Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
+    The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by [Pub. L. 95–164, title I][/us/pl/95/164/tI], § 101, Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
 
 ----------
 
@@ -87,11 +87,11 @@
 [/us/usc/t30/s1265/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Ff
 [/us/usc/t30/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265
 [/us/usc/t30/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1251
-[/us/pl/95/87/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs516
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F495
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
-[/us/pl/95/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs101
+[/us/pl/95/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtI
 [/us/stat/91/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1290
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 

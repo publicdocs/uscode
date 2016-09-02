@@ -31,7 +31,7 @@
 
     (7) encourage Federal agencies to facilitate availability and development of domestic resources to meet critical materials needs.
 
-([Pub. L. 96–479, § 3][/us/pl/96/479/s3], Oct. 21, 1980, [94 Stat. 2305][/us/stat/94/2305].)
+([Pub. L. 96–479][/us/pl/96/479], § 3, Oct. 21, 1980, [94 Stat. 2305][/us/stat/94/2305].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
-[/us/pl/96/479/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479%2Fs3
+[/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2305
 [/us/pl/94/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282
 [/us/stat/90/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F459

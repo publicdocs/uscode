@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4f" data-uslm-ref="/us/usc/t30/s4f">4f</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4" data-uslm-ref="/us/usc/t30/s4">4</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4f" data-uslm-ref="/us/usc/t30/s4f">4f</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4o" data-uslm-ref="/us/usc/t30/s4o">4o.</a>  </td>
 
     <td> Transferred.  </td>
 

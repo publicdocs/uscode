@@ -17,7 +17,7 @@
 
     If, in the judgment of the Secretary of the Interior, the public interest will be subserved thereby, lessees holding under lease areas not exceeding the maximum permitted under this chapter may consolidate their leases through the surrender of the original leases and the inclusion of such areas in a new lease of not to exceed two thousand five hundred and sixty acres of contiguous lands.
 
-([Feb. 25, 1920, ch. 85, § 5][/us/act/1920-02-25/ch85/s5], [41 Stat. 439][/us/stat/41/439].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 5, [41 Stat. 439][/us/stat/41/439].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs5
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F439
 
 

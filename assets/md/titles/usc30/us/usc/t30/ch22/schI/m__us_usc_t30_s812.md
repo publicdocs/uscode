@@ -63,7 +63,7 @@
 
         Advisory committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing committee business, entitled to receive compensation at a rate fixed by the appropriate Secretary but not in excess of the maximum rate of pay for grade GS–18 as provided in the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], and shall, notwithstanding the limitations of sections 5703 and 5704 of title 5, be fully reimbursed for travel, subsistence, and related expenses.
 
-([Pub. L. 91–173, title I, § 102][/us/pl/91/173/s102], Dec. 30, 1969, [83 Stat. 747][/us/stat/83/747]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1295][/us/stat/91/1295]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 102, Dec. 30, 1969, [83 Stat. 747][/us/stat/83/747]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1295][/us/stat/91/1295]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __References in Text__ 
 
@@ -111,15 +111,15 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/91/173/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs102
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F747
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1295
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

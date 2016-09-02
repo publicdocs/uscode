@@ -41,7 +41,7 @@
 
         No funds made available under this section shall be applied to the acquisition by purchase or lease of any land or interests therein, or the rental, purchase, construction, preservation, or repair of any building.
 
-([Pub. L. 98–409, § 2][/us/pl/98/409/s2], Aug. 29, 1984, [98 Stat. 1537][/us/stat/98/1537]; [Pub. L. 100–483, § 5][/us/pl/100/483/s5], Oct. 12, 1988, [102 Stat. 2339][/us/stat/102/2339]; [Pub. L. 104–312, § 1(a)][/us/pl/104/312/s1/a], Oct. 19, 1996, [110 Stat. 3819][/us/stat/110/3819].)
+([Pub. L. 98–409][/us/pl/98/409], § 2, Aug. 29, 1984, [98 Stat. 1537][/us/stat/98/1537]; [Pub. L. 100–483][/us/pl/100/483], § 5, Oct. 12, 1988, [102 Stat. 2339][/us/stat/102/2339]; [Pub. L. 104–312][/us/pl/104/312], § 1(a), Oct. 19, 1996, [110 Stat. 3819][/us/stat/110/3819].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1222, [Pub. L. 95–87, title III, § 302][/us/pl/95/87/s302], Aug. 3, 1977, [91 Stat. 452][/us/stat/91/452], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1222, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 302, Aug. 3, 1977, [91 Stat. 452][/us/stat/91/452], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
  __Amendments__ 
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/98/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs2
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1537
-[/us/pl/100/483/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs5
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2339
-[/us/pl/104/312/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F312%2Fs1%2Fa
+[/us/pl/104/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F312
 [/us/stat/110/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3819
-[/us/pl/95/87/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs302
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F452
 [/us/pl/104/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F312
 [/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483

@@ -35,7 +35,7 @@
 
         Where the same lands are being utilized for mining operations and Leasing Act operations, then upon request of the party conducting either of said operations, the party conducting the other of said operations shall furnish to and at the expense of such requesting party copies of any information which said other party may have, as to the situs of any improvements, workings, or facilities theretofore made upon such lands, and upon like request, shall permit such requesting party, at the risk of such requesting party, to have access at reasonable times to any such improvements, workings, or facilities for the purpose of surveying and checking or determining the situs thereof. If damage to or material interference with a party’s improvements, workings, facilities, or with the utilization thereof shall result from such party’s failure, after request, to so furnish to the requesting party such information or from denial of such access, such failure or denial shall relieve the requesting party of any liability for the damage or interference resulting by reason of such failure or denial. Failure of a party to furnish requested information or access shall not impose upon such party any liability to the requesting party other than for such costs of court and attorney’s fees as may be allowed to the requesting party in enforcing by court action the obligations of this section as to the furnishing of information and access. The obligation hereunder of any party to furnish requested information shall be limited to map and survey information then available to such party with respect to the situs of improvements, workings, and facilities and the furnishing thereof shall not be deemed to constitute any representation as to the accuracy of such information.
 
-([Aug. 13, 1954, ch. 730, § 6][/us/act/1954-08-13/ch730/s6], [68 Stat. 710][/us/stat/68/710].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 6, [68 Stat. 710][/us/stat/68/710].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch730/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs6
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F710
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, acting through the United States Bureau of Mines, may, in his discretion, create and establish an advisory committee composed of not more than six members to exercise consultative functions, when required by the Secretary, in connection with the administration of this chapter. The said committee shall be composed of representatives of lignite coal-mine owners, of representatives of lignite coal-mine workers and the public in equal number. The members of said committee shall be appointed by the Secretary of the Interior without regard to the civil-service laws.
 
-([Mar. 25, 1948, ch. 146, § 4][/us/act/1948-03-25/ch146/s4], [62 Stat. 85][/us/stat/62/85].)
+([Mar. 25, 1948, ch. 146][/us/act/1948-03-25/ch146], § 4, [62 Stat. 85][/us/stat/62/85].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1948-03-25/ch146/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146%2Fs4
+[/us/act/1948-03-25/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146
 [/us/stat/62/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F85
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

@@ -41,7 +41,7 @@
 
         Nothing in subsection (c) shall be deemed to affect the applicability of subsection (a) in the case of a claim where the presumptions provided for therein are inapplicable.
 
-([Pub. L. 91–173, title IV, § 411][/us/pl/91/173/s411], Dec. 30, 1969, [83 Stat. 793][/us/stat/83/793]; [Pub. L. 92–303][/us/pl/92/303], §§ 3(a), 4(b)(1), (3), (c), (d), May 19, 1972, [86 Stat. 153][/us/stat/86/153], 154; [Pub. L. 95–239, § 3(a)][/us/pl/95/239/s3/a], Mar. 1, 1978, [92 Stat. 96][/us/stat/92/96]; [Pub. L. 97–119, title II][/us/pl/97/119], §§ 202(b), 203(a)(5), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], 1644; [Pub. L. 103–296, title I, § 108(i)(2)][/us/pl/103/296/s108/i/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925]; [Pub. L. 111–148, title I, § 1556(a)][/us/pl/111/148/s1556/a], Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 411, Dec. 30, 1969, [83 Stat. 793][/us/stat/83/793]; [Pub. L. 92–303][/us/pl/92/303], §§ 3(a), 4(b)(1), (3), (c), (d), May 19, 1972, [86 Stat. 153][/us/stat/86/153], 154; [Pub. L. 95–239][/us/pl/95/239], § 3(a), Mar. 1, 1978, [92 Stat. 96][/us/stat/92/96]; [Pub. L. 97–119, title II][/us/pl/97/119/tII], §§ 202(b), 203(a)(5), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], 1644; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(i)(2), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275][/us/pl/107/275], § 2(a), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925]; [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1556(a), Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260].)
 
  __References in Text__ 
 
@@ -55,27 +55,27 @@
 
     1994—Subsecs. (a), (b), (c)(4), (5). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-    1981—Subsec. (a). [Pub. L. 97–119, § 203(a)(5)][/us/pl/97/119/s203/a/5], inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or”.
+    1981—Subsec. (a). [Pub. L. 97–119][/us/pl/97/119], § 203(a)(5), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or”.
 
-    Subsec. (c)(2), (4). [Pub. L. 97–119, § 202(b)(1)][/us/pl/97/119/s202/b/1], inserted provision that this paragraph not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
+    Subsec. (c)(2), (4). [Pub. L. 97–119][/us/pl/97/119], § 202(b)(1), inserted provision that this paragraph not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 
-    Subsec. (c)(5). [Pub. L. 97–119, § 202(b)(2)][/us/pl/97/119/s202/b/2], inserted provision that this paragraph not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
+    Subsec. (c)(5). [Pub. L. 97–119][/us/pl/97/119], § 202(b)(2), inserted provision that this paragraph not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
 
     1978—Subsec. (c). [Pub. L. 95–239][/us/pl/95/239] capitalized and repunctuated the existing paragraphs to change their construction from that of uncapitalized clauses to complete sentences, and added par. (5).
 
-    1972—Subsec. (a). [Pub. L. 92–303, § 4(b)(1)][/us/pl/92/303/s4/b/1], substituted “pneumoconiosis or who at the time of his death was totally disabled by pneumoconiosis” for “pneumoconiosis”.
+    1972—Subsec. (a). [Pub. L. 92–303][/us/pl/92/303], § 4(b)(1), substituted “pneumoconiosis or who at the time of his death was totally disabled by pneumoconiosis” for “pneumoconiosis”.
 
-    Subsec. (b). [Pub. L. 92–303, § 4(d)][/us/pl/92/303/s4/d], inserted provision for the promulgation and publication in the Federal Register of final regulations and their amendments and for time limits for publication.
+    Subsec. (b). [Pub. L. 92–303][/us/pl/92/303], § 4(d), inserted provision for the promulgation and publication in the Federal Register of final regulations and their amendments and for time limits for publication.
 
-    Subsec. (c)(1), (2). [Pub. L. 92–303, § 3(a)][/us/pl/92/303/s3/a], substituted “coal mines” for “underground coal mines”.
+    Subsec. (c)(1), (2). [Pub. L. 92–303][/us/pl/92/303], § 3(a), substituted “coal mines” for “underground coal mines”.
 
-    Subsec. (c)(3). [Pub. L. 92–303, § 4(b)(3)][/us/pl/92/303/s4/b/3], inserted presumption that at the time of death the miner was totally disabled by pneumoconiosis.
+    Subsec. (c)(3). [Pub. L. 92–303][/us/pl/92/303], § 4(b)(3), inserted presumption that at the time of death the miner was totally disabled by pneumoconiosis.
 
-    Subsec. (c)(4). [Pub. L. 92–303, § 4(c)][/us/pl/92/303/s4/c], added par. (4).
+    Subsec. (c)(4). [Pub. L. 92–303][/us/pl/92/303], § 4(c), added par. (4).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title I, § 1556(c)][/us/pl/111/148/s1556/c], Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1556(c), Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 932 of this title][/us/usc/t30/s932]\] shall apply with respect to claims filed under part B or part C of the Black Lung Benefits Act ([30 U.S.C. 921][/us/usc/t30/s921] et seq., 931 et seq.) after January 1, 2005, that are pending on or after the date of enactment of this Act \[Mar. 23, 2010\].”
 
@@ -99,13 +99,13 @@
 
     Amendment by [section 3(a) of Pub. L. 92–303][/us/pl/92/303/s3/a] effective Dec. 30, 1969, see [section 3(c) of Pub. L. 92–303][/us/pl/92/303/s3/c], set out as a note under [section 901 of this title][/us/usc/t30/s901].
 
-[Pub. L. 92–303, § 4(g)][/us/pl/92/303/s4/g], May 19, 1972, [86 Stat. 154][/us/stat/86/154], provided that: 
+[Pub. L. 92–303][/us/pl/92/303], § 4(g), May 19, 1972, [86 Stat. 154][/us/stat/86/154], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 901, 902, 923, and 931 of this title\] shall be effective as of December 30, 1969.”
 
  __Transitional Provisions__ 
 
-[Pub. L. 107–275, § 3][/us/pl/107/275/s3], Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926], provided that:
+[Pub. L. 107–275][/us/pl/107/275], § 3, Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926], provided that:
 
 >     “(a)  __Applicability__  __.—__ 
 
@@ -187,35 +187,35 @@
 ----------
 
 [/us/usc/t30/s922/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs922%2Fa%2F2
-[/us/pl/91/173/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs411
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F793
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F153
-[/us/pl/95/239/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs3%2Fa
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F96
-[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtII
 [/us/stat/95/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1643
-[/us/pl/103/296/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fi%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1925
-[/us/pl/111/148/s1556/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1556%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F260
 [/us/pl/97/119/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs206%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/97/119/s203/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs203%2Fa%2F5
-[/us/pl/97/119/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs202%2Fb%2F1
-[/us/pl/97/119/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs202%2Fb%2F2
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
-[/us/pl/92/303/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fb%2F1
-[/us/pl/92/303/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fd
-[/us/pl/92/303/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs3%2Fa
-[/us/pl/92/303/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fb%2F3
-[/us/pl/92/303/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fc
-[/us/pl/111/148/s1556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1556%2Fc
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F260
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
 [/us/usc/t30/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921
@@ -234,9 +234,9 @@
 [/us/pl/92/303/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs3%2Fa
 [/us/pl/92/303/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs3%2Fc
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
-[/us/pl/92/303/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fg
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F154
-[/us/pl/107/275/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs3
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1926
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
 [/us/usc/t30/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921

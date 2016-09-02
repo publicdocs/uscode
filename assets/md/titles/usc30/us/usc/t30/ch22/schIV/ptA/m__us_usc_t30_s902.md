@@ -89,51 +89,51 @@
 
         (2) in which (A) the claimant was notified by the Department of Labor of an administrative or informal denial more than 1 year prior to March 1, 1978, and did not, within 1 year from the date of notification of such denial, request a hearing, present additional evidence or indicate an intention to present additional evidence, or (B) the claim was denied under the law in effect prior to March 1, 1978, following a formal hearing or administrative or judicial review proceeding.
 
-([Pub. L. 91–173, title IV, § 402][/us/pl/91/173/s402], Dec. 30, 1969, [83 Stat. 792][/us/stat/83/792]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(2)–(4), 3(b), 4(a), May 19, 1972, [86 Stat. 151–153][/us/stat/86/151-153]; [Pub. L. 95–239, § 2][/us/pl/95/239/s2], Mar. 1, 1978, [92 Stat. 95][/us/stat/92/95]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–119, title I, § 104(b)(1)][/us/pl/97/119/s104/b/1], title II, § 205(b), Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639], 1645; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I, § 108(i)(1)][/us/pl/103/296/s108/i/1], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(b)(1)][/us/pl/107/275/s2/b/1], Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 402, Dec. 30, 1969, [83 Stat. 792][/us/stat/83/792]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(2)–(4), 3(b), 4(a), May 19, 1972, [86 Stat. 151–153][/us/stat/86/151-153]; [Pub. L. 95–239][/us/pl/95/239], § 2, Mar. 1, 1978, [92 Stat. 95][/us/stat/92/95]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 104(b)(1), title II, § 205(b), Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639], 1645; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(i)(1), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275][/us/pl/107/275], § 2(b)(1), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
 
  __References in Text__ 
 
-    Section 416(c)(1), (2), (3), (4), or (5) of title 42, referred to in subsec. (e), was redesignated section 416(c)(1)(A), (B), (C), (D), and (E) by [Pub. L. 108–203, title IV, § 414(a)(2)][/us/pl/108/203/s414/a/2], (4), Mar. 2, 2004, [118 Stat. 529][/us/stat/118/529].
+    Section 416(c)(1), (2), (3), (4), or (5) of title 42, referred to in subsec. (e), was redesignated section 416(c)(1)(A), (B), (C), (D), and (E) by [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 414(a)(2), (4), Mar. 2, 2004, [118 Stat. 529][/us/stat/118/529].
 
-    [Section 945 of this title][/us/usc/t30/s945], referred to in subsec. (f)(2)(A), (B), was repealed by [Pub. L. 107–275, § 2(c)(1)][/us/pl/107/275/s2/c/1], Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926].
+    [Section 945 of this title][/us/usc/t30/s945], referred to in subsec. (f)(2)(A), (B), was repealed by [Pub. L. 107–275][/us/pl/107/275], § 2(c)(1), Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926].
 
  __Amendments__ 
 
-    2002—Subsec. (c). [Pub. L. 107–275, § 2(b)(1)(A)][/us/pl/107/275/s2/b/1/A], substituted “, except where expressly otherwise provided,” for “where used in part C”.
+    2002—Subsec. (c). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(1)(A), substituted “, except where expressly otherwise provided,” for “where used in part C”.
 
-    Subsec. (f)(1). [Pub. L. 107–275, § 2(b)(1)(B)][/us/pl/107/275/s2/b/1/B], inserted “, which were in effect on November 2, 2002,” after “Secretary of Health and Human Services”.
+    Subsec. (f)(1). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(1)(B), inserted “, which were in effect on November 2, 2002,” after “Secretary of Health and Human Services”.
 
-    Subsec. (f)(2)(A). [Pub. L. 107–275, § 2(b)(1)(C)(ii)][/us/pl/107/275/s2/b/1/C/ii], struck out comma after “Secretary of Labor”.
+    Subsec. (f)(2)(A). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(1)(C)(ii), struck out comma after “Secretary of Labor”.
 
-    [Pub. L. 107–275, § 2(b)(1)(C)(i)][/us/pl/107/275/s2/b/1/C/i], substituted “arising under part B of this subchapter” for “which is subject to review by the Secretary of Health and Human Services,”.
+    [Pub. L. 107–275][/us/pl/107/275], § 2(b)(1)(C)(i), substituted “arising under part B of this subchapter” for “which is subject to review by the Secretary of Health and Human Services,”.
 
-    Subsec. (i)(1). [Pub. L. 107–275, § 2(b)(1)(D)][/us/pl/107/275/s2/b/1/D], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “denied by the Social Security Administration; or”.
+    Subsec. (i)(1). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(1)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “denied by the Social Security Administration; or”.
 
     1994—Subsec. (c). [Pub. L. 103–296][/us/pl/103/296] substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
 
     1986—Subsecs. (h), (i). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1981—Subsec. (h). [Pub. L. 97–119, § 104(b)(1)][/us/pl/97/119/s104/b/1], substituted “by [section 9501 of title 26][/us/usc/t26/s9501]” for “in [section 934a(a)(1) of this title][/us/usc/t30/s934a/a/1]”.
+    1981—Subsec. (h). [Pub. L. 97–119][/us/pl/97/119], § 104(b)(1), substituted “by [section 9501 of title 26][/us/usc/t26/s9501]” for “in [section 934a(a)(1) of this title][/us/usc/t30/s934a/a/1]”.
 
-    Subsec. (i). [Pub. L. 97–119, § 205(b)][/us/pl/97/119/s205/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 97–119][/us/pl/97/119], § 205(b), added subsec. (i).
 
-    1978—Subsec. (b). [Pub. L. 95–239, § 2(a)][/us/pl/95/239/s2/a], substituted “a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment” for “a chronic dust disease of the lung arising out of employment in a coal mine”.
+    1978—Subsec. (b). [Pub. L. 95–239][/us/pl/95/239], § 2(a), substituted “a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment” for “a chronic dust disease of the lung arising out of employment in a coal mine”.
 
-    Subsec. (d). [Pub. L. 95–239, § 2(b)][/us/pl/95/239/s2/b], substituted “any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal” for “any individual who is or was employed in a coal mine” and inserted provisions that extended to definition of the term “miner” so as to include also an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent that such individual was exposed to coal dust as a result of such employment.
+    Subsec. (d). [Pub. L. 95–239][/us/pl/95/239], § 2(b), substituted “any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal” for “any individual who is or was employed in a coal mine” and inserted provisions that extended to definition of the term “miner” so as to include also an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent that such individual was exposed to coal dust as a result of such employment.
 
-    Subsec. (f). [Pub. L. 95–239, § 2(c)][/us/pl/95/239/s2/c], designated existing provisions as pars. (1)(A) and (1)(C), inserted references in the provisions preceding par. (1)(A) to regulations promulgated by the Secretary of Labor for claims under part C of this subchapter and to the relevant provisions of subsecs. (b) and (d) of [section 923 of this title][/us/usc/t30/s923], and added pars. (1)(B), (1)(D), and (2).
+    Subsec. (f). [Pub. L. 95–239][/us/pl/95/239], § 2(c), designated existing provisions as pars. (1)(A) and (1)(C), inserted references in the provisions preceding par. (1)(A) to regulations promulgated by the Secretary of Labor for claims under part C of this subchapter and to the relevant provisions of subsecs. (b) and (d) of [section 923 of this title][/us/usc/t30/s923], and added pars. (1)(B), (1)(D), and (2).
 
-    Subsec. (h). [Pub. L. 95–239, § 2(d)][/us/pl/95/239/s2/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–239][/us/pl/95/239], § 2(d), added subsec. (h).
 
-    1972—Subsec. (a). [Pub. L. 92–303, § 1(c)(2)][/us/pl/92/303/s1/c/2], expanded definition of “dependent” to include children and wife without reference to [section 8110 of title 5][/us/usc/t5/s8110].
+    1972—Subsec. (a). [Pub. L. 92–303][/us/pl/92/303], § 1(c)(2), expanded definition of “dependent” to include children and wife without reference to [section 8110 of title 5][/us/usc/t5/s8110].
 
-    Subsecs. (b), (d). [Pub. L. 92–303, § 3(b)][/us/pl/92/303/s3/b], substituted “a coal mine” for “an underground coal mine”.
+    Subsecs. (b), (d). [Pub. L. 92–303][/us/pl/92/303], § 3(b), substituted “a coal mine” for “an underground coal mine”.
 
-    Subsec. (e). [Pub. L. 92–303, § 1(c)(3)][/us/pl/92/303/s1/c/3], expanded definition of “widow” by reference to title 42 and provided procedure for the determination of the status.
+    Subsec. (e). [Pub. L. 92–303][/us/pl/92/303], § 1(c)(3), expanded definition of “widow” by reference to title 42 and provided procedure for the determination of the status.
 
-    Subsec. (f). [Pub. L. 92–303, § 4(a)][/us/pl/92/303/s4/a], expanded definition of “total disability” to include a miner prevented from engaging in gainful employment by pneumoconiosis.
+    Subsec. (f). [Pub. L. 92–303][/us/pl/92/303], § 4(a), expanded definition of “total disability” to include a miner prevented from engaging in gainful employment by pneumoconiosis.
 
-    Subsec. (g). [Pub. L. 92–303, § 1(c)(4)][/us/pl/92/303/s1/c/4], added subsec. (g).
+    Subsec. (g). [Pub. L. 92–303][/us/pl/92/303], § 1(c)(4), added subsec. (g).
 
  __Change of Name__ 
 
@@ -141,7 +141,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–275, § 4][/us/pl/107/275/s4], Nov. 2, 2002, [116 Stat. 1928][/us/stat/116/1928], provided that: 
+[Pub. L. 107–275][/us/pl/107/275], § 4, Nov. 2, 2002, [116 Stat. 1928][/us/stat/116/1928], provided that: 
 
 > “This Act \[amending this section and sections 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 801 and 921 of this title\], and the amendments made by this Act, shall take effect 90 days after the date of enactment of this Act \[Nov. 2, 2002\].”
 
@@ -184,52 +184,52 @@
 [/us/usc/t26/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
 [/us/usc/t26/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501
-[/us/pl/91/173/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs402
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F792
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/151-153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F151-153
-[/us/pl/95/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs2
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F95
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/119/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fb%2F1
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1639
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/296/s108/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fi%2F1
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/107/275/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F1
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1925
-[/us/pl/108/203/s414/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs414%2Fa%2F2
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F529
 [/us/usc/t30/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs945
-[/us/pl/107/275/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fc%2F1
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1926
-[/us/pl/107/275/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F1%2FA
-[/us/pl/107/275/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F1%2FB
-[/us/pl/107/275/s2/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F1%2FC%2Fii
-[/us/pl/107/275/s2/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F1%2FC%2Fi
-[/us/pl/107/275/s2/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F1%2FD
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/119/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fb%2F1
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
 [/us/usc/t26/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501
 [/us/usc/t30/s934a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs934a%2Fa%2F1
-[/us/pl/97/119/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs205%2Fb
-[/us/pl/95/239/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs2%2Fa
-[/us/pl/95/239/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs2%2Fb
-[/us/pl/95/239/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs2%2Fc
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/usc/t30/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs923
-[/us/pl/95/239/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs2%2Fd
-[/us/pl/92/303/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fc%2F2
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/usc/t5/s8110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8110
-[/us/pl/92/303/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs3%2Fb
-[/us/pl/92/303/s1/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fc%2F3
-[/us/pl/92/303/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fa
-[/us/pl/92/303/s1/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fc%2F4
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/107/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs4
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1928
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa

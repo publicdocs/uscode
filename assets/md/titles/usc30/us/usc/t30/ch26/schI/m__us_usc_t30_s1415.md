@@ -61,11 +61,11 @@
 
         Prior to making a determination to issue, transfer, modify, or renew a license or permit under this section, the Administrator shall consult with any affected Regional Fishery Management Council established pursuant to [section 1852 of title 16][/us/usc/t16/s1852], if the activities undertaken pursuant to such license or permit could adversely affect any fishery within the Fishery Conservation Zone, or any anadromous species or Continental Shelf fishery resource subject to the exclusive management authority of the United States beyond such zone.
 
-([Pub. L. 96–283, title I, § 105][/us/pl/96/283/s105], June 28, 1980, [94 Stat. 563][/us/stat/94/563]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 105, June 28, 1980, [94 Stat. 563][/us/stat/94/563]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 
  __References in Text__ 
 
-    The Fishery Conservation Zone, referred to in subsec. (d), probably means the fishery conservation zone established by [section 1811 of Title 16][/us/usc/t16/s1811], Conservation, which as amended generally by [Pub. L. 99–659, title I, § 101(b)][/us/pl/99/659/s101/b], Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706], relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in [section 1802 of Title 16][/us/usc/t16/s1802].
+    The Fishery Conservation Zone, referred to in subsec. (d), probably means the fishery conservation zone established by [section 1811 of Title 16][/us/usc/t16/s1811], Conservation, which as amended generally by [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(b), Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706], relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in [section 1802 of Title 16][/us/usc/t16/s1802].
 
  __Amendments__ 
 
@@ -75,11 +75,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009–41][/us/stat/110/3009-41], provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009–41][/us/stat/110/3009-41], provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 ----------
 
@@ -93,23 +93,23 @@
 [/us/usc/t30/s1419/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1419%2Fd
 [/us/usc/t30/s1419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1419%2Fb
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/96/283/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs105
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F563
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1811
-[/us/pl/99/659/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fb
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3706
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-41
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 
 

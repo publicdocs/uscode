@@ -17,7 +17,7 @@
 
     No loan guaranties shall be made, or interest assistance contract entered into, pursuant to this subchapter, after the expiration of fiscal year 1993.
 
-([Pub. L. 93–410, title II, § 203][/us/pl/93/410/s203], Sept. 3, 1974, [88 Stat. 1087][/us/stat/88/1087]; [Pub. L. 96–294, title VI, § 641(2)][/us/pl/96/294/s641/2], June 30, 1980, [94 Stat. 769][/us/stat/94/769]; [Pub. L. 102–558, title III, § 301][/us/pl/102/558/s301], Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224].)
+([Pub. L. 93–410, title II][/us/pl/93/410/tII], § 203, Sept. 3, 1974, [88 Stat. 1087][/us/stat/88/1087]; [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 641(2), June 30, 1980, [94 Stat. 769][/us/stat/94/769]; [Pub. L. 102–558, title III][/us/pl/102/558/tIII], § 301, Oct. 28, 1992, [106 Stat. 4224][/us/stat/106/4224].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/93/410/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs203
+[/us/pl/93/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtII
 [/us/stat/88/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1087
-[/us/pl/96/294/s641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs641%2F2
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F769
-[/us/pl/102/558/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs301
+[/us/pl/102/558/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2FtIII
 [/us/stat/106/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4224
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294

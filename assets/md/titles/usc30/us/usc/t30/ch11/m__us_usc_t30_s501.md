@@ -35,7 +35,7 @@
 
         Any withdrawal or reservation made after the original location of such mining claim affecting land covered by such mining claim is modified and amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States, which, subsequent to July 31, 1939, and prior to the date of such withdrawal, were subject to location under the mining laws of the United States.
 
-([Aug. 12, 1953, ch. 405, § 1][/us/act/1953-08-12/ch405/s1], [67 Stat. 539][/us/stat/67/539].)
+([Aug. 12, 1953, ch. 405][/us/act/1953-08-12/ch405], § 1, [67 Stat. 539][/us/stat/67/539].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-12/ch405/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405%2Fs1
+[/us/act/1953-08-12/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405
 [/us/stat/67/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F539
 
 

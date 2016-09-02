@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall constitute an express or implied claim or denial on the part of the Federal Government as to its exemption from State water laws.
 
-([Pub. L. 91–581, § 22][/us/pl/91/581/s22], Dec. 24, 1970, [84 Stat. 1573][/us/stat/84/1573]; [Pub. L. 109–58, title II, § 236(20)][/us/pl/109/58/s236/20], Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
+([Pub. L. 91–581][/us/pl/91/581], § 22, Dec. 24, 1970, [84 Stat. 1573][/us/stat/84/1573]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(20), Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs22
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1573
-[/us/pl/109/58/s236/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F20
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F673
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

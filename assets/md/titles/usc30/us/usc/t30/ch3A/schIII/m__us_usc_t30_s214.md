@@ -17,7 +17,7 @@
 
     The holder of any lease or permit issued under the provisions of sections 211 to 214 of this title shall have the right to use so much of the surface of unappropriated and unentered public lands not a part of his lease or permit, not exceeding eighty acres in area, as may be determined by the Secretary to be necessary or convenient for the extraction, treatment, and removal of the mineral deposits, but this provision shall not be applicable to national forest lands.
 
-([Feb. 25, 1920, ch. 85, § 12][/us/act/1920-02-25/ch85/s12], [41 Stat. 441][/us/stat/41/441]; [June 3, 1948, ch. 379, § 5][/us/act/1948-06-03/ch379/s5], [62 Stat. 291][/us/stat/62/291]; [Pub. L. 86–391, § 1(b)][/us/pl/86/391/s1/b], Mar. 18, 1960, [74 Stat. 8][/us/stat/74/8].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 12, [41 Stat. 441][/us/stat/41/441]; [June 3, 1948, ch. 379][/us/act/1948-06-03/ch379], § 5, [62 Stat. 291][/us/stat/62/291]; [Pub. L. 86–391][/us/pl/86/391], § 1(b), Mar. 18, 1960, [74 Stat. 8][/us/stat/74/8].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs12
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F441
-[/us/act/1948-06-03/ch379/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379%2Fs5
+[/us/act/1948-06-03/ch379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379
 [/us/stat/62/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F291
-[/us/pl/86/391/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391%2Fs1%2Fb
+[/us/pl/86/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391
 [/us/stat/74/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F8
 [/us/pl/86/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391
 

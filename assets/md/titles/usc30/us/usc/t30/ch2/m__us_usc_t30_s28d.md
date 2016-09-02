@@ -17,7 +17,7 @@
 
     All deferred assessment work shall be performed not later than the end of the assessment year next subsequent to the removal or cessation of the causes for deferment or the expiration of any deferments granted under sections 28b to 28e of this title and shall be in addition to the annual assessment work required by law in such year.
 
-([June 21, 1949, ch. 232, § 3][/us/act/1949-06-21/ch232/s3], [63 Stat. 215][/us/stat/63/215].)
+([June 21, 1949, ch. 232][/us/act/1949-06-21/ch232], § 3, [63 Stat. 215][/us/stat/63/215].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-06-21/ch232/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-21%2Fch232%2Fs3
+[/us/act/1949-06-21/ch232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-21%2Fch232
 [/us/stat/63/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F215
 
 

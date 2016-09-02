@@ -17,7 +17,7 @@
 
     Nothing in this act shall be construed as affecting existing leases within the borders of the naval petroleum reserves, or agreements concerning operations thereunder or in relation thereto.
 
-([Aug. 8, 1946, ch. 916, § 13][/us/act/1946-08-08/ch916/s13], [60 Stat. 958][/us/stat/60/958]; [Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 675][/us/stat/70A/675].)
+([Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 13, [60 Stat. 958][/us/stat/60/958]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 675][/us/stat/70A/675].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1946-08-08/ch916/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs13
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F958
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F675
 [/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F950

@@ -29,11 +29,11 @@
 
         Within one year after October 24, 1992, the Secretary shall, after providing notice and opportunity for public comment, promulgate final regulations to implement subsection (a).
 
-([Pub. L. 95–87, title VII, § 720][/us/pl/95/87/s720], as added [Pub. L. 102–486, title XXV, § 2504(a)(1)][/us/pl/102/486/s2504/a/1], Oct. 24, 1992, [106 Stat. 3104][/us/stat/106/3104].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 720, as added [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2504(a)(1), Oct. 24, 1992, [106 Stat. 3104][/us/stat/106/3104].)
 
  __Review of Existing Requirements and Report to Congress__ 
 
-    [Pub. L. 102–486, title XXV, § 2504(a)(2)][/us/pl/102/486/s2504/a/2], Oct. 24, 1992, [106 Stat. 3104][/us/stat/106/3104], directed Secretary of the Interior to review existing requirements related to underground coal mine subsidence and natural gas and petroleum pipeline safety, submit a report detailing results of review to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within 18 months of Oct. 24, 1992, and, where appropriate, to commence a rulemaking to address any deficiencies in existing law determined in the review regarding notification, coordination and mitigation.
+    [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2504(a)(2), Oct. 24, 1992, [106 Stat. 3104][/us/stat/106/3104], directed Secretary of the Interior to review existing requirements related to underground coal mine subsidence and natural gas and petroleum pipeline safety, submit a report detailing results of review to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within 18 months of Oct. 24, 1992, and, where appropriate, to commence a rulemaking to address any deficiencies in existing law determined in the review regarding notification, coordination and mitigation.
 
 ----------
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/95/87/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs720
-[/us/pl/102/486/s2504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fa%2F1
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3104
-[/us/pl/102/486/s2504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fa%2F2
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3104
 
 

@@ -117,7 +117,7 @@
 
         Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to [section 226–1(d) of this title][/us/usc/t30/s226–1/d], the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year’s rental, provided the conditions of subparagraphs (1) and (2) of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (c) are satisfied.
 
-([Feb. 25, 1920, ch. 85, § 31][/us/act/1920-02-25/ch85/s31], [41 Stat. 450][/us/stat/41/450]; [Aug. 8, 1946, ch. 916, § 9][/us/act/1946-08-08/ch916/s9], [60 Stat. 956][/us/stat/60/956]; [July 29, 1954, ch. 644, § 1(7)][/us/act/1954-07-29/ch644/s1/7], [68 Stat. 585][/us/stat/68/585]; [Pub. L. 87–822, § 1][/us/pl/87/822/s1], Oct. 15, 1962, [76 Stat. 943][/us/stat/76/943]; [Pub. L. 91–245][/us/pl/91/245], §§ 1, 2, May 12, 1970, [84 Stat. 206][/us/stat/84/206]; [Pub. L. 97–451, title IV, § 401][/us/pl/97/451/s401], Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462]; [Pub. L. 100–203, title V][/us/pl/100/203], §§ 5102(d)(2), 5104, Dec. 22, 1987, [101 Stat. 1330–258][/us/stat/101/1330-258], 1330–259; [Pub. L. 101–567, § 1][/us/pl/101/567/s1], Nov. 15, 1990, [104 Stat. 2802][/us/stat/104/2802]; [Pub. L. 103–437, § 11(a)(1)][/us/pl/103/437/s11/a/1], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 109–58, title III, § 371(b)][/us/pl/109/58/s371/b], Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 31, [41 Stat. 450][/us/stat/41/450]; [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 9, [60 Stat. 956][/us/stat/60/956]; [July 29, 1954, ch. 644][/us/act/1954-07-29/ch644], § 1(7), [68 Stat. 585][/us/stat/68/585]; [Pub. L. 87–822][/us/pl/87/822], § 1, Oct. 15, 1962, [76 Stat. 943][/us/stat/76/943]; [Pub. L. 91–245][/us/pl/91/245], §§ 1, 2, May 12, 1970, [84 Stat. 206][/us/stat/84/206]; [Pub. L. 97–451, title IV][/us/pl/97/451/tIV], § 401, Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], §§ 5102(d)(2), 5104, Dec. 22, 1987, [101 Stat. 1330–258][/us/stat/101/1330-258], 1330–259; [Pub. L. 101–567][/us/pl/101/567], § 1, Nov. 15, 1990, [104 Stat. 2802][/us/stat/104/2802]; [Pub. L. 103–437][/us/pl/103/437], § 11(a)(1), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 371(b), Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734].)
 
  __References in Text__ 
 
@@ -131,15 +131,15 @@
 
     1990—Subsec. (g)(3), (4). [Pub. L. 101–567][/us/pl/101/567] added pars. (3) and (4).
 
-    1987—Subsec. (b). [Pub. L. 100–203, § 5104][/us/pl/100/203/s5104], amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of [section 226 of this title][/us/usc/t30/s226] shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
+    1987—Subsec. (b). [Pub. L. 100–203][/us/pl/100/203], § 5104, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of [section 226 of this title][/us/usc/t30/s226] shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
 
-    Subsec. (h). [Pub. L. 100–203, § 5102(d)(2)][/us/pl/100/203/s5102/d/2], substituted “section 226(m)” for “section 226(j)”.
+    Subsec. (h). [Pub. L. 100–203][/us/pl/100/203], § 5102(d)(2), substituted “section 226(m)” for “section 226(j)”.
 
     1983—Subsecs. (d) to (j). [Pub. L. 97–451][/us/pl/97/451] added subsecs. (d) to (i) and redesignated former subsec. (d) as (j).
 
-    1970—Subsec. (b). [Pub. L. 91–245, § 1][/us/pl/91/245/s1], inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
+    1970—Subsec. (b). [Pub. L. 91–245][/us/pl/91/245], § 1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
 
-    Subsec. (c). [Pub. L. 91–245, § 2][/us/pl/91/245/s2], inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary’s power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
+    Subsec. (c). [Pub. L. 91–245][/us/pl/91/245], § 2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary’s power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
 
     1962—[Pub. L. 87–822][/us/pl/87/822] designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
 
@@ -153,7 +153,7 @@
 
  __Reinstatement of Leases__ 
 
-[Pub. L. 109–58, title III, § 371(a)][/us/pl/109/58/s371/a], Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734], provided that:
+[Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 371(a), Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734], provided that:
 
 >     “Notwithstanding section 31(d)(2)(B) of the Mineral Leasing Act ([30 U.S.C. 188(d)(2)(B)][/us/usc/t30/s188/d/2/B]) as in effect before the effective date of this section \[probably means the date of enactment of [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005\], and notwithstanding the amendment made by subsection (b) of this section \[amending this section\], the Secretary of the Interior may reinstate any oil and gas lease issued under that Act \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\] that was terminated for failure of a lessee to pay the full amount of rental on or before the anniversary date of the lease, during the period beginning on September 1, 2001, and ending on June 30, 2004, if—
 
@@ -171,7 +171,7 @@
 
  __Authority for Issuance of Leases Unaffected by Reinstatement of Leases__ 
 
-[Pub. L. 87–822, § 2][/us/pl/87/822/s2], Oct. 15, 1962, [76 Stat. 943][/us/stat/76/943], provided that: 
+[Pub. L. 87–822][/us/pl/87/822], § 2, Oct. 15, 1962, [76 Stat. 943][/us/stat/76/943], provided that: 
 
 > “Nothing in this Act \[amending this section\] shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected.”
 
@@ -202,25 +202,25 @@
 [/us/usc/t30/s226/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%2Fm
 [/us/usc/t30/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs209
 [/us/usc/t30/s226–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%E2%80%931%2Fd
-[/us/act/1920-02-25/ch85/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs31
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F450
-[/us/act/1946-08-08/ch916/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs9
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F956
-[/us/act/1954-07-29/ch644/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch644%2Fs1%2F7
+[/us/act/1954-07-29/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch644
 [/us/stat/68/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F585
-[/us/pl/87/822/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F822%2Fs1
+[/us/pl/87/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F822
 [/us/stat/76/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F943
 [/us/pl/91/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F245
 [/us/stat/84/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F206
-[/us/pl/97/451/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs401
+[/us/pl/97/451/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIV
 [/us/stat/96/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2462
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-258
-[/us/pl/101/567/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F567%2Fs1
+[/us/pl/101/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F567
 [/us/stat/104/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2802
-[/us/pl/103/437/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs11%2Fa%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/109/58/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs371%2Fb
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F734
 [/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F913
@@ -228,21 +228,21 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/101/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F567
-[/us/pl/100/203/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5104
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t30/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226
-[/us/pl/100/203/s5102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5102%2Fd%2F2
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
-[/us/pl/91/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F245%2Fs1
-[/us/pl/91/245/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F245%2Fs2
+[/us/pl/91/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F245
+[/us/pl/91/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F245
 [/us/pl/87/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F822
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/109/58/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs371%2Fa
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F734
 [/us/usc/t30/s188/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs188%2Fd%2F2%2FB
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s188/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs188%2Fe
-[/us/pl/87/822/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F822%2Fs2
+[/us/pl/87/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F822
 [/us/stat/76/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F943
 
 

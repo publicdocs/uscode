@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall reserve and may exercise the authority to cancel any prospecting permit upon failure by the permittee to exercise due diligence in the prosecution of the prospecting work in accordance with the terms and conditions stated in the permit, and shall insert in every such permit issued under the provisions of this chapter appropriate provisions for its cancellation by him.
 
-([Feb. 25, 1920, ch. 85, § 26][/us/act/1920-02-25/ch85/s26], [41 Stat. 448][/us/stat/41/448].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 26, [41 Stat. 448][/us/stat/41/448].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs26
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F448
 
 

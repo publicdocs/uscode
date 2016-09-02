@@ -31,7 +31,7 @@
 
     (7) the term “Chairman” means the Chairman of the Project.
 
-([Pub. L. 93–410, § 3][/us/pl/93/410/s3], Sept. 3, 1974, [88 Stat. 1080][/us/stat/88/1080].)
+([Pub. L. 93–410][/us/pl/93/410], § 3, Sept. 3, 1974, [88 Stat. 1080][/us/stat/88/1080].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t30/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1121%2Fa
 [/us/usc/t30/s1144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1144%2Fa
-[/us/pl/93/410/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs3
+[/us/pl/93/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410
 [/us/stat/88/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1080
 
 

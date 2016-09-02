@@ -19,7 +19,7 @@
 
     (b) Except where a mining claim embracing land applied for under this chapter by a qualified applicant was located at a time when the land included therein was withdrawn or otherwise not subject to such location, no trespass charges shall be sought or collected by the United States from any qualified applicant who has filed an application for land in the mining claim pursuant to this chapter, based upon occupancy of such claim, whether residential or otherwise, for any period preceding the final administrative determination of the invalidity of the mining claim by the Secretary of the Interior or the voluntary relinquishment of the mining claim, whichever occurs earlier. Nothing contained in this chapter shall be construed as creating any liability for trespass to the United States which would not exist in the absence of this chapter. Relief under this section shall be limited to persons who file applications for conveyances pursuant to [section 701 of this title][/us/usc/t30/s701] within the period ending June 30, 1971.
 
-([Pub. L. 87–851, § 6][/us/pl/87/851/s6], Oct. 23, 1962, [76 Stat. 1128][/us/stat/76/1128]; [Pub. L. 90–111, § 2][/us/pl/90/111/s2], Oct. 23, 1967, [81 Stat. 311][/us/stat/81/311].)
+([Pub. L. 87–851][/us/pl/87/851], § 6, Oct. 23, 1962, [76 Stat. 1128][/us/stat/76/1128]; [Pub. L. 90–111][/us/pl/90/111], § 2, Oct. 23, 1967, [81 Stat. 311][/us/stat/81/311].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t30/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs701
 [/us/usc/t30/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs701
-[/us/pl/87/851/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs6
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1128
-[/us/pl/90/111/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F111%2Fs2
+[/us/pl/90/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F111
 [/us/stat/81/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F311
 [/us/pl/90/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F111
 [/us/usc/t30/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs701

@@ -25,7 +25,7 @@
 
     (4) initiating Government and private studies and analyses, including those to be conducted by or under the auspices of the Council, designed to advance knowledge of critical or advanced materials issues and develop alternative proposals, including research and development, to resolve national critical materials problems.
 
-([Pub. L. 98–373, title II, § 209][/us/pl/98/373/s209], July 31, 1984, [98 Stat. 1253][/us/stat/98/1253].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 209, July 31, 1984, [98 Stat. 1253][/us/stat/98/1253].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/373/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs209
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1253
 
 

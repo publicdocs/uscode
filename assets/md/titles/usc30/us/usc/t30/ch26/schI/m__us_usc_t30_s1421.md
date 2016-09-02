@@ -17,7 +17,7 @@
 
     Each license and permit issued under this subchapter shall include such restrictions as may be necessary and appropriate to ensure that exploration or commercial recovery activities conducted by the licensee or permittee do not unreasonably interfere with the interests of other states in their exercise of the freedoms of the high seas, as recognized under general principles of international law.
 
-([Pub. L. 96–283, title I, § 111][/us/pl/96/283/s111], June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 111, June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs111
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F571
 
 

@@ -67,7 +67,7 @@
 
         If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
-([Aug. 13, 1954, ch. 730, § 7][/us/act/1954-08-13/ch730/s7], [68 Stat. 711][/us/stat/68/711]; [Pub. L. 86–507, § 1(25)][/us/pl/86/507/s1/25], June 11, 1960, [74 Stat. 201][/us/stat/74/201].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 7, [68 Stat. 711][/us/stat/68/711]; [Pub. L. 86–507][/us/pl/86/507], § 1(25), June 11, 1960, [74 Stat. 201][/us/stat/74/201].)
 
  __Amendments__ 
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t30/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs524
 [/us/usc/t30/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs524
-[/us/act/1954-08-13/ch730/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs7
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F711
-[/us/pl/86/507/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F25
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 

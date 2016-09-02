@@ -27,7 +27,7 @@
 
         Whenever an operator permanently closes or abandons a coal mine, or temporarily closes a coal mine for a period of more than ninety days, he shall promptly notify the Secretary of such closure. Within sixty days of the permanent closure or abandonment of the mine, or, when the mine is temporarily closed, upon the expiration of a period of ninety days from the date of closure, the operator shall file with the Secretary a copy of the mine map revised and supplemented to the date of the closure. Such copy of the mine map shall be certified by a registered surveyor or registered engineer of the State in which the mine is located and shall be available for public inspection.
 
-([Pub. L. 91–173, title III, § 312][/us/pl/91/173/s312], Dec. 30, 1969, [83 Stat. 785][/us/stat/83/785].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 312, Dec. 30, 1969, [83 Stat. 785][/us/stat/83/785].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs312
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F785
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, no authority to make payments under this chapter shall be effective except to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 95–87, title VII, § 718][/us/pl/95/87/s718], Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 718, Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs718
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F526
 
 

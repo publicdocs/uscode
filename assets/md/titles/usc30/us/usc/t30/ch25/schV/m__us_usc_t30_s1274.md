@@ -17,7 +17,7 @@
 
     Any agency, unit, or instrumentality of Federal, State, or local government, including any publicly owned utility or publicly owned corporation of Federal, State, or local government, which proposes to engage in surface coal mining operations which are subject to the requirements of this chapter shall comply with the provisions of this subchapter.
 
-([Pub. L. 95–87, title V, § 524][/us/pl/95/87/s524], Aug. 3, 1977, [91 Stat. 511][/us/stat/91/511].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 524, Aug. 3, 1977, [91 Stat. 511][/us/stat/91/511].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs524
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F511
 
 

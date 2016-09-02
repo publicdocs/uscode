@@ -65,7 +65,7 @@
 
         Any citation or order issued under this section shall remain in effect until modified, terminated or vacated by the Secretary or his authorized representative, or modified, terminated or vacated by the Commission or the courts pursuant to section 815 or 816 of this title.
 
-([Pub. L. 91–173, title I, § 104][/us/pl/91/173/s104], Dec. 30, 1969, [83 Stat. 750][/us/stat/83/750]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1300][/us/stat/91/1300].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 104, Dec. 30, 1969, [83 Stat. 750][/us/stat/83/750]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1300][/us/stat/91/1300].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 [/us/usc/t30/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs813
 [/us/usc/t30/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs825
 [/us/usc/t30/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs825
-[/us/pl/91/173/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs104
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F750
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1300
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

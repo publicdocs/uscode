@@ -17,7 +17,7 @@
 
     For tests or investigations authorized by the Secretary of the Interior under the provisions of sections 1, 3, and 5 to 7 of this title, except those performed for the Government of the United States or State governments within the United States, a fee sufficient in each case to compensate the United States Bureau of Mines for the entire cost of the services rendered shall be charged, according to a schedule prepared by the Director of the United States Bureau of Mines and approved by the Secretary of the Interior, who shall prescribe rules and regulations under which such tests and investigations may be made. All moneys received from such sources shall be paid into the Treasury to the credit of miscellaneous receipts.
 
-([May 16, 1910, ch. 240, § 5][/us/act/1910-05-16/ch240/s5], [36 Stat. 370][/us/stat/36/370]; [Feb. 25, 1913, ch. 72, § 5][/us/act/1913-02-25/ch72/s5], [37 Stat. 682][/us/stat/37/682]; [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title III, § 311, [47 Stat. 410][/us/stat/47/410]; Ex. Ord. No. 4239, June 4, 1935; Ex. Ord. No. 6611, Feb. 22, 1934; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([May 16, 1910, ch. 240][/us/act/1910-05-16/ch240], § 5, [36 Stat. 370][/us/stat/36/370]; [Feb. 25, 1913, ch. 72][/us/act/1913-02-25/ch72], § 5, [37 Stat. 682][/us/stat/37/682]; [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title III, § 311, [47 Stat. 410][/us/stat/47/410]; Ex. Ord. No. 4239, June 4, 1935; Ex. Ord. No. 6611, Feb. 22, 1934; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Amendments__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/act/1910-05-16/ch240/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-16%2Fch240%2Fs5
+[/us/act/1910-05-16/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-16%2Fch240
 [/us/stat/36/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F370
-[/us/act/1913-02-25/ch72/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-25%2Fch72%2Fs5
+[/us/act/1913-02-25/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-25%2Fch72
 [/us/stat/37/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F682
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
 [/us/stat/47/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F410
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

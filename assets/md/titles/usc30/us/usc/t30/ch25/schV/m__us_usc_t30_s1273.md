@@ -31,7 +31,7 @@
 
         The Secretary shall develop a program to assure that with respect to the granting of permits, leases, or contracts for coal owned by the United States, that no class of purchasers of the mined coal shall be unreasonably denied purchase thereof.
 
-([Pub. L. 95–87, title V, § 523][/us/pl/95/87/s523], Aug. 3, 1977, [91 Stat. 510][/us/stat/91/510].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 523, Aug. 3, 1977, [91 Stat. 510][/us/stat/91/510].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t30/s1272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1272%2Fb
 [/us/usc/t30/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1252
 [/us/usc/t30/s1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1272
-[/us/pl/95/87/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs523
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F510
 
 

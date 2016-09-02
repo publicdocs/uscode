@@ -25,7 +25,7 @@
 
         In order to promote better use and innovation of materials in design for improved safety or efficiency, the Council shall establish in cooperation with the appropriate Federal agencies and private industry, an effective mechanism for disseminating materials property data in an efficient and timely manner. In carrying out this responsibility, the Council shall consider, where appropriate, the establishment of a computerized system taking into account, to the maximum extent practicable, existing available resources.
 
-([Pub. L. 98–373, title II, § 206][/us/pl/98/373/s206], July 31, 1984, [98 Stat. 1252][/us/stat/98/1252].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 206, July 31, 1984, [98 Stat. 1252][/us/stat/98/1252].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/usc/t15/s3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3705
-[/us/pl/98/373/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs206
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1252
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480

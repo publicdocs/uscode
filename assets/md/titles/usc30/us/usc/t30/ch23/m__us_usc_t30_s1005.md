@@ -85,7 +85,7 @@
 
         Minerals locatable under the mining laws of the United States in lands subject to a geothermal lease issued under the provisions of this chapter which are not associated with the geothermal resources of such lands as defined in [section 1001(c) of this title][/us/usc/t30/s1001/c] shall be locatable under said mining laws in accordance with the principles of the Multiple Mineral Development Act ([68 Stat. 708][/us/stat/68/708]; found in [30 U.S.C. 521][/us/usc/t30/s521] et seq.).
 
-([Pub. L. 91–581, § 6][/us/pl/91/581/s6], Dec. 24, 1970, [84 Stat. 1568][/us/stat/84/1568]; [Pub. L. 100–443][/us/pl/100/443], §§ 2(b), 3, Sept. 22, 1988, [102 Stat. 1766][/us/stat/102/1766]; [Pub. L. 109–58, title II][/us/pl/109/58], §§ 231, 236(1), Aug. 8, 2005, [119 Stat. 668][/us/stat/119/668], 671.)
+([Pub. L. 91–581][/us/pl/91/581], § 6, Dec. 24, 1970, [84 Stat. 1568][/us/stat/84/1568]; [Pub. L. 100–443][/us/pl/100/443], §§ 2(b), 3, Sept. 22, 1988, [102 Stat. 1766][/us/stat/102/1766]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], §§ 231, 236(1), Aug. 8, 2005, [119 Stat. 668][/us/stat/119/668], 671.)
 
  __References in Text__ 
 
@@ -99,19 +99,19 @@
 
     2005—[Pub. L. 109–58][/us/pl/109/58] inserted section catchline, added subsecs. (a) to (f), redesignated former subsecs. (c), (d), and (f) as (g), (h), and (i), respectively, substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsec. (i), and struck out former subsecs. (a), (b), (e), and (g) to (j), which related to primary and continuation terms, renewals, conversions to mineral leases, five-year extensions, bona fide effort requirement for extensions, payments in lieu of commercial quantities production, and significant expenditure, respectively.
 
-    1988—Subsec. (d). [Pub. L. 100–443, § 2(b)][/us/pl/100/443/s2/b], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
+    1988—Subsec. (d). [Pub. L. 100–443][/us/pl/100/443], § 2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
 
-    Subsecs. (g) to (j). [Pub. L. 100–443, § 3][/us/pl/100/443/s3], added subsecs. (g) to (j).
+    Subsecs. (g) to (j). [Pub. L. 100–443][/us/pl/100/443], § 3, added subsecs. (g) to (j).
 
  __Consistency Provision__ 
 
-[Pub. L. 100–443, § 9][/us/pl/100/443/s9], Sept. 22, 1988, [102 Stat. 1771][/us/stat/102/1771], provided that: 
+[Pub. L. 100–443][/us/pl/100/443], § 9, Sept. 22, 1988, [102 Stat. 1771][/us/stat/102/1771], provided that: 
 
 > “To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under [section 1001 of this title][/us/usc/t30/s1001]\] is inconsistent with the provisions of section 115(2) of title I of [section 101(h) of Public Law 99–591][/us/pl/99/591/s101/h] ([100 Stat. 3341–264][/us/stat/100/3341-264] through [100 Stat. 3341–266][/us/stat/100/3341-266]) \[set out below\], this Act shall be deemed to supersede the provisions of such section.”
 
  __Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions__ 
 
-[Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title I, § 115\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–264, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title I, § 115\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–264, as amended by [Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], (b)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that:
+[Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title I, § 115\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–264, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title I, § 115\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–264, as amended by [Pub. L. 106–510][/us/pl/106/510], § 3(a)(2), (b)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that:
 
 >     “(1)
 
@@ -211,30 +211,30 @@
 [/us/usc/t30/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001%2Fc
 [/us/stat/68/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F708
 [/us/usc/t30/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs521
-[/us/pl/91/581/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs6
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1568
 [/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1766
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F668
 [/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F708
 [/us/usc/t30/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs521
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/100/443/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs2%2Fb
-[/us/pl/100/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs3
-[/us/pl/100/443/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs9
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1771
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
 [/us/stat/100/3341-264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-264
 [/us/stat/100/3341-266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-266
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
-[/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566

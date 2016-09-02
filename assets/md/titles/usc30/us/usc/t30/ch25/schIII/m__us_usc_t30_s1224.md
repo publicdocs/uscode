@@ -23,7 +23,7 @@
 
         On or before the first day of July in each year beginning after August 29, 1984, the Secretary shall ascertain whether the requirements of [section 1223(a) of this title][/us/usc/t30/s1223/a] have been met as to each institute and State.
 
-([Pub. L. 98–409, § 4][/us/pl/98/409/s4], Aug. 29, 1984, [98 Stat. 1538][/us/stat/98/1538]; [Pub. L. 100–483, § 6][/us/pl/100/483/s6], Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 98–409][/us/pl/98/409], § 4, Aug. 29, 1984, [98 Stat. 1538][/us/stat/98/1538]; [Pub. L. 100–483][/us/pl/100/483], § 6, Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1224, [Pub. L. 95–87, title III, § 304][/us/pl/95/87/s304], Aug. 3, 1977, [91 Stat. 454][/us/stat/91/454], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1224, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 304, Aug. 3, 1977, [91 Stat. 454][/us/stat/91/454], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
  __Amendments__ 
 
@@ -51,15 +51,15 @@
 ----------
 
 [/us/usc/t30/s1223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1223%2Fa
-[/us/pl/98/409/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs4
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1538
-[/us/pl/100/483/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs6
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2340
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/95/87/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs304
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F454
 [/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb

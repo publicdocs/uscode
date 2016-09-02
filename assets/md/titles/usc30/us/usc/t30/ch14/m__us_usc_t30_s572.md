@@ -41,21 +41,21 @@
 
         Projects for the sealing of abandoned coal mines or the filling of voids in abandoned coal mines shall be determined by the Secretary of the Interior to be economically justified. The Secretary shall not find any project to be economically justified unless the potential benefits are estimated by him to exceed the estimated cost of the project.
 
-([July 15, 1955, ch. 369, § 2][/us/act/1955-07-15/ch369/s2], [69 Stat. 353][/us/stat/69/353]; [Pub. L. 87–818, § 1(2)][/us/pl/87/818/s1/2]–(7), Oct. 15, 1962, [76 Stat. 934][/us/stat/76/934].)
+([July 15, 1955, ch. 369][/us/act/1955-07-15/ch369], § 2, [69 Stat. 353][/us/stat/69/353]; [Pub. L. 87–818][/us/pl/87/818], § 1(2)–(7), Oct. 15, 1962, [76 Stat. 934][/us/stat/76/934].)
 
  __Amendments__ 
 
-    1962—[Pub. L. 87–818, § 1(2)][/us/pl/87/818/s1/2], authorized the Secretary of the Interior, in the preamble clause, to seal abandoned coal mines and to fill voids in abandoned coal mines, in those instances where such work is in the interest of the public health or safety.
+    1962—[Pub. L. 87–818][/us/pl/87/818], § 1(2), authorized the Secretary of the Interior, in the preamble clause, to seal abandoned coal mines and to fill voids in abandoned coal mines, in those instances where such work is in the interest of the public health or safety.
 
-    Subsec. (b). [Pub. L. 87–818, § 1(3)][/us/pl/87/818/s1/3], reserved $1,500,000 of the unexpended balance remaining as of July 31, 1962, for the control and drainage of water.
+    Subsec. (b). [Pub. L. 87–818][/us/pl/87/818], § 1(3), reserved $1,500,000 of the unexpended balance remaining as of July 31, 1962, for the control and drainage of water.
 
-    Subsec. (c). [Pub. L. 87–818, § 1(4)][/us/pl/87/818/s1/4], prohibited the use of contributions for the purchase of culm, rock, or spoil banks.
+    Subsec. (c). [Pub. L. 87–818][/us/pl/87/818], § 1(4), prohibited the use of contributions for the purchase of culm, rock, or spoil banks.
 
-    Subsec. (d). [Pub. L. 87–818, § 1(5)][/us/pl/87/818/s1/5], struck out “and” after the semicolon.
+    Subsec. (d). [Pub. L. 87–818][/us/pl/87/818], § 1(5), struck out “and” after the semicolon.
 
-    Subsec. (e). [Pub. L. 87–818, § 1(6)][/us/pl/87/818/s1/6], prescribed that projects be so located, operated, and maintained as to seal abandoned coal mines and to fill voids in abandoned coal mines in those instances where such work would be in the interest of the public health or safety.
+    Subsec. (e). [Pub. L. 87–818][/us/pl/87/818], § 1(6), prescribed that projects be so located, operated, and maintained as to seal abandoned coal mines and to fill voids in abandoned coal mines in those instances where such work would be in the interest of the public health or safety.
 
-    Subsec. (f). [Pub. L. 87–818, § 1(7)][/us/pl/87/818/s1/7], added subsec. (f).
+    Subsec. (f). [Pub. L. 87–818][/us/pl/87/818], § 1(7), added subsec. (f).
 
 ----------
 
@@ -65,15 +65,15 @@
 ----------
 
 [/us/usc/t30/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs571
-[/us/act/1955-07-15/ch369/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch369%2Fs2
+[/us/act/1955-07-15/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch369
 [/us/stat/69/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F353
-[/us/pl/87/818/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F2
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
 [/us/stat/76/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F934
-[/us/pl/87/818/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F2
-[/us/pl/87/818/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F3
-[/us/pl/87/818/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F4
-[/us/pl/87/818/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F5
-[/us/pl/87/818/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F6
-[/us/pl/87/818/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818%2Fs1%2F7
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
+[/us/pl/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F818
 
 

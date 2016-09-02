@@ -41,7 +41,7 @@
 
         Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Council may utilize voluntary and uncompensated labor and services in carrying out its duties and functions.
 
-([Pub. L. 98–373, title II, § 208][/us/pl/98/373/s208], July 31, 1984, [98 Stat. 1253][/us/stat/98/1253].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 208, July 31, 1984, [98 Stat. 1253][/us/stat/98/1253].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Codification__ 
 
-    In subsec. (d), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 367(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 367(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Personnel Matters__ 
 
-[Pub. L. 100–418, title V, § 5182][/us/pl/100/418/s5182], Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], provided that:
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5182, Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], provided that:
 
 >     “(a)  __Requirement To Increase Staff__  __.—__ 
 
@@ -72,14 +72,14 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/98/373/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs208
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1253
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/100/418/s5182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5182
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1454
 
 

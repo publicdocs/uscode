@@ -39,7 +39,7 @@
 
     (k) the cooperative effort established by this chapter is necessary to prevent or mitigate adverse environmental effects of present and future surface coal mining operations.
 
-([Pub. L. 95–87, title I, § 101][/us/pl/95/87/s101], Aug. 3, 1977, [91 Stat. 447][/us/stat/91/447].)
+([Pub. L. 95–87, title I][/us/pl/95/87/tI], § 101, Aug. 3, 1977, [91 Stat. 447][/us/stat/91/447].)
 
  __References in Text__ 
 
@@ -47,33 +47,33 @@
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. C, title II, § 200][/us/pl/109/432/s200], Dec. 20, 2006, [120 Stat. 3006][/us/stat/120/3006], provided that: 
+[Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 200, Dec. 20, 2006, [120 Stat. 3006][/us/stat/120/3006], provided that: 
 
 > “This title \[enacting [section 1244 of this title][/us/usc/t30/s1244], amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under [section 1232 of this title][/us/usc/t30/s1232] and sections 9701, 9704, and 9712 of Title 26\] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
 
  __Short Title of 1990 Amendments__ 
 
-[Pub. L. 101–508, title VI, § 6001][/us/pl/101/508/s6001], Nov. 5, 1990, [104 Stat. 1388–289][/us/stat/104/1388-289], provided that: 
+[Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6001, Nov. 5, 1990, [104 Stat. 1388–289][/us/stat/104/1388-289], provided that: 
 
 > “This subtitle \[subtitle A (§§ 6001–6014) of title VI of [Pub. L. 101–508][/us/pl/101/508], enacting [section 1240a of this title][/us/usc/t30/s1240a], amending sections 1231 to 1237, 1239, 1257, and 1302 of this title, and enacting provisions set out as notes under [section 1231 of this title][/us/usc/t30/s1231]\] may be cited as the ‘Abandoned Mine Reclamation Act of 1990’.”
 
-[Pub. L. 101–498, § 1][/us/pl/101/498/s1], Nov. 2, 1990, [104 Stat. 1207][/us/stat/104/1207], provided that: 
+[Pub. L. 101–498][/us/pl/101/498], § 1, Nov. 2, 1990, [104 Stat. 1207][/us/stat/104/1207], provided that: 
 
 > “This Act \[enacting [section 1230a of this title][/us/usc/t30/s1230a]\] may be cited as the ‘Strategic and Critical Minerals Act of 1990’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–483, § 13][/us/pl/100/483/s13], Oct. 12, 1988, [102 Stat. 2341][/us/stat/102/2341], provided that: 
+[Pub. L. 100–483][/us/pl/100/483], § 13, Oct. 12, 1988, [102 Stat. 2341][/us/stat/102/2341], provided that: 
 
 > “This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and [section 1229 of this title][/us/usc/t30/s1229]\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988.”
 
  __Short Title__ 
 
-[Pub. L. 95–87, § 1][/us/pl/95/87/s1], Aug. 3, 1977, [91 Stat. 445][/us/stat/91/445], provided: 
+[Pub. L. 95–87][/us/pl/95/87], § 1, Aug. 3, 1977, [91 Stat. 445][/us/stat/91/445], provided: 
 
 > “That this Act \[enacting this chapter and amending [section 1114 of Title 18][/us/usc/t18/s1114], Crimes and Criminal Procedure\] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
 
-[Pub. L. 98–409, § 11][/us/pl/98/409/s11], as added by [Pub. L. 100–483, § 12][/us/pl/100/483/s12], Oct. 12, 1988, [102 Stat. 2341][/us/stat/102/2341]; amended by [Pub. L. 104–312, § 1(b)][/us/pl/104/312/s1/b], Oct. 19, 1996, [110 Stat. 3819][/us/stat/110/3819], provided that: 
+[Pub. L. 98–409][/us/pl/98/409], § 11, as added by [Pub. L. 100–483][/us/pl/100/483], § 12, Oct. 12, 1988, [102 Stat. 2341][/us/stat/102/2341]; amended by [Pub. L. 104–312][/us/pl/104/312], § 1(b), Oct. 19, 1996, [110 Stat. 3819][/us/stat/110/3819], provided that: 
 
 > “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
 
@@ -84,33 +84,33 @@
 ----------
 ----------
 
-[/us/pl/95/87/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs101
+[/us/pl/95/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtI
 [/us/stat/91/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F447
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
-[/us/pl/109/432/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs200
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3006
 [/us/usc/t30/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1244
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
-[/us/pl/101/508/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6001
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-289
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1240a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240a
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
-[/us/pl/101/498/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F498%2Fs1
+[/us/pl/101/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F498
 [/us/stat/104/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1207
 [/us/usc/t30/s1230a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1230a
-[/us/pl/100/483/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs13
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2341
 [/us/usc/t30/s1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1229
-[/us/pl/95/87/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs1
+[/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
-[/us/pl/98/409/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs11
-[/us/pl/100/483/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs12
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2341
-[/us/pl/104/312/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F312%2Fs1%2Fb
+[/us/pl/104/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F312
 [/us/stat/110/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3819
 
 

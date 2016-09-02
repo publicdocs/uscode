@@ -119,7 +119,7 @@
 
                 Notwithstanding any other provision of this chapter, nothing in this section, and no response and preparedness plan developed under this section, shall be approved if it reduces the protection afforded miners by an existing mandatory health or safety standard.
 
-([Pub. L. 91–173, title III, § 316][/us/pl/91/173/s316], Dec. 30, 1969, [83 Stat. 787][/us/stat/83/787]; [Pub. L. 109–236, § 2][/us/pl/109/236/s2], June 15, 2006, [120 Stat. 493][/us/stat/120/493].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 316, Dec. 30, 1969, [83 Stat. 787][/us/stat/83/787]; [Pub. L. 109–236][/us/pl/109/236], § 2, June 15, 2006, [120 Stat. 493][/us/stat/120/493].)
 
  __References in Text__ 
 
@@ -137,9 +137,9 @@
 ----------
 
 [/us/usc/t30/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs825
-[/us/pl/91/173/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs316
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F787
-[/us/pl/109/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs2
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F493
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

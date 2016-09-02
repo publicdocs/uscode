@@ -17,11 +17,11 @@
 
     It is recognized that outcrop and underground fires in coal formations involve serious wastage of the fuel resources of the Nation, and constitute a menace to the health and safety of the public and to surface property. It is therefore declared to be the policy of the Congress to provide for the control and extinguishment of outcrop and underground coal fires and thereby to prevent injuries and loss of life, protect public health, conserve natural resources, and to preserve public and private surface property.
 
-([Aug. 31, 1954, ch. 1156, § 1][/us/act/1954-08-31/ch1156/s1], [68 Stat. 1009][/us/stat/68/1009].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 1, [68 Stat. 1009][/us/stat/68/1009].)
 
  __Coal Formations__ 
 
-[Pub. L. 102–486, title XXV, § 2504(d)(1)][/us/pl/102/486/s2504/d/1], (2), Oct. 24, 1992, [106 Stat. 3105][/us/stat/106/3105], 3106, provided that:
+[Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2504(d)(1), (2), Oct. 24, 1992, [106 Stat. 3105][/us/stat/106/3105], 3106, provided that:
 
 >     “(1) In furtherance of the purposes of the Act of August 31, 1954 ([30 U.S.C. 551–558][/us/usc/t30/s551–558]) the Secretary of the Interior, acting through the Director of the Office of Surface Mining Reclamation and Enforcement, shall, upon application by a State, enter into a cooperative agreement with any such State that has an approved abandoned mine reclamation program pursuant to section 405 of the Surface Mining Control and Reclamation Act of 1977 \[[30 U.S.C. 1235][/us/usc/t30/s1235]\] to undertake the activities referred to in [section 3(b) of the Act of August 31, 1954][/us/act/1954-08-31/s3/b] ([30 U.S.C. 553(b)][/us/usc/t30/s553/b]). The Secretary shall immediately enter into such cooperative agreement upon application by a State. Any such cooperative agreement shall not be subject to review or approval by the Appalachian Regional Development Commission.
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-31/ch1156/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs1
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1009
-[/us/pl/102/486/s2504/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fd%2F1
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3105
 [/us/usc/t30/s551–558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs551%E2%80%93558
 [/us/usc/t30/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1235

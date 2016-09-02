@@ -17,7 +17,7 @@
 
     The dust resulting from drilling in rock shall be controlled by the use of permissible dust collectors, or by water or water with a wetting agent, or by ventilation, or by any other method or device approved by the Secretary which is at least as effective in controlling such dust. Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be provided persons exposed for short periods to inhalation hazards from gas, dusts, fumes, or mist. When the exposure is for prolonged periods, other measures to protect such persons or to reduce the hazard shall be taken.
 
-([Pub. L. 91–173, title II, § 204][/us/pl/91/173/s204], Dec. 30, 1969, [83 Stat. 764][/us/stat/83/764]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–173, title II][/us/pl/91/173/tII], § 204, Dec. 30, 1969, [83 Stat. 764][/us/stat/83/764]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/173/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs204
+[/us/pl/91/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtII
 [/us/stat/83/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F764
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

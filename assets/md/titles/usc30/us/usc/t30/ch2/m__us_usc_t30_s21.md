@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2318 derived from [act July 4, 1866, ch. 166, § 5][/us/act/1866-07-04/ch166/s5], [14 Stat. 86][/us/stat/14/86].
+    R.S. § 2318 derived from [act July 4, 1866, ch. 166][/us/act/1866-07-04/ch166], § 5, [14 Stat. 86][/us/stat/14/86].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1866-07-04/ch166/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-04%2Fch166%2Fs5
+[/us/act/1866-07-04/ch166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-04%2Fch166
 [/us/stat/14/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F86
 
 

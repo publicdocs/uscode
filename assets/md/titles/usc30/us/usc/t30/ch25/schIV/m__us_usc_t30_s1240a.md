@@ -135,7 +135,7 @@
 
                 The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under [section 1232(g)(5) of this title][/us/usc/t30/s1232/g/5].
 
-([Pub. L. 95–87, title IV, § 411][/us/pl/95/87/s411], as added [Pub. L. 101–508, title VI, § 6010(2)][/us/pl/101/508/s6010/2], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296]; amended [Pub. L. 109–432, div. C, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016]; [Pub. L. 112–141, div. F, title I, § 100125][/us/pl/112/141/s100125], July 6, 2012, [126 Stat. 915][/us/stat/126/915]; [Pub. L. 112–175, § 142][/us/pl/112/175/s142], Sept. 28, 2012, [126 Stat. 1321][/us/stat/126/1321]; [Pub. L. 113–40, § 10(d)][/us/pl/113/40/s10/d], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546]; [Pub. L. 114–94, div. D, title XLIII, § 43001][/us/pl/114/94/s43001], Dec. 4, 2015, [129 Stat. 1762][/us/stat/129/1762].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 411, as added [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6010(2), Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 206, Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016]; [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100125, July 6, 2012, [126 Stat. 915][/us/stat/126/915]; [Pub. L. 112–175][/us/pl/112/175], § 142, Sept. 28, 2012, [126 Stat. 1321][/us/stat/126/1321]; [Pub. L. 113–40][/us/pl/113/40], § 10(d), Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546]; [Pub. L. 114–94, div. D, title XLIII][/us/pl/114/94/dD/tXLIII], § 43001, Dec. 4, 2015, [129 Stat. 1762][/us/stat/129/1762].)
 
  __References in Text__ 
 
@@ -149,9 +149,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (h)(1)(C). [Pub. L. 114–94, § 43001(1)][/us/pl/114/94/s43001/1], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+    2015—Subsec. (h)(1)(C). [Pub. L. 114–94][/us/pl/114/94], § 43001(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-    Subsec. (h)(5), (6). [Pub. L. 114–94, § 43001(2)][/us/pl/114/94/s43001/2], struck out pars. (5) and (6) which related to limitation on annual payments and supplemental funding, respectively.
+    Subsec. (h)(5), (6). [Pub. L. 114–94][/us/pl/114/94], § 43001(2), struck out pars. (5) and (6) which related to limitation on annual payments and supplemental funding, respectively.
 
     2013—Subsec. (h)(6). [Pub. L. 113–40][/us/pl/113/40] added par. (6).
 
@@ -159,9 +159,9 @@
 
     Subsec. (h)(5). [Pub. L. 112–141][/us/pl/112/141] added par. (5).
 
-    2006—Subsec. (a). [Pub. L. 109–432, § 206(1)][/us/pl/109/432/s206/1], designated existing provisions as par. (1) and added par. (2).
+    2006—Subsec. (a). [Pub. L. 109–432][/us/pl/109/432], § 206(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h). [Pub. L. 109–432, § 206(2)][/us/pl/109/432/s206/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–432][/us/pl/109/432], § 206(2), added subsec. (h).
 
  __Effective Date__ 
 
@@ -200,18 +200,18 @@
 [/us/usc/t30/s1232/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F1
 [/us/usc/t30/s1232/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F5
 [/us/usc/t30/s1232/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F5
-[/us/pl/95/87/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs411
-[/us/pl/101/508/s6010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6010%2F2
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-296
-[/us/pl/109/432/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3016
-[/us/pl/112/141/s100125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100125
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F915
-[/us/pl/112/175/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175%2Fs142
+[/us/pl/112/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175
 [/us/stat/126/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1321
-[/us/pl/113/40/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fd
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F546
-[/us/pl/114/94/s43001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs43001
+[/us/pl/114/94/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLIII
 [/us/stat/129/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1762
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021
@@ -221,15 +221,15 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/95/87/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs411
 [/us/usc/t30/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1241
-[/us/pl/114/94/s43001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs43001%2F1
-[/us/pl/114/94/s43001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs43001%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/112/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175
 [/us/usc/t30/s1232/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F1
 [/us/usc/t30/s1232/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F5
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/432/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206%2F1
-[/us/pl/109/432/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206%2F2
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
 

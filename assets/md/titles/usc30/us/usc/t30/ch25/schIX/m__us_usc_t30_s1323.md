@@ -17,7 +17,7 @@
 
     In awarding fellowships under the provisions of this subchapter, the Secretary of Energy shall endeavor to provide equitable distribution of such fellowships throughout the Nation, except that the Secretary of Energy shall give special attention to institutions of higher education, libraries, archives, or other research centers which have a demonstrated capacity to offer courses of study or research in the field of energy resources and conservation and conversion and related disciplines. In carrying out his responsibilities under this section, the Secretary of Energy shall take into consideration the projected need for highly trained engineers and scientists in the field of energy sources.
 
-([Pub. L. 95–87, title IX, § 903][/us/pl/95/87/s903], Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 903, Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
 
  __Transfer of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/87/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs903
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F530
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 

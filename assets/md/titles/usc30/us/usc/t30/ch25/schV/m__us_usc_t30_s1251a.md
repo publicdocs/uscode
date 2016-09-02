@@ -23,7 +23,7 @@
 
     (4) Not later than 30 days prior to the publication of the proposed regulations referred to in this section, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the United States House of Representatives, and the Committee on Energy and Natural Resources of the United States Senate containing a detailed description of any environmental protection performance and reclamation standards, and separate permit systems, devised pursuant to this section.
 
-([Pub. L. 102–486, title XXV, § 2503(e)][/us/pl/102/486/s2503/e], Oct. 24, 1992, [106 Stat. 3103][/us/stat/106/3103].)
+([Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2503(e), Oct. 24, 1992, [106 Stat. 3103][/us/stat/106/3103].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/usc/t30/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1234
 [/us/usc/t30/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265
-[/us/pl/102/486/s2503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2503%2Fe
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3103
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445

@@ -17,7 +17,7 @@
 
     Any mining claim given force and effect as provided in [section 501 of this title][/us/usc/t30/s501] shall be subject to the reservation to the United States of all minerals which, upon August 12, 1953, are provided in the mineral leasing laws to be disposed of thereunder, and the right of the United States, its lessees, permittees, and licensees, to enter upon the land covered by such mining claim to prospect for, mine, treat, store, and remove such minerals, and to use so much of the surface and subsurface of such mining claim as may be necessary for such purposes, and to enter upon such land whenever reasonably necessary for the purpose of prospecting for, mining, treating, storing, and removing such minerals on and from other lands of the United States; and any patent issued for any such mining claim shall contain such reservation.
 
-([Aug. 12, 1953, ch. 405, § 2][/us/act/1953-08-12/ch405/s2], [67 Stat. 539][/us/stat/67/539].)
+([Aug. 12, 1953, ch. 405][/us/act/1953-08-12/ch405], § 2, [67 Stat. 539][/us/stat/67/539].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t30/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs501
-[/us/act/1953-08-12/ch405/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405%2Fs2
+[/us/act/1953-08-12/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405
 [/us/stat/67/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F539
 [/us/usc/t30/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs505
 

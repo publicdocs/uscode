@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 910 derived from [act Feb. 27, 1865, ch. 64, § 9][/us/act/1865-02-27/ch64/s9], [13 Stat. 441][/us/stat/13/441].
+    R.S. § 910 derived from [act Feb. 27, 1865, ch. 64][/us/act/1865-02-27/ch64], § 9, [13 Stat. 441][/us/stat/13/441].
 
-    Section was formerly classified to [section 690 of Title 28][/us/usc/t28/s690] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869].
+    Section was formerly classified to [section 690 of Title 28][/us/usc/t28/s690] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 869][/us/stat/62/869].
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/act/1865-02-27/ch64/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-02-27%2Fch64%2Fs9
+[/us/act/1865-02-27/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-02-27%2Fch64
 [/us/stat/13/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F441
 [/us/usc/t28/s690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs690
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 
 

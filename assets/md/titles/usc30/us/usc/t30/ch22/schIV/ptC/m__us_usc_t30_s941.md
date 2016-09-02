@@ -17,7 +17,7 @@
 
     Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining any benefit or payment under this subchapter shall be guilty of a misdemeanor and on conviction thereof shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or both.
 
-([Pub. L. 91–173, title IV, § 431][/us/pl/91/173/s431], as added [Pub. L. 92–303, § 6][/us/pl/92/303/s6], May 19, 1972, [86 Stat. 156][/us/stat/86/156]; amended [Pub. L. 95–239, § 12(a)][/us/pl/95/239/s12/a], Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 431, as added [Pub. L. 92–303][/us/pl/92/303], § 6, May 19, 1972, [86 Stat. 156][/us/stat/86/156]; amended [Pub. L. 95–239][/us/pl/95/239], § 12(a), Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/91/173/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs431
-[/us/pl/92/303/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs6
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F156
-[/us/pl/95/239/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs12%2Fa
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F101
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239

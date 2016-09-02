@@ -43,13 +43,13 @@
 
         The Director of the Office of Management and Budget in consultation with the Secretary of Labor and the Secretary of the Interior is authorized and directed to make such determinations as may be necessary with regard to the dispositions of personnel, personnel positions, property, records, assets, liabilities, contracts, obligations, commitments, unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, in connection with the functions transferred by this Act as he may deem necessary to accomplish the purposes of this Act.
 
-([Pub. L. 95–164, title III, § 301][/us/pl/95/164/s301], Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317]; [Pub. L. 96–38, title I, § 100][/us/pl/96/38/s100], July 25, 1979, [93 Stat. 111][/us/stat/93/111].)
+([Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 301, Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317]; [Pub. L. 96–38, title I][/us/pl/96/38/tI], § 100, July 25, 1979, [93 Stat. 111][/us/stat/93/111].)
 
  __References in Text__ 
 
-    The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (a) and (b)(1), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by [Pub. L. 95–164, title I, § 101][/us/pl/95/164/s101], Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], and is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
+    The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (a) and (b)(1), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by [Pub. L. 95–164, title I][/us/pl/95/164/tI], § 101, Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], and is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
 
-    The Federal Metal and Nonmetallic Mine Safety Act, referred to in subsecs. (a) and (b), is [Pub. L. 89–577][/us/pl/89/577], Sept. 16, 1966, [80 Stat. 772][/us/stat/80/772], which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by [Pub. L. 95–164, title III, § 306(a)][/us/pl/95/164/s306/a], Nov. 9, 1977, [91 Stat. 1322][/us/stat/91/1322].
+    The Federal Metal and Nonmetallic Mine Safety Act, referred to in subsecs. (a) and (b), is [Pub. L. 89–577][/us/pl/89/577], Sept. 16, 1966, [80 Stat. 772][/us/stat/80/772], which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by [Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 306(a), Nov. 9, 1977, [91 Stat. 1322][/us/stat/91/1322].
 
     This Act, referred to in subsecs. (a), (c)(1), and (e), means [Pub. L. 95–164][/us/pl/95/164], Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], known as the Federal Mine Safety and Health Amendments Act of 1977, which enacted sections 822 to 825 and 961 of this title and [section 557a of Title 29][/us/usc/t29/s557a], Labor, amended sections 801 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealed sections 721 to 740 of this title and [section 1456a of Title 43][/us/usc/t43/s1456a], Public Lands, and enacted provisions set out as notes under sections 801 and 954 of this title and section 11 of former Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
 
@@ -57,7 +57,7 @@
 
     The Health and Safety Academy, referred to in subsec. (a), probably means the National Mine Health and Safety Academy. See [section 952(c) of this title][/us/usc/t30/s952/c].
 
-    The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(1), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended by [Pub. L. 95–164, title I, § 101][/us/pl/95/164/s101], Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], which is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
+    The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(1), is [Pub. L. 91–173][/us/pl/91/173], Dec. 30, 1969, [83 Stat. 742][/us/stat/83/742], as amended by [Pub. L. 95–164, title I][/us/pl/95/164/tI], § 101, Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290], which is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
 
     For the time this section takes effect, referred to in subsec. (c)(2) and (4), see Effective Date of 1977 Amendment note set out under [section 801 of this title][/us/usc/t30/s801].
 
@@ -87,18 +87,18 @@
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/usc/t30/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs812
-[/us/pl/95/164/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs301
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1317
-[/us/pl/96/38/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs100
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F111
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
-[/us/pl/95/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs101
+[/us/pl/95/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtI
 [/us/stat/91/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1290
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/pl/89/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F577
 [/us/stat/80/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F772
-[/us/pl/95/164/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs306%2Fa
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1322
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/stat/91/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1290
@@ -109,7 +109,7 @@
 [/us/usc/t30/s952/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs952%2Fc
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
-[/us/pl/95/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs101
+[/us/pl/95/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtI
 [/us/stat/91/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1290
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

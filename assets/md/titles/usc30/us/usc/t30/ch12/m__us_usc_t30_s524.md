@@ -27,7 +27,7 @@
 
         (c) known to be valuable for minerals subject to disposition under the mineral leasing laws.
 
-([Aug. 13, 1954, ch. 730, § 4][/us/act/1954-08-13/ch730/s4], [68 Stat. 710][/us/stat/68/710].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 4, [68 Stat. 710][/us/stat/68/710].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t30/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs526
-[/us/act/1954-08-13/ch730/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs4
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F710
 
 

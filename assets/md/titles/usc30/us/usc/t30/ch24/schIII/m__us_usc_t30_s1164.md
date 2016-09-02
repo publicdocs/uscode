@@ -27,7 +27,7 @@
 
         In addition to sums authorized to be appropriated by subsection (b), there are authorized to be appropriated to the fund not to exceed $50,000,000 annually, such sums to carry out the provisions of the loan guaranty program by the Project under subchapter II.
 
-([Pub. L. 93–410, title III, § 304][/us/pl/93/410/s304], Sept. 3, 1974, [88 Stat. 1089][/us/stat/88/1089].)
+([Pub. L. 93–410, title III][/us/pl/93/410/tIII], § 304, Sept. 3, 1974, [88 Stat. 1089][/us/stat/88/1089].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t30/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1122%2Fa
-[/us/pl/93/410/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs304
+[/us/pl/93/410/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtIII
 [/us/stat/88/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1089
 
 

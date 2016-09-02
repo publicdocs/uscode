@@ -17,7 +17,7 @@
 
     Twenty years after August 11, 1955, all lands subject to the provisions of [section 541 of this title][/us/usc/t30/s541] shall be withdrawn from all forms of entry under this chapter. All claims made pursuant to the provisions of this chapter shall expire at that time, except for (1) claims for which patent has already been issued, and (2) claims on which application for patent has already been made and on which patent is subsequently issued: Provided, That, if the President shall so provide by Executive order, the provisions of this section shall not become effective until thirty years after August 11, 1955.
 
-([Aug. 11, 1955, ch. 795, § 10][/us/act/1955-08-11/ch795/s10], [69 Stat. 681][/us/stat/69/681].)
+([Aug. 11, 1955, ch. 795][/us/act/1955-08-11/ch795], § 10, [69 Stat. 681][/us/stat/69/681].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs541
-[/us/act/1955-08-11/ch795/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch795%2Fs10
+[/us/act/1955-08-11/ch795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch795
 [/us/stat/69/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F681
 
 

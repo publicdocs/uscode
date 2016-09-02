@@ -35,7 +35,7 @@
 
         (B) if such adoption is not forthcoming, the negotiation of a multilateral or other treaty concerning the deep seabed, and the entering into force of such treaty with respect to the United States.
 
-([Pub. L. 96–283, title II, § 201][/us/pl/96/283/s201], June 28, 1980, [94 Stat. 575][/us/stat/94/575].)
+([Pub. L. 96–283, title II][/us/pl/96/283/tII], § 201, June 28, 1980, [94 Stat. 575][/us/stat/94/575].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs201
+[/us/pl/96/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtII
 [/us/stat/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F575
 
 

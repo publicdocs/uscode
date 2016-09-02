@@ -55,7 +55,7 @@
 
             In no event shall the Secretary or any delegated State directly or indirectly claim or offset any amount or amounts against, or reduce any refund or credit (or interest accrued thereon) by the amount of any obligation the enforcement of which is barred by [section 1724 of this title][/us/usc/t30/s1724].
 
-([Pub. L. 97–451, title I, § 111A][/us/pl/97/451/s111A], as added [Pub. L. 104–185, § 5(a)][/us/pl/104/185/s5/a], Aug. 13, 1996, [110 Stat. 1710][/us/stat/110/1710].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 111A, as added [Pub. L. 104–185][/us/pl/104/185], § 5(a), Aug. 13, 1996, [110 Stat. 1710][/us/stat/110/1710].)
 
  __References in Text__ 
 
@@ -83,8 +83,8 @@
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/usc/t30/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1724
-[/us/pl/97/451/s111A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111A
-[/us/pl/104/185/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs5%2Fa
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1710
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

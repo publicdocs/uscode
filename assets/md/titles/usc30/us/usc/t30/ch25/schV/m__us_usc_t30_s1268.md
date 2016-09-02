@@ -51,7 +51,7 @@
 
         As a condition of approval of any State program submitted pursuant to [section 1253 of this title][/us/usc/t30/s1253], the civil and criminal penalty provisions thereof shall, at a minimum, incorporate penalties no less stringent than those set forth in this section, and shall contain the same or similar procedural requirements relating thereto. Nothing herein shall be construed so as to eliminate any additional enforcement right or procedures which are available under State law to a State regulatory authority but which are not specifically enumerated herein.
 
-([Pub. L. 95–87, title V, § 518][/us/pl/95/87/s518], Aug. 3, 1977, [91 Stat. 499][/us/stat/91/499].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 518, Aug. 3, 1977, [91 Stat. 499][/us/stat/91/499].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t30/s1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1275
 [/us/usc/t30/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1276
 [/us/usc/t30/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253
-[/us/pl/95/87/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs518
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F499
 
 

@@ -27,7 +27,7 @@
 
         Any interest, or other charge referred to in subsection (a), which was paid to the United States before July 1, 1988, and distributed to any State or other recipient is hereby deemed to be authorized and approved as of the date of payment or distribution, and no part of any such payment or distribution shall be recouped from the State or other recipient. This subsection shall not apply to interest or other charges paid in connection with any royalty, rent, bonus, or other amount determined not to be owing to the United States.
 
-([Pub. L. 100–524, § 7][/us/pl/100/524/s7], Oct. 24, 1988, [102 Stat. 2607][/us/stat/102/2607].)
+([Pub. L. 100–524][/us/pl/100/524], § 7, Oct. 24, 1988, [102 Stat. 2607][/us/stat/102/2607].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/524/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524%2Fs7
+[/us/pl/100/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524
 [/us/stat/102/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2607
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

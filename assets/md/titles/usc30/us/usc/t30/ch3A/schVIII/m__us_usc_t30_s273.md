@@ -17,7 +17,7 @@
 
     Lands known to contain valuable deposits of sulphur and not covered by permits or leases shall be held subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt and in such areas as he shall fix, not exceeding six hundred and forty acres; all leases to be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease and the payment in advance of a rental of 50 cents per acre per annum, the rental paid for any one year to be credited against the royalties accruing for that year.
 
-([Apr. 17, 1926, ch. 158, § 3][/us/act/1926-04-17/ch158/s3], [44 Stat. 301][/us/stat/44/301].)
+([Apr. 17, 1926, ch. 158][/us/act/1926-04-17/ch158], § 3, [44 Stat. 301][/us/stat/44/301].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1926-04-17/ch158/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158%2Fs3
+[/us/act/1926-04-17/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158
 [/us/stat/44/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F301
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

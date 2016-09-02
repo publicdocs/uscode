@@ -17,7 +17,7 @@
 
     Whenever the Secretary of the Interior shall deem it to be consistent with the public interest he is authorized to lease deposits of oil and gas in or under lands embraced in railroad or other rights of way acquired under any law of the United States, whether the same be a base fee or mere easement: Provided, That, except as hereinafter authorized, no lease shall be executed hereunder except to the municipality, corporation, firm, association, or individual by whom such right of way was acquired, or to the lawful successor, assignee, or transferee of such municipality, corporation, firm, association, or individual.
 
-([May 21, 1930, ch. 307, § 1][/us/act/1930-05-21/ch307/s1], [46 Stat. 373][/us/stat/46/373].)
+([May 21, 1930, ch. 307][/us/act/1930-05-21/ch307], § 1, [46 Stat. 373][/us/stat/46/373].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-05-21/ch307/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307%2Fs1
+[/us/act/1930-05-21/ch307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307
 [/us/stat/46/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F373
 
 

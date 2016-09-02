@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized and directed, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for sulphur in lands belonging to the United States located in the States of Louisiana and New Mexico for a period of not exceeding two years: Provided, That the area to be included in such a permit shall be not exceeding six hundred and forty acres of land in reasonably compact form.
 
-([Apr. 17, 1926, ch. 158, § 1][/us/act/1926-04-17/ch158/s1], [44 Stat. 301][/us/stat/44/301]; [July 16, 1932, ch. 498][/us/act/1932-07-16/ch498], [47 Stat. 701][/us/stat/47/701].)
+([Apr. 17, 1926, ch. 158][/us/act/1926-04-17/ch158], § 1, [44 Stat. 301][/us/stat/44/301]; [July 16, 1932, ch. 498][/us/act/1932-07-16/ch498], [47 Stat. 701][/us/stat/47/701].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1926-04-17/ch158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158%2Fs1
+[/us/act/1926-04-17/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158
 [/us/stat/44/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F301
 [/us/act/1932-07-16/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-16%2Fch498
 [/us/stat/47/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F701

@@ -73,7 +73,7 @@
 
         The Secretary of the Treasury shall insure to the maximum extent feasible that the timing, interest rate, and substantial terms and conditions of any guaranty exceeding $25,000,000 will have the minimum possible impact on the capital markets of the United States, taking into account other Federal direct and indirect commercial securities activities.
 
-([Pub. L. 93–410, title II, § 201][/us/pl/93/410/s201], Sept. 3, 1974, [88 Stat. 1086][/us/stat/88/1086]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–238, title V][/us/pl/95/238], §§ 505–509, Feb. 25, 1978, [92 Stat. 86][/us/stat/92/86], 87; [Pub. L. 96–294, title VI, § 641(1)][/us/pl/96/294/s641/1], June 30, 1980, [94 Stat. 768][/us/stat/94/768]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–437, § 11(b)][/us/pl/103/437/s11/b], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
+([Pub. L. 93–410, title II][/us/pl/93/410/tII], § 201, Sept. 3, 1974, [88 Stat. 1086][/us/stat/88/1086]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 95–238, title V][/us/pl/95/238/tV], §§ 505–509, Feb. 25, 1978, [92 Stat. 86][/us/stat/92/86], 87; [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 641(1), June 30, 1980, [94 Stat. 768][/us/stat/94/768]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–437][/us/pl/103/437], § 11(b), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589].)
 
  __Amendments__ 
 
@@ -83,15 +83,15 @@
 
     1980—Subsec. (c). [Pub. L. 96–294][/us/pl/96/294] inserted provisions relating to guarantees for loans to an electric, housing, or other cooperative, or to a municipality (as defined in [section 796(7) of title 16][/us/usc/t16/s796/7]).
 
-    1978—Subsec. (b)(4). [Pub. L. 95–238, § 506][/us/pl/95/238/s506], substituted “using” for “from”.
+    1978—Subsec. (b)(4). [Pub. L. 95–238][/us/pl/95/238], § 506, substituted “using” for “from”.
 
-    Subsec. (b)(5). [Pub. L. 95–238, § 505][/us/pl/95/238/s505], added par. (5).
+    Subsec. (b)(5). [Pub. L. 95–238][/us/pl/95/238], § 505, added par. (5).
 
-    Subsec. (c). [Pub. L. 95–238, § 507][/us/pl/95/238/s507], inserted provisions relating to guarantees for the purposes specified in subsec. (b)(5) of this section.
+    Subsec. (c). [Pub. L. 95–238][/us/pl/95/238], § 507, inserted provisions relating to guarantees for the purposes specified in subsec. (b)(5) of this section.
 
-    Subsec. (e). [Pub. L. 95–238, § 508][/us/pl/95/238/s508], inserted proviso relating to guaranty under subsec. (b)(5) of this section, and provisions relating to exceptions to limitations on amounts guaranteed and procedures applicable to implementation of greater amounts, and substituted “$100,000,000” for “$25,000,000” and “$200,000,000” for “$50,000,000”.
+    Subsec. (e). [Pub. L. 95–238][/us/pl/95/238], § 508, inserted proviso relating to guaranty under subsec. (b)(5) of this section, and provisions relating to exceptions to limitations on amounts guaranteed and procedures applicable to implementation of greater amounts, and substituted “$100,000,000” for “$25,000,000” and “$200,000,000” for “$50,000,000”.
 
-    Subsecs. (g) to (j). [Pub. L. 95–238, § 509][/us/pl/95/238/s509], added subsecs. (g) to (j).
+    Subsecs. (g) to (j). [Pub. L. 95–238][/us/pl/95/238], § 509, added subsecs. (g) to (j).
 
  __Transfer of Functions__ 
 
@@ -105,27 +105,27 @@
 ----------
 
 [/us/usc/t16/s796/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F7
-[/us/pl/93/410/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs201
+[/us/pl/93/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtII
 [/us/stat/88/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1086
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtV
 [/us/stat/92/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F86
-[/us/pl/96/294/s641/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs641%2F1
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F768
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/437/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs11%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/usc/t16/s796/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F7
-[/us/pl/95/238/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs506
-[/us/pl/95/238/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs505
-[/us/pl/95/238/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs507
-[/us/pl/95/238/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs508
-[/us/pl/95/238/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs509
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/95/238/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs501%2F2
 [/us/stat/92/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F86
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91

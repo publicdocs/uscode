@@ -55,31 +55,31 @@
 
         For the purposes of assisting in the planning and evaluation of reclamation projects pursuant to [section 1235 of this title][/us/usc/t30/s1235], and assisting in making the certification referred to in [section 1240a(a) of this title][/us/usc/t30/s1240a/a], the Secretary shall maintain an inventory of eligible lands and waters pursuant to [section 1234 of this title][/us/usc/t30/s1234] which meet the priorities stated in paragraphs (1) and (2) of subsection (a). Under standardized procedures established by the Secretary, States and Indian tribes with approved abandoned mine reclamation programs pursuant to [section 1235 of this title][/us/usc/t30/s1235] may offer amendments, subject to the approval of the Secretary, to update the inventory as it applies to eligible lands and waters under the jurisdiction of such States or tribes. The Secretary shall provide such States and tribes with the financial and technical assistance necessary for the purpose of making inventory amendments. The Secretary shall compile and maintain an inventory for States and Indian lands in the case when a State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to [section 1235 of this title][/us/usc/t30/s1235]. On a regular basis, but not less than annually, the projects completed under this subchapter shall be so noted on the inventory under standardized procedures established by the Secretary.
 
-([Pub. L. 95–87, title IV, § 403][/us/pl/95/87/s403], Aug. 3, 1977, [91 Stat. 458][/us/stat/91/458]; [Pub. L. 101–508, title VI, § 6005][/us/pl/101/508/s6005], Nov. 5, 1990, [104 Stat. 1388–294][/us/stat/104/1388-294]; [Pub. L. 102–486, title XXV, § 2504(c)(2)][/us/pl/102/486/s2504/c/2], (e), Oct. 24, 1992, [106 Stat. 3105][/us/stat/106/3105], 3106; [Pub. L. 109–432, div. C, title II, § 203][/us/pl/109/432/s203], Dec. 20, 2006, [120 Stat. 3015][/us/stat/120/3015].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 403, Aug. 3, 1977, [91 Stat. 458][/us/stat/91/458]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6005, Nov. 5, 1990, [104 Stat. 1388–294][/us/stat/104/1388-294]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2504(c)(2), (e), Oct. 24, 1992, [106 Stat. 3105][/us/stat/106/3105], 3106; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 203, Dec. 20, 2006, [120 Stat. 3015][/us/stat/120/3015].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–432, § 203(1)(A)][/us/pl/109/432/s203/1/A], designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
+    2006—Subsec. (a)(1). [Pub. L. 109–432][/us/pl/109/432], § 203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 109–432, § 203(1)(B)][/us/pl/109/432/s203/1/B], designated existing provisions as subpar. (A), substituted “health and safety” for “health, safety, and general welfare”, and added subpar. (B).
+    Subsec. (a)(2). [Pub. L. 109–432][/us/pl/109/432], § 203(1)(B), designated existing provisions as subpar. (A), substituted “health and safety” for “health, safety, and general welfare”, and added subpar. (B).
 
-    Subsec. (a)(3). [Pub. L. 109–432, § 203(1)(C)][/us/pl/109/432/s203/1/C], which directed that a period be substituted for the semicolon at end, could not be executed because a period already appeared at end.
+    Subsec. (a)(3). [Pub. L. 109–432][/us/pl/109/432], § 203(1)(C), which directed that a period be substituted for the semicolon at end, could not be executed because a period already appeared at end.
 
-    Subsec. (a)(4), (5). [Pub. L. 109–432, § 203(1)(D)][/us/pl/109/432/s203/1/D], struck out pars. (4) and (5) which read as follows:
+    Subsec. (a)(4), (5). [Pub. L. 109–432][/us/pl/109/432], § 203(1)(D), struck out pars. (4) and (5) which read as follows:
 
     “(4) the protection, repair, replacement, construction, or enhancement of public facilities such as utilities, roads, recreation, and conservation facilities adversely affected by coal mining practices;
 
     “(5) the development of publicly owned land adversely affected by coal mining practices including land acquired as provided in this subchapter for recreation and historic purposes, conservation, and reclamation purposes and open space benefits.”
 
-    Subsec. (b). [Pub. L. 109–432, § 203(2)(A)][/us/pl/109/432/s203/2/A], substituted “Water supply restoration” for “Utilities and other facilities” in heading.
+    Subsec. (b). [Pub. L. 109–432][/us/pl/109/432], § 203(2)(A), substituted “Water supply restoration” for “Utilities and other facilities” in heading.
 
-    Subsec. (b)(1). [Pub. L. 109–432, § 203(2)(B)][/us/pl/109/432/s203/2/B], struck out “up to 30 percent of the” before “funds”.
+    Subsec. (b)(1). [Pub. L. 109–432][/us/pl/109/432], § 203(2)(B), struck out “up to 30 percent of the” before “funds”.
 
-    Subsec. (c). [Pub. L. 109–432, § 203(3)][/us/pl/109/432/s203/3], inserted “, subject to the approval of the Secretary,” after “amendments” in second sentence.
+    Subsec. (c). [Pub. L. 109–432][/us/pl/109/432], § 203(3), inserted “, subject to the approval of the Secretary,” after “amendments” in second sentence.
 
-    1992—Subsec. (a)(4) to (6). [Pub. L. 102–486, § 2504(c)(2)][/us/pl/102/486/s2504/c/2], redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
+    1992—Subsec. (a)(4) to (6). [Pub. L. 102–486][/us/pl/102/486], § 2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
 
-    Subsec. (b)(2). [Pub. L. 102–486, § 2504(e)][/us/pl/102/486/s2504/e], inserted “, or as the case may be, the dates (and under the criteria) set forth under [section 1232(g)(4)(B) of this title][/us/usc/t30/s1232/g/4/B]” after “1977” in two places.
+    Subsec. (b)(2). [Pub. L. 102–486][/us/pl/102/486], § 2504(e), inserted “, or as the case may be, the dates (and under the criteria) set forth under [section 1232(g)(4)(B) of this title][/us/usc/t30/s1232/g/4/B]” after “1977” in two places.
 
     1990—[Pub. L. 101–508][/us/pl/101/508] designated existing provisions as subsec. (a), inserted heading and “, except as provided for under [section 1240a of this title][/us/usc/t30/s1240a],” after “subchapter”, and added subsecs. (b) and (c).
 
@@ -106,23 +106,23 @@
 [/us/usc/t30/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1234
 [/us/usc/t30/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1235
 [/us/usc/t30/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1235
-[/us/pl/95/87/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs403
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F458
-[/us/pl/101/508/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6005
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-294
-[/us/pl/102/486/s2504/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fc%2F2
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3105
-[/us/pl/109/432/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3015
-[/us/pl/109/432/s203/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F1%2FA
-[/us/pl/109/432/s203/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F1%2FB
-[/us/pl/109/432/s203/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F1%2FC
-[/us/pl/109/432/s203/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F1%2FD
-[/us/pl/109/432/s203/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F2%2FA
-[/us/pl/109/432/s203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F2%2FB
-[/us/pl/109/432/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2F3
-[/us/pl/102/486/s2504/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fc%2F2
-[/us/pl/102/486/s2504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fe
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t30/s1232/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F4%2FB
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1240a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240a

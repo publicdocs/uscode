@@ -43,7 +43,7 @@
 
     (m) wherever necessary, exercise the full reach of Federal constitutional powers to insure the protection of the public interest through effective control of surface coal mining operations.
 
-([Pub. L. 95–87, title I, § 102][/us/pl/95/87/s102], Aug. 3, 1977, [91 Stat. 448][/us/stat/91/448].)
+([Pub. L. 95–87, title I][/us/pl/95/87/tI], § 102, Aug. 3, 1977, [91 Stat. 448][/us/stat/91/448].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs102
+[/us/pl/95/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtI
 [/us/stat/91/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F448
 
 

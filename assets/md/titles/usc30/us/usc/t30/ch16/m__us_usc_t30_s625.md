@@ -17,7 +17,7 @@
 
     Notwithstanding any other provisions of this chapter, all mining claims and mill sites or mineral rights located under the terms of this chapter or otherwise contained on the public lands as described in [section 621 of this title][/us/usc/t30/s621] shall be used only for the purposes specified in [section 621 of this title][/us/usc/t30/s621] and no facility or activity shall be erected or conducted thereon for other purposes.
 
-([Aug. 11, 1955, ch. 797, § 6][/us/act/1955-08-11/ch797/s6], [69 Stat. 683][/us/stat/69/683].)
+([Aug. 11, 1955, ch. 797][/us/act/1955-08-11/ch797], § 6, [69 Stat. 683][/us/stat/69/683].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t30/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs621
 [/us/usc/t30/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs621
-[/us/act/1955-08-11/ch797/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797%2Fs6
+[/us/act/1955-08-11/ch797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797
 [/us/stat/69/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F683
 
 

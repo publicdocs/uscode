@@ -87,11 +87,11 @@
 
         There are authorized to be appropriated to the insurance fund, as repayable advances, such sums as may be necessary to meet obligations incurred under subsection (g). All such sums shall remain available without fiscal year limitation. Advances made pursuant to this subsection shall be repaid, with interest, to the general fund of the Treasury when the Secretary determines that moneys are available in the insurance fund for such repayments. Interest on such advances shall be computed in the same manner as provided in subsection (b)(2) of section 934a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 91–173, title IV, § 433][/us/pl/91/173/s433], as added [Pub. L. 95–239, § 13][/us/pl/95/239/s13], Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 433, as added [Pub. L. 95–239][/us/pl/95/239], § 13, Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101].)
 
  __References in Text__ 
 
-    [Section 934a of this title][/us/usc/t30/s934a], referred to in subsec. (i), was repealed by [Pub. L. 97–119, title I, § 103(b)][/us/pl/97/119/s103/b], Dec. 29, 1981, [95 Stat. 1638][/us/stat/95/1638]. See [section 9501(c) of Title 26][/us/usc/t26/s9501/c], Internal Revenue Code.
+    [Section 934a of this title][/us/usc/t30/s934a], referred to in subsec. (i), was repealed by [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 103(b), Dec. 29, 1981, [95 Stat. 1638][/us/stat/95/1638]. See [section 9501(c) of Title 26][/us/usc/t26/s9501/c], Internal Revenue Code.
 
  __Codification__ 
 
@@ -112,11 +112,11 @@
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
 [/us/usc/t30/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs933
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
-[/us/pl/91/173/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs433
-[/us/pl/95/239/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs13
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F101
 [/us/usc/t30/s934a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs934a
-[/us/pl/97/119/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs103%2Fb
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1638
 [/us/usc/t26/s9501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501%2Fc
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

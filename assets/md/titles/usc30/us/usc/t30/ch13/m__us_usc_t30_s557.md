@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may issue rules and regulations to effectuate the purposes of this chapter.
 
-([Aug. 31, 1954, ch. 1156, § 7][/us/act/1954-08-31/ch1156/s7], [68 Stat. 1011][/us/stat/68/1011].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 7, [68 Stat. 1011][/us/stat/68/1011].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-31/ch1156/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs7
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1011
 
 

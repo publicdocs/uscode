@@ -19,7 +19,7 @@
 
     (b) The Secretary shall make a report of the results of his study to the Congress as soon as practicable after December 30, 1969.
 
-([Pub. L. 91–173, title V, § 512][/us/pl/91/173/s512], Dec. 30, 1969, [83 Stat. 804][/us/stat/83/804]; [Pub. L. 95–164, title III, § 303(g)][/us/pl/95/164/s303/g], Nov. 9, 1977, [91 Stat. 1321][/us/stat/91/1321].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 512, Dec. 30, 1969, [83 Stat. 804][/us/stat/83/804]; [Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 303(g), Nov. 9, 1977, [91 Stat. 1321][/us/stat/91/1321].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/91/173/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs512
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F804
-[/us/pl/95/164/s303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fg
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1321
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164

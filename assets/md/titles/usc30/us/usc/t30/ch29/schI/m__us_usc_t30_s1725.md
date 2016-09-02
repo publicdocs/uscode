@@ -17,11 +17,11 @@
 
     Beginning eighteen months after August 13, 1996, to encourage proper royalty payment the Secretary or the delegated State shall impose assessments on a person who chronically submits erroneous reports under this chapter. Assessments under this chapter may only be issued as provided for in this section.
 
-([Pub. L. 97–451, title I, § 116][/us/pl/97/451/s116], as added [Pub. L. 104–185, § 6(f)(1)][/us/pl/104/185/s6/f/1], Aug. 13, 1996, [110 Stat. 1714][/us/stat/110/1714].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 116, as added [Pub. L. 104–185][/us/pl/104/185], § 6(f)(1), Aug. 13, 1996, [110 Stat. 1714][/us/stat/110/1714].)
 
  __Codification__ 
 
-    [Pub. L. 104–185, § 4(a)][/us/pl/104/185/s4/a], which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
+    [Pub. L. 104–185][/us/pl/104/185], § 4(a), which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
 
  __Effective Date__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/97/451/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs116
-[/us/pl/104/185/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Ff%2F1
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1714
-[/us/pl/104/185/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs4%2Fa
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs11
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185

@@ -67,7 +67,7 @@
 
         The Secretary shall send a copy of every proposed mandatory health or safety standard or regulation at the time of publication in the Federal Register to the operator of each coal or other mine and the representative of the miners at such mine and such copy shall be immediately posted on the bulletin board of the mine by the operator or his agent, but failure to receive such notice shall not relieve anyone of the obligation to comply with such standard or regulation.
 
-([Pub. L. 91–173, title I, § 101][/us/pl/91/173/s101], Dec. 30, 1969, [83 Stat. 745][/us/stat/83/745]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1291][/us/stat/91/1291]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 101, Dec. 30, 1969, [83 Stat. 745][/us/stat/83/745]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1291][/us/stat/91/1291]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 
  __Sealing of Abandoned Areas__ 
 
-[Pub. L. 109–236, § 10][/us/pl/109/236/s10], June 15, 2006, [120 Stat. 501][/us/stat/120/501], provided that:
+[Pub. L. 109–236][/us/pl/109/236], § 10, June 15, 2006, [120 Stat. 501][/us/stat/120/501], provided that:
 
 > “Not later than 18 months after the issuance by the Mine Safety and Health Administration of a final report on the Sago Mine accident or the date of enactment of the Mine Improvement and New Emergency Response Act of 2006 \[June 15, 2006\], whichever occurs earlier, the Secretary of Labor shall finalize mandatory heath and safety standards relating to the sealing of abandoned areas in underground coal mines. Such health and safety standards shall provide for an increase in the 20 psi standard currently set forth in section 75.335(a)(2) of title 30, Code of Federal Regulations.”
 
@@ -118,11 +118,11 @@
 [/us/usc/t30/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs812%2Fc
 [/us/usc/t30/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs812%2Fc
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/91/173/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs101
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F745
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1291
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
@@ -142,7 +142,7 @@
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
-[/us/pl/109/236/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs10
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F501
 
 

@@ -35,7 +35,7 @@
 
         For purposes of this section, it shall be a rebuttable presumption that all hard mineral resources found on board a vessel subject to the provisions of sections 1464 and 1465 of this title which is seized in connection with an act prohibited by [section 1461 of this title][/us/usc/t30/s1461] were recovered, processed, or retained in violation of this chapter.
 
-([Pub. L. 96–283, title III, § 306][/us/pl/96/283/s306], June 28, 1980, [94 Stat. 580][/us/stat/94/580].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 306, June 28, 1980, [94 Stat. 580][/us/stat/94/580].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t30/s1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1467
 [/us/usc/t30/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1461
 [/us/usc/t30/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1461
-[/us/pl/96/283/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs306
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F580
 
 

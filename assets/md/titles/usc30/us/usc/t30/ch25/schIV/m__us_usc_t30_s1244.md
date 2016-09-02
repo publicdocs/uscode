@@ -47,7 +47,7 @@
 
                 The amount of a rebate or waiver provided as an incentive under paragraph (1)(A) to remine or reclaim eligible land shall not exceed the estimated cost of reclaiming the eligible land under this section.
 
-([Pub. L. 95–87, title IV, § 415][/us/pl/95/87/s415], as added [Pub. L. 109–432, div. C, title II, § 207][/us/pl/109/432/s207], Dec. 20, 2006, [120 Stat. 3018][/us/stat/120/3018].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 415, as added [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 207, Dec. 20, 2006, [120 Stat. 3018][/us/stat/120/3018].)
 
 ----------
 
@@ -60,8 +60,8 @@
 [/us/usc/t30/s1232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fa
 [/us/usc/t30/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1259
 [/us/usc/t30/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1233%2Fa
-[/us/pl/95/87/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs415
-[/us/pl/109/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs207
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3018
 
 

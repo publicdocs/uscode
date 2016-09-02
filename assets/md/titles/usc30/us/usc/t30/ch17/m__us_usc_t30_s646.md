@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated, from any funds in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 85–701, § 6][/us/pl/85/701/s6], Aug. 21, 1958, [72 Stat. 701][/us/stat/72/701].)
+([Pub. L. 85–701][/us/pl/85/701], § 6, Aug. 21, 1958, [72 Stat. 701][/us/stat/72/701].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/701/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701%2Fs6
+[/us/pl/85/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701
 [/us/stat/72/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F701
 
 

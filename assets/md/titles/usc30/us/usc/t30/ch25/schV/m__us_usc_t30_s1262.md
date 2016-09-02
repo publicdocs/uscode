@@ -35,7 +35,7 @@
 
         Coal exploration on Federal lands shall be governed by section 4 of the Federal Coal Leasing Amendments Act of 1975 ([90 Stat. 1085][/us/stat/90/1085]).
 
-([Pub. L. 95–87, title V, § 512][/us/pl/95/87/s512], Aug. 3, 1977, [91 Stat. 483][/us/stat/91/483].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 512, Aug. 3, 1977, [91 Stat. 483][/us/stat/91/483].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t30/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265
 [/us/usc/t30/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1268
 [/us/stat/90/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1085
-[/us/pl/95/87/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs512
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F483
 [/us/stat/90/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1085
 [/us/pl/94/377/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs4

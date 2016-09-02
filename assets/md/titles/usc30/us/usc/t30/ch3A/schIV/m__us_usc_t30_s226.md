@@ -219,7 +219,7 @@
 
                 If the applicant does not complete the requirements within the period specified in subparagraph (A) or if the applicant does not comply with applicable law, the Secretary shall deny the permit.
 
-([Feb. 25, 1920, ch. 85, § 17][/us/act/1920-02-25/ch85/s17], [41 Stat. 443][/us/stat/41/443]; [July 3, 1930, ch. 854, § 1][/us/act/1930-07-03/ch854/s1], [46 Stat. 1007][/us/stat/46/1007]; [Mar. 4, 1931, ch. 506][/us/act/1931-03-04/ch506], [46 Stat. 1523][/us/stat/46/1523]; [Aug. 21, 1935, ch. 599, § 1][/us/act/1935-08-21/ch599/s1], [49 Stat. 676][/us/stat/49/676]; [Aug. 8, 1946, ch. 916, § 3][/us/act/1946-08-08/ch916/s3], [60 Stat. 951][/us/stat/60/951]; [July 29, 1954, ch. 644, § 1(1)][/us/act/1954-07-29/ch644/s1/1]–(3), [68 Stat. 583][/us/stat/68/583]; [Pub. L. 86–507, § 1(21)][/us/pl/86/507/s1/21], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 86–705, § 2][/us/pl/86/705/s2], Sept. 2, 1960, [74 Stat. 781][/us/stat/74/781]; [Pub. L. 97–78, § 1(6)][/us/pl/97/78/s1/6], (8), Nov. 16, 1981, [95 Stat. 1070][/us/stat/95/1070], 1071; [Pub. L. 100–203, title V, § 5102(a)][/us/pl/100/203/s5102/a]–(d)(1), Dec. 22, 1987, [101 Stat. 1330–256][/us/stat/101/1330-256], 1330–257; [Pub. L. 102–486, title XXV][/us/pl/102/486], §§ 2507(a), 2508(a), 2509, Oct. 24, 1992, [106 Stat. 3107–3109][/us/stat/106/3107-3109]; [Pub. L. 103–437, § 11(a)(1)][/us/pl/103/437/s11/a/1], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 104–66, title I, § 1081(a)][/us/pl/104/66/s1081/a], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 109–58, title III][/us/pl/109/58], §§ 350(a), (b), 366, 369(j)(1), Aug. 8, 2005, [119 Stat. 711][/us/stat/119/711], 726, 730; [Pub. L. 113–291, div. B, title XXX, § 3022(a)][/us/pl/113/291/s3022/a], Dec. 19, 2014, [128 Stat. 3762][/us/stat/128/3762].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 17, [41 Stat. 443][/us/stat/41/443]; [July 3, 1930, ch. 854][/us/act/1930-07-03/ch854], § 1, [46 Stat. 1007][/us/stat/46/1007]; [Mar. 4, 1931, ch. 506][/us/act/1931-03-04/ch506], [46 Stat. 1523][/us/stat/46/1523]; [Aug. 21, 1935, ch. 599][/us/act/1935-08-21/ch599], § 1, [49 Stat. 676][/us/stat/49/676]; [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 3, [60 Stat. 951][/us/stat/60/951]; [July 29, 1954, ch. 644][/us/act/1954-07-29/ch644], § 1(1)–(3), [68 Stat. 583][/us/stat/68/583]; [Pub. L. 86–507][/us/pl/86/507], § 1(21), June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 86–705][/us/pl/86/705], § 2, Sept. 2, 1960, [74 Stat. 781][/us/stat/74/781]; [Pub. L. 97–78][/us/pl/97/78], § 1(6), (8), Nov. 16, 1981, [95 Stat. 1070][/us/stat/95/1070], 1071; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5102(a)–(d)(1), Dec. 22, 1987, [101 Stat. 1330–256][/us/stat/101/1330-256], 1330–257; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], §§ 2507(a), 2508(a), 2509, Oct. 24, 1992, [106 Stat. 3107–3109][/us/stat/106/3107-3109]; [Pub. L. 103–437][/us/pl/103/437], § 11(a)(1), Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1081(a), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], §§ 350(a), (b), 366, 369(j)(1), Aug. 8, 2005, [119 Stat. 711][/us/stat/119/711], 726, 730; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3022(a), Dec. 19, 2014, [128 Stat. 3762][/us/stat/128/3762].)
 
  __References in Text__ 
 
@@ -233,45 +233,45 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(A). [Pub. L. 113–291, § 3022(a)(1)][/us/pl/113/291/s3022/a/1], inserted “, except as provided in subparagraph (C)” after “by oral bidding”.
+    2014—Subsec. (b)(1)(A). [Pub. L. 113–291][/us/pl/113/291], § 3022(a)(1), inserted “, except as provided in subparagraph (C)” after “by oral bidding”.
 
-    Subsec. (b)(1)(C). [Pub. L. 113–291, § 3022(a)(2)][/us/pl/113/291/s3022/a/2], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 113–291][/us/pl/113/291], § 3022(a)(2), added subpar. (C).
 
-    2005—Subsec. (b)(1)(B). [Pub. L. 109–58, § 350(b)][/us/pl/109/58/s350/b], inserted “, subject to paragraph (2)(B),” after “Thereafter, the Secretary”.
+    2005—Subsec. (b)(1)(B). [Pub. L. 109–58][/us/pl/109/58], § 350(b), inserted “, subject to paragraph (2)(B),” after “Thereafter, the Secretary”.
 
-    Subsec. (b)(2). [Pub. L. 109–58, § 350(a)][/us/pl/109/58/s350/a], designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+    Subsec. (b)(2). [Pub. L. 109–58][/us/pl/109/58], § 350(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-    Subsec. (b)(2)(A). [Pub. L. 109–58, § 369(j)(1)][/us/pl/109/58/s369/j/1], designated first sentence as cl. (i), substituted “5,760” for “five thousand one hundred and twenty”, designated second and third sentences as cls. (ii) and (iii), respectively, and added cl. (iv).
+    Subsec. (b)(2)(A). [Pub. L. 109–58][/us/pl/109/58], § 369(j)(1), designated first sentence as cl. (i), substituted “5,760” for “five thousand one hundred and twenty”, designated second and third sentences as cls. (ii) and (iii), respectively, and added cl. (iv).
 
-    Subsec. (p). [Pub. L. 109–58, § 366][/us/pl/109/58/s366], added subsec. (p).
+    Subsec. (p). [Pub. L. 109–58][/us/pl/109/58], § 366, added subsec. (p).
 
     1995—Subsec. (j). [Pub. L. 104–66][/us/pl/104/66] struck out at end “The Secretary shall report to Congress at the beginning of each regular session all such agreements entered into during the previous year which involve unleased Government lands.”
 
     1994—Subsec. (b)(1)(B). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-    1992—Subsec. (b)(1)(A). [Pub. L. 102–486, § 2507(a)(1)][/us/pl/102/486/s2507/a/1], substituted “under paragraphs (2) and (3)” for “under paragraph (2)”.
+    1992—Subsec. (b)(1)(A). [Pub. L. 102–486][/us/pl/102/486], § 2507(a)(1), substituted “under paragraphs (2) and (3)” for “under paragraph (2)”.
 
-    Subsec. (b)(3). [Pub. L. 102–486, § 2507(a)(2)][/us/pl/102/486/s2507/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 102–486][/us/pl/102/486], § 2507(a)(2), added par. (3).
 
-    Subsec. (e). [Pub. L. 102–486, § 2509][/us/pl/102/486/s2509], substituted “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: Provided, however,” for “Competitive leases issued under this section shall be for a primary term of five years and noncompetitive leases for a primary term of ten years: Provided, however,”.
+    Subsec. (e). [Pub. L. 102–486][/us/pl/102/486], § 2509, substituted “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: Provided, however,” for “Competitive leases issued under this section shall be for a primary term of five years and noncompetitive leases for a primary term of ten years: Provided, however,”.
 
-    Subsec. (o). [Pub. L. 102–486, § 2508(a)][/us/pl/102/486/s2508/a], added subsec. (o).
+    Subsec. (o). [Pub. L. 102–486][/us/pl/102/486], § 2508(a), added subsec. (o).
 
-    1987—Subsec. (b)(1). [Pub. L. 100–203, § 5102(a)][/us/pl/100/203/s5102/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 12½ per centum in amount or value of the production removed or sold from the lease.”
+    1987—Subsec. (b)(1). [Pub. L. 100–203][/us/pl/100/203], § 5102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 12½ per centum in amount or value of the production removed or sold from the lease.”
 
-    Subsec. (c). [Pub. L. 100–203, § 5102(b)][/us/pl/100/203/s5102/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the lands to be leased are not subject to leasing under subsection (b) of this section, the person first making application for the lease who is qualified to hold a lease under this chapter shall be entitled to a lease of such lands without competitive bidding. Such leases shall be conditioned upon the payment by the lessee of a royalty of 12½ per centum in amount or value of the production removed or sold from the lease.”
+    Subsec. (c). [Pub. L. 100–203][/us/pl/100/203], § 5102(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the lands to be leased are not subject to leasing under subsection (b) of this section, the person first making application for the lease who is qualified to hold a lease under this chapter shall be entitled to a lease of such lands without competitive bidding. Such leases shall be conditioned upon the payment by the lessee of a royalty of 12½ per centum in amount or value of the production removed or sold from the lease.”
 
-    Subsec. (d). [Pub. L. 100–203, § 5102(c)][/us/pl/100/203/s5102/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All leases issued under this section shall be conditioned upon payment by the lessee of a rental of not less than 50 cents per acre for each year of the lease. Each year’s lease rental shall be paid in advance. A minimum royalty of $1 per acre in lieu of rental shall be payable at the expiration of each lease year beginning on or after a discovery of oil or gas in paying quantities on the lands leased.”
+    Subsec. (d). [Pub. L. 100–203][/us/pl/100/203], § 5102(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All leases issued under this section shall be conditioned upon payment by the lessee of a rental of not less than 50 cents per acre for each year of the lease. Each year’s lease rental shall be paid in advance. A minimum royalty of $1 per acre in lieu of rental shall be payable at the expiration of each lease year beginning on or after a discovery of oil or gas in paying quantities on the lands leased.”
 
-    Subsecs. (f) to (n). [Pub. L. 100–203, § 5102(d)(1)][/us/pl/100/203/s5102/d/1], added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
+    Subsecs. (f) to (n). [Pub. L. 100–203][/us/pl/100/203], § 5102(d)(1), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
 
-    1981—Subsec. (b). [Pub. L. 97–78, § 1(6)(a)][/us/pl/97/78/s1/6/a], designated existing provisions as par. (1) and added par. (2).
+    1981—Subsec. (b). [Pub. L. 97–78][/us/pl/97/78], § 1(6)(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c). [Pub. L. 97–78, § 1(6)(b)][/us/pl/97/78/s1/6/b], substituted “subject to leasing under subsection (b) of this section” for “within any known geological structure of a producing oil or gas field”.
+    Subsec. (c). [Pub. L. 97–78][/us/pl/97/78], § 1(6)(b), substituted “subject to leasing under subsection (b) of this section” for “within any known geological structure of a producing oil or gas field”.
 
-    Subsec. (e). [Pub. L. 97–78, § 1(6)(c)][/us/pl/97/78/s1/6/c], inserted proviso that competitive leases in special tar sand areas be for a primary term of ten years.
+    Subsec. (e). [Pub. L. 97–78][/us/pl/97/78], § 1(6)(c), inserted proviso that competitive leases in special tar sand areas be for a primary term of ten years.
 
-    Subsec. (k). [Pub. L. 97–78, § 1(8)][/us/pl/97/78/s1/8], added subsec. (k).
+    Subsec. (k). [Pub. L. 97–78][/us/pl/97/78], § 1(8), added subsec. (k).
 
     1960—[Pub. L. 86–705][/us/pl/86/705] generally amended this section and sections 226d and 226e of this title, combining all three sections and subdividing provisions into subsections (a) to (j) of this section. Among other changes were: substitution of a fixed 10-year term for a renewable 5-year term for noncompetitive leases, the addition of subsec. (h) provisions with respect to the running of time against a lease during a contest of the claim, an increase in the minimum yearly rentals from 25 to 50 cents an acre, and striking out provisions that permitted a waiver of second-year and third-year rentals in certain situations.
 
@@ -293,21 +293,21 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XXV, § 2507(b)][/us/pl/102/486/s2507/b], Oct. 24, 1992, [106 Stat. 3108][/us/stat/106/3108], provided that: 
+[Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2507(b), Oct. 24, 1992, [106 Stat. 3108][/us/stat/106/3108], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply with respect to those mineral estates in which the interest of the United States becomes a vested present interest after January 1, 1990.”
 
  __Regulations__ 
 
-[Pub. L. 109–58, title III, § 350(c)][/us/pl/109/58/s350/c], Aug. 8, 2005, [119 Stat. 711][/us/stat/119/711], provided that: 
+[Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 350(c), Aug. 8, 2005, [119 Stat. 711][/us/stat/119/711], provided that: 
 
 > “Not later than 45 days after the date of enactment of this Act \[Aug. 8, 2005\], the Secretary \[of the Interior\] shall issue final regulations to implement this section \[amending this section\].”
 
-[Pub. L. 102–486, title XXV, § 2508(b)][/us/pl/102/486/s2508/b], Oct. 24, 1992, [106 Stat. 3109][/us/stat/106/3109], provided that: 
+[Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2508(b), Oct. 24, 1992, [106 Stat. 3109][/us/stat/106/3109], provided that: 
 
 > “Within 90 days after the enactment of this Act \[Oct. 24, 1992\] the Secretary of Agriculture shall promulgate regulations to implement the amendment made by subsection (a) \[amending this section\].”
 
-[Pub. L. 100–203, title V, § 5107][/us/pl/100/203/s5107], Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259], provided that:
+[Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5107, Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259], provided that:
 
 >     “(a)  __Regulations__  __.—__ 
 
@@ -323,7 +323,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 86–705, § 8][/us/pl/86/705/s8], Sept. 2, 1960, [74 Stat. 791][/us/stat/74/791], provided that: 
+[Pub. L. 86–705][/us/pl/86/705], § 8, Sept. 2, 1960, [74 Stat. 791][/us/stat/74/791], provided that: 
 
 > “No amendment made by this Act \[see Short Title of 1960 Amendment note set out under [section 181 of this title][/us/usc/t30/s181]\] shall affect any valid right in existence on the effective date \[Sept. 2, 1960\] of the Mineral Leasing Act Revision of 1960.”
 
@@ -331,11 +331,11 @@
 
  __Transfer of Functions__ 
 
-    Functions of Secretary of the Interior, referred to in subsec. (j), to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by [section 7152(b) of Title 42][/us/usc/t42/s7152/b], The Public Health and Welfare. [Section 7152(b) of Title 42][/us/usc/t42/s7152/b] was repealed by [Pub. L. 97–100, title II, § 201][/us/pl/97/100/s201], Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407], and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+    Functions of Secretary of the Interior, referred to in subsec. (j), to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by [section 7152(b) of Title 42][/us/usc/t42/s7152/b], The Public Health and Welfare. [Section 7152(b) of Title 42][/us/usc/t42/s7152/b] was repealed by [Pub. L. 97–100, title II][/us/pl/97/100/tII], § 201, Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407], and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
  __Pending Applications, Offers, and Bids__ 
 
-[Pub. L. 100–203, title V, § 5106][/us/pl/100/203/s5106], Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259], provided that:
+[Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5106, Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259], provided that:
 
 >     “(a) Notwithstanding any other provision of this subtitle \[subtitle B (§§ 5101–5113) of title V of [Pub. L. 100–203][/us/pl/100/203], see Short Title of 1987 Amendment note set out under [section 181 of this title][/us/usc/t30/s181]\] and except as provided in subsection (b) of this section, all noncompetitive oil and gas lease applications and offers and competitive oil and gas bids pending on the date of enactment of this subtitle \[Dec. 22, 1987\] shall be processed, and leases shall be issued under the provisions of the Act of February 25, 1920 \[this chapter\], as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law.
 
@@ -345,7 +345,7 @@
 
  __Report to Congress__ 
 
-[Pub. L. 100–203, title V, § 5110][/us/pl/100/203/s5110], Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261], provided that: 
+[Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5110, Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261], provided that: 
 
 > “The Secretary shall submit annually for 5 years after enactment of this subtitle \[Dec. 22, 1987\] to the Congress a report containing appropriate information to facilitate congressional monitoring of this subtitle \[subtitle B (§§ 5101–5113) of title V of [Pub. L. 100–203][/us/pl/100/203], see Short Title of 1987 Amendment note set out under [section 181 of this title][/us/usc/t30/s181]\]. Such report shall include, but not be limited to—
 
@@ -365,7 +365,7 @@
 
  __Land Use Study__ 
 
-[Pub. L. 100–203, title V, § 5111][/us/pl/100/203/s5111], Dec. 22, 1987, [101 Stat. 1330–262][/us/stat/101/1330-262], provided that: 
+[Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5111, Dec. 22, 1987, [101 Stat. 1330–262][/us/stat/101/1330-262], provided that: 
 
 > “The National Academy of Sciences and the Comptroller General of the United States shall conduct a study of the manner in which oil and gas resources are considered in the land use plans developed by the Secretary of the Interior in accordance with provisions of the Federal Land Policy and Management Act of 1976 ([90 Stat. 2743][/us/stat/90/2743]) \[[Pub. L. 94–579][/us/pl/94/579], see Short Title note under [43 U.S.C. 1701][/us/usc/t43/s1701]\] and the Secretary of Agriculture in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974 ([88 Stat. 476][/us/stat/88/476]) \[[Pub. L. 93–378][/us/pl/93/378], [16 U.S.C. 1600][/us/usc/t16/s1600] et seq.\], as amended by the National Forest Management Act of 1976 ([90 Stat. 2949][/us/stat/90/2949]) \[[Pub. L. 94–588][/us/pl/94/588], see Short Title of 1976 Amendment note under [16 U.S.C. 1600][/us/usc/t16/s1600]\], and recommend any improvements that may be necessary to ensure that—
 
@@ -379,7 +379,7 @@
 
 [Act July 14, 1952, ch. 742][/us/act/1952-07-14/ch742], [66 Stat. 630][/us/stat/66/630], provided: 
 
-> “That any lease issued for a ten-year term in exchange for an oil and gas prospecting permit pursuant to sections 13 and 17 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended by the Act of August 21, 1935 ([49 Stat. 674][/us/stat/49/674]) \[sections 221 and 226, respectively, of this title\], and prior to amendment by the Act of August 8, 1946 \[[act Aug. 8, 1946, ch. 916, § 3][/us/act/1946-08-08/ch916/s3], [60 Stat. 951][/us/stat/60/951]\], and upon which drilling operations were being diligently prosecuted on the expiration date of such lease, prior to the effective date of this Act \[July 14, 1952\], is hereby reinstated effective from the expiration date of the lease and shall continue in effect for a period of two years after the effective date of this Act and so long thereafter as oil or gas is produced in paying quantities, if, within ninety days after the enactment of this Act, payment is made, under the terms of such lease as reinstated and extended, of any sums due the United States for prior years. This Act shall not be applicable to any lands which, subsequent to such expiration and prior to the enactment of this Act, have been withdrawn from leasing, leased, or otherwise disposed of.”
+> “That any lease issued for a ten-year term in exchange for an oil and gas prospecting permit pursuant to sections 13 and 17 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended by the Act of August 21, 1935 ([49 Stat. 674][/us/stat/49/674]) \[sections 221 and 226, respectively, of this title\], and prior to amendment by the Act of August 8, 1946 \[[act Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 3, [60 Stat. 951][/us/stat/60/951]\], and upon which drilling operations were being diligently prosecuted on the expiration date of such lease, prior to the effective date of this Act \[July 14, 1952\], is hereby reinstated effective from the expiration date of the lease and shall continue in effect for a period of two years after the effective date of this Act and so long thereafter as oil or gas is produced in paying quantities, if, within ninety days after the enactment of this Act, payment is made, under the terms of such lease as reinstated and extended, of any sums due the United States for prior years. This Act shall not be applicable to any lands which, subsequent to such expiration and prior to the enactment of this Act, have been withdrawn from leasing, leased, or otherwise disposed of.”
 
  __Outer Continental Shelf; Leases__ 
 
@@ -399,35 +399,35 @@
 [/us/usc/t30/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs527
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/act/1920-02-25/ch85/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs17
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F443
-[/us/act/1930-07-03/ch854/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch854%2Fs1
+[/us/act/1930-07-03/ch854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch854
 [/us/stat/46/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1007
 [/us/act/1931-03-04/ch506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch506
 [/us/stat/46/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1523
-[/us/act/1935-08-21/ch599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch599%2Fs1
+[/us/act/1935-08-21/ch599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch599
 [/us/stat/49/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F676
-[/us/act/1946-08-08/ch916/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs3
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F951
-[/us/act/1954-07-29/ch644/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch644%2Fs1%2F1
+[/us/act/1954-07-29/ch644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch644
 [/us/stat/68/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F583
-[/us/pl/86/507/s1/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F21
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
-[/us/pl/86/705/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs2
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F781
-[/us/pl/97/78/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F6
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
 [/us/stat/95/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1070
-[/us/pl/100/203/s5102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5102%2Fa
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-256
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3107-3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3107-3109
-[/us/pl/103/437/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs11%2Fa%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4589
-[/us/pl/104/66/s1081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1081%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F711
-[/us/pl/113/291/s3022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3022%2Fa
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3762
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
@@ -442,57 +442,57 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/113/291/s3022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3022%2Fa%2F1
-[/us/pl/113/291/s3022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3022%2Fa%2F2
-[/us/pl/109/58/s350/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs350%2Fb
-[/us/pl/109/58/s350/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs350%2Fa
-[/us/pl/109/58/s369/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369%2Fj%2F1
-[/us/pl/109/58/s366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs366
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/102/486/s2507/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2507%2Fa%2F1
-[/us/pl/102/486/s2507/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2507%2Fa%2F2
-[/us/pl/102/486/s2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2509
-[/us/pl/102/486/s2508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2508%2Fa
-[/us/pl/100/203/s5102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5102%2Fa
-[/us/pl/100/203/s5102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5102%2Fb
-[/us/pl/100/203/s5102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5102%2Fc
-[/us/pl/100/203/s5102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5102%2Fd%2F1
-[/us/pl/97/78/s1/6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F6%2Fa
-[/us/pl/97/78/s1/6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F6%2Fb
-[/us/pl/97/78/s1/6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F6%2Fc
-[/us/pl/97/78/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F8
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
 [/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
-[/us/pl/102/486/s2507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2507%2Fb
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3108
-[/us/pl/109/58/s350/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs350%2Fc
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F711
-[/us/pl/102/486/s2508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2508%2Fb
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3109
-[/us/pl/100/203/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5107
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-259
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/86/705/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs8
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F791
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t42/s7152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fb
 [/us/usc/t42/s7152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fb
-[/us/pl/97/100/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2Fs201
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1407
-[/us/pl/100/203/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5106
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-259
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs188
-[/us/pl/100/203/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5110
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-261
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/100/203/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5111
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-262
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
@@ -506,7 +506,7 @@
 [/us/act/1952-07-14/ch742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch742
 [/us/stat/66/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F630
 [/us/stat/49/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F674
-[/us/act/1946-08-08/ch916/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs3
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F951
 
 

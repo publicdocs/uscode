@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2351 derived from [act Mar. 3, 1873, ch. 279, § 5][/us/act/1873-03-03/ch279/s5], [17 Stat. 608][/us/stat/17/608].
+    R.S. § 2351 derived from [act Mar. 3, 1873, ch. 279][/us/act/1873-03-03/ch279], § 5, [17 Stat. 608][/us/stat/17/608].
 
  __Transfer of Functions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/act/1873-03-03/ch279/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279%2Fs5
+[/us/act/1873-03-03/ch279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279
 [/us/stat/17/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F608
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs71

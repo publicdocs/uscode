@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_ch10.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
+[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_s451...460 _us_usc_t30_s471...483.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
 
 ## CHAPTER 11—MINING CLAIMS ON LANDS SUBJECT TO MINERAL LEASING LAWS
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_ch10.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
+[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_s451...460 _us_usc_t30_s471...483.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
 
 ----------
 ----------

@@ -25,7 +25,7 @@
 
     (4) take such other actions as are in the interest of justice.
 
-([Pub. L. 96–283, title III, § 307][/us/pl/96/283/s307], June 28, 1980, [94 Stat. 580][/us/stat/94/580].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 307, June 28, 1980, [94 Stat. 580][/us/stat/94/580].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs307
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F580
 
 

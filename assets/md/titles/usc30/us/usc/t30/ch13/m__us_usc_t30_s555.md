@@ -27,7 +27,7 @@
 
         The Secretary of the Interior shall require in connection with any project for the control or extinguishment of fires in any inactive coal mine on any lands not owned or controlled by the United States or any of its agencies, except where such project is necessary for the protection of lands or other property owned or controlled by the United States or any of its agencies, (1) that the State or person owning or controlling such lands contribute on a matching basis 50 per centum of the cost of planning and executing such project, or (2), if such State or person furnishes evidence satisfactory to the Secretary of the Interior of an inability to make the matching contribution herein provided for, that such State or person pay to the Government, within such period of time as the Secretary of the Interior shall determine, an amount equal to 50 per centum of the cost of planning and executing such project. At least 75 per centum of the funds expended in any fiscal year, from any appropriation available to carry out the purposes of this chapter, in connection with projects for the control or extinguishment of fires in inactive coal mines where such action is not necessary for the protection of lands or other property owned or controlled by the United States or any of its agencies, shall be expended in conformity with clause (1) of this subsection.
 
-([Aug. 31, 1954, ch. 1156, § 5][/us/act/1954-08-31/ch1156/s5], [68 Stat. 1010][/us/stat/68/1010].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 5, [68 Stat. 1010][/us/stat/68/1010].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t30/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs553%2Fb
-[/us/act/1954-08-31/ch1156/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs5
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1010
 
 

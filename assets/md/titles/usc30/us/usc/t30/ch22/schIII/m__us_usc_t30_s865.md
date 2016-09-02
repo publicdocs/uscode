@@ -129,7 +129,7 @@
 
         An authorized representative of the Secretary may require in any mine that electric face equipment be provided with devices that will permit the equipment to be deenergized quickly in the event of an emergency.
 
-([Pub. L. 91–173, title III, § 305][/us/pl/91/173/s305], Dec. 30, 1969, [83 Stat. 775][/us/stat/83/775].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 305, Dec. 30, 1969, [83 Stat. 775][/us/stat/83/775].)
 
  __References in Text__ 
 
@@ -144,7 +144,7 @@
 
 [/us/usc/t30/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs804
 [/us/usc/t30/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs804
-[/us/pl/91/173/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs305
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F775
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

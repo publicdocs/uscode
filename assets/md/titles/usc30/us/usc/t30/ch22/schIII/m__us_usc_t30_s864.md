@@ -35,7 +35,7 @@
 
         Subsections (b) through (d) of this section shall not apply to underground anthracite mines.
 
-([Pub. L. 91–173, title III, § 304][/us/pl/91/173/s304], Dec. 30, 1969, [83 Stat. 774][/us/stat/83/774].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 304, Dec. 30, 1969, [83 Stat. 774][/us/stat/83/774].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs304
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F774
 
 

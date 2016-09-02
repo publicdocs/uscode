@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of law, any vessel described in subsection (a) shall be subject to the provisions of chapter 51 of title 46, and to the provisions of titles 52 and 53 of the Revised Statutes and all Acts amendatory thereof or supplementary thereto.
 
-([Pub. L. 96–283, title I, § 112][/us/pl/96/283/s112], June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 112, June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “chapter 51 of title 46” substituted for “the International Voyage Load Line Act of 1973” on authority of [Pub. L. 99–509, title V, § 5103(b)][/us/pl/99/509/s5103/b], Oct. 21, 1986, [100 Stat. 1927][/us/stat/100/1927], section 5101 of which enacted parts C and J of subtitle II of Title 46, Shipping.
+    In subsec. (b), “chapter 51 of title 46” substituted for “the International Voyage Load Line Act of 1973” on authority of [Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5103(b), Oct. 21, 1986, [100 Stat. 1927][/us/stat/100/1927], section 5101 of which enacted parts C and J of subtitle II of Title 46, Shipping.
 
  __Transfer of Functions__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs112
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F571
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F500
@@ -54,7 +54,7 @@
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F500
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
-[/us/pl/99/509/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5103%2Fb
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1927
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

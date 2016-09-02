@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-([Pub. L. 91–631, title II, § 205][/us/pl/91/631/s205], as added [Pub. L. 104–325, § 2(3)][/us/pl/104/325/s2/3], Oct. 19, 1996, [110 Stat. 3999][/us/stat/110/3999].)
+([Pub. L. 91–631, title II][/us/pl/91/631/tII], § 205, as added [Pub. L. 104–325][/us/pl/104/325], § 2(3), Oct. 19, 1996, [110 Stat. 3999][/us/stat/110/3999].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/91/631/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2Fs205
-[/us/pl/104/325/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325%2Fs2%2F3
+[/us/pl/91/631/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2FtII
+[/us/pl/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325
 [/us/stat/110/3999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3999
 
 

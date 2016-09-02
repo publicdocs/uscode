@@ -17,7 +17,7 @@
 
     Claimant shall file or record or cause to be filed or recorded in the office where the notice or certificate of location of such claim or group of claims is filed or recorded, a notice to the public of claimant’s petition to the Secretary of the Interior for deferment under sections 28b to 28e of this title, and of the order or decision disposing of such petition.
 
-([June 21, 1949, ch. 232, § 4][/us/act/1949-06-21/ch232/s4], [63 Stat. 215][/us/stat/63/215].)
+([June 21, 1949, ch. 232][/us/act/1949-06-21/ch232], § 4, [63 Stat. 215][/us/stat/63/215].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-06-21/ch232/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-21%2Fch232%2Fs4
+[/us/act/1949-06-21/ch232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-21%2Fch232
 [/us/stat/63/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F215
 
 

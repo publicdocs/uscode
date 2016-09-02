@@ -27,7 +27,7 @@
 
         In addition to entering into cooperative agreements or delegation of authority authorized under this chapter, the Secretary may contract with such non-Federal Government inspectors, auditors, and other persons as he deems necessary to aid in carrying out his functions under this chapter and its implementation. With respect to his auditing and enforcement functions under this chapter, the Secretary shall coordinate such functions so as to avoid to the maximum extent practicable, subjecting lessees, operators, or other persons to audits or investigations of the same subject matter by more than one auditing or investigating entity at the same time.
 
-([Pub. L. 97–451, title III, § 301][/us/pl/97/451/s301], Jan. 12, 1983, [96 Stat. 2460][/us/stat/96/2460].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 301, Jan. 12, 1983, [96 Stat. 2460][/us/stat/96/2460].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/97/451/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs301
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2460
 
 

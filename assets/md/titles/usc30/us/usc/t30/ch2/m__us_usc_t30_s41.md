@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2336 derived from [act May 10, 1872, ch. 152, § 14][/us/act/1872-05-10/ch152/s14], [17 Stat. 96][/us/stat/17/96].
+    R.S. § 2336 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 14, [17 Stat. 96][/us/stat/17/96].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1872-05-10/ch152/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs14
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F96
 
 

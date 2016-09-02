@@ -17,7 +17,7 @@
 
     The rights under any mining claim given force and effect by this chapter shall also be subject to the reservation to the United States specified in section 5(b)(7) of the Atomic Energy Act of 1946, as amended, and, in addition, any reservation or reservations required by any other provision or provisions of law; and any patent issued for such mining claim shall contain such reservations.
 
-([Aug. 12, 1953, ch. 405, § 3][/us/act/1953-08-12/ch405/s3], [67 Stat. 540][/us/stat/67/540].)
+([Aug. 12, 1953, ch. 405][/us/act/1953-08-12/ch405], § 3, [67 Stat. 540][/us/stat/67/540].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-12/ch405/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405%2Fs3
+[/us/act/1953-08-12/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-12%2Fch405
 [/us/stat/67/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F540
 [/us/usc/t42/s1805/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fb%2F7
 

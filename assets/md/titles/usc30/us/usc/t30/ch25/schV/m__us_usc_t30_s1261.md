@@ -31,7 +31,7 @@
 
         The regulatory authority shall within a time limit prescribed in regulations promulgated by the regulatory authority, review outstanding permits and may require reasonable revision or modification of the permit provisions during the term of such permit: Provided, That such revision or modification shall be based upon a written finding and subject to notice and hearing requirements established by the State or Federal program.
 
-([Pub. L. 95–87, title V, § 511][/us/pl/95/87/s511], Aug. 3, 1977, [91 Stat. 483][/us/stat/91/483].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 511, Aug. 3, 1977, [91 Stat. 483][/us/stat/91/483].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs511
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F483
 
 

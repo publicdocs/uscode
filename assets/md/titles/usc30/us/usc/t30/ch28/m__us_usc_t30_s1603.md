@@ -51,7 +51,7 @@
 
     (9) assess the opportunities for the United States to promote cooperative multilateral and bilateral agreements for materials development in foreign nations for the purpose of increasing the reliability of materials supplies to the Nation.
 
-([Pub. L. 96–479, § 4][/us/pl/96/479/s4], Oct. 21, 1980, [94 Stat. 2306][/us/stat/94/2306].)
+([Pub. L. 96–479][/us/pl/96/479], § 4, Oct. 21, 1980, [94 Stat. 2306][/us/stat/94/2306].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t30/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1602
 [/us/usc/t30/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1604
-[/us/pl/96/479/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479%2Fs4
+[/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2306
 
 

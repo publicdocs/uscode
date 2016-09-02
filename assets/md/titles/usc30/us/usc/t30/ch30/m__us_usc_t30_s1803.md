@@ -51,7 +51,7 @@
 
         In seeking to achieve the goals of this chapter and related Acts, the Council and other Federal departments and agencies with responsibilities or jurisdiction related to materials or materials policy, including the National Security Council, the Council on Environmental Quality, the Office of Management and Budget, and the Office of Science and Technology Policy, shall work collaboratively and in close cooperation.
 
-([Pub. L. 98–373, title II, § 204][/us/pl/98/373/s204], July 31, 1984, [98 Stat. 1250][/us/stat/98/1250].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 204, July 31, 1984, [98 Stat. 1250][/us/stat/98/1250].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Review of Research and Development Priorities in Superconductors__ 
 
-[Pub. L. 100–418, title V, § 5143][/us/pl/100/418/s5143], Aug. 23, 1988, [102 Stat. 1446][/us/stat/102/1446], provided that:
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5143, Aug. 23, 1988, [102 Stat. 1446][/us/stat/102/1446], provided that:
 
 >     “(a)  __National Commission on Superconductivity__  __.—__ 
 
@@ -124,12 +124,12 @@
 
 [/us/usc/t30/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1601
 [/us/usc/t30/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1601
-[/us/pl/98/373/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs204
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1250
 [/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2305
 [/us/usc/t30/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1601
-[/us/pl/100/418/s5143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5143
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1446
 
 

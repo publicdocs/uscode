@@ -53,7 +53,7 @@
 
         Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
-([Pub. L. 98–409, § 9][/us/pl/98/409/s9], Aug. 29, 1984, [98 Stat. 1540][/us/stat/98/1540]; [Pub. L. 100–483][/us/pl/100/483], §§ 8, 9, Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 98–409][/us/pl/98/409], § 9, Aug. 29, 1984, [98 Stat. 1540][/us/stat/98/1540]; [Pub. L. 100–483][/us/pl/100/483], §§ 8, 9, Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __References in Text__ 
 
@@ -65,13 +65,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 1229, [Pub. L. 95–87, title III, § 309][/us/pl/95/87/s309], Aug. 3, 1977, [91 Stat. 455][/us/stat/91/455], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1229, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 309, Aug. 3, 1977, [91 Stat. 455][/us/stat/91/455], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
  __Amendments__ 
 
-    1988—Subsec. (a)(7). [Pub. L. 100–483, § 8][/us/pl/100/483/s8], substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
+    1988—Subsec. (a)(7). [Pub. L. 100–483][/us/pl/100/483], § 8, substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
 
-    Subsec. (e). [Pub. L. 100–483, § 9][/us/pl/100/483/s9], substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
+    Subsec. (e). [Pub. L. 100–483][/us/pl/100/483], § 9, substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
 
  __Change of Name__ 
 
@@ -87,7 +87,7 @@
 
  __Reports__ 
 
-    [Pub. L. 100–483, § 11][/us/pl/100/483/s11], Oct. 12, 1988, [102 Stat. 2341][/us/stat/102/2341], directed Committee on Mining and Mineral Resources Research to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute’s and center’s eligibility pursuant to [section 1230 of this title][/us/usc/t30/s1230], and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
+    [Pub. L. 100–483][/us/pl/100/483], § 11, Oct. 12, 1988, [102 Stat. 2341][/us/stat/102/2341], directed Committee on Mining and Mineral Resources Research to submit a report to Congress by Jan. 15, 1992, on programs established under this subchapter, including reviews of activities of the institutes and generic mineral technology centers established under this subchapter, each institute’s and center’s eligibility pursuant to [section 1230 of this title][/us/usc/t30/s1230], and recommendations on establishing new generic mineral technology centers, as well as phasing out or consolidating existing centers, and further directed Committee to submit to Congress, by Jan. 15, 1990, a proposal to establish a Generic Mineral Technology Center on Strategic and Critical Minerals.
 
 ----------
 
@@ -97,17 +97,17 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/98/409/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs9
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1540
 [/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2340
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/92/463/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs10
-[/us/pl/95/87/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs309
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F455
-[/us/pl/100/483/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs8
-[/us/pl/100/483/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs9
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
@@ -115,7 +115,7 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/100/483/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs11
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2341
 [/us/usc/t30/s1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1230
 

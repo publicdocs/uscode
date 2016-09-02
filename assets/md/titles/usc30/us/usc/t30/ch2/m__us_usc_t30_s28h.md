@@ -17,7 +17,7 @@
 
     The co-ownership provisions of the Mining Law of 1872 ([30 U.S.C. 28][/us/usc/t30/s28])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall remain in effect, except that in applying such provisions, the annual claim maintenance fee required under this Act shall, where applicable, replace applicable assessment requirements and expenditures.
 
-([Pub. L. 103–66, title X, § 10103][/us/pl/103/66/s10103], Aug. 10, 1993, [107 Stat. 406][/us/stat/107/406].)
+([Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10103, Aug. 10, 1993, [107 Stat. 406][/us/stat/107/406].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
+    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381/tI], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t30/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28
-[/us/pl/103/66/s10103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10103
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F406
 [/us/usc/t30/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28
 [/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
@@ -45,7 +45,7 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/stat/107/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F312
 [/us/usc/t30/s28f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28f
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtI
 [/us/stat/106/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1378
 
 

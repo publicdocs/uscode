@@ -17,7 +17,7 @@
 
     Subject to the provisions of this subchapter, the Secretary may dispose of sand, stone, gravel, and vegetative materials located below highwater mark of navigable waters of the Territory of Alaska. Any contract, unexecuted in whole or in part, for the disposal under this subchapter of materials from land, title to which is transferred to a future State upon its admission to the Union, and which is situated within its boundaries, may be terminated or adopted by such State.
 
-([July 31, 1947, ch. 406, § 4][/us/act/1947-07-31/ch406/s4], as added [Aug. 31, 1950, ch. 830][/us/act/1950-08-31/ch830], [64 Stat. 572][/us/stat/64/572].)
+([July 31, 1947, ch. 406][/us/act/1947-07-31/ch406], § 4, as added [Aug. 31, 1950, ch. 830][/us/act/1950-08-31/ch830], [64 Stat. 572][/us/stat/64/572].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1947-07-31/ch406/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-31%2Fch406%2Fs4
+[/us/act/1947-07-31/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-31%2Fch406
 [/us/act/1950-08-31/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-31%2Fch830
 [/us/stat/64/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F572
 [/us/usc/t30/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs601

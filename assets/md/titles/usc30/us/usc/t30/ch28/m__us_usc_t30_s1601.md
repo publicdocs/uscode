@@ -35,11 +35,11 @@
 
     (b) As used in this chapter, the term “materials” means substances, including minerals, of current or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.
 
-([Pub. L. 96–479, § 2][/us/pl/96/479/s2], Oct. 21, 1980, [94 Stat. 2305][/us/stat/94/2305].)
+([Pub. L. 96–479][/us/pl/96/479], § 2, Oct. 21, 1980, [94 Stat. 2305][/us/stat/94/2305].)
 
  __Short Title__ 
 
-[Pub. L. 96–479, § 1][/us/pl/96/479/s1], Oct. 21, 1980, [94 Stat. 2305][/us/stat/94/2305], provided: 
+[Pub. L. 96–479][/us/pl/96/479], § 1, Oct. 21, 1980, [94 Stat. 2305][/us/stat/94/2305], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘National Materials and Minerals Policy, Research and Development Act of 1980’.”
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t30/s21a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs21a
-[/us/pl/96/479/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479%2Fs2
+[/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2305
-[/us/pl/96/479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479%2Fs1
+[/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2305
 
 

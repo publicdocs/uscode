@@ -75,7 +75,7 @@
 
  __Codification__ 
 
-    This chapter is comprised of [Pub. L. 106–193][/us/pl/106/193], as amended generally by [Pub. L. 109–58, title IX, § 968(a)][/us/pl/109/58/s968/a], Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894], known as the Methane Hydrate Research and Development Act of 2000, which was formerly set out as a note under [section 1902 of this title][/us/usc/t30/s1902].
+    This chapter is comprised of [Pub. L. 106–193][/us/pl/106/193], as amended generally by [Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 968(a), Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894], known as the Methane Hydrate Research and Development Act of 2000, which was formerly set out as a note under [section 1902 of this title][/us/usc/t30/s1902].
 
 ----------
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/pl/106/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193
-[/us/pl/109/58/s968/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs968%2Fa
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F894
 [/us/usc/t30/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1902
 

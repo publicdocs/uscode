@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2322 derived from [act May 10, 1872, ch. 152, § 3][/us/act/1872-05-10/ch152/s3], [17 Stat. 91][/us/stat/17/91].
+    R.S. § 2322 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 3, [17 Stat. 91][/us/stat/17/91].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1872-05-10/ch152/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs3
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F91
 
 

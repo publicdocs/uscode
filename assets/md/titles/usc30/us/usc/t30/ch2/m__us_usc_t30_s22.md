@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2319 derived from [act May 10, 1872, ch. 152, § 1][/us/act/1872-05-10/ch152/s1], [17 Stat. 91][/us/stat/17/91].
+    R.S. § 2319 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 1, [17 Stat. 91][/us/stat/17/91].
 
     Words “Except as otherwise provided,” were editorially supplied on authority of [act Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], [41 Stat. 437][/us/stat/41/437], popularly known as the Mineral Lands Leasing Act, which is classified to chapter 3A (§ 181 et seq.) of this title.
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1872-05-10/ch152/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs1
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F91
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

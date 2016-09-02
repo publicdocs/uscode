@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed to affect the rights of the State or other local authorities to exercise any right which they may have with respect to properties covered by leases issued under this chapter, including the right to levy and collect taxes upon improvements, output of mines, or other rights, property, or assets of any lessee of the United States.
 
-([Aug. 7, 1947, ch. 513, § 8][/us/act/1947-08-07/ch513/s8], [61 Stat. 915][/us/stat/61/915].)
+([Aug. 7, 1947, ch. 513][/us/act/1947-08-07/ch513], § 8, [61 Stat. 915][/us/stat/61/915].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-07/ch513/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513%2Fs8
+[/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F915
 
 

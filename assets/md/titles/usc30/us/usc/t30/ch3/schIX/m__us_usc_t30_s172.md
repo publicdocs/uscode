@@ -17,7 +17,7 @@
 
     All lands designated as agricultural in the reclassification of the public lands of Alabama by the Secretary of the Interior under authority of Act March 27, 1906 (chapter 1347, section 1, Thirty-fourth Statutes, page 88), shall be subject to homestead entry as such.
 
-([Mar. 27, 1906, ch. 1347, § 2][/us/act/1906-03-27/ch1347/s2], [34 Stat. 88][/us/stat/34/88].)
+([Mar. 27, 1906, ch. 1347][/us/act/1906-03-27/ch1347], § 2, [34 Stat. 88][/us/stat/34/88].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1906-03-27/ch1347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-27%2Fch1347%2Fs2
+[/us/act/1906-03-27/ch1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-27%2Fch1347
 [/us/stat/34/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F88
 
 

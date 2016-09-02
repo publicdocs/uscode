@@ -17,7 +17,7 @@
 
     In fiscal year 2009 and thereafter, the Secretary of the Interior, pursuant to regulations, may use directly or through grants to States, moneys collected for civil penalties assessed under [section 1268 of this title][/us/usc/t30/s1268], to reclaim lands adversely affected by coal mining practices after August 3, 1977, to remain available until expended.
 
-([Pub. L. 111–8, div. E, title I][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 712][/us/stat/123/712].)
+([Pub. L. 111–8, div. E, title I][/us/pl/111/8/dE/tI], Mar. 11, 2009, [123 Stat. 712][/us/stat/123/712].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t30/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1268
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtI
 [/us/stat/123/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F712
 
 

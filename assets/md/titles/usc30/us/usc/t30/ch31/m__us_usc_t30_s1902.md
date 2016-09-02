@@ -45,11 +45,11 @@
 
         In carrying out these responsibilities, the Secretary shall ensure the participation of non-Federal users of technologies and data related to marine mineral resources in planning and priority setting.
 
-([Pub. L. 91–631, title II, § 202][/us/pl/91/631/s202], as added [Pub. L. 104–325, § 2(3)][/us/pl/104/325/s2/3], Oct. 19, 1996, [110 Stat. 3995][/us/stat/110/3995].)
+([Pub. L. 91–631, title II][/us/pl/91/631/tII], § 202, as added [Pub. L. 104–325][/us/pl/104/325], § 2(3), Oct. 19, 1996, [110 Stat. 3995][/us/stat/110/3995].)
 
  __Methane Hydrate Research and Development__ 
 
-    [Pub. L. 106–193][/us/pl/106/193], May 2, 2000, [114 Stat. 234][/us/stat/114/234], known as the Methane Hydrate Research and Development Act of 2000, which was set out as a note under this section, was amended and transferred to chapter 32 (§ 2001 et seq.) of this title by [Pub. L. 109–58, title IX, § 968][/us/pl/109/58/s968], Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894].
+    [Pub. L. 106–193][/us/pl/106/193], May 2, 2000, [114 Stat. 234][/us/stat/114/234], known as the Methane Hydrate Research and Development Act of 2000, which was set out as a note under this section, was amended and transferred to chapter 32 (§ 2001 et seq.) of this title by [Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 968, Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894].
 
 ----------
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/91/631/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2Fs202
-[/us/pl/104/325/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325%2Fs2%2F3
+[/us/pl/91/631/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2FtII
+[/us/pl/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325
 [/us/stat/110/3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3995
 [/us/pl/106/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193
 [/us/stat/114/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F234
-[/us/pl/109/58/s968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs968
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F894
 
 

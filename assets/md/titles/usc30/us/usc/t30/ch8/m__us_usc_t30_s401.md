@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, acting through the United States Bureau of Mines, is authorized and directed to establish, equip, and maintain a research laboratory in the lignite-consuming region of North Dakota to conduct researches and investigations on the mining, preparation, and utilization of lignite coal and to develop new scientific, chemical, and technical uses and new and extended markets and outlets for lignite coal and its products. Such laboratory shall be planned as a center for information and assistance in matters pertaining to conserving lignite coal resources for national defense and security; to the more efficient mining, preparation, and utilization of lignite coal; and pertaining to safety, health, and sanitation in mining operations and other matters relating to problems of the lignite industry.
 
-([Mar. 25, 1948, ch. 146, § 1][/us/act/1948-03-25/ch146/s1], [62 Stat. 85][/us/stat/62/85].)
+([Mar. 25, 1948, ch. 146][/us/act/1948-03-25/ch146], § 1, [62 Stat. 85][/us/stat/62/85].)
 
  __Transfer of Functions__ 
 
@@ -25,7 +25,7 @@
 
  __Appropriations__ 
 
-[Act Mar. 25, 1948, ch. 146, § 5][/us/act/1948-03-25/ch146/s5], [62 Stat. 85][/us/stat/62/85], provided that: 
+[Act Mar. 25, 1948, ch. 146][/us/act/1948-03-25/ch146], § 5, [62 Stat. 85][/us/stat/62/85], provided that: 
 
 > “In order to carry out the purposes of this Act \[enacting this chapter\] there is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, the sum of (a) $750,000 for the erection and equipment of a building or buildings, including plumbing, lighting, heating, general service, and experimental equipment and apparatus, the necessary roads, walks, and ground improvement, and land for the site of the building if no land is donated; and (b) $250,000 annually for the maintenance and operation of the experimental station, including personal services, supplies, equipment, and expenses of travel and subsistence.”
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/act/1948-03-25/ch146/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146%2Fs1
+[/us/act/1948-03-25/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146
 [/us/stat/62/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F85
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
-[/us/act/1948-03-25/ch146/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146%2Fs5
+[/us/act/1948-03-25/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146
 [/us/stat/62/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F85
 
 

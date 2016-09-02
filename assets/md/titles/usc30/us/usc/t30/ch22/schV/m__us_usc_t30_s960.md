@@ -17,7 +17,7 @@
 
     In any proceeding in which the validity of any interim mandatory health or safety standard set forth in subchapters II and III of this chapter is in issue, no justice, judge, or court of the United States shall issue any temporary restraining order or preliminary injunction restraining the enforcement of such standard pending a determination of such issue on its merits.
 
-([Pub. L. 91–173, title V, § 513][/us/pl/91/173/s513], Dec. 30, 1969, [83 Stat. 804][/us/stat/83/804].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 513, Dec. 30, 1969, [83 Stat. 804][/us/stat/83/804].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs513
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F804
 
 

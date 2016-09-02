@@ -31,7 +31,7 @@
 
         (5) set forth such policies and procedures as will insure that Federal funds made available under this section for any fiscal year will be so used as to supplement and, to the extent practical, increase the level of funds that would, in the absence of such Federal funds, be made available for the purposes of the activities described in subsections (d)(1), (2), and (3) of [section 1311 of this title][/us/usc/t30/s1311], and in no case supplant such funds.
 
-([Pub. L. 95–87, title VIII, § 802][/us/pl/95/87/s802], Aug. 3, 1977, [91 Stat. 527][/us/stat/91/527]; [Pub. L. 95–617, title VI, § 604(c)][/us/pl/95/617/s604/c], Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167].)
+([Pub. L. 95–87, title VIII][/us/pl/95/87/tVIII], § 802, Aug. 3, 1977, [91 Stat. 527][/us/stat/91/527]; [Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 604(c), Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 [/us/usc/t30/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1311
 [/us/usc/t30/s1311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1311%2Fd
 [/us/usc/t30/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1311
-[/us/pl/95/87/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs802
+[/us/pl/95/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVIII
 [/us/stat/91/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F527
-[/us/pl/95/617/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fc
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3167
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 

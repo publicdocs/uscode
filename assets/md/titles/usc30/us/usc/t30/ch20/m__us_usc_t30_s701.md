@@ -19,7 +19,7 @@
 
     As used in this section, the term “qualified officer of the United States” means the Secretary of the Interior or an employee of the Department of the Interior so designated by him: Provided, That the Secretary may delegate his authority to designate qualified officers to the head of any other department or agency of the United States with respect to lands within the administrative jurisdiction of that department or agency.
 
-([Pub. L. 87–851, § 1][/us/pl/87/851/s1], Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127]; [Pub. L. 90–111, § 1][/us/pl/90/111/s1], Oct. 23, 1967, [81 Stat. 311][/us/stat/81/311].)
+([Pub. L. 87–851][/us/pl/87/851], § 1, Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127]; [Pub. L. 90–111][/us/pl/90/111], § 1, Oct. 23, 1967, [81 Stat. 311][/us/stat/81/311].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t30/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs702
 [/us/usc/t30/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs705
-[/us/pl/87/851/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs1
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1127
-[/us/pl/90/111/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F111%2Fs1
+[/us/pl/90/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F111
 [/us/stat/81/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F311
 [/us/pl/90/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F111
 

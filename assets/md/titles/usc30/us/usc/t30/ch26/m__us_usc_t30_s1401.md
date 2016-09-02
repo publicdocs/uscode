@@ -65,7 +65,7 @@
 
         (5) to encourage the continued development of technology necessary to recover the hard mineral resources of the deep seabed.
 
-([Pub. L. 96–283, § 2][/us/pl/96/283/s2], June 28, 1980, [94 Stat. 553][/us/stat/94/553].)
+([Pub. L. 96–283][/us/pl/96/283], § 2, June 28, 1980, [94 Stat. 553][/us/stat/94/553].)
 
  __References in Text__ 
 
@@ -73,13 +73,13 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–507, § 1][/us/pl/99/507/s1], Oct. 21, 1986, [100 Stat. 1847][/us/stat/100/1847], provided that: 
+[Pub. L. 99–507][/us/pl/99/507], § 1, Oct. 21, 1986, [100 Stat. 1847][/us/stat/100/1847], provided that: 
 
 > “This Act \[amending [section 1470 of this title][/us/usc/t30/s1470]\] may be cited as the ‘Deep Seabed Hard Mineral Resources Reauthorization Act of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 96–283, § 1][/us/pl/96/283/s1], June 28, 1980, [94 Stat. 553][/us/stat/94/553], provided that: 
+[Pub. L. 96–283][/us/pl/96/283], § 1, June 28, 1980, [94 Stat. 553][/us/stat/94/553], provided that: 
 
 > “This Act \[enacting this chapter and sections 4495 to 4498 of Title 26, Internal Revenue Code, and enacting a provision set out as a note under [section 4495 of Title 26][/us/usc/t26/s4495]\] may be cited as the ‘Deep Seabed Hard Mineral Resources Act’.”
 
@@ -90,14 +90,14 @@
 ----------
 ----------
 
-[/us/pl/96/283/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs2
+[/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283
 [/us/stat/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F553
 [/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283
 [/us/stat/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F553
-[/us/pl/99/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F507%2Fs1
+[/us/pl/99/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F507
 [/us/stat/100/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1847
 [/us/usc/t30/s1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1470
-[/us/pl/96/283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs1
+[/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283
 [/us/stat/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F553
 [/us/usc/t26/s4495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4495
 

@@ -39,7 +39,7 @@
 
         Subject to the patent provisions of section 306(d) of this Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  all information and data resulting from any research studies, surveys, experiments, or demonstration projects conducted or financed under this chapter shall be promptly made available to the public.
 
-([Pub. L. 95–87, title IX, § 908][/us/pl/95/87/s908], Aug. 3, 1977, [91 Stat. 531][/us/stat/91/531]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 97–257, title I, § 100][/us/pl/97/257/s100], Sept. 10, 1982, [96 Stat. 841][/us/stat/96/841].)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 908, Aug. 3, 1977, [91 Stat. 531][/us/stat/91/531]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 97–257, title I][/us/pl/97/257/tI], § 100, Sept. 10, 1982, [96 Stat. 841][/us/stat/96/841].)
 
  __References in Text__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/95/87/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs908
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F531
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/97/257/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs100
+[/us/pl/97/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2FtI
 [/us/stat/96/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F841
 [/us/usc/t30/s1226/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1226%2Fd
 [/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409

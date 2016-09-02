@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept any suitable land or lands, buildings, or improvements that may be donated for the headquarters of mine rescue cars and construction of necessary railway sidings and housing for the same, or as the site of an experimental mine and plant for studying explosives, and to enter into leases for periods not exceeding ten years, subject to annual appropriations by Congress.
 
-([June 5, 1920, ch. 235, § 1][/us/act/1920-06-05/ch235/s1], [41 Stat. 912][/us/stat/41/912]; Ex. Ord. No. 6611, Feb. 22, 1934.)
+([June 5, 1920, ch. 235][/us/act/1920-06-05/ch235], § 1, [41 Stat. 912][/us/stat/41/912]; Ex. Ord. No. 6611, Feb. 22, 1934.)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235%2Fs1
+[/us/act/1920-06-05/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235
 [/us/stat/41/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F912
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 

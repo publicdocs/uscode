@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated such sums as may be necesary  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “necessary”. </sup></sup>  to carry out this section.
 
-([Pub. L. 102–486, title XXV, § 2501][/us/pl/102/486/s2501], Oct. 24, 1992, [106 Stat. 3101][/us/stat/106/3101].)
+([Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2501, Oct. 24, 1992, [106 Stat. 3101][/us/stat/106/3101].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t43/s1702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fe
-[/us/pl/102/486/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2501
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3101
 
 

@@ -17,7 +17,7 @@
 
     Subject to the other provisions of this chapter, a lessee shall be entitled to use so much of the surface of the land covered by his geothermal lease as may be found by the Secretary to be necessary for the production, utilization, and conservation of geothermal resources.
 
-([Pub. L. 91–581, § 14][/us/pl/91/581/s14], Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 109–58, title II, § 236(14)][/us/pl/109/58/s236/14], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 14, Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(14), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs14
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1571
-[/us/pl/109/58/s236/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F14
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

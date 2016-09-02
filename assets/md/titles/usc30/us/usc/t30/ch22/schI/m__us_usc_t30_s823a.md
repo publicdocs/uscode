@@ -17,7 +17,7 @@
 
     The principal office of the Commission shall be in the District of Columbia. Whenever the Commission deems that convenience of the public or the parties may be promoted, or delay or expense may be minimized, it may hold hearings or conduct other proceedings at any other place.
 
-([Pub. L. 95–164, title III, § 302(d)][/us/pl/95/164/s302/d], Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320].)
+([Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 302(d), Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/164/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs302%2Fd
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1320
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173

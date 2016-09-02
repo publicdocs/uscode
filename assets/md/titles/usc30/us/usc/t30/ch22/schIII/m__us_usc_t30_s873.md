@@ -43,7 +43,7 @@
 
         Explosives and detonators stored in the working places shall be kept in separate closed containers which shall be located out of the line of blast and not less than fifty feet from the working face and fifteen feet from any pipeline, powerline, rail, or conveyor, except that, if kept in niches in the rib, the distance from any pipeline, powerline, rail, or conveyor shall be at least five feet. Such explosives and detonators, when stored, shall be separated by a distance of at least five feet.
 
-([Pub. L. 91–173, title III, § 313][/us/pl/91/173/s313], Dec. 30, 1969, [83 Stat. 785][/us/stat/83/785].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 313, Dec. 30, 1969, [83 Stat. 785][/us/stat/83/785].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs313
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F785
 
 

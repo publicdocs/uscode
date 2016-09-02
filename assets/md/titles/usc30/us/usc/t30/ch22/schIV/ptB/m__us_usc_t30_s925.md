@@ -29,13 +29,13 @@
 
     (b) The Secretary of Labor may issue such regulations as are necessary or appropriate to carry out the purpose of this section.
 
-([Pub. L. 91–173, title IV, § 415][/us/pl/91/173/s415], as added [Pub. L. 92–303, § 7][/us/pl/92/303/s7], May 19, 1972, [86 Stat. 156][/us/stat/86/156]; amended [Pub. L. 97–119, title I, § 104(b)(2)][/us/pl/97/119/s104/b/2], Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I, § 108(i)(2)][/us/pl/103/296/s108/i/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(b)(3)][/us/pl/107/275/s2/b/3], Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 415, as added [Pub. L. 92–303][/us/pl/92/303], § 7, May 19, 1972, [86 Stat. 156][/us/stat/86/156]; amended [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 104(b)(2), Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(i)(2), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275][/us/pl/107/275], § 2(b)(3), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
 
  __Amendments__ 
 
-    2002—Subsec. (a)(2) to (5). [Pub. L. 107–275, § 2(b)(3)(A)][/us/pl/107/275/s2/b/3/A], redesignated pars. (3) to (5) as (2) to (4), respectively, substituted “paragraph (2)” for “paragraph 4” in par. (4), and struck out former par. (2) which read as follows: “The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration.”
+    2002—Subsec. (a)(2) to (5). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted “paragraph (2)” for “paragraph 4” in par. (4), and struck out former par. (2) which read as follows: “The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration.”
 
-    Subsec. (b). [Pub. L. 107–275, § 2(b)(3)(B)][/us/pl/107/275/s2/b/3/B], struck out “, after consultation with the Commissioner of Social Security,” after “Secretary of Labor”.
+    Subsec. (b). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(3)(B), struck out “, after consultation with the Commissioner of Social Security,” after “Secretary of Labor”.
 
     1994—Subsecs. (a)(2), (b). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
 
@@ -61,19 +61,19 @@
 [/us/usc/t26/s9501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501%2Fd
 [/us/usc/t33/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs919
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
-[/us/pl/91/173/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs415
-[/us/pl/92/303/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs7
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F156
-[/us/pl/97/119/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fb%2F2
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1639
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/296/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fi%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/107/275/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F3
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1925
-[/us/pl/107/275/s2/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F3%2FA
-[/us/pl/107/275/s2/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F3%2FB
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119

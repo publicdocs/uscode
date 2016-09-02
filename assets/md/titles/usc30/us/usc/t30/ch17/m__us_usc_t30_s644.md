@@ -17,7 +17,7 @@
 
     Departments and agencies of the Government are authorized to advise and assist the Secretary of the Interior, upon his request, in carrying out the provisions of this chapter and may expend their funds for such purposes, with or without reimbursement, in accordance with such agreements as may be necessary.
 
-([Pub. L. 85–701, § 4][/us/pl/85/701/s4], Aug. 21, 1958, [72 Stat. 701][/us/stat/72/701].)
+([Pub. L. 85–701][/us/pl/85/701], § 4, Aug. 21, 1958, [72 Stat. 701][/us/stat/72/701].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/701/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701%2Fs4
+[/us/pl/85/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701
 [/us/stat/72/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F701
 
 

@@ -41,7 +41,7 @@
 
         (2) Any rent, royalty, or interest recovered by a State under subsection (a) shall be deposited in the Treasury of the United States in the same manner, and subject to the same requirements, as are applicable in the case of any rent, royalty, or interest collected by an officer or employee of the United States, except that such amounts shall be deposited in the Treasury not later than 10 days after receipt by the State.
 
-([Pub. L. 97–451, title II, § 204][/us/pl/97/451/s204], Jan. 12, 1983, [96 Stat. 2458][/us/stat/96/2458].)
+([Pub. L. 97–451, title II][/us/pl/97/451/tII], § 204, Jan. 12, 1983, [96 Stat. 2458][/us/stat/96/2458].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs204
+[/us/pl/97/451/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtII
 [/us/stat/96/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2458
 
 

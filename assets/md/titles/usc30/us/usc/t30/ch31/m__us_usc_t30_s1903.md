@@ -115,7 +115,7 @@
 
         (2) in the case of an annual progress report, includes a project plan for the subsequent year.
 
-([Pub. L. 91–631, title II, § 203][/us/pl/91/631/s203], as added [Pub. L. 104–325, § 2(3)][/us/pl/104/325/s2/3], Oct. 19, 1996, [110 Stat. 3995][/us/stat/110/3995].)
+([Pub. L. 91–631, title II][/us/pl/91/631/tII], § 203, as added [Pub. L. 104–325][/us/pl/104/325], § 2(3), Oct. 19, 1996, [110 Stat. 3995][/us/stat/110/3995].)
 
  __Codification__ 
 
@@ -130,8 +130,8 @@
 
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/91/631/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2Fs203
-[/us/pl/104/325/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325%2Fs2%2F3
+[/us/pl/91/631/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2FtII
+[/us/pl/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325
 [/us/stat/110/3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3995
 [/us/pl/104/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F135
 

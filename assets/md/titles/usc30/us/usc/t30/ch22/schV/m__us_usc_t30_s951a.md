@@ -27,7 +27,7 @@
 
         For the purposes of [section 951(b) of this title][/us/usc/t30/s951/b], as amended, activities in the field of coal or other mine health under such section shall also be carried out by the Secretary of the Interior acting through the Director of the Bureau of Mines. Nothing in this subsection is intended to preclude or duplicate the ongoing research activities of the Bureau of Mines on health hazards safety technology or research conducted by the National Institute of Occupational Safety and Health on coal mine safety and health effects.
 
-([Pub. L. 102–486, title XXV, § 2512][/us/pl/102/486/s2512], Oct. 24, 1992, [106 Stat. 3111][/us/stat/106/3111].)
+([Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2512, Oct. 24, 1992, [106 Stat. 3111][/us/stat/106/3111].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t30/s951/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs951%2Fb
-[/us/pl/102/486/s2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2512
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3111
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

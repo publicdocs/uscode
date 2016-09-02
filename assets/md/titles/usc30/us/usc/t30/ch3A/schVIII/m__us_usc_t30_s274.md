@@ -17,7 +17,7 @@
 
     Prospecting permits or leases may be issued in the discretion of the Secretary of the Interior under the provisions of this subchapter for deposits of sulphur in public lands also containing coal or other minerals on condition that such other deposits be reserved to the United States for disposal under applicable laws.
 
-([Apr. 17, 1926, ch. 158, § 4][/us/act/1926-04-17/ch158/s4], [44 Stat. 302][/us/stat/44/302].)
+([Apr. 17, 1926, ch. 158][/us/act/1926-04-17/ch158], § 4, [44 Stat. 302][/us/stat/44/302].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1926-04-17/ch158/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158%2Fs4
+[/us/act/1926-04-17/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158
 [/us/stat/44/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F302
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

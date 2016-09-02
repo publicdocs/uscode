@@ -21,7 +21,7 @@
 
     It shall be the responsibility of the Secretary of the Interior to carry out this policy when exercising his authority under such programs as may be authorized by law other than this section.
 
-([Pub. L. 91–631, title I, § 101][/us/pl/91/631/s101], formerly § 2, Dec. 31, 1970, [84 Stat. 1876][/us/stat/84/1876]; [Pub. L. 104–66, title I, § 1081(b)][/us/pl/104/66/s1081/b], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; renumbered title I, § 101, [Pub. L. 104–325, § 2(1)][/us/pl/104/325/s2/1], (2), Oct. 19, 1996, [110 Stat. 3994][/us/stat/110/3994].)
+([Pub. L. 91–631, title I][/us/pl/91/631/tI], § 101, formerly § 2, Dec. 31, 1970, [84 Stat. 1876][/us/stat/84/1876]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1081(b), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; renumbered title I, § 101, [Pub. L. 104–325][/us/pl/104/325], § 2(1), (2), Oct. 19, 1996, [110 Stat. 3994][/us/stat/110/3994].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Pub. L. 91–631, § 1][/us/pl/91/631/s1], Dec. 31, 1970, [84 Stat. 1876][/us/stat/84/1876], provided: 
+[Pub. L. 91–631][/us/pl/91/631], § 1, Dec. 31, 1970, [84 Stat. 1876][/us/stat/84/1876], provided: 
 
 > “That this Act \[enacting this section\] may be cited as the ‘Mining and Minerals Policy Act of 1970’.”
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/91/631/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2Fs101
+[/us/pl/91/631/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2FtI
 [/us/stat/84/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1876
-[/us/pl/104/66/s1081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1081%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
-[/us/pl/104/325/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325%2Fs2%2F1
+[/us/pl/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325
 [/us/stat/110/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3994
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/91/631/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2Fs1
+[/us/pl/91/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631
 [/us/stat/84/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1876
 
 

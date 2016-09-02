@@ -17,7 +17,7 @@
 
     A geothermal lease shall embrace a reasonably compact area of not more than 5,120 acres, except where a departure therefrom is occasioned by an irregular subdivision or subdivisions. No person, association, or corporation, except as otherwise provided in this chapter, shall take, hold, own, or control at one time, whether acquired directly from the Secretary under this chapter or otherwise, any direct or indirect interest in Federal geothermal leases in any one State exceeding 51,200 acres, including leases acquired under the provisions of [section 1003 of this title][/us/usc/t30/s1003].
 
-([Pub. L. 91–581, § 7][/us/pl/91/581/s7], Dec. 24, 1970, [84 Stat. 1569][/us/stat/84/1569]; [Pub. L. 109–58, title II, § 235][/us/pl/109/58/s235], Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671].)
+([Pub. L. 91–581][/us/pl/91/581], § 7, Dec. 24, 1970, [84 Stat. 1569][/us/stat/84/1569]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 235, Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t30/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1003
-[/us/pl/91/581/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs7
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1569
-[/us/pl/109/58/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs235
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F671
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

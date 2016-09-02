@@ -17,7 +17,7 @@
 
     For the purposes of this chapter a qualified applicant is a residential occupant-owner, as of October 23, 1962, of valuable improvements in an unpatented mining claim which constitute for him a principal place of residence and which he and his predecessors in interest were in possession of for not less than seven years prior to July 23, 1962.
 
-([Pub. L. 87–851, § 2][/us/pl/87/851/s2], Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127].)
+([Pub. L. 87–851][/us/pl/87/851], § 2, Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/851/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs2
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1127
 
 

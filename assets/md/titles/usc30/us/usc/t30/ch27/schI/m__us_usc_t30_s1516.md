@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated for loans under this subchapter not to exceed $5,000,000 for fiscal year 1981, and not to exceed $20,000,000 for each of the four succeeding fiscal years. Amounts so appropriated shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter, and shall remain available for such purposes until expended.
 
-([Pub. L. 96–294, title VI, § 616][/us/pl/96/294/s616], June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 616, June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs616
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F765
 
 

@@ -55,7 +55,7 @@
 
         Any Federal program shall include a process for coordinating the review and issuance of permits for surface mining and reclamation operations with any other Federal or State permit process applicable to the proposed operation.
 
-([Pub. L. 95–87, title V, § 504][/us/pl/95/87/s504], Aug. 3, 1977, [91 Stat. 471][/us/stat/91/471].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 504, Aug. 3, 1977, [91 Stat. 471][/us/stat/91/471].)
 
 ----------
 
@@ -68,7 +68,7 @@
 [/us/usc/t30/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1251%2Fb
 [/us/usc/t30/s1253/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253%2Fb
 [/us/usc/t30/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1251
-[/us/pl/95/87/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs504
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F471
 
 

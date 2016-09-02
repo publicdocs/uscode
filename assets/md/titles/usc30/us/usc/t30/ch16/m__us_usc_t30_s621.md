@@ -29,7 +29,7 @@
 
         Nothing in this chapter shall affect the validity of withdrawals or reservations for purposes other than power development.
 
-([Aug. 11, 1955, ch. 797, § 2][/us/act/1955-08-11/ch797/s2], [69 Stat. 682][/us/stat/69/682]; [Pub. L. 86–507, § 1(27)][/us/pl/86/507/s1/27], June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 584][/us/stat/91/584], 606, 607.)
+([Aug. 11, 1955, ch. 797][/us/act/1955-08-11/ch797], § 2, [69 Stat. 682][/us/stat/69/682]; [Pub. L. 86–507][/us/pl/86/507], § 1(27), June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 584][/us/stat/91/584], 606, 607.)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Short Title__ 
 
-[Act Aug. 11, 1955, ch. 797, § 1][/us/act/1955-08-11/ch797/s1], [69 Stat. 681][/us/stat/69/681], provided: 
+[Act Aug. 11, 1955, ch. 797][/us/act/1955-08-11/ch797], § 1, [69 Stat. 681][/us/stat/69/681], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Mining Claims Rights Restoration Act of 1955’.”
 
@@ -60,11 +60,11 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t30/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs623
-[/us/act/1955-08-11/ch797/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797%2Fs2
+[/us/act/1955-08-11/ch797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797
 [/us/stat/69/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F682
-[/us/pl/86/507/s1/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F27
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F202
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F584
 [/us/act/1948-04-08/ch179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-08%2Fch179
 [/us/stat/62/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F162
@@ -72,7 +72,7 @@
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
-[/us/act/1955-08-11/ch797/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797%2Fs1
+[/us/act/1955-08-11/ch797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797
 [/us/stat/69/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F681
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a

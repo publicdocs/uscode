@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate regulations to carry out this subchapter no later than six months after June 30, 1980.
 
-([Pub. L. 96–294, title VI, § 615][/us/pl/96/294/s615], June 30, 1980, [94 Stat. 764][/us/stat/94/764].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 615, June 30, 1980, [94 Stat. 764][/us/stat/94/764].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs615
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F764
 
 

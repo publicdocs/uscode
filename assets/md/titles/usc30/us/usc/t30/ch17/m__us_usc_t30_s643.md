@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “exploration” means the search for new or unexplored deposits of minerals, including related development work, within the United States, its Territories and possessions, whether conducted from the surface or underground, using recognized and sound procedures including standard geophysical and geochemical methods for obtaining mineralogical and geological information.
 
-([Pub. L. 85–701, § 3][/us/pl/85/701/s3], Aug. 21, 1958, [72 Stat. 701][/us/stat/72/701].)
+([Pub. L. 85–701][/us/pl/85/701], § 3, Aug. 21, 1958, [72 Stat. 701][/us/stat/72/701].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/701/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701%2Fs3
+[/us/pl/85/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701
 [/us/stat/72/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F701
 
 

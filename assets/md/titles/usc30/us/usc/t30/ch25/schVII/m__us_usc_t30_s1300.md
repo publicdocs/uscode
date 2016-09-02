@@ -123,13 +123,13 @@
 
             Not later than 18 months after the date on which a tribal program is approved under subsection (e) of [section 1254 of this title][/us/usc/t30/s1254], the Secretary shall submit to the appropriate committees of Congress a report, developed in cooperation with the applicable Indian tribe, on the tribal program that includes a recommendation of the Secretary on whether primary regulatory authority under that subsection should be expanded to include additional Indian lands.
 
-([Pub. L. 95–87, title VII, § 710][/us/pl/95/87/s710], Aug. 3, 1977, [91 Stat. 523][/us/stat/91/523]; [Pub. L. 102–486, title XXV, § 2514][/us/pl/102/486/s2514], Oct. 24, 1992, [106 Stat. 3112][/us/stat/106/3112]; [Pub. L. 109–432, div. C, title II, § 209][/us/pl/109/432/s209], Dec. 20, 2006, [120 Stat. 3019][/us/stat/120/3019].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 710, Aug. 3, 1977, [91 Stat. 523][/us/stat/91/523]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2514, Oct. 24, 1992, [106 Stat. 3112][/us/stat/106/3112]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 209, Dec. 20, 2006, [120 Stat. 3019][/us/stat/120/3019].)
 
  __Amendments__ 
 
-    2006—Subsec. (i). [Pub. L. 109–432, § 209(b)][/us/pl/109/432/s209/b], struck out “, except that nothing in this subsection may be construed as providing such tribes with the authorities set forth under [section 1253 of this title][/us/usc/t30/s1253]” after “Indian lands” in introductory provisions.
+    2006—Subsec. (i). [Pub. L. 109–432][/us/pl/109/432], § 209(b), struck out “, except that nothing in this subsection may be construed as providing such tribes with the authorities set forth under [section 1253 of this title][/us/usc/t30/s1253]” after “Indian lands” in introductory provisions.
 
-    Subsec. (j). [Pub. L. 109–432, § 209(a)][/us/pl/109/432/s209/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–432][/us/pl/109/432], § 209(a), added subsec. (j).
 
     1992—Subsec. (i). [Pub. L. 102–486][/us/pl/102/486] added subsec. (i).
 
@@ -153,15 +153,15 @@
 [/us/usc/t30/s1254/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1254%2Fe
 [/us/usc/t30/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1295
 [/us/usc/t30/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1254
-[/us/pl/95/87/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs710
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F523
-[/us/pl/102/486/s2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2514
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3112
-[/us/pl/109/432/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs209
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3019
-[/us/pl/109/432/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs209%2Fb
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t30/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253
-[/us/pl/109/432/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs209%2Fa
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 
 

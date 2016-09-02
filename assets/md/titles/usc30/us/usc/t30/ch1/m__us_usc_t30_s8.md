@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized and directed to establish and maintain in the several important mining regions of the United States and the Territory of Alaska, as Congress may appropriate for the necessary employees and other expenses, under the United States Bureau of Mines and in accordance with the provisions of sections 1, 3, and 5 to 7 of this title, ten mining experiment stations and seven mine safety stations, movable or stationary, in addition to those established prior to March 3, 1915, the province and duty of which shall be to make investigations and disseminate information with a view to improving conditions in the mining, quarrying, metallurgical, and other mineral industries, safeguarding life among employees, preventing unnecessary waste of resources, and otherwise contributing to the advancement of these industries. Not more than three mining experiment stations and mine safety stations authorized in this section shall be established in any one fiscal year under the appropriations made therefor.
 
-([Mar. 3, 1915, ch. 95, § 1][/us/act/1915-03-03/ch95/s1], [38 Stat. 959][/us/stat/38/959]; Ex. Ord. No. 4239, June 4, 1925; Ex. Ord. No. 6611, Feb. 22, 1934; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Mar. 3, 1915, ch. 95][/us/act/1915-03-03/ch95], § 1, [38 Stat. 959][/us/stat/38/959]; Ex. Ord. No. 4239, June 4, 1925; Ex. Ord. No. 6611, Feb. 22, 1934; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Change of Name__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1915-03-03/ch95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch95%2Fs1
+[/us/act/1915-03-03/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch95
 [/us/stat/38/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F959
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

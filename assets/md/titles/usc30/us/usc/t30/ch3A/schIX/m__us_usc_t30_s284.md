@@ -17,7 +17,7 @@
 
     Prospecting permits or leases may be issued under the provisions of this subchapter for deposits of potassium in public lands, also containing deposits of coal or other minerals, on condition that such other deposits be reserved to the United States for disposal under appropriate laws: Provided, That if the interests of the Government and of the lessee will be subserved thereby, potassium leases may include covenants providing for the development by the lessee of chlorides, sulphates, carbonates, borates, silicates, or nitrates of sodium, magnesium, aluminum, or calcium, associated with the potassium deposits leased, on terms and conditions not inconsistent with the sodium provisions of subchapter VII of this chapter: Provided further, That where valuable deposits of mineral now subject to disposition under the general mining laws are found in fissure veins on any of the lands subject to permit or lease under this subchapter, the valuable minerals so found shall continue subject to disposition under the said general mining laws notwithstanding the presence of potash therein.
 
-([Feb. 7, 1927, ch. 66, § 4][/us/act/1927-02-07/ch66/s4], [44 Stat. 1058][/us/stat/44/1058].)
+([Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], § 4, [44 Stat. 1058][/us/stat/44/1058].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-07/ch66/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66%2Fs4
+[/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1058
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F447

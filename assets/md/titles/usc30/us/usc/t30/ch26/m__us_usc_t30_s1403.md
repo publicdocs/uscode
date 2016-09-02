@@ -85,7 +85,7 @@
 
         (C) any corporation, partnership, joint venture, association, or other entity (whether organized or existing under the laws of any of the United States or a foreign nation) if the controlling interest in such entity is held by an individual or entity described in subparagraph (A) or (B).
 
-([Pub. L. 96–283, § 4][/us/pl/96/283/s4], June 28, 1980, [94 Stat. 555][/us/stat/94/555].)
+([Pub. L. 96–283][/us/pl/96/283], § 4, June 28, 1980, [94 Stat. 555][/us/stat/94/555].)
 
 ----------
 
@@ -95,7 +95,7 @@
 ----------
 
 [/us/usc/t30/s1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1428
-[/us/pl/96/283/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs4
+[/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283
 [/us/stat/94/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F555
 
 

@@ -17,7 +17,7 @@
 
     Except as otherwise provided in chapter 3A of this title, all public lands within the State of Alabama, whether mineral or otherwise, shall be subject to disposal only as agricultural lands. All lands which had been reported to the General Land Office prior to March 3, 1883, as containing coal and iron shall first be offered at public sale.
 
-([Mar. 3, 1883, ch. 118][/us/act/1883-03-03/ch118], [22 Stat. 487][/us/stat/22/487]; [Feb. 25, 1920, ch. 85, § 1][/us/act/1920-02-25/ch85/s1], [41 Stat. 437][/us/stat/41/437].)
+([Mar. 3, 1883, ch. 118][/us/act/1883-03-03/ch118], [22 Stat. 487][/us/stat/22/487]; [Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 1, [41 Stat. 437][/us/stat/41/437].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1883-03-03/ch118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1883-03-03%2Fch118
 [/us/stat/22/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F487
-[/us/act/1920-02-25/ch85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs1
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1

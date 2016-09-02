@@ -31,7 +31,7 @@
 
         The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) is pending in a court of the United States.
 
-([Pub. L. 96–283, title III, § 302][/us/pl/96/283/s302], June 28, 1980, [94 Stat. 577][/us/stat/94/577].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 302, June 28, 1980, [94 Stat. 577][/us/stat/94/577].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
 [/us/usc/t30/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1461
-[/us/pl/96/283/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs302
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F577
 
 

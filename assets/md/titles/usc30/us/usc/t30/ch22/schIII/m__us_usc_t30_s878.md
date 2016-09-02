@@ -59,11 +59,11 @@
 
     (j) “low voltage” means up to and including 660 volts; “medium voltage” means voltages from 661 to 1,000 volts; and “high voltage” means more than 1,000 volts;
 
-    (k) Repealed. [Pub. L. 95–164, title II, § 202(b)][/us/pl/95/164/s202/b], Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317].
+    (k) Repealed. [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 202(b), Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317].
 
     (l) “coal mine” includes areas of adjoining mines connected underground.
 
-([Pub. L. 91–173, title III, § 318][/us/pl/91/173/s318], Dec. 30, 1969, [83 Stat. 791][/us/stat/83/791]; [Pub. L. 95–164, title II, § 202(b)][/us/pl/95/164/s202/b], Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 318, Dec. 30, 1969, [83 Stat. 791][/us/stat/83/791]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 202(b), Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __References in Text__ 
 
@@ -92,13 +92,13 @@
 
 [/us/usc/t30/s863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs863
 [/us/usc/t30/s865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs865%2Fa
-[/us/pl/95/164/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs202%2Fb
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1317
-[/us/pl/91/173/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs318
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F791
-[/us/pl/95/164/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs202%2Fb
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1317
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

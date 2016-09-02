@@ -73,7 +73,7 @@
 
             None of the funds made available under this section may be used for the construction of a new building or the acquisition, expansion, remodeling, or alteration of an existing building (including site grading and improvement and architect fees).
 
-([Pub. L. 91–631, title II, § 204][/us/pl/91/631/s204], as added [Pub. L. 104–325, § 2(3)][/us/pl/104/325/s2/3], Oct. 19, 1996, [110 Stat. 3998][/us/stat/110/3998].)
+([Pub. L. 91–631, title II][/us/pl/91/631/tII], § 204, as added [Pub. L. 104–325][/us/pl/104/325], § 2(3), Oct. 19, 1996, [110 Stat. 3998][/us/stat/110/3998].)
 
 ----------
 
@@ -82,8 +82,8 @@
 ----------
 ----------
 
-[/us/pl/91/631/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2Fs204
-[/us/pl/104/325/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325%2Fs2%2F3
+[/us/pl/91/631/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F631%2FtII
+[/us/pl/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F325
 [/us/stat/110/3998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3998
 
 

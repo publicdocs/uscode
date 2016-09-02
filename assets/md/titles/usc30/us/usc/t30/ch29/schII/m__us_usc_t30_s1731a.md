@@ -17,7 +17,7 @@
 
     For fiscal year 1990 and each fiscal year thereafter, notwithstanding the provisions of [section 1731 of this title][/us/usc/t30/s1731], sections 1732 through 1736 of this title shall apply to any lease or portion of a lease subject to [section 1337(g) of title 43][/us/usc/t43/s1337/g], which, for purposes of those provisions and for no other purposes, shall be regarded as within the coastal State or States entitled to receive revenues from it under [section 1337(g) of title 43][/us/usc/t43/s1337/g].
 
-([Pub. L. 101–121, title I][/us/pl/101/121], Oct. 23, 1989, [103 Stat. 711][/us/stat/103/711].)
+([Pub. L. 101–121, title I][/us/pl/101/121/tI], Oct. 23, 1989, [103 Stat. 711][/us/stat/103/711].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 100–446, title I][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1791][/us/stat/102/1791].
+    Similar provisions were contained in [Pub. L. 100–446, title I][/us/pl/100/446/tI], Sept. 27, 1988, [102 Stat. 1791][/us/stat/102/1791].
 
 ----------
 
@@ -37,9 +37,9 @@
 [/us/usc/t30/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1731
 [/us/usc/t43/s1337/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337%2Fg
 [/us/usc/t43/s1337/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337%2Fg
-[/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F711
-[/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
+[/us/pl/100/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtI
 [/us/stat/102/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1791
 
 

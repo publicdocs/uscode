@@ -27,7 +27,7 @@
 
         Geothermal leases under this chapter shall not be issued for lands administered in accordance with (1) the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended or supplemented, (2) for lands within a national recreation area, (3) for lands in a fish hatchery administered by the Secretary, wildlife refuge, wildlife range, game range, wildlife management area, waterfowl production area, or for lands acquired or reserved for the protection and conservation of fish and wildlife that are threatened with extinction, (4) for tribally or individually owned Indian trust or restricted lands, within or without the boundaries of Indian reservations.
 
-([Pub. L. 91–581, § 15][/us/pl/91/581/s15], Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 95–91, title III, § 301(b)][/us/pl/95/91/s301/b], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578], 606, 607; [Pub. L. 109–58, title II, § 236(15)][/us/pl/109/58/s236/15], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 15, Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(b), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578], 606, 607; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(15), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __References in Text__ 
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t16/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs818
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/91/581/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs15
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1571
-[/us/pl/95/91/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fb
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
-[/us/pl/109/58/s236/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F15
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

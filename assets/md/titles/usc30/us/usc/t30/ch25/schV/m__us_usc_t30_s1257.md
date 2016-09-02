@@ -97,13 +97,13 @@
 
         A coal operator that has received assistance pursuant to subsection (c)(1) or (2) shall reimburse the regulatory authority for the cost of the services rendered if the program administrator finds that the operator’s actual and attributed annual production of coal for all locations exceeds 300,000 tons during the 12 months immediately following the date on which the operator is issued the surface coal mining and reclamation permit.
 
-([Pub. L. 95–87, title V, § 507][/us/pl/95/87/s507], Aug. 3, 1977, [91 Stat. 474][/us/stat/91/474]; [Pub. L. 101–508, title VI, § 6011][/us/pl/101/508/s6011], Nov. 5, 1990, [104 Stat. 1388–297][/us/stat/104/1388-297]; [Pub. L. 102–486, title XXV, § 2513][/us/pl/102/486/s2513], Oct. 24, 1992, [106 Stat. 3112][/us/stat/106/3112].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 507, Aug. 3, 1977, [91 Stat. 474][/us/stat/91/474]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6011, Nov. 5, 1990, [104 Stat. 1388–297][/us/stat/104/1388-297]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2513, Oct. 24, 1992, [106 Stat. 3112][/us/stat/106/3112].)
 
  __Amendments__ 
 
-    1992—Subsec. (c). [Pub. L. 102–486, § 2513(a)][/us/pl/102/486/s2513/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
+    1992—Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
 
-    Subsec. (h). [Pub. L. 102–486, § 2513(b)][/us/pl/102/486/s2513/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 102–486][/us/pl/102/486], § 2513(b), added subsec. (h).
 
     1990—Subsec. (c). [Pub. L. 101–508][/us/pl/101/508] substituted “300,000” for “100,000”.
 
@@ -113,21 +113,21 @@
 
  __Discretionary Offsetting Collections__ 
 
-[Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 299][/us/stat/128/299], provided in part: 
+[Pub. L. 113–76, div. G, title I][/us/pl/113/76/dG/tI], Jan. 17, 2014, [128 Stat. 299][/us/stat/128/299], provided in part: 
 
 > “That, in subsequent fiscal years \[after fiscal year 2014\], all amounts collected by the Office of Surface Mining from permit fees pursuant to [section 507 of Public Law 95–87][/us/pl/95/87/s507] ([30 U.S.C. 1257][/us/usc/t30/s1257]) shall be credited to this account \[Office of Surface Mining Reclamation and Enforcement—regulation and technology\] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
 
-    [Pub. L. 114–113, div. G, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2536][/us/stat/129/2536].
+    [Pub. L. 114–113, div. G, title I][/us/pl/114/113/dG/tI], Dec. 18, 2015, [129 Stat. 2536][/us/stat/129/2536].
 
-    [Pub. L. 113–235, div. F, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2406][/us/stat/128/2406].
+    [Pub. L. 113–235, div. F, title I][/us/pl/113/235/dF/tI], Dec. 16, 2014, [128 Stat. 2406][/us/stat/128/2406].
 
-    [Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 996][/us/stat/125/996].
+    [Pub. L. 112–74, div. E, title I][/us/pl/112/74/dE/tI], Dec. 23, 2011, [125 Stat. 996][/us/stat/125/996].
 
  __Preparation of Cross-Sections, Maps, and Plans of Land By or Under Direction of Qualified Registered Professional Engineers, Geologists, or Land Surveyors__ 
 
-[Pub. L. 98–146, title I, § 115][/us/pl/98/146/s115], Nov. 4, 1983, [97 Stat. 938][/us/stat/97/938], provided that: 
+[Pub. L. 98–146, title I][/us/pl/98/146/tI], § 115, Nov. 4, 1983, [97 Stat. 938][/us/stat/97/938], provided that: 
 
 > “Notwithstanding section 507(b)(14) of the Surface Mining Control and Reclamation Act of 1977 ([Public Law 95–87][/us/pl/95/87]) \[subsec. (b)(14) of this section\], cross-sections, maps or plans of land to be affected by an application for a surface mining and reclamation permit shall be prepared by or under the direction of a qualified registered professional engineer or geologist, or qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans.”
 
@@ -140,29 +140,29 @@ Similar provisions were contained in the following appropriations acts:
 
 [/us/usc/t30/s1265/b/15/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Fb%2F15%2FE
 [/us/usc/t30/s1265/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Fb%2F15
-[/us/pl/95/87/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs507
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F474
-[/us/pl/101/508/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6011
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-297
-[/us/pl/102/486/s2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2513
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3112
-[/us/pl/102/486/s2513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2513%2Fa
-[/us/pl/102/486/s2513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2513%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtI
 [/us/stat/128/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F299
 [/us/pl/95/87/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs507
 [/us/usc/t30/s1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1257
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdG%2FtI
 [/us/stat/129/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2536
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdF%2FtI
 [/us/stat/128/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2406
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtI
 [/us/stat/125/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F996
-[/us/pl/98/146/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2Fs115
+[/us/pl/98/146/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtI
 [/us/stat/97/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F938
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 

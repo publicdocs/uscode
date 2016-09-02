@@ -17,7 +17,7 @@
 
     Failure to pay the claim maintenance fee or the location fee as required by sections 28f to 28l of this title shall conclusively constitute a forfeiture of the unpatented mining claim, mill or tunnel site by the claimant and the claim shall be deemed null and void by operation of law.
 
-([Pub. L. 103–66, title X, § 10104][/us/pl/103/66/s10104], Aug. 10, 1993, [107 Stat. 406][/us/stat/107/406]; [Pub. L. 111–88, div. A, title I][/us/pl/111/88], Oct. 30, 2009, [123 Stat. 2908][/us/stat/123/2908].)
+([Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10104, Aug. 10, 1993, [107 Stat. 406][/us/stat/107/406]; [Pub. L. 111–88, div. A, title I][/us/pl/111/88/dA/tI], Oct. 30, 2009, [123 Stat. 2908][/us/stat/123/2908].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
+    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381/tI], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
 
  __Amendments__ 
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/pl/103/66/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10104
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F406
-[/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
+[/us/pl/111/88/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtI
 [/us/stat/123/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2908
 [/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
 [/us/usc/t30/s28i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28i
 [/us/pl/103/66/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10104
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtI
 [/us/stat/106/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1378
 [/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88
 

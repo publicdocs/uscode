@@ -81,13 +81,13 @@
 
         (5) within three hundred feet from any occupied dwelling, unless waived by the owner thereof, nor within three hundred feet of any public building, school, church, community, or institutional building, public park, or within one hundred feet of a cemetery.
 
-([Pub. L. 95–87, title V, § 522][/us/pl/95/87/s522], Aug. 3, 1977, [91 Stat. 507][/us/stat/91/507].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 522, Aug. 3, 1977, [91 Stat. 507][/us/stat/91/507].)
 
  __References in Text__ 
 
     The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (e)(2)(B), is [Pub. L. 86–517][/us/pl/86/517], June 12, 1960, [74 Stat. 215][/us/stat/74/215], as amended, which is classified generally to sections 528 to 531 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of Title 16][/us/usc/t16/s528] and Tables.
 
-    The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B), is [Pub. L. 94–377][/us/pl/94/377], Aug. 4, 1976, [90 Stat. 1083][/us/stat/90/1083], which was redesignated the Federal Coal Leasing Amendments Act of 1976 by [Pub. L. 95–554, § 8][/us/pl/95/554/s8], Oct. 30, 1978, [92 Stat. 2075][/us/stat/92/2075], and which enacted sections 202a, 208–1, and 208–2 of this title, amended sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealed sections 201–1 and 204 of this title, and enacted provisions set out as notes under sections 181, 184, 201, 201–1, 203, and 204 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 181 of this title][/us/usc/t30/s181] and Tables.
+    The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B), is [Pub. L. 94–377][/us/pl/94/377], Aug. 4, 1976, [90 Stat. 1083][/us/stat/90/1083], which was redesignated the Federal Coal Leasing Amendments Act of 1976 by [Pub. L. 95–554][/us/pl/95/554], § 8, Oct. 30, 1978, [92 Stat. 2075][/us/stat/92/2075], and which enacted sections 202a, 208–1, and 208–2 of this title, amended sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealed sections 201–1 and 204 of this title, and enacted provisions set out as notes under sections 181, 184, 201, 201–1, 203, and 204 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 181 of this title][/us/usc/t30/s181] and Tables.
 
     The National Forest Management Act of 1976, referred to in subsec. (e)(2)(B), is [Pub. L. 94–588][/us/pl/94/588], Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16][/us/usc/t16/s1600] and Tables.
 
@@ -102,14 +102,14 @@
 [/us/usc/t30/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1254
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa
 [/us/usc/t16/s528–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528%E2%80%93531
-[/us/pl/95/87/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs522
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F507
 [/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 [/us/usc/t16/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1083
-[/us/pl/95/554/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554%2Fs8
+[/us/pl/95/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554
 [/us/stat/92/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2075
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588

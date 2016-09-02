@@ -47,7 +47,7 @@
 
         Benefits payable under this part shall be deemed not to be income for purposes of the Internal Revenue Code of 1986.
 
-([Pub. L. 91–173, title IV, § 412][/us/pl/91/173/s412], Dec. 30, 1969, [83 Stat. 794][/us/stat/83/794]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(b)(1), (2), (c)(1), 2(a), May 19, 1972, [86 Stat. 150][/us/stat/86/150], 151, 153; [Pub. L. 95–239][/us/pl/95/239], §§ 3(b)(1), 4, Mar. 1, 1978, [92 Stat. 96][/us/stat/92/96], 97; [Pub. L. 97–119, title II, § 203(a)(1)][/us/pl/97/119/s203/a/1]–(3), (d), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], 1644; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I, § 108(i)(2)][/us/pl/103/296/s108/i/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 412, Dec. 30, 1969, [83 Stat. 794][/us/stat/83/794]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(b)(1), (2), (c)(1), 2(a), May 19, 1972, [86 Stat. 150][/us/stat/86/150], 151, 153; [Pub. L. 95–239][/us/pl/95/239], §§ 3(b)(1), 4, Mar. 1, 1978, [92 Stat. 96][/us/stat/92/96], 97; [Pub. L. 97–119, title II][/us/pl/97/119/tII], § 203(a)(1)–(3), (d), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], 1644; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(i)(2), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275][/us/pl/107/275], § 2(a), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
 
  __References in Text__ 
 
@@ -67,23 +67,23 @@
 
     1986—Subsec. (c). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1981—Subsec. (a)(1). [Pub. L. 97–119, § 203(d)][/us/pl/97/119/s203/d], substituted “37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1” for “50 per centum of the minimum monthly payment to which a Federal employee in grade GS–2, who is totally disabled, is entitled at the time of payment under chapter 81 of title 5”.
+    1981—Subsec. (a)(1). [Pub. L. 97–119][/us/pl/97/119], § 203(d), substituted “37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1” for “50 per centum of the minimum monthly payment to which a Federal employee in grade GS–2, who is totally disabled, is entitled at the time of payment under chapter 81 of title 5”.
 
-    Subsec. (a)(2). [Pub. L. 97–119, § 203(a)(1)][/us/pl/97/119/s203/a/1], inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Amendments of 1981,” after “pneumoconiosis or”.
+    Subsec. (a)(2). [Pub. L. 97–119][/us/pl/97/119], § 203(a)(1), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Amendments of 1981,” after “pneumoconiosis or”.
 
-    Subsec. (a)(3). [Pub. L. 97–119, § 203(a)(2)][/us/pl/97/119/s203/a/2], inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or” and substituted “time of his death or” for “time of his death, or”.
+    Subsec. (a)(3). [Pub. L. 97–119][/us/pl/97/119], § 203(a)(2), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or” and substituted “time of his death or” for “time of his death, or”.
 
-    Subsec. (a)(5). [Pub. L. 97–119, § 203(a)(3)][/us/pl/97/119/s203/a/3], inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis, or” and substituted “time of his death or who was totally” for “time of his death, or of a miner who was totally”.
+    Subsec. (a)(5). [Pub. L. 97–119][/us/pl/97/119], § 203(a)(3), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis, or” and substituted “time of his death or who was totally” for “time of his death, or of a miner who was totally”.
 
-    1978—Subsec. (a)(3). [Pub. L. 95–239, § 3(b)(1)(A)][/us/pl/95/239/s3/b/1/A], inserted reference to any child or children entitled to the payment of benefits under paragraph (5) of [section 921(c) of this title][/us/usc/t30/s921/c].
+    1978—Subsec. (a)(3). [Pub. L. 95–239][/us/pl/95/239], § 3(b)(1)(A), inserted reference to any child or children entitled to the payment of benefits under paragraph (5) of [section 921(c) of this title][/us/usc/t30/s921/c].
 
-    Subsec. (a)(5). [Pub. L. 95–239, § 3(b)(1)(B)][/us/pl/95/239/s3/b/1/B], inserted references to the payment of benefits under par. (5) of [section 921(c) of this title][/us/usc/t30/s921/c].
+    Subsec. (a)(5). [Pub. L. 95–239][/us/pl/95/239], § 3(b)(1)(B), inserted references to the payment of benefits under par. (5) of [section 921(c) of this title][/us/usc/t30/s921/c].
 
-    Subsec. (b). [Pub. L. 95–239, § 4][/us/pl/95/239/s4], substituted “on account of the disability of such miner due to pneumoconiosis” for “on account of the disability of such miner”.
+    Subsec. (b). [Pub. L. 95–239][/us/pl/95/239], § 4, substituted “on account of the disability of such miner due to pneumoconiosis” for “on account of the disability of such miner”.
 
-    1972—Subsec. (a)(3), (4). [Pub. L. 92–303, § 1(b)(1)][/us/pl/92/303/s1/b/1], added par. (3) and redesignated former par. (3) as par. (4).
+    1972—Subsec. (a)(3), (4). [Pub. L. 92–303][/us/pl/92/303], § 1(b)(1), added par. (3) and redesignated former par. (3) as par. (4).
 
-    Subsec. (a)(5), (6). [Pub. L. 92–303, § 1(b)(2)][/us/pl/92/303/s1/b/2], added pars. (5) and (6).
+    Subsec. (a)(5), (6). [Pub. L. 92–303][/us/pl/92/303], § 1(b)(2), added pars. (5) and (6).
 
     Subsec. (b). [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(1), 2(a), substituted “widow, child, parent, brother, or sister” for “widow” wherever appearing, and inserted provision that this part would not be considered as a workmen’s compensation law or plan for purposes of section 224 of such Act.
 
@@ -105,17 +105,17 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–303, § 2(b)][/us/pl/92/303/s2/b], May 19, 1972, [86 Stat. 153][/us/stat/86/153], provided that: 
+[Pub. L. 92–303][/us/pl/92/303], § 2(b), May 19, 1972, [86 Stat. 153][/us/stat/86/153], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective as of December 30, 1969.”
 
  __Calculation of Monthly Benefit Payments__ 
 
-[Pub. L. 103–333, title V, § 512][/us/pl/103/333/s512], Sept. 30, 1994, [108 Stat. 2573][/us/stat/108/2573], provided that: 
+[Pub. L. 103–333, title V][/us/pl/103/333/tV], § 512, Sept. 30, 1994, [108 Stat. 2573][/us/stat/108/2573], provided that: 
 
 > “Notwithstanding any other provision of law, monthly benefit rates during fiscal year 1995 and thereafter under part B or part C of the Black Lung Benefits Act \[[30 U.S.C. 921][/us/usc/t30/s921] et seq., 931 et seq.\] shall continue to be based on the benefit rates in effect in September, 1994 and be paid in accordance with the Act, until exceeded by the benefit rate specified in section 412(a)(1) of the Act \[[30 U.S.C. 922(a)(1)][/us/usc/t30/s922/a/1]\].”
 
-[Pub. L. 103–112, title V, § 508(a)][/us/pl/103/112/s508/a], Oct. 21, 1993, [107 Stat. 1113][/us/stat/107/1113], provided that: 
+[Pub. L. 103–112, title V][/us/pl/103/112/tV], § 508(a), Oct. 21, 1993, [107 Stat. 1113][/us/stat/107/1113], provided that: 
 
 > “Notwithstanding any other provision of law, monthly benefit payments under part B or part C of the Black Lung Benefits Act \[[30 U.S.C. 921][/us/usc/t30/s921] et seq., 931 et seq.\] for months after December 1993 and before October 1994 shall be calculated as though the provisions of Federal law prescribing pay rates for Federal employees continued in effect, without amendment to or limitation of such provisions, after January 1993.”
 
@@ -140,19 +140,19 @@
 [/us/usc/t42/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403%2Fb
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
 [/us/usc/t42/s424a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs424a
-[/us/pl/91/173/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs412
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F794
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F150
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F96
-[/us/pl/97/119/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs203%2Fa%2F1
+[/us/pl/97/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtII
 [/us/stat/95/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1643
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/296/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fi%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1925
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/97/119/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs206%2Fa
@@ -163,17 +163,17 @@
 [/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/119/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs203%2Fd
-[/us/pl/97/119/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs203%2Fa%2F1
-[/us/pl/97/119/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs203%2Fa%2F2
-[/us/pl/97/119/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs203%2Fa%2F3
-[/us/pl/95/239/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs3%2Fb%2F1%2FA
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/usc/t30/s921/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921%2Fc
-[/us/pl/95/239/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs3%2Fb%2F1%2FB
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/usc/t30/s921/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921%2Fc
-[/us/pl/95/239/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs4
-[/us/pl/92/303/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fb%2F1
-[/us/pl/92/303/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fb%2F2
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/107/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs4
@@ -187,13 +187,13 @@
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/pl/95/239/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs20%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
-[/us/pl/92/303/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs2%2Fb
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F153
-[/us/pl/103/333/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs512
+[/us/pl/103/333/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtV
 [/us/stat/108/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2573
 [/us/usc/t30/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921
 [/us/usc/t30/s922/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs922%2Fa%2F1
-[/us/pl/103/112/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F112%2Fs508%2Fa
+[/us/pl/103/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F112%2FtV
 [/us/stat/107/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1113
 [/us/usc/t30/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921
 

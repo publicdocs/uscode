@@ -95,7 +95,7 @@
 
         Upon making the applicable determinations and findings required in sections 1411, 1412 of this title, and this section with respect to any applicant for the issuance or transfer of a license or a permit and the exploration or commercial recovery proposed by such applicant, after completion of procedures for receiving the application required by this chapter, and upon payment by the applicant of the fee required under [section 1414 of this title][/us/usc/t30/s1414], the Administrator shall certify the application for the issuance or transfer of the license or permit. The Administrator, to the maximum extent possible, shall endeavor to complete certification action on the application within 100 days after its submission. If final certification or denial of certification has not occurred within 100 days after submission of the application, the Administrator shall inform the applicant in writing of the then pending unresolved issues, the Administrator’s efforts to resolve them, and an estimate of the time required to do so.
 
-([Pub. L. 96–283, title I, § 103][/us/pl/96/283/s103], June 28, 1980, [94 Stat. 560][/us/stat/94/560]; [Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(E)][/us/pl/107/273/s14102/c/2/E], Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 103, June 28, 1980, [94 Stat. 560][/us/stat/94/560]; [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(c)(2)(E), Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921].)
 
  __References in Text__ 
 
@@ -131,9 +131,9 @@
 [/us/usc/t15/s13–13b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13%E2%80%9313b
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t30/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1414
-[/us/pl/96/283/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs103
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F560
-[/us/pl/107/273/s14102/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Fc%2F2%2FE
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
 [/us/usc/t15/s1–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1%E2%80%937
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647

@@ -31,7 +31,7 @@
 
         This chapter and the regulations issued under this chapter shall not be deemed to supersede any other Federal laws or treaties or regulations issued thereunder.
 
-([Pub. L. 96–283, title III, § 308][/us/pl/96/283/s308], June 28, 1980, [94 Stat. 581][/us/stat/94/581].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 308, June 28, 1980, [94 Stat. 581][/us/stat/94/581].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t30/s1419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1419%2Fb
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t30/s1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1420
-[/us/pl/96/283/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs308
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F581
 
 

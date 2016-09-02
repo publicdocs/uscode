@@ -17,7 +17,7 @@
 
     Any prospecting permit issued under this subchapter may be extended by the Secretary of the Interior for a period not exceeding two years, upon a showing of satisfactory cause.
 
-([Feb. 7, 1927, ch. 66, § 7][/us/act/1927-02-07/ch66/s7], as added [May 7, 1932, ch. 174][/us/act/1932-05-07/ch174], [47 Stat. 151][/us/stat/47/151].)
+([Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], § 7, as added [May 7, 1932, ch. 174][/us/act/1932-05-07/ch174], [47 Stat. 151][/us/stat/47/151].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-07/ch66/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66%2Fs7
+[/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/act/1932-05-07/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-07%2Fch174
 [/us/stat/47/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F151
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85

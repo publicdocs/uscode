@@ -31,7 +31,7 @@
 
         If, in accordance with [section 1273(d) of this title][/us/usc/t30/s1273/d], a State elects to regulate surface coal mining and reclamation operations on Federal lands, the Secretary may increase the amount of the annual grants under subsection (a) of this section by an amount which he determines is approximately equal to the amount the Federal Government would have expended for such regulation if the State had not made such election.
 
-([Pub. L. 95–87, title VII, § 705][/us/pl/95/87/s705], Aug. 3, 1977, [91 Stat. 520][/us/stat/91/520].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 705, Aug. 3, 1977, [91 Stat. 520][/us/stat/91/520].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t30/s1273/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1273%2Fd
-[/us/pl/95/87/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs705
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F520
 
 

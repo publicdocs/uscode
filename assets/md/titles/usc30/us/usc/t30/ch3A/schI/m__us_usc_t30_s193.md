@@ -17,7 +17,7 @@
 
     The deposits of coal, phosphate, sodium, potassium, oil, oil shale, and gas, herein referred to, in lands valuable for such minerals, including lands and deposits in Lander, Wyoming, coal entries numbered 18 to 49, inclusive, shall be subject to disposition only in the form and manner provided in this chapter, except as provided in sections 1716 and 1719 of title 43, and except as to valid claims existent on February 25, 1920, and thereafter maintained in compliance with the laws under which initiated, which claims may be perfected under such laws, including discovery.
 
-([Feb. 25, 1920, ch. 85, § 37][/us/act/1920-02-25/ch85/s37], [41 Stat. 451][/us/stat/41/451]; [Feb. 7, 1927, ch. 66, § 5][/us/act/1927-02-07/ch66/s5], [44 Stat. 1058][/us/stat/44/1058]; [Aug. 8, 1946, ch. 916, § 11][/us/act/1946-08-08/ch916/s11], [60 Stat. 957][/us/stat/60/957]; [Pub. L. 95–554, § 4][/us/pl/95/554/s4], Oct. 30, 1978, [92 Stat. 2074][/us/stat/92/2074].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 37, [41 Stat. 451][/us/stat/41/451]; [Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], § 5, [44 Stat. 1058][/us/stat/44/1058]; [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 11, [60 Stat. 957][/us/stat/60/957]; [Pub. L. 95–554][/us/pl/95/554], § 4, Oct. 30, 1978, [92 Stat. 2074][/us/stat/92/2074].)
 
  __Codification__ 
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs37
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F451
-[/us/act/1927-02-07/ch66/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66%2Fs5
+[/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1058
-[/us/act/1946-08-08/ch916/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs11
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F957
-[/us/pl/95/554/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554%2Fs4
+[/us/pl/95/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554
 [/us/stat/92/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2074
 [/us/pl/95/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181

@@ -75,7 +75,7 @@
 
         In furtherance of the policies of this chapter, the Secretary of the Interior shall collect, evaluate, and analyze information concerning mineral occurrence, production, and use from industry, academia, and Federal and State agencies. Notwithstanding the provisions of [section 552 of title 5][/us/usc/t5/s552], data and information provided to the Department by persons or firms engaged in any phase of mineral or mineral-material production or large-scale consumption shall not be disclosed outside of the Department of the Interior in a nonaggregated form so as to disclose data and information supplied by a single person or firm, unless there is no objection to the disclosure of such data and information by the donor: Provided, however, That the Secretary may disclose nonaggregated data and information to Federal defense agencies, or to the Congress upon official request for appropriate purposes.
 
-([Pub. L. 96–479, § 5][/us/pl/96/479/s5], Oct. 21, 1980, [94 Stat. 2307][/us/stat/94/2307]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 96–479][/us/pl/96/479], § 5, Oct. 21, 1980, [94 Stat. 2307][/us/stat/94/2307]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
     The Defense Production Act of 1950, referred to in subsec. (d), is [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
+    The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41][/us/pl/96/41], § 2, July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
  __Change of Name__ 
 
@@ -102,9 +102,9 @@
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/96/479/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479%2Fs5
+[/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2307
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/94/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282
 [/us/stat/90/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F459
@@ -112,7 +112,7 @@
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
-[/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
+[/us/pl/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

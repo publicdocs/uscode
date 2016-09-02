@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as increasing or diminishing the rights of any owner of coal in Alaska to conduct or authorize surface coal mining operations for coal which has been or is hereafter conveyed out of Federal ownership to the State of Alaska or pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\]: Provided, That such surface coal mining operations meet the requirements of this chapter.
 
-([Pub. L. 95–87, title VII, § 716][/us/pl/95/87/s716], Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 716, Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/95/87/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs716
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F526
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

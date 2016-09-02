@@ -29,7 +29,7 @@
 
         Copies of any document, report, communication, or other record maintained or received by the Administrator containing data or information required under this subchapter shall be made available to any person upon any request which (1) reasonably describes such record and (2) is made in accordance with rules adopted by the Administrator stating the time, place, fees (if any, not to exceed the direct cost of the services rendered), and procedures to be followed, except that neither the Administrator nor any other officer or employee of the United States may disclose any data or information knowingly and willingly required under this subchapter the disclosure of which is prohibited by [section 1905 of title 18][/us/usc/t18/s1905]. Any officer or employee of the United States who discloses data or information in violation of this subsection shall be subject to the penalties set forth in [section 1463(b) of this title][/us/usc/t30/s1463/b].
 
-([Pub. L. 96–283, title I, § 113][/us/pl/96/283/s113], June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 113, June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t30/s1463/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1463%2Fb
-[/us/pl/96/283/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs113
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F571
 [/us/usc/t30/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1469
 

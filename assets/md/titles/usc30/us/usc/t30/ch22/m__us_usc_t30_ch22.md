@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch21/m__us_usc_t30_ch21.md) | [Next](./../../../..//us/usc/t30/ch22/m__us_usc_t30_s801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch22)
+[Previous](./../../../..//us/usc/t30/ch21/m__us_usc_t30_s721...740.md) | [Next](./../../../..//us/usc/t30/ch22/m__us_usc_t30_s801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch22)
 
 ## CHAPTER 22—MINE SAFETY AND HEALTH
 
@@ -803,7 +803,7 @@ SUBCHAPTER V—ADMINISTRATIVE PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch21/m__us_usc_t30_ch21.md) | [Next](./../../../..//us/usc/t30/ch22/m__us_usc_t30_s801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch22)
+[Previous](./../../../..//us/usc/t30/ch21/m__us_usc_t30_s721...740.md) | [Next](./../../../..//us/usc/t30/ch22/m__us_usc_t30_s801.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch22)
 
 ----------
 ----------

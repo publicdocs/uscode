@@ -17,7 +17,7 @@
 
     For the purposes of this chapter the Secretary, acting through the United States Bureau of Mines, is authorized to acquire land and interests therein; to receive and accept money and property, real or personal, or interests therein, and services as a gift, bequest, or contribution; and may conduct activities or projects in cooperation with any person, firm, agency, or organization, Federal, State, or private. Money so received shall be deposited in the Treasury of the United States in a special fund or funds for disbursement by the United States Bureau of Mines and shall remain available for the purposes for which received and accepted until expended.
 
-([June 21, 1950, ch. 338, § 2][/us/act/1950-06-21/ch338/s2], [64 Stat. 248][/us/stat/64/248]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([June 21, 1950, ch. 338][/us/act/1950-06-21/ch338], § 2, [64 Stat. 248][/us/stat/64/248]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1950-06-21/ch338/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-21%2Fch338%2Fs2
+[/us/act/1950-06-21/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-21%2Fch338
 [/us/stat/64/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F248
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

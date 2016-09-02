@@ -17,11 +17,11 @@
 
     Upon showing to the satisfaction of the Secretary of the Interior that valuable deposits of one of the substances enumerated in [section 261 of this title][/us/usc/t30/s261] have been discovered by the permittee within the area covered by his permit and that such land is chiefly valuable therefor, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit at a royalty of not less than 2 per centum of the quantity or gross value of the output of sodium compounds and other related products at the point of shipment to market; the lands in such lease to be taken in compact form by legal subdivisions of the public land surveys or, if the land be not surveyed, by survey executed at the cost of the permittee in accordance with regulations prescribed by the Secretary of the Interior. Lands known to contain valuable deposits of one of the substances enumerated in [section 261 of this title][/us/usc/t30/s261] and not covered by permits or leases shall be subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt and in such areas as he shall fix, not exceeding two thousand five hundred and sixty acres. All leases under this section shall be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease, not less than 2 per centum of the quantity or gross value of the output of sodium compounds and other related products at the point of shipment to market, and the payment in advance of a rental of 25 cents per acre for the first calendar year or fraction thereof, 50 cents per acre for the second, third, fourth, and fifth calendar years respectively; and $1 per acre per annum thereafter during the continuance of the lease, such rental for any one year to be credited against royalties accruing for that year. Leases under this section shall be for a period of twenty years, with preferential right in the lessee to renew for successive periods of ten years upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior unless otherwise provided by law at the expiration of such period: Provided, That nothing in this chapter shall prohibit the mining and sale of sodium compounds under potassium leases issued pursuant to subchapter VII \[§ 141 et seq.\] of chapter 3 of this title and subchapter IX of this chapter, nor the mining and sale of potassium compounds as a byproduct from sodium leases taken under this section: Provided further, That on application by any lessee the Secretary of the Interior is authorized to modify the rental and royalty provisions stipulated in any existing sodium lease to conform to the provisions of this section.
 
-([Feb. 25, 1920, ch. 85, § 24][/us/act/1920-02-25/ch85/s24], [41 Stat. 447][/us/stat/41/447]; [Dec. 11, 1928, ch. 19][/us/act/1928-12-11/ch19], [45 Stat. 1019][/us/stat/45/1019].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 24, [41 Stat. 447][/us/stat/41/447]; [Dec. 11, 1928, ch. 19][/us/act/1928-12-11/ch19], [45 Stat. 1019][/us/stat/45/1019].)
 
  __References in Text__ 
 
-    Subchapter VII \[§ 141 et seq.\] of chapter 3 of this title, referred to in text, was repealed by [act Feb. 7, 1927, ch. 66, § 6][/us/act/1927-02-07/ch66/s6], [44 Stat. 1058][/us/stat/44/1058].
+    Subchapter VII \[§ 141 et seq.\] of chapter 3 of this title, referred to in text, was repealed by [act Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], § 6, [44 Stat. 1058][/us/stat/44/1058].
 
     Subchapter IX of this chapter, referred to in text, was in the original “act February 7, 1927 (Forty-fourth Statutes at Large, page 1057)” meaning [act Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], [44 Stat. 1057][/us/stat/44/1057], as amended, which enacted subchapter IX (§ 281 et seq.) of this chapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -31,13 +31,13 @@
 
  __Soda Ash Royalties__ 
 
-[Pub. L. 113–40, § 10(e)][/us/pl/113/40/s10/e], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546], provided that: 
+[Pub. L. 113–40][/us/pl/113/40], § 10(e), Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546], provided that: 
 
 > “Notwithstanding section 24 of the Mineral Leasing Act ([30 U.S.C. 262][/us/usc/t30/s262]) and the terms of any lease under that Act \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], the royalty rate on the quantity of gross value of the output of sodium compounds and related products at the point of shipment to market from Federal land in the 2-year period beginning on the date of enactment of this Act \[Oct. 2, 2013\] shall be 4 percent.”
 
  __Soda Ash Royalty Reduction__ 
 
-[Pub. L. 109–338, title I][/us/pl/109/338], Oct. 12, 2006, [120 Stat. 1786][/us/stat/120/1786], provided that:
+[Pub. L. 109–338, title I][/us/pl/109/338/tI], Oct. 12, 2006, [120 Stat. 1786][/us/stat/120/1786], provided that:
 
 > “SEC. 101. __SHORT TITLE.__ 
 
@@ -68,19 +68,19 @@
 
 [/us/usc/t30/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs261
 [/us/usc/t30/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs261
-[/us/act/1920-02-25/ch85/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs24
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F447
 [/us/act/1928-12-11/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-12-11%2Fch19
 [/us/stat/45/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1019
-[/us/act/1927-02-07/ch66/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66%2Fs6
+[/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1058
 [/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1057
-[/us/pl/113/40/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fe
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F546
 [/us/usc/t30/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs262
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/109/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F338
+[/us/pl/109/338/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F338%2FtI
 [/us/stat/120/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1786
 [/us/usc/t43/s1701/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701%2Fa%2F9
 [/us/usc/t30/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs262

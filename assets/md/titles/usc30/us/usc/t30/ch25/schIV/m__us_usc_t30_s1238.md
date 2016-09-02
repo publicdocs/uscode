@@ -27,7 +27,7 @@
 
         The lien provided in this section shall be entered in the county office in which the land lies and which has responsibility under local law for the recording of judgments against land. Such statement shall constitute a lien upon the said land as of the date of the expenditure of the moneys and shall have priority as a lien second only to the lien of real estate taxes imposed upon said land.
 
-([Pub. L. 95–87, title IV, § 408][/us/pl/95/87/s408], Aug. 3, 1977, [91 Stat. 465][/us/stat/91/465]; [Pub. L. 109–432, div. C, title II, § 205][/us/pl/109/432/s205], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 408, Aug. 3, 1977, [91 Stat. 465][/us/stat/91/465]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 205, Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/95/87/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs408
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F465
-[/us/pl/109/432/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs205
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3016
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 

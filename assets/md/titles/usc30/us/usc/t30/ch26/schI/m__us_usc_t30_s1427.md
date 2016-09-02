@@ -49,7 +49,7 @@
 
         Nothing in this section shall restrict the rights which any person or class of persons may have under other law to seek enforcement or to seek any other relief. All vessel safety and environmental requirements of or under this chapter shall be in addition to other requirements of law.
 
-([Pub. L. 96–283, title I, § 117][/us/pl/96/283/s117], June 28, 1980, [94 Stat. 573][/us/stat/94/573].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 117, June 28, 1980, [94 Stat. 573][/us/stat/94/573].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs117
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F573
 
 

@@ -43,7 +43,7 @@
 
         Whenever an order is issued under this section, or as a result of any administrative proceeding under this chapter, at the request of any person, a sum equal to the aggregate amount of all costs and expenses (including attorney fees) as determined by the Secretary to have been reasonably incurred by such person for or in connection with his participation in such proceedings, including any judicial review of agency actions, may be assessed against either party as the court, resulting from judicial review or the Secretary, resulting from administrative proceedings, deems proper.
 
-([Pub. L. 95–87, title V, § 525][/us/pl/95/87/s525], Aug. 3, 1977, [91 Stat. 511][/us/stat/91/511].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 525, Aug. 3, 1977, [91 Stat. 511][/us/stat/91/511].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t30/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1271
 [/us/usc/t30/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1271
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/95/87/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs525
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F511
 
 

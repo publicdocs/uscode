@@ -25,11 +25,11 @@
 
         (2) The term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 86–599, § 1][/us/pl/86/599/s1], as added [Pub. L. 109–58, title X, § 1009(a)(1)(A)][/us/pl/109/58/s1009/a/1/A], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
+([Pub. L. 86–599][/us/pl/86/599], § 1, as added [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(a)(1)(A), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
 
  __Prior Provisions__ 
 
-    A prior section 661, [Pub. L. 86–599, § 1][/us/pl/86/599/s1], July 7, 1960, [74 Stat. 336][/us/stat/74/336], defined terms for purposes of this chapter, prior to repeal by [Pub. L. 109–58, title X, § 1009(a)(1)(A)][/us/pl/109/58/s1009/a/1/A], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].
+    A prior section 661, [Pub. L. 86–599][/us/pl/86/599], § 1, July 7, 1960, [74 Stat. 336][/us/stat/74/336], defined terms for purposes of this chapter, prior to repeal by [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(a)(1)(A), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].
 
 ----------
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/86/599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs1
-[/us/pl/109/58/s1009/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fa%2F1%2FA
+[/us/pl/86/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
-[/us/pl/86/599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs1
+[/us/pl/86/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599
 [/us/stat/74/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F336
-[/us/pl/109/58/s1009/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fa%2F1%2FA
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
 
 

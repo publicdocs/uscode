@@ -65,7 +65,7 @@
 
     (b) Any information required by this section which is not on public file pursuant to State law shall be held in confidence by the regulatory authority.
 
-([Pub. L. 95–87, title V, § 508][/us/pl/95/87/s508], Aug. 3, 1977, [91 Stat. 478][/us/stat/91/478].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 508, Aug. 3, 1977, [91 Stat. 478][/us/stat/91/478].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t30/s1257/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1257%2Fb%2F16
 [/us/usc/t30/s1265/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Fb%2F7
 [/us/usc/t30/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265
-[/us/pl/95/87/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs508
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F478
 
 

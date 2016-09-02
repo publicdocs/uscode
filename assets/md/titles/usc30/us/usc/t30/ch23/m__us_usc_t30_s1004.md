@@ -141,7 +141,7 @@
 
             A lease that would otherwise terminate under paragraph (1) shall not terminate under that paragraph if the lessee pays to the Secretary, before the end of the period referred to in paragraph (1), the amount of rental due plus a late fee equal to 10 percent of the amount.
 
-([Pub. L. 91–581, § 5][/us/pl/91/581/s5], Dec. 24, 1970, [84 Stat. 1567][/us/stat/84/1567]; [Pub. L. 109–58, title II][/us/pl/109/58], §§ 223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, [119 Stat. 661][/us/stat/119/661], 662, 667–670, 672.)
+([Pub. L. 91–581][/us/pl/91/581], § 5, Dec. 24, 1970, [84 Stat. 1567][/us/stat/84/1567]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], §§ 223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, [119 Stat. 661][/us/stat/119/661], 662, 667–670, 672.)
 
  __References in Text__ 
 
@@ -151,25 +151,25 @@
 
     2005—[Pub. L. 109–58][/us/pl/109/58], §§ 223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck out former pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
 
-    Subsec. (b). [Pub. L. 109–58, § 223(a)(4)][/us/pl/109/58/s223/a/4], added subsec. (b).
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 223(a)(4), added subsec. (b).
 
-    Subsecs. (c), (d). [Pub. L. 109–58, § 224(a)(2)][/us/pl/109/58/s224/a/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 109–58][/us/pl/109/58], § 224(a)(2), added subsecs. (c) and (d).
 
-    Subsec. (e). [Pub. L. 109–58, § 230(4)][/us/pl/109/58/s230/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 230(4), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 109–58, § 232][/us/pl/109/58/s232], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 232, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 109–58, § 233(b)][/us/pl/109/58/s233/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–58][/us/pl/109/58], § 233(b), added subsec. (g).
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title II, § 223(c)][/us/pl/109/58/s223/c], Aug. 8, 2005, [119 Stat. 662][/us/stat/119/662], provided that: 
+[Pub. L. 109–58, title II][/us/pl/109/58/tII], § 223(c), Aug. 8, 2005, [119 Stat. 662][/us/stat/119/662], provided that: 
 
 > “The schedule of fees established under the amendment made by subsection (a)(4) \[amending this section\] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 ([30 U.S.C. 1019][/us/usc/t30/s1019]) prior to the date of enactment of this Act \[Aug. 8, 2005\].”
 
  __Incentives and Royalties for Existing Leases__ 
 
-[Pub. L. 109–58, title II, § 224(c)][/us/pl/109/58/s224/c]–(e), Aug. 8, 2005, [119 Stat. 663][/us/stat/119/663], 664, provided that:
+[Pub. L. 109–58, title II][/us/pl/109/58/tII], § 224(c)–(e), Aug. 8, 2005, [119 Stat. 663][/us/stat/119/663], 664, provided that:
 
 >     “(c) __Near-Term Production Incentive for Existing Leases.—__ 
 
@@ -241,23 +241,23 @@
 [/us/usc/t30/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1019
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
 [/us/usc/t30/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs355
-[/us/pl/91/581/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs5
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1567
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F661
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s223/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs223%2Fa%2F4
-[/us/pl/109/58/s224/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs224%2Fa%2F2
-[/us/pl/109/58/s230/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs230%2F4
-[/us/pl/109/58/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs232
-[/us/pl/109/58/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs233%2Fb
-[/us/pl/109/58/s223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs223%2Fc
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F662
 [/us/usc/t30/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1019
-[/us/pl/109/58/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs224%2Fc
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F663
 [/us/usc/t30/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1004%2Fa
 [/us/usc/t30/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1019

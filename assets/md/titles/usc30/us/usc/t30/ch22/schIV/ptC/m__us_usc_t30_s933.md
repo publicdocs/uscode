@@ -41,7 +41,7 @@
 
         (3) This subsection shall not affect any other liability of the employer under this part.
 
-([Pub. L. 91–173, title IV, § 423][/us/pl/91/173/s423], Dec. 30, 1969, [83 Stat. 797][/us/stat/83/797]; [Pub. L. 92–303, § 3(b)][/us/pl/92/303/s3/b], May 19, 1972, [86 Stat. 153][/us/stat/86/153]; [Pub. L. 95–239, § 8][/us/pl/95/239/s8], Mar. 1, 1978, [92 Stat. 100][/us/stat/92/100].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 423, Dec. 30, 1969, [83 Stat. 797][/us/stat/83/797]; [Pub. L. 92–303][/us/pl/92/303], § 3(b), May 19, 1972, [86 Stat. 153][/us/stat/86/153]; [Pub. L. 95–239][/us/pl/95/239], § 8, Mar. 1, 1978, [92 Stat. 100][/us/stat/92/100].)
 
  __Amendments__ 
 
@@ -67,11 +67,11 @@
 [/us/usc/t30/s931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs931%2Fb
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
 [/us/usc/t30/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932
-[/us/pl/91/173/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs423
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F797
-[/us/pl/92/303/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs3%2Fb
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F153
-[/us/pl/95/239/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs8
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F100
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303

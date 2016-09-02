@@ -17,7 +17,7 @@
 
     Until the permittee shall apply for lease to the one quarter of the permit area heretofore provided for he shall pay to the United States 20 per centum of the gross value of all oil or gas secured by him from the lands embraced within his permit and sold or otherwise disposed of or held by him for sale or other disposition.
 
-([Feb. 25, 1920, ch. 85, § 15][/us/act/1920-02-25/ch85/s15], [41 Stat. 442][/us/stat/41/442].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 15, [41 Stat. 442][/us/stat/41/442].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs15
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F442
 
 

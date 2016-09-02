@@ -31,7 +31,7 @@
 
         No provision of this chapter impairs or affects lands and interests in land entrusted to the Tennessee Valley Authority.
 
-([Pub. L. 97–451, title III, § 304][/us/pl/97/451/s304], Jan. 12, 1983, [96 Stat. 2461][/us/stat/96/2461]; [Pub. L. 105–362, title IX, § 901(j)(2)][/us/pl/105/362/s901/j/2], Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 304, Jan. 12, 1983, [96 Stat. 2461][/us/stat/96/2461]; [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(j)(2), Nov. 10, 1998, [112 Stat. 3290][/us/stat/112/3290].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/97/451/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs304
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2461
-[/us/pl/105/362/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fj%2F2
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3290
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/usc/t30/s1752/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1752%2Fb

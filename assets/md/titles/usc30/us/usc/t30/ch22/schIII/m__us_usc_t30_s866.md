@@ -49,7 +49,7 @@
 
         Trailing cable and power cable connections to junction boxes shall not be made or broken under load.
 
-([Pub. L. 91–173, title III, § 306][/us/pl/91/173/s306], Dec. 30, 1969, [83 Stat. 779][/us/stat/83/779].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 306, Dec. 30, 1969, [83 Stat. 779][/us/stat/83/779].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs306
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F779
 
 

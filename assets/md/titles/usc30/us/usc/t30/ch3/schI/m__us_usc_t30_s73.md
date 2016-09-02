@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2349 derived from [act Mar. 3, 1873, ch. 279, § 3][/us/act/1873-03-03/ch279/s3], [17 Stat. 607][/us/stat/17/607].
+    R.S. § 2349 derived from [act Mar. 3, 1873, ch. 279][/us/act/1873-03-03/ch279], § 3, [17 Stat. 607][/us/stat/17/607].
 
  __Transfer of Functions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t30/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs72
-[/us/act/1873-03-03/ch279/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279%2Fs3
+[/us/act/1873-03-03/ch279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279
 [/us/stat/17/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F607
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

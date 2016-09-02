@@ -17,7 +17,7 @@
 
     Except as otherwise provided in chapter 3A of this title, within the States of Missouri and Kansas deposits of coal, iron, lead, or other mineral are excluded from the operation of sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this title, and all lands in said States shall be subject to disposal as agricultural lands.
 
-([May 5, 1876, ch. 91][/us/act/1876-05-05/ch91], [19 Stat. 52][/us/stat/19/52]; [Feb. 25, 1920, ch. 85, § 1][/us/act/1920-02-25/ch85/s1], [41 Stat. 437][/us/stat/41/437].)
+([May 5, 1876, ch. 91][/us/act/1876-05-05/ch91], [19 Stat. 52][/us/stat/19/52]; [Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 1, [41 Stat. 437][/us/stat/41/437].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1876-05-05/ch91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-05-05%2Fch91
 [/us/stat/19/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F52
-[/us/act/1920-02-25/ch85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs1
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F91

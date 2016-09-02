@@ -17,7 +17,7 @@
 
     The Mine Safety and Health Administration may retain up to $2,499,000 in this fiscal year and each fiscal year thereafter from fees collected for the approval and certification of equipment, materials, and explosives for use in mines, and may utilize such sums for such activities.
 
-([Pub. L. 113–76, div. H, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 357][/us/stat/128/357].)
+([Pub. L. 113–76, div. H, title I][/us/pl/113/76/dH/tI], Jan. 17, 2014, [128 Stat. 357][/us/stat/128/357].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 114–113, div. H, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2593][/us/stat/129/2593].
+    [Pub. L. 114–113, div. H, title I][/us/pl/114/113/dH/tI], Dec. 18, 2015, [129 Stat. 2593][/us/stat/129/2593].
 
-    [Pub. L. 113–235, div. G, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2460][/us/stat/128/2460].
+    [Pub. L. 113–235, div. G, title I][/us/pl/113/235/dG/tI], Dec. 16, 2014, [128 Stat. 2460][/us/stat/128/2460].
 
 ----------
 
@@ -42,11 +42,11 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtI
 [/us/stat/128/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F357
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtI
 [/us/stat/129/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2593
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtI
 [/us/stat/128/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2460
 
 

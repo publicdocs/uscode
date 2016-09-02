@@ -23,11 +23,11 @@
 
     (3) Federal agencies should consider the use of geothermal energy in the Government’s buildings.
 
-([Pub. L. 96–294, title VI, § 602][/us/pl/96/294/s602], June 30, 1980, [94 Stat. 763][/us/stat/94/763].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 602, June 30, 1980, [94 Stat. 763][/us/stat/94/763].)
 
  __Short Title__ 
 
-[Pub. L. 96–294, title VI, § 601][/us/pl/96/294/s601], June 30, 1980, [94 Stat. 763][/us/stat/94/763], provided that: 
+[Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 601, June 30, 1980, [94 Stat. 763][/us/stat/94/763], provided that: 
 
 > “This title \[enacting this chapter and sections 1146 and 1147 of this title and amending sections 1141 and 1143 of this title and sections 796, 824a–3, 824i, and 824j of Title 16, Conservation\] may be cited as the ‘Geothermal Energy Act of 1980’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/96/294/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs602
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F763
-[/us/pl/96/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs601
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F763
 
 

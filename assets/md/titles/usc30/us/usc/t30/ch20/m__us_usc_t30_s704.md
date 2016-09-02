@@ -19,7 +19,7 @@
 
     (b) Any conveyance of less than a fee made under this chapter shall include provision for removal from the tract of any improvements or other property of the applicant at the close of the period for which the conveyance is made, or if it be an interest terminating on the death of the applicant, within one year thereafter.
 
-([Pub. L. 87–851, § 4][/us/pl/87/851/s4], Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127].)
+([Pub. L. 87–851][/us/pl/87/851], § 4, Oct. 23, 1962, [76 Stat. 1127][/us/stat/76/1127].)
 
 ----------
 
@@ -32,7 +32,7 @@
 [/us/usc/t30/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs703
 [/us/usc/t43/s315f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315f
 [/us/usc/t30/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs705
-[/us/pl/87/851/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs4
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1127
 
 

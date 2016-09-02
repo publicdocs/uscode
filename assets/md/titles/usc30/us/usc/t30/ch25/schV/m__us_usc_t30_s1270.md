@@ -57,7 +57,7 @@
 
         Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issued pursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen’s Compensation laws.
 
-([Pub. L. 95–87, title V, § 520][/us/pl/95/87/s520], Aug. 3, 1977, [91 Stat. 503][/us/stat/91/503].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 520, Aug. 3, 1977, [91 Stat. 503][/us/stat/91/503].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs520
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F503
 
 

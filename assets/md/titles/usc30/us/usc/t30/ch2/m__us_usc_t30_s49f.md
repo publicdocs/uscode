@@ -17,7 +17,7 @@
 
     The recorders for the several divisions or districts of Alaska shall collect the sum of $1.50 as a fee for the filing, recording, and indexing annual proofs of work and improvements for each claim so recorded under the provisions of [section 49e of this title][/us/usc/t30/s49e].
 
-([Mar. 2, 1907, ch. 2559, § 2][/us/act/1907-03-02/ch2559/s2], [34 Stat. 1243][/us/stat/34/1243].)
+([Mar. 2, 1907, ch. 2559][/us/act/1907-03-02/ch2559], § 2, [34 Stat. 1243][/us/stat/34/1243].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t30/s49e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs49e
-[/us/act/1907-03-02/ch2559/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2559%2Fs2
+[/us/act/1907-03-02/ch2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2559
 [/us/stat/34/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1243
 [/us/usc/t48/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs385
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

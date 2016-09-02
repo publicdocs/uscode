@@ -25,9 +25,9 @@
 
         (3) the contract is for the disposal of property for which it is impracticable to obtain competition.
 
-    (b) Repealed. [Pub. L. 96–470, title I, § 102(a)][/us/pl/96/470/s102/a], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].
+    (b) Repealed. [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 102(a), Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].
 
-([July 31, 1947, ch. 406, § 2][/us/act/1947-07-31/ch406/s2], [61 Stat. 681][/us/stat/61/681]; [Pub. L. 87–689, § 1][/us/pl/87/689/s1], Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587]; [Pub. L. 94–273, § 20][/us/pl/94/273/s20], Apr. 21, 1976, [90 Stat. 379][/us/stat/90/379]; [Pub. L. 96–470, title I, § 102(a)][/us/pl/96/470/s102/a], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].)
+([July 31, 1947, ch. 406][/us/act/1947-07-31/ch406], § 2, [61 Stat. 681][/us/stat/61/681]; [Pub. L. 87–689][/us/pl/87/689], § 1, Sept. 25, 1962, [76 Stat. 587][/us/stat/76/587]; [Pub. L. 94–273][/us/pl/94/273], § 20, Apr. 21, 1976, [90 Stat. 379][/us/stat/90/379]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 102(a), Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].)
 
  __Amendments__ 
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/96/470/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs102%2Fa
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2237
-[/us/act/1947-07-31/ch406/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-31%2Fch406%2Fs2
+[/us/act/1947-07-31/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-31%2Fch406
 [/us/stat/61/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F681
-[/us/pl/87/689/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F689%2Fs1
+[/us/pl/87/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F689
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
-[/us/pl/94/273/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs20
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F379
-[/us/pl/96/470/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs102%2Fa
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2237
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273

@@ -145,7 +145,7 @@
 
     (33) “United States” means the United States Government and any department, agency, or instrumentality thereof, the several States, the District of Columbia, and the territories of the United States.
 
-([Pub. L. 97–451, § 3][/us/pl/97/451/s3], Jan. 12, 1983, [96 Stat. 2448][/us/stat/96/2448]; [Pub. L. 92–203, § 29(f)(1)][/us/pl/92/203/s29/f/1], as added [Pub. L. 100–241, § 15][/us/pl/100/241/s15], Feb. 3, 1988, [101 Stat. 1813][/us/stat/101/1813]; [Pub. L. 104–185, § 2][/us/pl/104/185/s2], Aug. 13, 1996, [110 Stat. 1700][/us/stat/110/1700]; [Pub. L. 104–200, § 1(1)][/us/pl/104/200/s1/1], Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
+([Pub. L. 97–451][/us/pl/97/451], § 3, Jan. 12, 1983, [96 Stat. 2448][/us/stat/96/2448]; [Pub. L. 92–203][/us/pl/92/203], § 29(f)(1), as added [Pub. L. 100–241][/us/pl/100/241], § 15, Feb. 3, 1988, [101 Stat. 1813][/us/stat/101/1813]; [Pub. L. 104–185][/us/pl/104/185], § 2, Aug. 13, 1996, [110 Stat. 1700][/us/stat/110/1700]; [Pub. L. 104–200][/us/pl/104/200], § 1(1), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
 
  __References in Text__ 
 
@@ -155,13 +155,13 @@
 
  __Amendments__ 
 
-    1996—Par. (7). [Pub. L. 104–185, § 2(1)][/us/pl/104/185/s2/1], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘lessee’ means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;”.
+    1996—Par. (7). [Pub. L. 104–185][/us/pl/104/185], § 2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘lessee’ means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;”.
 
-    Pars. (17) to (25). [Pub. L. 104–185, § 2(2)][/us/pl/104/185/s2/2], added pars. (17) to (25).
+    Pars. (17) to (25). [Pub. L. 104–185][/us/pl/104/185], § 2(2), added pars. (17) to (25).
 
     Par. (25)(B). [Pub. L. 104–200][/us/pl/104/200], substituted “provisions of section 1712(a)” for “provision of section 1712(a)” in introductory provisions.
 
-    Pars. (26) to (33). [Pub. L. 104–185, § 2(2)][/us/pl/104/185/s2/2], added pars. (26) to (33).
+    Pars. (26) to (33). [Pub. L. 104–185][/us/pl/104/185], § 2(2), added pars. (26) to (33).
 
     1988—Pars. (3), (4). [Pub. L. 92–203][/us/pl/92/203] inserted “or which is administered by the United States pursuant to [section 1613(g) of title 43][/us/usc/t43/s1613/g]” after “alienation”.
 
@@ -171,7 +171,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 92–203, § 29(f)(2)][/us/pl/92/203/s29/f/2], as added by [Pub. L. 100–241, § 15][/us/pl/100/241/s15], Feb. 3, 1988, [101 Stat. 1813][/us/stat/101/1813], provided that: 
+[Pub. L. 92–203][/us/pl/92/203], § 29(f)(2), as added by [Pub. L. 100–241][/us/pl/100/241], § 15, Feb. 3, 1988, [101 Stat. 1813][/us/stat/101/1813], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective as if originally included in [section 3 of Public Law 97–451][/us/pl/97/451/s3] \[this section\].”
 
@@ -199,30 +199,30 @@
 [/us/usc/t30/s1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1735
 [/us/usc/t30/s1712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1712%2Fa
 [/us/usc/t30/s1712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1712%2Fa
-[/us/pl/97/451/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs3
+[/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/stat/96/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2448
-[/us/pl/92/203/s29/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203%2Fs29%2Ff%2F1
-[/us/pl/100/241/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241%2Fs15
+[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
+[/us/pl/100/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241
 [/us/stat/101/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1813
-[/us/pl/104/185/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs2
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1700
-[/us/pl/104/200/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F1
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
 [/us/stat/110/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2421
 [/us/act/1906-06-28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-28%2Fs3
 [/us/stat/34/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F539
 [/us/pl/95/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372
 [/us/usc/t43/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331%2Fa
-[/us/pl/104/185/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs2%2F1
-[/us/pl/104/185/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs2%2F2
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
-[/us/pl/104/185/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs2%2F2
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/usc/t43/s1613/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1613%2Fg
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs11
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
-[/us/pl/92/203/s29/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203%2Fs29%2Ff%2F2
-[/us/pl/100/241/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241%2Fs15
+[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
+[/us/pl/100/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241
 [/us/stat/101/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1813
 [/us/pl/97/451/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs3
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185

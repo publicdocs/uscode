@@ -73,7 +73,7 @@
 
         (2) The agency involved shall, under appropriate agreements or other arrangements, provide for the disposition of geothermal resource byproducts of the project administered by such agency.
 
-([Pub. L. 93–410, title I, § 105][/us/pl/93/410/s105], Sept. 3, 1974, [88 Stat. 1084][/us/stat/88/1084]; [Pub. L. 95–238, title V, § 504][/us/pl/95/238/s504], Feb. 25, 1978, [92 Stat. 86][/us/stat/92/86].)
+([Pub. L. 93–410, title I][/us/pl/93/410/tI], § 105, Sept. 3, 1974, [88 Stat. 1084][/us/stat/88/1084]; [Pub. L. 95–238, title V][/us/pl/95/238/tV], § 504, Feb. 25, 1978, [92 Stat. 86][/us/stat/92/86].)
 
  __Amendments__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/93/410/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs105
+[/us/pl/93/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtI
 [/us/stat/88/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1084
-[/us/pl/95/238/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs504
+[/us/pl/95/238/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtV
 [/us/stat/92/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F86
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 

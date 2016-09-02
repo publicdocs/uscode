@@ -27,7 +27,7 @@
 
         Whenever an order is issued under this section to abate any violation, at the request of the applicant a sum equal to the aggregate amount of all costs and expenses (including attorneys’ fees) to have been reasonably incurred by the applicant for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the persons committing the violation.
 
-([Pub. L. 95–87, title VII, § 703][/us/pl/95/87/s703], Aug. 3, 1977, [91 Stat. 520][/us/stat/91/520].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 703, Aug. 3, 1977, [91 Stat. 520][/us/stat/91/520].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/95/87/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs703
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F520
 
 

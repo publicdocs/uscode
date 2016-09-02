@@ -19,7 +19,7 @@
 
     (b) Each such loan shall be for a term which the Secretary deems appropriate, except that no loan term shall exceed twenty years beyond the date on which production of energy or geothermal energy resources begins from the reservoir involved. If revenues are inadequate (as determined by the Secretary) to fully repay the principal and accrued interest within twenty years after production begins, any remaining unpaid amounts shall be forgiven.
 
-([Pub. L. 96–294, title VI, § 613][/us/pl/96/294/s613], June 30, 1980, [94 Stat. 764][/us/stat/94/764].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 613, June 30, 1980, [94 Stat. 764][/us/stat/94/764].)
 
 ----------
 
@@ -31,7 +31,7 @@
 [/us/usc/t30/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1511
 [/us/usc/t42/s1962/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%2Fd
 [/us/usc/t42/s1962d–17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317%2Fa
-[/us/pl/96/294/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs613
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F764
 
 

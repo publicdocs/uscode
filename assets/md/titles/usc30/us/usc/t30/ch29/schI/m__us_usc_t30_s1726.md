@@ -43,15 +43,15 @@
 
         Within one year after August 13, 1996, the Secretary or the delegated State shall provide accounting, reporting, and auditing relief that will encourage lessees to continue to produce and develop properties subject to subsection (a): Provided, That such relief will only be available to lessees in a State that concurs, which concurrence is not required if royalty payments from the lease or leases or well or wells are not shared with any State. Prior to granting such relief, the Secretary and, if appropriate, the State concerned shall agree that the type of marginal wells and relief provided under this paragraph is in the best interest of the United States and, if appropriate, the State concerned.
 
-([Pub. L. 97–451, title I, § 117][/us/pl/97/451/s117], as added [Pub. L. 104–185, § 7(a)][/us/pl/104/185/s7/a], Aug. 13, 1996, [110 Stat. 1715][/us/stat/110/1715]; amended [Pub. L. 104–200, § 1(7)][/us/pl/104/200/s1/7], Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 117, as added [Pub. L. 104–185][/us/pl/104/185], § 7(a), Aug. 13, 1996, [110 Stat. 1715][/us/stat/110/1715]; amended [Pub. L. 104–200][/us/pl/104/200], § 1(7), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
 
  __Codification__ 
 
-    [Pub. L. 104–185, § 4(a)][/us/pl/104/185/s4/a], which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
+    [Pub. L. 104–185][/us/pl/104/185], § 4(a), which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
 
  __Amendments__ 
 
-    1996—Subsec. (b)(1)(C). [Pub. L. 104–200, § 1(7)][/us/pl/104/200/s1/7], substituted “its designee” for “it designee”.
+    1996—Subsec. (b)(1)(C). [Pub. L. 104–200][/us/pl/104/200], § 1(7), substituted “its designee” for “it designee”.
 
  __Effective Date__ 
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/97/451/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs117
-[/us/pl/104/185/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs7%2Fa
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1715
-[/us/pl/104/200/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F7
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
 [/us/stat/110/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2421
-[/us/pl/104/185/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs4%2Fa
-[/us/pl/104/200/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F7
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
+[/us/pl/104/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200
 [/us/pl/104/185/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs11
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185

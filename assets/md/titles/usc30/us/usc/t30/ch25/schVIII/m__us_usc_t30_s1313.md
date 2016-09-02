@@ -19,7 +19,7 @@
 
     (b) No institution of higher education may receive more than $1,500,000 per year from the Federal Government for operating expenses.
 
-([Pub. L. 95–87, title VIII, § 803][/us/pl/95/87/s803], Aug. 3, 1977, [91 Stat. 528][/us/stat/91/528].)
+([Pub. L. 95–87, title VIII][/us/pl/95/87/tVIII], § 803, Aug. 3, 1977, [91 Stat. 528][/us/stat/91/528].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs803
+[/us/pl/95/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVIII
 [/us/stat/91/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F528
 
 

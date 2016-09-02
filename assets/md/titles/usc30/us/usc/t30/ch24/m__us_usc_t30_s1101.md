@@ -41,11 +41,11 @@
 
     (12) the Federal Government should encourage and assist private industry through Federal assistance for the development and demonstration of practicable means to produce useful energy from geothermal resources with environmentally acceptable processes.
 
-([Pub. L. 93–410, § 2][/us/pl/93/410/s2], Sept. 3, 1974, [88 Stat. 1079][/us/stat/88/1079].)
+([Pub. L. 93–410][/us/pl/93/410], § 2, Sept. 3, 1974, [88 Stat. 1079][/us/stat/88/1079].)
 
  __Short Title__ 
 
-[Pub. L. 93–410, § 1][/us/pl/93/410/s1], Sept. 3, 1974, [88 Stat. 1079][/us/stat/88/1079], provided that: 
+[Pub. L. 93–410][/us/pl/93/410], § 1, Sept. 3, 1974, [88 Stat. 1079][/us/stat/88/1079], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Geothermal Energy Research, Development, and Demonstration Act of 1974’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/93/410/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs2
+[/us/pl/93/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410
 [/us/stat/88/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1079
-[/us/pl/93/410/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs1
+[/us/pl/93/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410
 [/us/stat/88/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1079
 
 

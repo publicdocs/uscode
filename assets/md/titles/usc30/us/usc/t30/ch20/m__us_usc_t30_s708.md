@@ -17,7 +17,7 @@
 
     Rights and privileges to qualify as an applicant under this chapter shall not be assignable, but may pass through devise or descent.
 
-([Pub. L. 87–851, § 8][/us/pl/87/851/s8], Oct. 23, 1962, [76 Stat. 1128][/us/stat/76/1128].)
+([Pub. L. 87–851][/us/pl/87/851], § 8, Oct. 23, 1962, [76 Stat. 1128][/us/stat/76/1128].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/851/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs8
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1128
 
 

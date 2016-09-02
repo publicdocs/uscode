@@ -33,15 +33,15 @@
 
         Any cooperative agreement entered into pursuant to this section shall be in accordance with the provisions of chapter 63 of title 31, and shall contain such terms and conditions as the Secretary deems appropriate and consistent with the purposes of this chapter, including, but not limited to, a limitation on the use of Federal assistance to those costs which are directly required to carry out the agreed upon activities.
 
-([Pub. L. 97–451, title II, § 202][/us/pl/97/451/s202], Jan. 12, 1983, [96 Stat. 2457][/us/stat/96/2457].)
+([Pub. L. 97–451, title II][/us/pl/97/451/tII], § 202, Jan. 12, 1983, [96 Stat. 2457][/us/stat/96/2457].)
 
  __Codification__ 
 
-    In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which Act enacted Title 31, Money and Finance.
+    In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which Act enacted Title 31, Money and Finance.
 
  __Applicability__ 
 
-[Pub. L. 104–185, § 8(a)][/us/pl/104/185/s8/a], Aug. 13, 1996, [110 Stat. 1717][/us/stat/110/1717], provided that: 
+[Pub. L. 104–185][/us/pl/104/185], § 8(a), Aug. 13, 1996, [110 Stat. 1717][/us/stat/110/1717], provided that: 
 
 > “With respect to Federal lands, sections 202 and 307 of the Federal Oil and Gas Royalty Management Act of 1982 ([30 U.S.C. 1732][/us/usc/t30/s1732] and 1755), are no longer applicable. The applicability of those sections to Indian leases is not affected.”
 
@@ -54,11 +54,11 @@
 
 [/us/usc/t30/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1718
 [/us/usc/t30/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1733
-[/us/pl/97/451/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs202
+[/us/pl/97/451/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtII
 [/us/stat/96/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2457
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/104/185/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs8%2Fa
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1717
 [/us/usc/t30/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1732
 

@@ -19,7 +19,7 @@
 
     (b) The Secretary of Energy shall require reports containing such information in such forms and to be filed at such times as he determines necessary from each person awarded a fellowship under the provisions of this subchapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, library, archive, or other research center approved by the Secretary of Energy, stating that such person is making satisfactory progress in, and is devoting essentially full time to the research for which the fellowship was awarded.
 
-([Pub. L. 95–87, title IX, § 906][/us/pl/95/87/s906], Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 906, Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
 
  __Transfer of Functions__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t30/s1324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1324%2Fa
-[/us/pl/95/87/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs906
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F530
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t30/ch3A/schII/m__us_usc_t30_s201–1.md) | [Next](./../../../../..//us/usc/t30/ch3A/schII/m__us_usc_t30_s201b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201a)
 
-## § 201a. Repealed. [June 3, 1948, ch. 379, § 8][/us/act/1948-06-03/ch379/s8], [62 Stat. 291][/us/stat/62/291]
+## § 201a. Repealed. [June 3, 1948, ch. 379][/us/act/1948-06-03/ch379], § 8, [62 Stat. 291][/us/stat/62/291]
 
-    Section, [act Mar. 9, 1928, ch. 159, § 1][/us/act/1928-03-09/ch159/s1], [45 Stat. 251][/us/stat/45/251], related to extension of coal prospecting permits.
+    Section, [act Mar. 9, 1928, ch. 159][/us/act/1928-03-09/ch159], § 1, [45 Stat. 251][/us/stat/45/251], related to extension of coal prospecting permits.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-03/ch379/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379%2Fs8
+[/us/act/1948-06-03/ch379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379
 [/us/stat/62/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F291
-[/us/act/1928-03-09/ch159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-09%2Fch159%2Fs1
+[/us/act/1928-03-09/ch159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-09%2Fch159
 [/us/stat/45/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F251
 
 

@@ -75,7 +75,7 @@
 
             The quantity of acreage covered by the lease shall not exceed the limitations established under [section 1006 of this title][/us/usc/t30/s1006].
 
-([Pub. L. 91–581, § 4][/us/pl/91/581/s4], Dec. 24, 1970, [84 Stat. 1566][/us/stat/84/1566]; [Pub. L. 109–58, title II][/us/pl/109/58], §§ 222, 223(b), Aug. 8, 2005, [119 Stat. 660][/us/stat/119/660], 662.)
+([Pub. L. 91–581][/us/pl/91/581], § 4, Dec. 24, 1970, [84 Stat. 1566][/us/stat/84/1566]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], §§ 222, 223(b), Aug. 8, 2005, [119 Stat. 660][/us/stat/119/660], 662.)
 
  __Codification__ 
 
@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58, § 222][/us/pl/109/58/s222], inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
+    2005—[Pub. L. 109–58][/us/pl/109/58], § 222, inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
 
-    Subsecs. (f), (g). [Pub. L. 109–58, § 223(b)][/us/pl/109/58/s223/b], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 109–58][/us/pl/109/58], § 223(b), added subsecs. (f) and (g).
 
 ----------
 
@@ -95,12 +95,12 @@
 ----------
 
 [/us/usc/t30/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1006
-[/us/pl/91/581/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs4
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F660
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs222
-[/us/pl/109/58/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs223%2Fb
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

@@ -35,11 +35,11 @@
 
         The Secretary may transfer funds to other appropriate Federal agencies, in order to carry out the reclamation activities authorized by this subchapter.
 
-([Pub. L. 95–87, title IV, § 413][/us/pl/95/87/s413], formerly § 412, Aug. 3, 1977, [91 Stat. 466][/us/stat/91/466], renumbered § 413, [Pub. L. 101–508, title VI, § 6010(1)][/us/pl/101/508/s6010/1], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 413, formerly § 412, Aug. 3, 1977, [91 Stat. 466][/us/stat/91/466], renumbered § 413, [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6010(1), Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], [62 Stat. 1155][/us/stat/62/1155], formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended), referred to in subsec. (d), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], [62 Stat. 1155][/us/stat/62/1155], formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
  __Prior Provisions__ 
 
@@ -53,13 +53,13 @@
 ----------
 
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/95/87/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs413
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F466
-[/us/pl/101/508/s6010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6010%2F1
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-296
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
 [/us/stat/62/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1155
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/95/87/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs413

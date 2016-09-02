@@ -71,15 +71,15 @@
 
         There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,000,000 annually in each succeeding fiscal year to carry out the provisions of this section, which shall remain available until expended. The Secretary shall provide for an equitable distribution of sums appropriated for grants under this section to the States where there is an approved application, except that no less than one-half of such sum shall be allocated to coal-producing States.
 
-([Pub. L. 91–173, title V, § 503][/us/pl/91/173/s503], Dec. 30, 1969, [83 Stat. 800][/us/stat/83/800]; [Pub. L. 95–164, title III, § 303(c)][/us/pl/95/164/s303/c], Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 503, Dec. 30, 1969, [83 Stat. 800][/us/stat/83/800]; [Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 303(c), Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–164, § 303(c)(1)][/us/pl/95/164/s303/c/1], inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
+    1977—Subsec. (a). [Pub. L. 95–164][/us/pl/95/164], § 303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
 
-    Subsecs. (b), (f), (g). [Pub. L. 95–164, § 303(c)(1)][/us/pl/95/164/s303/c/1], inserted references to mines and mining other than coal mines and coal mining.
+    Subsecs. (b), (f), (g). [Pub. L. 95–164][/us/pl/95/164], § 303(c)(1), inserted references to mines and mining other than coal mines and coal mining.
 
-    Subsec. (h). [Pub. L. 95–164, § 303(c)(2)][/us/pl/95/164/s303/c/2], substituted “$10,000,000” for “$5,000,000” and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
+    Subsec. (h). [Pub. L. 95–164][/us/pl/95/164], § 303(c)(2), substituted “$10,000,000” for “$5,000,000” and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
 
  __Change of Name__ 
 
@@ -97,15 +97,15 @@
 ----------
 
 [/us/usc/t30/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs955
-[/us/pl/91/173/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs503
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F800
-[/us/pl/95/164/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fc
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1320
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/95/164/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fc%2F1
-[/us/pl/95/164/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fc%2F1
-[/us/pl/95/164/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fc%2F2
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164

@@ -17,7 +17,7 @@
 
     A patent for any land claimed and located for valuable deposits may be obtained in the following manner: Any person, association, or corporation authorized to locate a claim under sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and [section 661 of title 43][/us/usc/t43/s661], having claimed and located a piece of land for such purposes, who has, or have, complied with the terms of sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title, and [section 661 of title 43][/us/usc/t43/s661], may file in the proper land office an application for a patent, under oath, showing such compliance, together with a plat and field notes of the claim or claims in common, made by or under the direction of the Director of the Bureau of Land Management, showing accurately the boundaries of the claim or claims, which shall be distinctly marked by monuments on the ground, and shall post a copy of such plat, together with a notice of such application for a patent, in a conspicuous place on the land embraced in such plat previous to the filing of the application for a patent, and shall file an affidavit of at least two persons that such notice has been duly posted, and shall file a copy of the notice in such land office, and shall thereupon be entitled to a patent for the land, in the manner following: The register of the land office, upon the filing of such application, plat, field notes, notices, and affidavits, shall publish a notice that such application has been made, for the period of sixty days, in a newspaper to be by him designated as published nearest to such claim; and he shall also post such notice in his office for the same period. The claimant at the time of filing this application, or at any time thereafter, within the sixty days of publication, shall file with the register a certificate of the Director of the Bureau of Land Management that $500 worth of labor has been expended or improvements made upon the claim by himself or grantors; that the plat is correct, with such further description by such reference to natural objects or permanent monuments as shall identify the claim, and furnish an accurate description, to be incorporated in the patent. At the expiration of the sixty days of publication the claimant shall file his affidavit, showing that the plat and notice have been posted in a conspicuous place on the claim during such period of publication. If no adverse claim shall have been filed with the register of the proper land office at the expiration of the sixty days of publication, it shall be assumed that the applicant is entitled to a patent, upon the payment to the proper officer of $5 per acre, and that no adverse claim exists; and thereafter no objection from third parties to the issuance of a patent shall be heard, except it be shown that the applicant has failed to comply with the terms of sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and [section 661 of title 43][/us/usc/t43/s661]. Where the claimant for a patent is not a resident of or within the land district wherein the vein, lode, ledge, or deposit sought to be patented is located, the application for patent and the affidavits required to be made in this section by the claimant for such patent may be made by his, her, or its authorized agent, where said agent is conversant with the facts sought to be established by said affidavits.
 
-(R.S. § 2325; [Jan. 22, 1880, ch. 9, § 1][/us/act/1880-01-22/ch9/s1], [21 Stat. 61][/us/stat/21/61]; [Mar. 3, 1925, ch. 462][/us/act/1925-03-03/ch462], [43 Stat. 1144][/us/stat/43/1144], 1145; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+(R.S. § 2325; [Jan. 22, 1880, ch. 9][/us/act/1880-01-22/ch9], § 1, [21 Stat. 61][/us/stat/21/61]; [Mar. 3, 1925, ch. 462][/us/act/1925-03-03/ch462], [43 Stat. 1144][/us/stat/43/1144], 1145; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2325 derived from [act May 10, 1872, ch. 152, § 6][/us/act/1872-05-10/ch152/s6], [17 Stat. 92][/us/stat/17/92].
+    R.S. § 2325 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 6, [17 Stat. 92][/us/stat/17/92].
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1880-01-22/ch9/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-01-22%2Fch9%2Fs1
+[/us/act/1880-01-22/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-01-22%2Fch9
 [/us/stat/21/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F61
 [/us/act/1925-03-03/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch462
 [/us/stat/43/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1144
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1872-05-10/ch152/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs6
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F92
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

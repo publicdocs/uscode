@@ -55,7 +55,7 @@
 
         Any determination of the Administrator, after any appropriate administrative review under subsection (b), to certify or deny certification of an application for the issuance or transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration or permit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c), is subject to judicial review as provided in chapter 7 of title 5.
 
-([Pub. L. 96–283, title I, § 106][/us/pl/96/283/s106], June 28, 1980, [94 Stat. 565][/us/stat/94/565].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 106, June 28, 1980, [94 Stat. 565][/us/stat/94/565].)
 
 ----------
 
@@ -68,7 +68,7 @@
 [/us/usc/t30/s1415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1415%2Fa
 [/us/usc/t30/s1462/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1462%2Fa
 [/us/usc/t30/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1463
-[/us/pl/96/283/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs106
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F565
 
 

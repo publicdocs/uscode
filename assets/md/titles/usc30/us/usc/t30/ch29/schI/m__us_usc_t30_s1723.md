@@ -17,7 +17,7 @@
 
     Where amounts representing royalty or other payments owed to the United States with respect to any oil and gas lease on Federal lands or the Outer Continental Shelf are recovered pursuant to any action taken by the Secretary under this chapter as a result of information provided to the Secretary by any person, the Secretary is authorized to pay to such person an amount equal to not more than 10 percent of such recovered amounts. The preceding sentence shall not apply to information provided by an officer or employee of the United States, an officer or employee of a State or Indian tribe acting pursuant to a cooperative agreement or delegation under this chapter, or any person acting pursuant to a contract authorized by this chapter.
 
-([Pub. L. 97–451, title I, § 113][/us/pl/97/451/s113], Jan. 12, 1983, [96 Stat. 2456][/us/stat/96/2456].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 113, Jan. 12, 1983, [96 Stat. 2456][/us/stat/96/2456].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs113
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2456
 
 

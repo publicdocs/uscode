@@ -39,7 +39,7 @@
 
         In any action brought under subsection (a), the court shall have jurisdiction to provide such relief as may be appropriate. In the case of an action under subsection (a)(2), the court shall in its order require such assurance or affirmative steps as it deems necessary to assure itself that the protection afforded to miners under this chapter shall be provided by the operator. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended, except that the time limit in such orders, when issued without notice, shall be seven days from the date of entry. Except as otherwise provided herein, any relief granted by the court to enforce any order under paragraph (1) of subsection (a) shall continue in effect until the completion or final termination of all proceedings for review of such order under this subchapter, unless prior thereto, the district court granting such relief sets it aside or modifies it. In any action instituted under this section to enforce an order or decision issued by the Commission or the Secretary after a public hearing in accordance with [section 554 of title 5][/us/usc/t5/s554], the findings of the Commission or the Secretary, as the case may be, if supported by substantial evidence on the record considered as a whole, shall be conclusive.
 
-([Pub. L. 91–173, title I, § 108][/us/pl/91/173/s108], Dec. 30, 1969, [83 Stat. 756][/us/stat/83/756]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1309][/us/stat/91/1309]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 109–236, § 9][/us/pl/109/236/s9], June 15, 2006, [120 Stat. 501][/us/stat/120/501].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 108, Dec. 30, 1969, [83 Stat. 756][/us/stat/83/756]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1309][/us/stat/91/1309]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 109–236][/us/pl/109/236], § 9, June 15, 2006, [120 Stat. 501][/us/stat/120/501].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/91/173/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs108
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F756
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1309
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/109/236/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs9
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F501
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

@@ -27,7 +27,7 @@
 
         Whenever an order is issued under this subsection granting relief to a miner at the request of such miner, a sum equal to the aggregate amount of all costs and expenses (including the attorney’s fees) as determined by the Secretary to have been reasonably incurred by such miner for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the person committing the violation.
 
-([Pub. L. 91–173, title IV, § 428][/us/pl/91/173/s428], as added [Pub. L. 92–303, § 5(7)][/us/pl/92/303/s5/7], May 19, 1972, [86 Stat. 155][/us/stat/86/155]; amended [Pub. L. 95–251, § 2(a)(9)][/us/pl/95/251/s2/a/9], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 104(d)(3)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 428, as added [Pub. L. 92–303][/us/pl/92/303], § 5(7), May 19, 1972, [86 Stat. 155][/us/stat/86/155]; amended [Pub. L. 95–251][/us/pl/95/251], § 2(a)(9), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 104(d)(3)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.)
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s5372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372
-[/us/pl/91/173/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs428
-[/us/pl/92/303/s5/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs5%2F7
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F155
-[/us/pl/95/251/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F9
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372

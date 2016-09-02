@@ -31,7 +31,7 @@
 
         For purposes of subsection (a), the term “regular employer” means the entity that is the covered employee’s legal or statutory employer pursuant to applicable State law.
 
-([Pub. L. 91–173, title I, § 116][/us/pl/91/173/s116], as added [Pub. L. 109–236, § 3][/us/pl/109/236/s3], June 15, 2006, [120 Stat. 496][/us/stat/120/496].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 116, as added [Pub. L. 109–236][/us/pl/109/236], § 3, June 15, 2006, [120 Stat. 496][/us/stat/120/496].)
 
  __References in Text__ 
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/91/173/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs116
-[/us/pl/109/236/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs3
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F496
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

@@ -21,7 +21,7 @@
 
     (b) persons who plan a career in the field of energy resources, production, or utilization.
 
-([Pub. L. 95–87, title IX, § 902][/us/pl/95/87/s902], Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530].)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 902, Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs902
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F530
 
 

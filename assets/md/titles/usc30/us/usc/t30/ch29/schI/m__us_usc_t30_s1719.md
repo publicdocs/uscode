@@ -95,11 +95,11 @@
 
         No person shall be liable for a civil penalty under subsection (a) or (b) for failure to pay any rental for any lease automatically terminated pursuant to [section 188 of this title][/us/usc/t30/s188].
 
-([Pub. L. 97–451, title I, § 109][/us/pl/97/451/s109], Jan. 12, 1983, [96 Stat. 2454][/us/stat/96/2454].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 109, Jan. 12, 1983, [96 Stat. 2454][/us/stat/96/2454].)
 
  __References in Text__ 
 
-    [Section 1712(a) of this title][/us/usc/t30/s1712/a], referred to in subsec. (a)(2), was amended generally by [Pub. L. 104–185, § 6(g)][/us/pl/104/185/s6/g], Aug. 13, 1996, [110 Stat. 1715][/us/stat/110/1715], and, as so amended, no longer contains a par. (2). See [section 1712(a) of this title][/us/usc/t30/s1712/a].
+    [Section 1712(a) of this title][/us/usc/t30/s1712/a], referred to in subsec. (a)(2), was amended generally by [Pub. L. 104–185][/us/pl/104/185], § 6(g), Aug. 13, 1996, [110 Stat. 1715][/us/stat/110/1715], and, as so amended, no longer contains a par. (2). See [section 1712(a) of this title][/us/usc/t30/s1712/a].
 
 ----------
 
@@ -111,10 +111,10 @@
 [/us/usc/t30/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1718
 [/us/usc/t30/s1712/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1712%2Fb%2F3
 [/us/usc/t30/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs188
-[/us/pl/97/451/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs109
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2454
 [/us/usc/t30/s1712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1712%2Fa
-[/us/pl/104/185/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fg
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1715
 [/us/usc/t30/s1712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1712%2Fa
 

@@ -45,7 +45,7 @@
 
         Final regulations required for implementation of any amendments to this part shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the sixth month following the month in which such amendments are enacted.
 
-([Pub. L. 91–173, title IV, § 421][/us/pl/91/173/s421], Dec. 30, 1969, [83 Stat. 795][/us/stat/83/795]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(1), 4(e), 5(3), (5), May 19, 1972, [86 Stat. 151][/us/stat/86/151], 154, 155; [Pub. L. 95–239][/us/pl/95/239], §§ 3(b)(3), 6, Mar. 1, 1978, [92 Stat. 97][/us/stat/92/97], 98.)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 421, Dec. 30, 1969, [83 Stat. 795][/us/stat/83/795]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(1), 4(e), 5(3), (5), May 19, 1972, [86 Stat. 151][/us/stat/86/151], 154, 155; [Pub. L. 95–239][/us/pl/95/239], §§ 3(b)(3), 6, Mar. 1, 1978, [92 Stat. 97][/us/stat/92/97], 98.)
 
  __References in Text__ 
 
@@ -53,19 +53,19 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–239, § 3(b)(3)][/us/pl/95/239/s3/b/3], inserted reference to cases in which benefits based upon eligibility under par. (5) of [section 921(c) of this title][/us/usc/t30/s921/c] are involved.
+    1978—Subsec. (a). [Pub. L. 95–239][/us/pl/95/239], § 3(b)(3), inserted reference to cases in which benefits based upon eligibility under par. (5) of [section 921(c) of this title][/us/usc/t30/s921/c] are involved.
 
-    Subsec. (b)(2)(A). [Pub. L. 95–239, § 6(a)][/us/pl/95/239/s6/a], added the exceptions set out in cls. (i) and (ii).
+    Subsec. (b)(2)(A). [Pub. L. 95–239][/us/pl/95/239], § 6(a), added the exceptions set out in cls. (i) and (ii).
 
-    Subsec. (b)(2)(C). [Pub. L. 95–239, § 6(b)][/us/pl/95/239/s6/b], substituted “established under this part, and by the regulations of the Secretary promulgated under this part” for “established under part B of this subchapter, and by the regulations of the Secretary of Health, Education, and Welfare promulgated thereunder”.
+    Subsec. (b)(2)(C). [Pub. L. 95–239][/us/pl/95/239], § 6(b), substituted “established under this part, and by the regulations of the Secretary promulgated under this part” for “established under part B of this subchapter, and by the regulations of the Secretary of Health, Education, and Welfare promulgated thereunder”.
 
-    Subsec. (b)(2)(D). [Pub. L. 95–239, § 6(c)][/us/pl/95/239/s6/c], substituted “total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis” for “total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years of the discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be”.
+    Subsec. (b)(2)(D). [Pub. L. 95–239][/us/pl/95/239], § 6(c), substituted “total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis” for “total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years of the discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be”.
 
     1972—Subsec. (a). [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(1), 5(3), substituted “widows, children, parents, brothers, or sisters, as the case may be,” for “widows” and “1974” for “1973”.
 
-    Subsec. (b)(2)(C). [Pub. L. 92–303, § 4(e)][/us/pl/92/303/s4/e], substituted “[section 902(f) of this title][/us/usc/t30/s902/f] and to those standards established under part B of this subchapter” for “those established by [section 921 of this title][/us/usc/t30/s921]”.
+    Subsec. (b)(2)(C). [Pub. L. 92–303][/us/pl/92/303], § 4(e), substituted “[section 902(f) of this title][/us/usc/t30/s902/f] and to those standards established under part B of this subchapter” for “those established by [section 921 of this title][/us/usc/t30/s921]”.
 
-    Subsec. (c). [Pub. L. 92–303, § 5(5)][/us/pl/92/303/s5/5], added subsec. (c).
+    Subsec. (c). [Pub. L. 92–303][/us/pl/92/303], § 5(5), added subsec. (c).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -90,7 +90,7 @@
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
 [/us/usc/t30/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs932%2Fa
-[/us/pl/91/173/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs421
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F795
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F151
@@ -99,16 +99,16 @@
 [/us/act/1927-03-04/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch509
 [/us/stat/44/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1424
 [/us/usc/t33/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs901
-[/us/pl/95/239/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs3%2Fb%2F3
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/usc/t30/s921/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921%2Fc
-[/us/pl/95/239/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs6%2Fa
-[/us/pl/95/239/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs6%2Fb
-[/us/pl/95/239/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs6%2Fc
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
-[/us/pl/92/303/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fe
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/usc/t30/s902/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs902%2Ff
 [/us/usc/t30/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921
-[/us/pl/92/303/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs5%2F5
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/pl/95/239/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs20%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901

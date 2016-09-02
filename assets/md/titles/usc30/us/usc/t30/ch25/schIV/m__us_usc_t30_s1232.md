@@ -351,7 +351,7 @@
 
             Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-([Pub. L. 95–87, title IV, § 402][/us/pl/95/87/s402], Aug. 3, 1977, [91 Stat. 457][/us/stat/91/457]; [Pub. L. 100–34, title I, § 101][/us/pl/100/34/s101], May 7, 1987, [101 Stat. 300][/us/stat/101/300]; [Pub. L. 101–508, title VI][/us/pl/101/508], §§ 6003, 6004, Nov. 5, 1990, [104 Stat. 1388–290][/us/stat/104/1388-290], 1388–291; [Pub. L. 102–486, title XIX, § 19143(b)(1)][/us/pl/102/486/s19143/b/1], (2), (3)(B), title XXV, § 2515, Oct. 24, 1992, [106 Stat. 3056][/us/stat/106/3056], 3113; [Pub. L. 108–447, div. E, title I, § 135(a)][/us/pl/108/447/s135/a], Dec. 8, 2004, [118 Stat. 3068][/us/stat/118/3068]; [Pub. L. 109–13, div. A, title VI, § 6035][/us/pl/109/13/s6035], May 11, 2005, [119 Stat. 289][/us/stat/119/289]; [Pub. L. 109–54, title I, § 129][/us/pl/109/54/s129], Aug. 2, 2005, [119 Stat. 525][/us/stat/119/525]; [Pub. L. 109–234, title VII, § 7007][/us/pl/109/234/s7007], June 15, 2006, [120 Stat. 483][/us/stat/120/483]; [Pub. L. 109–432, div. C, title II, § 202][/us/pl/109/432/s202], Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008]; [Pub. L. 110–343, div. C, title VI, § 602][/us/pl/110/343/s602], Oct. 3, 2008, [122 Stat. 3911][/us/stat/122/3911].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 402, Aug. 3, 1977, [91 Stat. 457][/us/stat/91/457]; [Pub. L. 100–34, title I][/us/pl/100/34/tI], § 101, May 7, 1987, [101 Stat. 300][/us/stat/101/300]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], §§ 6003, 6004, Nov. 5, 1990, [104 Stat. 1388–290][/us/stat/104/1388-290], 1388–291; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(b)(1), (2), (3)(B), title XXV, § 2515, Oct. 24, 1992, [106 Stat. 3056][/us/stat/106/3056], 3113; [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 135(a), Dec. 8, 2004, [118 Stat. 3068][/us/stat/118/3068]; [Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6035, May 11, 2005, [119 Stat. 289][/us/stat/119/289]; [Pub. L. 109–54, title I][/us/pl/109/54/tI], § 129, Aug. 2, 2005, [119 Stat. 525][/us/stat/119/525]; [Pub. L. 109–234, title VII][/us/pl/109/234/tVII], § 7007, June 15, 2006, [120 Stat. 483][/us/stat/120/483]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 202, Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008]; [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 602, Oct. 3, 2008, [122 Stat. 3911][/us/stat/122/3911].)
 
  __Codification__ 
 
@@ -361,29 +361,29 @@
 
     2008—Subsec. (i)(1)(C). [Pub. L. 110–343][/us/pl/110/343] substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
 
-    2006—Subsec. (a). [Pub. L. 109–432, § 202(a)(2)][/us/pl/109/432/s202/a/2], substituted “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.
+    2006—Subsec. (a). [Pub. L. 109–432][/us/pl/109/432], § 202(a)(2), substituted “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.
 
-    [Pub. L. 109–432, § 202(a)(1)][/us/pl/109/432/s202/a/1], substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
+    [Pub. L. 109–432][/us/pl/109/432], § 202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
 
-    Subsec. (b). [Pub. L. 109–432, § 202(b)][/us/pl/109/432/s202/b], substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
+    Subsec. (b). [Pub. L. 109–432][/us/pl/109/432], § 202(b), substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
 
     [Pub. L. 109–234][/us/pl/109/234] substituted “September 30, 2007” for “June 30, 2006”.
 
-    Subsec. (g)(1)(D). [Pub. L. 109–432, § 202(c)(1)][/us/pl/109/432/s202/c/1], inserted “(except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years)” after “this paragraph” and substituted “under paragraph (5)” for “in any area under paragraph (2), (3), (4), or (5)”.
+    Subsec. (g)(1)(D). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(1), inserted “(except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years)” after “this paragraph” and substituted “under paragraph (5)” for “in any area under paragraph (2), (3), (4), or (5)”.
 
-    Subsec. (g)(2). [Pub. L. 109–432, § 202(c)(2)][/us/pl/109/432/s202/c/2], added par. (2) and struck out former par. (2) which read as follows: “20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in [section 1231(e) of this title][/us/usc/t30/s1231/e] and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under [section 1231(c)(2) of this title][/us/usc/t30/s1231/c/2].”
+    Subsec. (g)(2). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(2), added par. (2) and struck out former par. (2) which read as follows: “20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in [section 1231(e) of this title][/us/usc/t30/s1231/e] and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under [section 1231(c)(2) of this title][/us/usc/t30/s1231/c/2].”
 
-    Subsec. (g)(3). [Pub. L. 109–432, § 202(c)(3)(A)][/us/pl/109/432/s202/c/3/A], substituted “paragraph (5)” for “paragraphs (2) and (5)” in introductory provisions.
+    Subsec. (g)(3). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(3)(A), substituted “paragraph (5)” for “paragraphs (2) and (5)” in introductory provisions.
 
-    Subsec. (g)(3)(A). [Pub. L. 109–432, § 202(c)(3)(B)][/us/pl/109/432/s202/c/3/B], substituted “1231(c)(9)” for “1231(c)(11)”.
+    Subsec. (g)(3)(A). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(3)(B), substituted “1231(c)(9)” for “1231(c)(11)”.
 
-    Subsec. (g)(3)(E). [Pub. L. 109–432, § 202(c)(3)(C)][/us/pl/109/432/s202/c/3/C], added subpar. (E).
+    Subsec. (g)(3)(E). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(3)(C), added subpar. (E).
 
-    Subsec. (g)(5). [Pub. L. 109–432, § 202(c)(4)][/us/pl/109/432/s202/c/4], designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, subtituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
+    Subsec. (g)(5). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted “60” for “40”, in last sentence, subtituted “Funds made available under paragraph (3) or (4)” for “Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)”, and added subpar. (B).
 
-    Subsec. (g)(6) to (8). [Pub. L. 109–432, § 202(c)(5)][/us/pl/109/432/s202/c/5], added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
+    Subsec. (g)(6) to (8). [Pub. L. 109–432][/us/pl/109/432], § 202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
 
-    Subsecs. (h), (i). [Pub. L. 109–432, § 202(d)][/us/pl/109/432/s202/d], added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
+    Subsecs. (h), (i). [Pub. L. 109–432][/us/pl/109/432], § 202(d), added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
 
     2005—Subsec. (b). [Pub. L. 109–54][/us/pl/109/54] substituted “June 30, 2006” for “September 30, 2005”.
 
@@ -391,33 +391,33 @@
 
     2004—Subsec. (b). [Pub. L. 108–447][/us/pl/108/447] substituted “June 30, 2005” for “September 30, 2004”.
 
-    1992—Subsec. (b). [Pub. L. 102–486, § 2515][/us/pl/102/486/s2515], which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 102–486, § 19143(b)(1)][/us/pl/102/486/s19143/b/1]. See below.
+    1992—Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 2515, which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 102–486][/us/pl/102/486], § 19143(b)(1). See below.
 
-    [Pub. L. 102–486, § 19143(b)(1)][/us/pl/102/486/s19143/b/1], substituted “2004” for “1995” before period at end.
+    [Pub. L. 102–486][/us/pl/102/486], § 19143(b)(1), substituted “2004” for “1995” before period at end.
 
-    Subsec. (g)(1). [Pub. L. 102–486, § 19143(b)(3)(B)][/us/pl/102/486/s19143/b/3/B], substituted “Except as provided in subsection (h) of this section, moneys” for “Moneys”.
+    Subsec. (g)(1). [Pub. L. 102–486][/us/pl/102/486], § 19143(b)(3)(B), substituted “Except as provided in subsection (h) of this section, moneys” for “Moneys”.
 
-    Subsec. (h). [Pub. L. 102–486, § 19143(b)(2)][/us/pl/102/486/s19143/b/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 102–486][/us/pl/102/486], § 19143(b)(2), added subsec. (h).
 
-    1990—Subsec. (b). [Pub. L. 101–508, § 6003(a)][/us/pl/101/508/s6003/a], substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
+    1990—Subsec. (b). [Pub. L. 101–508][/us/pl/101/508], § 6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
 
-    Subsec. (c). [Pub. L. 101–508, § 6003(b)][/us/pl/101/508/s6003/b], inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under [section 1256 of this title][/us/usc/t30/s1256] and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under [section 1256 of this title][/us/usc/t30/s1256] and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
 
-    Subsec. (d). [Pub. L. 101–508, § 6003(c)][/us/pl/101/508/s6003/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 6003(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (f). [Pub. L. 101–508, § 6003(d)][/us/pl/101/508/s6003/d], inserted at end “Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of [section 4121 of title 26][/us/usc/t26/s4121].”
+    Subsec. (f). [Pub. L. 101–508][/us/pl/101/508], § 6003(d), inserted at end “Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of [section 4121 of title 26][/us/usc/t26/s4121].”
 
-    Subsec. (g). [Pub. L. 101–508, § 6004][/us/pl/101/508/s6004], amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
+    Subsec. (g). [Pub. L. 101–508][/us/pl/101/508], § 6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
     1987—Subsec. (g)(3), (4). [Pub. L. 100–34][/us/pl/100/34] added par. (3) and redesignated former par. (3) as (4).
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–432, div. C, title II, § 202(a)(1)][/us/pl/109/432/s202/a/1], Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008], provided that the amendment made by section 202(a)(1) \[amending this section\] is effective Oct. 1, 2007.
+    [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 202(a)(1), Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008], provided that the amendment made by section 202(a)(1) \[amending this section\] is effective Oct. 1, 2007.
 
-    [Pub. L. 109–432, div. C, title II, § 202(a)(2)][/us/pl/109/432/s202/a/2], Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008], provided that the amendment made by section 202(a)(2) \[amending this section\] is effective Oct. 1, 2012.
+    [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 202(a)(2), Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008], provided that the amendment made by section 202(a)(2) \[amending this section\] is effective Oct. 1, 2012.
 
-    [Pub. L. 109–432, div. C, title II, § 202(b)][/us/pl/109/432/s202/b], Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008], provided that the amendment made by section 202(b) \[amending this section\] is effective Sept. 30, 2007.
+    [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 202(b), Dec. 20, 2006, [120 Stat. 3008][/us/stat/120/3008], provided that the amendment made by section 202(b) \[amending this section\] is effective Sept. 30, 2007.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -485,63 +485,63 @@
 [/us/usc/t26/s9706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9706
 [/us/usc/t26/s9706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9706
 [/us/usc/t30/s1240a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240a%2Fh
-[/us/pl/95/87/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs402
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F457
-[/us/pl/100/34/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34%2Fs101
+[/us/pl/100/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34%2FtI
 [/us/stat/101/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F300
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-290
-[/us/pl/102/486/s19143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F1
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3056
-[/us/pl/108/447/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs135%2Fa
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3068
-[/us/pl/109/13/s6035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6035
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F289
-[/us/pl/109/54/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs129
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F525
-[/us/pl/109/234/s7007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs7007
+[/us/pl/109/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtVII
 [/us/stat/120/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F483
-[/us/pl/109/432/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3008
-[/us/pl/110/343/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs602
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3911
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/109/432/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fa%2F2
-[/us/pl/109/432/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fa%2F1
-[/us/pl/109/432/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fb
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
-[/us/pl/109/432/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F1
-[/us/pl/109/432/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F2
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t30/s1231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231%2Fe
 [/us/usc/t30/s1231/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231%2Fc%2F2
-[/us/pl/109/432/s202/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F3%2FA
-[/us/pl/109/432/s202/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F3%2FB
-[/us/pl/109/432/s202/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F3%2FC
-[/us/pl/109/432/s202/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F4
-[/us/pl/109/432/s202/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fc%2F5
-[/us/pl/109/432/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fd
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/102/486/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2515
-[/us/pl/102/486/s19143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F1
-[/us/pl/102/486/s19143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F1
-[/us/pl/102/486/s19143/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F3%2FB
-[/us/pl/102/486/s19143/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F2
-[/us/pl/101/508/s6003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6003%2Fa
-[/us/pl/101/508/s6003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6003%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1256
-[/us/pl/101/508/s6003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6003%2Fc
-[/us/pl/101/508/s6003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6003%2Fd
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t26/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4121
-[/us/pl/101/508/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6004
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34
-[/us/pl/109/432/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fa%2F1
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3008
-[/us/pl/109/432/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fa%2F2
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3008
-[/us/pl/109/432/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs202%2Fb
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3008
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014

@@ -21,7 +21,7 @@
 
     (2) if a system for the protection of interim investments has not been so adopted, shall report to the Congress on the status of negotiations relating to the establishment of such a system.
 
-([Pub. L. 96–283, title II, § 203][/us/pl/96/283/s203], June 28, 1980, [94 Stat. 576][/us/stat/94/576].)
+([Pub. L. 96–283, title II][/us/pl/96/283/tII], § 203, June 28, 1980, [94 Stat. 576][/us/stat/94/576].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t30/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1441
-[/us/pl/96/283/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs203
+[/us/pl/96/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtII
 [/us/stat/94/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F576
 
 

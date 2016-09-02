@@ -17,11 +17,11 @@
 
     Legal subdivisions of forty acres may be subdivided into ten-acre tracts; and two or more persons, or associations of persons, having contiguous claims of any size, although such claims may be less than ten acres each, may make joint entry thereof; but no location of a placer claim, made after the 9th day of July 1870, shall exceed one hundred and sixty acres for any one person or association of persons, which location shall conform to the United States surveys; and nothing in this section contained shall defeat or impair any bona fide homestead claim upon agricultural lands, or authorize the sale of the improvements of any bona fide settler to any purchaser.
 
-(R.S. § 2330; [Mar. 3, 1891, ch. 561, § 4][/us/act/1891-03-03/ch561/s4], [26 Stat. 1097][/us/stat/26/1097].)
+(R.S. § 2330; [Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], § 4, [26 Stat. 1097][/us/stat/26/1097].)
 
  __Codification__ 
 
-    R.S. § 2330 derived from [act July 9, 1870, ch. 235, § 12][/us/act/1870-07-09/ch235/s12], [16 Stat. 217][/us/stat/16/217].
+    R.S. § 2330 derived from [act July 9, 1870, ch. 235][/us/act/1870-07-09/ch235], § 12, [16 Stat. 217][/us/stat/16/217].
 
  __Submerged Lands Act__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1891-03-03/ch561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs4
+[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
 [/us/stat/26/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1097
-[/us/act/1870-07-09/ch235/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-09%2Fch235%2Fs12
+[/us/act/1870-07-09/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-09%2Fch235
 [/us/stat/16/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F217
 [/us/usc/t43/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1303
 

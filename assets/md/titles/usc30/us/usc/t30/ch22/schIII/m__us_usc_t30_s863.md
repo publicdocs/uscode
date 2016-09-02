@@ -137,7 +137,7 @@
 
         (3) In the case of mines opened on or after the operative date of this subchapter, or in the case of working sections opened on or after such date in mines opened prior to such date, the mining system shall be designed in accordance with a plan and revisions thereof approved by the Secretary and adopted by such operator so that, as each working section of the mine is abandoned, it can be isolated from the active workings of the mine with explosion-proof seals or bulkheads.
 
-([Pub. L. 91–173, title III, § 303][/us/pl/91/173/s303], Dec. 30, 1969, [83 Stat. 767][/us/stat/83/767].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 303, Dec. 30, 1969, [83 Stat. 767][/us/stat/83/767].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 
  __Belt Haulage Entries for Ventilation__ 
 
-[Pub. L. 110–161, div. G, title I, § 112(a)][/us/pl/110/161/s112/a], Dec. 26, 2007, [121 Stat. 2168][/us/stat/121/2168], provided that: 
+[Pub. L. 110–161, div. G, title I][/us/pl/110/161/dG/tI], § 112(a), Dec. 26, 2007, [121 Stat. 2168][/us/stat/121/2168], provided that: 
 
 > “Not later than June 20, 2008, the Secretary of Labor shall propose regulations pursuant to section 303(y) of the Federal Mine Safety and Health Act of 1977 \[[30 U.S.C. 863(y)][/us/usc/t30/s863/y]\], consistent with the recommendations of the Technical Study Panel established pursuant to section 11 of the Mine Improvement and New Emergency Response (MINER) Act ([Public Law 109–236][/us/pl/109/236]) \[enacting [section 963 of this title][/us/usc/t30/s963]\], to require that in any coal mine, regardless of the date on which it was opened, belt haulage entries not be used to ventilate active working places without prior approval from the Assistant Secretary. Further, a mine ventilation plan incorporating the use of air coursed through belt haulage entries to ventilate active working places shall not be approved until the Assistant Secretary has reviewed the elements of the plan related to the use of belt air and determined that the plan at all times affords at least the same measure of protection where belt haulage entries are not used to ventilate working places. The Secretary shall finalize the regulations not later than December 31, 2008.”
 
@@ -163,11 +163,11 @@
 [/us/usc/t30/s814/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs814%2Fd
 [/us/usc/t30/s865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs865%2Fa
 [/us/usc/t30/s814/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs814%2Fd
-[/us/pl/91/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs303
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F767
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
-[/us/pl/110/161/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs112%2Fa
+[/us/pl/110/161/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdG%2FtI
 [/us/stat/121/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2168
 [/us/usc/t30/s863/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs863%2Fy
 [/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236

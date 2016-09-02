@@ -69,7 +69,7 @@
 
         Power centers and portable transformers shall be deenergized before they are moved from one location to another, except that, when equipment powered by sources other than such centers or transformers is not available, the Secretary may permit such centers and transformers to be moved while energized, if he determines that another equivalent or greater hazard may otherwise be created, and if they are moved under the supervision of a qualified person, and if such centers and transformers are examined prior to such movement by such person and found to be grounded by methods approved by an authorized representative of the Secretary and otherwise protected from hazards to the miner. A record shall be kept of such examinations. High-voltage cables, other than trailing cables, shall not be moved or handled at any time while energized, except that, when such centers and transformers are moved while energized as permitted under this subsection, energized high-voltage cables attached to such centers and transformers may be moved only by a qualified person and the operator of such mine shall require that such person wear approved and tested insulated wireman’s gloves.
 
-([Pub. L. 91–173, title III, § 308][/us/pl/91/173/s308], Dec. 30, 1969, [83 Stat. 780][/us/stat/83/780].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 308, Dec. 30, 1969, [83 Stat. 780][/us/stat/83/780].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t30/s866/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs866%2Fe
-[/us/pl/91/173/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs308
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F780
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

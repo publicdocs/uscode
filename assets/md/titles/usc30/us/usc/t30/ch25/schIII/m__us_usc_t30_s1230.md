@@ -33,7 +33,7 @@
 
         (2) Generic mineral technology centers established by the Secretary under this subchapter are to be composed of institutes eligible pursuant to subsection (a). Existing generic mineral technology centers shall continue to be eligible under this subchapter subject to at least one review prior to January 15, 1992, pursuant to section 11(a)(3) of the Mining and Mineral Resources Research Institute Amendments of 1988.
 
-([Pub. L. 98–409, § 10][/us/pl/98/409/s10], Aug. 29, 1984, [98 Stat. 1541][/us/stat/98/1541]; [Pub. L. 100–483, § 10][/us/pl/100/483/s10], Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340].)
+([Pub. L. 98–409][/us/pl/98/409], § 10, Aug. 29, 1984, [98 Stat. 1541][/us/stat/98/1541]; [Pub. L. 100–483][/us/pl/100/483], § 10, Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/98/409/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs10
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1541
-[/us/pl/100/483/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs10
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2340
 [/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2339

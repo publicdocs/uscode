@@ -47,15 +47,15 @@
 
         The Secretary of Energy shall designate the ten institutions of higher education under this section not later than ninety days after the date on which such applications are to be submitted.
 
-([Pub. L. 95–87, title VIII, § 801][/us/pl/95/87/s801], Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526]; [Pub. L. 95–617, title VI, § 604(a)][/us/pl/95/617/s604/a], (c), Nov. 9, 1978, [92 Stat. 3166][/us/stat/92/3166], 3167; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 95–87, title VIII][/us/pl/95/87/tVIII], § 801, Aug. 3, 1977, [91 Stat. 526][/us/stat/91/526]; [Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 604(a), (c), Nov. 9, 1978, [92 Stat. 3166][/us/stat/92/3166], 3167; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–617, § 604(a)][/us/pl/95/617/s604/a], substituted “The Secretary of Energy” for “The Administrator, Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
+    1978—Subsec. (a). [Pub. L. 95–617][/us/pl/95/617], § 604(a), substituted “The Secretary of Energy” for “The Administrator, Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
 
-    Subsec. (b). [Pub. L. 95–617, § 604(a)][/us/pl/95/617/s604/a], (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e)” for “The institution of higher education”.
+    Subsec. (b). [Pub. L. 95–617][/us/pl/95/617], § 604(a), (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e)” for “The institution of higher education”.
 
-    Subsecs. (d), (e). [Pub. L. 95–617, § 604(c)][/us/pl/95/617/s604/c], substituted “Secretary of Energy” for “Administrator” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 95–617][/us/pl/95/617], § 604(c), substituted “Secretary of Energy” for “Administrator” wherever appearing.
 
  __Change of Name__ 
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/95/87/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs801
+[/us/pl/95/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVIII
 [/us/stat/91/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F526
-[/us/pl/95/617/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fa
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3166
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
-[/us/pl/95/617/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fa
-[/us/pl/95/617/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fa
-[/us/pl/95/617/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fc
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

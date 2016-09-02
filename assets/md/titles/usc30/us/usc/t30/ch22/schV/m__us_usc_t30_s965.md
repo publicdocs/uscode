@@ -57,7 +57,7 @@
 
         There are authorized to be appropriated for each fiscal year, such sums as may be necessary to carry out this section.
 
-([Pub. L. 109–236, § 14][/us/pl/109/236/s14], June 15, 2006, [120 Stat. 504][/us/stat/120/504].)
+([Pub. L. 109–236][/us/pl/109/236], § 14, June 15, 2006, [120 Stat. 504][/us/stat/120/504].)
 
  __Codification__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/109/236/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs14
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F504
 
 

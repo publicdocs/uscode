@@ -39,7 +39,7 @@
 
         Where miners are exposed to danger from falls of roof, face, and ribs the operator shall examine and test the roof, face, and ribs before any work or machine is started, and as frequently thereafter as may be necessary to insure safety. When dangerous conditions are found, they shall be corrected immediately.
 
-([Pub. L. 91–173, title III, § 302][/us/pl/91/173/s302], Dec. 30, 1969, [83 Stat. 766][/us/stat/83/766].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 302, Dec. 30, 1969, [83 Stat. 766][/us/stat/83/766].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs302
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F766
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

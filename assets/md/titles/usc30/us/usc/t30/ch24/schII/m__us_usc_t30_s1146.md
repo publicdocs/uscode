@@ -17,7 +17,7 @@
 
     The Secretary, within sixty days after June 30, 1980, shall establish and implement procedures providing for a final decision on any loan guarantee application within four months of the date of filing. To the maximum extent practical, an applicant should be advised (prior to the submission of the application) of all information which will be required of the applicant in processing the application; and the date of filing shall be considered to be the date when all of such information has been submitted by the applicant. Any application proposed and filed as of June 30, 1980, shall be subject to final decision within not more than four months after such date.
 
-([Pub. L. 93–410, title II, § 206][/us/pl/93/410/s206], as added [Pub. L. 96–294, title VI, § 641(3)][/us/pl/96/294/s641/3], June 30, 1980, [94 Stat. 769][/us/stat/94/769].)
+([Pub. L. 93–410, title II][/us/pl/93/410/tII], § 206, as added [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 641(3), June 30, 1980, [94 Stat. 769][/us/stat/94/769].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/410/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs206
-[/us/pl/96/294/s641/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs641%2F3
+[/us/pl/93/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtII
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F769
 
 

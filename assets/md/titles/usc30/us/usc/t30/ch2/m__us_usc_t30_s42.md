@@ -31,7 +31,7 @@
 
  __Codification__ 
 
-    R.S. § 2337 derived from [act May 10, 1872, ch. 152, § 15][/us/act/1872-05-10/ch152/s15], [17 Stat. 96][/us/stat/17/96].
+    R.S. § 2337 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 15, [17 Stat. 96][/us/stat/17/96].
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 [/us/pl/86/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F390
 [/us/stat/74/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F7
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1872-05-10/ch152/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs15
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F96
 [/us/pl/86/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F390
 

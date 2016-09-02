@@ -17,7 +17,7 @@
 
     The Secretary shall not issue any lease under this chapter on those lands subject to the prohibition provided under [section 226–3 of this title][/us/usc/t30/s226–3].
 
-([Pub. L. 91–581, § 29][/us/pl/91/581/s29], as added [Pub. L. 100–443, § 5(d)][/us/pl/100/443/s5/d], Sept. 22, 1988, [102 Stat. 1769][/us/stat/102/1769]; amended [Pub. L. 109–58, title II, § 236(27)][/us/pl/109/58/s236/27], Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
+([Pub. L. 91–581][/us/pl/91/581], § 29, as added [Pub. L. 100–443][/us/pl/100/443], § 5(d), Sept. 22, 1988, [102 Stat. 1769][/us/stat/102/1769]; amended [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(27), Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
 
  __Amendments__ 
 
@@ -31,10 +31,10 @@
 ----------
 
 [/us/usc/t30/s226–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%E2%80%933
-[/us/pl/91/581/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs29
-[/us/pl/100/443/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs5%2Fd
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1769
-[/us/pl/109/58/s236/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F27
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F673
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

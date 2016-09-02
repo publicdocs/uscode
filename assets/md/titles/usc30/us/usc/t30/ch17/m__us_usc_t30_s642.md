@@ -39,7 +39,7 @@
 
         No funds shall be made available under this chapter unless the applicant shall furnish evidence that funds from commercial sources are unavailable on reasonable terms.
 
-([Pub. L. 85–701, § 2][/us/pl/85/701/s2], Aug. 21, 1958, [72 Stat. 700][/us/stat/72/700].)
+([Pub. L. 85–701][/us/pl/85/701], § 2, Aug. 21, 1958, [72 Stat. 700][/us/stat/72/700].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/85/701/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701%2Fs2
+[/us/pl/85/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701
 [/us/stat/72/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F700
 
 

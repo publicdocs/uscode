@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized and directed, in order to provide for discovery of additional domestic mineral reserves, to establish and maintain a program for exploration by private industry within the United States, its Territories and possessions for such minerals, excluding organic fuels, as he shall from time to time designate, and to provide Federal financial assistance on a participating basis for that purpose.
 
-([Pub. L. 85–701, § 1][/us/pl/85/701/s1], Aug. 21, 1958, [72 Stat. 700][/us/stat/72/700].)
+([Pub. L. 85–701][/us/pl/85/701], § 1, Aug. 21, 1958, [72 Stat. 700][/us/stat/72/700].)
 
  __Congressional Declaration of Policy__ 
 
@@ -32,7 +32,7 @@ The recital clause of [Pub. L. 85–701][/us/pl/85/701], Aug. 21, 1958, [72 Stat
 ----------
 ----------
 
-[/us/pl/85/701/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701%2Fs1
+[/us/pl/85/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701
 [/us/stat/72/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F700
 [/us/pl/85/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F701
 [/us/stat/72/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F700

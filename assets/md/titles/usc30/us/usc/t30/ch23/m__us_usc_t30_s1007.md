@@ -27,13 +27,13 @@
 
         Any readjustment of the terms and conditions as to use, protection, or restoration of the surface of any lease of lands withdrawn or acquired in aid of a function of a Federal department or agency other than the Department of the Interior may be made only upon notice to, and with the approval of, such department or agency.
 
-([Pub. L. 91–581, § 8][/us/pl/91/581/s8], Dec. 24, 1970, [84 Stat. 1569][/us/stat/84/1569]; [Pub. L. 109–58, title II][/us/pl/109/58], §§ 229, 236(8), Aug. 8, 2005, [119 Stat. 668][/us/stat/119/668], 672.)
+([Pub. L. 91–581][/us/pl/91/581], § 8, Dec. 24, 1970, [84 Stat. 1569][/us/stat/84/1569]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], §§ 229, 236(8), Aug. 8, 2005, [119 Stat. 668][/us/stat/119/668], 672.)
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58, § 236(8)][/us/pl/109/58/s236/8], inserted section catchline.
+    2005—[Pub. L. 109–58][/us/pl/109/58], § 236(8), inserted section catchline.
 
-    Subsec. (b). [Pub. L. 109–58, § 229][/us/pl/109/58/s229], substituted “period” for “period, and in no event shall the royalty payable exceed 22½ per centum” in second sentence.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 229, substituted “period” for “period, and in no event shall the royalty payable exceed 22½ per centum” in second sentence.
 
 ----------
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/91/581/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs8
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1569
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F668
-[/us/pl/109/58/s236/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F8
-[/us/pl/109/58/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs229
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

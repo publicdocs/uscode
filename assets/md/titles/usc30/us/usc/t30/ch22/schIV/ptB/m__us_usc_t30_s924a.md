@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t30/ch22/schIV/ptB/m__us_usc_t30_s924.md) | [Next](./../../../../../..//us/usc/t30/ch22/schIV/ptB/m__us_usc_t30_s925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs924a)
 
-## § 924a. Repealed. [Pub. L. 107–275, § 2(c)(2)][/us/pl/107/275/s2/c/2], Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926]
+## § 924a. Repealed. [Pub. L. 107–275][/us/pl/107/275], § 2(c)(2), Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926]
 
-    Section, [Pub. L. 95–239, § 11][/us/pl/95/239/s11], Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101], related to notification to miners of eligibility for medical services and supplies and the period for filing a claim.
+    Section, [Pub. L. 95–239][/us/pl/95/239], § 11, Mar. 1, 1978, [92 Stat. 101][/us/stat/92/101], related to notification to miners of eligibility for medical services and supplies and the period for filing a claim.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/107/275/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fc%2F2
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1926
-[/us/pl/95/239/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs11
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F101
 [/us/pl/107/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs4
 [/us/usc/t30/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs902

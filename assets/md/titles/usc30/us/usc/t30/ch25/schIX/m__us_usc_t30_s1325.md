@@ -17,7 +17,7 @@
 
     No fellowship shall be awarded under this subchapter for study at a school or department of divinity. For the purpose of this section, the term “school or department of divinity” means an institution or department or branch of an institution, whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation or to prepare them to teach theological subjects.
 
-([Pub. L. 95–87, title IX, § 905][/us/pl/95/87/s905], Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530].)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 905, Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs905
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F530
 
 

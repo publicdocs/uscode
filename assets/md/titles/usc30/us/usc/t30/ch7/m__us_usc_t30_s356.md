@@ -19,7 +19,7 @@
 
     Abstracts, title papers, and other documents furnished to the Secretary under this section shall be recorded promptly in the Bureau of Land Management in such form as the Secretary shall deem adequate for their preservation and use in the administration of this chapter, whereupon the originals shall be returned promptly to the agency from which they were received. Duly authenticated copies of any such abstracts, title papers, or other documents may, however, be furnished to the Secretary, in lieu of the originals, in the discretion of the agency concerned.
 
-([Aug. 7, 1947, ch. 513, § 7][/us/act/1947-08-07/ch513/s7], [61 Stat. 915][/us/stat/61/915].)
+([Aug. 7, 1947, ch. 513][/us/act/1947-08-07/ch513], § 7, [61 Stat. 915][/us/stat/61/915].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/act/1947-08-07/ch513/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513%2Fs7
+[/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F915
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 

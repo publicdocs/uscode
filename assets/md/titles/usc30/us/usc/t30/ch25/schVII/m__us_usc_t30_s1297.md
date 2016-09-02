@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the applicability thereof to any person or circumstances is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-([Pub. L. 95–87, title VII, § 707][/us/pl/95/87/s707], Aug. 3, 1977, [91 Stat. 521][/us/stat/91/521].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 707, Aug. 3, 1977, [91 Stat. 521][/us/stat/91/521].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs707
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F521
 
 

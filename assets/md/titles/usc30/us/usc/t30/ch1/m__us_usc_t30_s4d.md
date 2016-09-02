@@ -17,7 +17,7 @@
 
     The United States Bureau of Mines is further authorized, under the general direction of the Secretary of the Interior, to erect such plants, construct and purchase such machinery and equipment, and to take such other steps as it may deem necessary and proper to effectuate the purposes of [section 4c of this title][/us/usc/t30/s4c].
 
-([May 15, 1936, ch. 397, § 2][/us/act/1936-05-15/ch397/s2], [49 Stat. 1275][/us/stat/49/1275]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([May 15, 1936, ch. 397][/us/act/1936-05-15/ch397], § 2, [49 Stat. 1275][/us/stat/49/1275]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Change of Name__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t30/s4c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs4c
-[/us/act/1936-05-15/ch397/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-15%2Fch397%2Fs2
+[/us/act/1936-05-15/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-15%2Fch397
 [/us/stat/49/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1275
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

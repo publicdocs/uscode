@@ -23,7 +23,7 @@
 
     (3) to monitor the environmental effects of the exploration and commercial recovery activities in accordance with guidelines issued by the Administrator and to submit such information as the Administrator finds to be necessary and appropriate to assess environmental impacts and to develop and evaluate possible methods of mitigating adverse environmental effects.
 
-([Pub. L. 96–283, title I, § 114][/us/pl/96/283/s114], June 28, 1980, [94 Stat. 572][/us/stat/94/572].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 114, June 28, 1980, [94 Stat. 572][/us/stat/94/572].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs114
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F572
 
 

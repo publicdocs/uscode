@@ -25,7 +25,7 @@
 
     to the same extent in all respects as if such lands were not so included or covered or known.
 
-([Aug. 13, 1954, ch. 730, § 5][/us/act/1954-08-13/ch730/s5], [68 Stat. 710][/us/stat/68/710].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 5, [68 Stat. 710][/us/stat/68/710].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch730/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs5
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F710
 
 

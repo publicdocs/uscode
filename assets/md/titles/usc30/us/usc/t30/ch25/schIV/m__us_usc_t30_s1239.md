@@ -39,15 +39,15 @@
 
         The Secretary may acquire by purchase, donation, easement, or otherwise such interest in land as he determines necessary to carry out the provisions of this section.
 
-([Pub. L. 95–87, title IV, § 409][/us/pl/95/87/s409], Aug. 3, 1977, [91 Stat. 465][/us/stat/91/465]; [Pub. L. 101–508, title VI, § 6009][/us/pl/101/508/s6009], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 409, Aug. 3, 1977, [91 Stat. 465][/us/stat/91/465]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6009, Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 6009(1)][/us/pl/101/508/s6009/1], substituted “the governing body of an Indian tribe” for “chairman of any tribe”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 6009(1), substituted “the governing body of an Indian tribe” for “chairman of any tribe”.
 
-    Subsec. (b). [Pub. L. 101–508, § 6009(2)][/us/pl/101/508/s6009/2], substituted “Indian tribes under the provisions of paragraphs (1) and (5) of [section 1232(g) of this title][/us/usc/t30/s1232/g]” for “Indian reservations under the provisions of sub[section 1232(g) of this title][/us/usc/t30/s1232/g]”.
+    Subsec. (b). [Pub. L. 101–508][/us/pl/101/508], § 6009(2), substituted “Indian tribes under the provisions of paragraphs (1) and (5) of [section 1232(g) of this title][/us/usc/t30/s1232/g]” for “Indian reservations under the provisions of sub[section 1232(g) of this title][/us/usc/t30/s1232/g]”.
 
-    Subsec. (c). [Pub. L. 101–508, § 6009(3)][/us/pl/101/508/s6009/3], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of [section 1234 of this title][/us/usc/t30/s1234] in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of [section 1234 of this title][/us/usc/t30/s1234] in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -65,15 +65,15 @@
 [/us/usc/t30/s1233/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1233%2Fa%2F1
 [/us/usc/t30/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1234
 [/us/usc/t30/s1240a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240a%2Fa
-[/us/pl/95/87/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs409
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F465
-[/us/pl/101/508/s6009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6009
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-296
-[/us/pl/101/508/s6009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6009%2F1
-[/us/pl/101/508/s6009/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6009%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1232/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg
 [/us/usc/t30/s1232/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg
-[/us/pl/101/508/s6009/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6009%2F3
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1234
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014

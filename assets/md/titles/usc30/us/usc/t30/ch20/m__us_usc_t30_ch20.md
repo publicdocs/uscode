@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch19/m__us_usc_t30_ch19.md) | [Next](./../../../..//us/usc/t30/ch20/m__us_usc_t30_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch20)
+[Previous](./../../../..//us/usc/t30/ch19/m__us_usc_t30_s681...689.md) | [Next](./../../../..//us/usc/t30/ch20/m__us_usc_t30_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch20)
 
 ## CHAPTER 20—CONVEYANCES TO OCCUPANTS OF UNPATENTED MINING CLAIMS
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch19/m__us_usc_t30_ch19.md) | [Next](./../../../..//us/usc/t30/ch20/m__us_usc_t30_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch20)
+[Previous](./../../../..//us/usc/t30/ch19/m__us_usc_t30_s681...689.md) | [Next](./../../../..//us/usc/t30/ch20/m__us_usc_t30_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch20)
 
 ----------
 ----------

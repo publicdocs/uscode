@@ -35,7 +35,7 @@
 
         If the death of any active miner occurs in any coal mine, or if the death of any active or inactive miner occurs in any other place, the Secretary of Health and Human Services is authorized to provide for an autopsy to be performed on such miner, with the consent of his surviving widow or, if he has no such widow, then with the consent of his surviving next of kin. The results of such autopsy shall be submitted to the Secretary of Health and Human Services and, with the consent of such survivor, to the miner’s physician or other interested person. Such autopsy shall be paid for by the Secretary of Health and Human Services.
 
-([Pub. L. 91–173, title II, § 203][/us/pl/91/173/s203], Dec. 30, 1969, [83 Stat. 763][/us/stat/83/763]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–173, title II][/us/pl/91/173/tII], § 203, Dec. 30, 1969, [83 Stat. 763][/us/stat/83/763]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/91/173/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs203
+[/us/pl/91/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtII
 [/us/stat/83/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F763
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

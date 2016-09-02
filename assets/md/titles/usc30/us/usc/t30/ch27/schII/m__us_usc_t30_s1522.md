@@ -73,7 +73,7 @@
 
         The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i), to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a), on the need for any additional authority to obtain such participation.
 
-([Pub. L. 96–294, title VI, § 622][/us/pl/96/294/s622], June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 622, June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(7), “[section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2(a)–(c) of the Shipping Act, 1916 ([46 U.S.C. 802][/us/usc/t46/s802])” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 50501 of Title 46][/us/usc/t46/s50501], Shipping.
+    In subsec. (b)(7), “[section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2(a)–(c) of the Shipping Act, 1916 ([46 U.S.C. 802][/us/usc/t46/s802])” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 50501 of Title 46][/us/usc/t46/s50501], Shipping.
 
 ----------
 
@@ -96,7 +96,7 @@
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s883–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs883%E2%80%931%2Fa
 [/us/usc/t30/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1144
-[/us/pl/96/294/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs622
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F765
 [/us/act/1920-06-05/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch250
 [/us/pl/85/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F902
@@ -109,7 +109,7 @@
 [/us/usc/t42/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8801
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs802
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 

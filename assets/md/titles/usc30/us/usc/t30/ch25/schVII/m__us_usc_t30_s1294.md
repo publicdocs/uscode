@@ -17,7 +17,7 @@
 
     Any person who shall, except as permitted by law, willfully resist, prevent, impede, or interfere with the Secretary or any of his agents in the performance of duties pursuant to this chapter shall be punished by a fine of not more than $5,000 or by imprisonment for not more than one year, or both.
 
-([Pub. L. 95–87, title VII, § 704][/us/pl/95/87/s704], Aug. 3, 1977, [91 Stat. 520][/us/stat/91/520].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 704, Aug. 3, 1977, [91 Stat. 520][/us/stat/91/520].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs704
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F520
 [/us/pl/95/87/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs704
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114

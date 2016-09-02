@@ -31,7 +31,7 @@
 
         The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a).
 
-([Pub. L. 98–373, title II, § 205][/us/pl/98/373/s205], July 31, 1984, [98 Stat. 1251][/us/stat/98/1251].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 205, July 31, 1984, [98 Stat. 1251][/us/stat/98/1251].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __National Federal Program Plan for Advanced Materials Research and Development__ 
 
-    [Pub. L. 100–418, title V, § 5181][/us/pl/100/418/s5181], Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], directed National Critical Materials Council to prepare the national Federal program plan for advanced materials research and development under [30 U.S.C. 1804(a)(1)(A)][/us/usc/t30/s1804/a/1/A] and to submit such plan to Congress not later than 180 days after Aug. 23, 1988.
+    [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5181, Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], directed National Critical Materials Council to prepare the national Federal program plan for advanced materials research and development under [30 U.S.C. 1804(a)(1)(A)][/us/usc/t30/s1804/a/1/A] and to submit such plan to Congress not later than 180 days after Aug. 23, 1988.
 
 ----------
 
@@ -50,12 +50,12 @@
 
 [/us/usc/t30/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1803
 [/us/usc/t30/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1601
-[/us/pl/98/373/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs205
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1251
 [/us/pl/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479
 [/us/stat/94/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2305
 [/us/usc/t30/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1601
-[/us/pl/100/418/s5181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5181
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1454
 [/us/usc/t30/s1804/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1804%2Fa%2F1%2FA
 

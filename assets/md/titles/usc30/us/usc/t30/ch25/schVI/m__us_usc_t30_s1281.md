@@ -43,7 +43,7 @@
 
         Any party with a valid legal interest who has appeared in the proceedings in connection with the Secretary’s determination pursuant to this section and who is aggrieved by the Secretary’s decision (or by his failure to act within a reasonable time) shall have the right of appeal for review by the United States district court for the district in which the pertinent area is located.
 
-([Pub. L. 95–87, title VI, § 601][/us/pl/95/87/s601], Aug. 3, 1977, [91 Stat. 515][/us/stat/91/515].)
+([Pub. L. 95–87, title VI][/us/pl/95/87/tVI], § 601, Aug. 3, 1977, [91 Stat. 515][/us/stat/91/515].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs601
+[/us/pl/95/87/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVI
 [/us/stat/91/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F515
 
 

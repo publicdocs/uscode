@@ -23,7 +23,7 @@
 
         Subject to existing law and regulations governing conflicts of interest, the Council may accept reimbursement from any private nonprofit organization or from any department, agency, or instrumentality of the Federal Government, or from any State or local government, for reasonable travel expenses incurred by any member or employee of the Council in connection with such member’s or employee’s attendance at any conference, seminar, or similar meeting.
 
-([Pub. L. 98–373, title II, § 207][/us/pl/98/373/s207], July 31, 1984, [98 Stat. 1252][/us/stat/98/1252].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 207, July 31, 1984, [98 Stat. 1252][/us/stat/98/1252].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/373/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs207
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1252
 
 

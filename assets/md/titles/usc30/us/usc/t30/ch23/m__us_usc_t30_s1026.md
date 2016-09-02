@@ -101,7 +101,7 @@
 
         Nothing in this chapter shall affect the ban on leasing under this chapter with respect to the Island Park Geothermal Area, as designated by the map in the “Final Environmental Impact Statement of the Island Park Geothermal Area” (January 15, 1980, p. XI), and provided for in [Public Law 98–473][/us/pl/98/473].
 
-([Pub. L. 91–581, § 28][/us/pl/91/581/s28], as added [Pub. L. 100–443, § 6][/us/pl/100/443/s6], Sept. 22, 1988, [102 Stat. 1769][/us/stat/102/1769]; amended [Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], (b)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363]; [Pub. L. 109–58, title II, § 236(1)][/us/pl/109/58/s236/1], (26), Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671], 673.)
+([Pub. L. 91–581][/us/pl/91/581], § 28, as added [Pub. L. 100–443][/us/pl/100/443], § 6, Sept. 22, 1988, [102 Stat. 1769][/us/stat/102/1769]; amended [Pub. L. 106–510][/us/pl/106/510], § 3(a)(2), (b)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(1), (26), Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671], 673.)
 
  __References in Text__ 
 
@@ -109,17 +109,17 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58, § 236(26)][/us/pl/109/58/s236/26], inserted section catchline.
+    2005—[Pub. L. 109–58][/us/pl/109/58], § 236(26), inserted section catchline.
 
-    Subsec. (d)(3). [Pub. L. 109–58, § 236(1)][/us/pl/109/58/s236/1], substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
+    Subsec. (d)(3). [Pub. L. 109–58][/us/pl/109/58], § 236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
 
-    2000—Subsec. (a)(1)(N). [Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], substituted “Hawaiʻi Volcanoes National Park” for “Hawaii Volcanoes National Park”.
+    2000—Subsec. (a)(1)(N). [Pub. L. 106–510][/us/pl/106/510], § 3(a)(2), substituted “Hawaiʻi Volcanoes National Park” for “Hawaii Volcanoes National Park”.
 
-    Subsec. (a)(1)(O). [Pub. L. 106–510, § 3(b)(2)][/us/pl/106/510/s3/b/2], substituted “Haleakala̅ National Park” for “Haleakala National Park”.
+    Subsec. (a)(1)(O). [Pub. L. 106–510][/us/pl/106/510], § 3(b)(2), substituted “Haleakala̅ National Park” for “Haleakala National Park”.
 
  __Corwin Springs Known Geothermal Resource Area Study__ 
 
-[Pub. L. 100–443, § 8][/us/pl/100/443/s8], Sept. 22, 1988, [102 Stat. 1771][/us/stat/102/1771], provided that:
+[Pub. L. 100–443][/us/pl/100/443], § 8, Sept. 22, 1988, [102 Stat. 1771][/us/stat/102/1771], provided that:
 
 >     “(a) The United States Geological Survey, in consultation with the National Park Service, shall conduct a study on the impact of present and potential geothermal development in the vicinity of Yellowstone National Park on the thermal features within the park. The area to be studied shall be the lands within the Corwin Springs Known Geothermal Resource Area as designated in the July 22, 1975, Federal Register (Fed. Reg. Vol. 40, No. 141). The study shall be transmitted to Congress no later than December 1, 1990.
 
@@ -138,21 +138,21 @@
 
 [/us/usc/t30/s1001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001%2Ff
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/91/581/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs28
-[/us/pl/100/443/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs6
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1769
-[/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
-[/us/pl/109/58/s236/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F1
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F671
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
-[/us/pl/109/58/s236/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F26
-[/us/pl/109/58/s236/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F1
-[/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
-[/us/pl/106/510/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fb%2F2
-[/us/pl/100/443/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs8
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1771
 [/us/usc/t30/s1001–102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001%E2%80%93102
 

@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the applicability thereof to any person or circumstances is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-([Pub. L. 97–451, title III, § 309][/us/pl/97/451/s309], Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 309, Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs309
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2462
 
 

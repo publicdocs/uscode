@@ -21,7 +21,7 @@
 
     No claimant for a lease who has been guilty of any fraud or who had knowledge or reasonable grounds to know of any fraud, or who has not acted honestly and in good faith, shall be entitled to any of the benefits of this section.
 
-([Feb. 25, 1920, ch. 85, § 22][/us/act/1920-02-25/ch85/s22], [41 Stat. 446][/us/stat/41/446]; [Pub. L. 85–505, § 10][/us/pl/85/505/s10], July 3, 1958, [72 Stat. 324][/us/stat/72/324].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 22, [41 Stat. 446][/us/stat/41/446]; [Pub. L. 85–505][/us/pl/85/505], § 10, July 3, 1958, [72 Stat. 324][/us/stat/72/324].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs22
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F446
-[/us/pl/85/505/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F505%2Fs10
+[/us/pl/85/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F505
 [/us/stat/72/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F324
 [/us/pl/85/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F505
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

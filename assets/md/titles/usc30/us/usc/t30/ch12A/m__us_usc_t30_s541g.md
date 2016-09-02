@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to issue such rules and regulations as may be necessary or appropriate to effectuate the purposes of this chapter.
 
-([Aug. 11, 1955, ch. 795, § 8][/us/act/1955-08-11/ch795/s8], [69 Stat. 681][/us/stat/69/681].)
+([Aug. 11, 1955, ch. 795][/us/act/1955-08-11/ch795], § 8, [69 Stat. 681][/us/stat/69/681].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch795/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch795%2Fs8
+[/us/act/1955-08-11/ch795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch795
 [/us/stat/69/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F681
 
 

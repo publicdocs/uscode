@@ -117,7 +117,7 @@
 
         (6) ensure, to the maximum extent practicable, greater participation by the Department of Energy in international cooperative efforts.
 
-([Pub. L. 106–193, § 4][/us/pl/106/193/s4], as added [Pub. L. 109–58, title IX, § 968(a)][/us/pl/109/58/s968/a], Aug. 8, 2005, [119 Stat. 895][/us/stat/119/895].)
+([Pub. L. 106–193][/us/pl/106/193], § 4, as added [Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 968(a), Aug. 8, 2005, [119 Stat. 895][/us/stat/119/895].)
 
  __Prior Provisions__ 
 
@@ -130,8 +130,8 @@
 ----------
 ----------
 
-[/us/pl/106/193/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193%2Fs4
-[/us/pl/109/58/s968/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs968%2Fa
+[/us/pl/106/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F895
 [/us/pl/106/193/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193%2Fs4
 [/us/usc/t30/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1902

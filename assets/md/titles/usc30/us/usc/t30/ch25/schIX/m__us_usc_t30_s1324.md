@@ -19,7 +19,7 @@
 
     (b) In addition to the amount paid to such person pursuant to subsection (a) there shall be paid to the institution of higher education at which each such person is pursuing his course of study, 100 per centum of the amount paid to such person less the amount paid on account of such person’s dependents, to such person less any amount charged such person for tuition.
 
-([Pub. L. 95–87, title IX, § 904][/us/pl/95/87/s904], Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530].)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 904, Aug. 3, 1977, [91 Stat. 530][/us/stat/91/530].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs904
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F530
 
 

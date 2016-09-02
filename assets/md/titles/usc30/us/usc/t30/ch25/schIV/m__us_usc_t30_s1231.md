@@ -133,63 +133,63 @@
 
                 (iv) 75 percent in fiscal year 2011.
 
-([Pub. L. 95–87, title IV, § 401][/us/pl/95/87/s401], Aug. 3, 1977, [91 Stat. 456][/us/stat/91/456]; [Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 324\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1875; [Pub. L. 101–508, title VI, § 6002][/us/pl/101/508/s6002], Nov. 5, 1990, [104 Stat. 1388–289][/us/stat/104/1388-289]; [Pub. L. 102–486, title XIX, § 19143(b)(3)(A)][/us/pl/102/486/s19143/b/3/A], title XXV, § 2504(c)(1), Oct. 24, 1992, [106 Stat. 3056][/us/stat/106/3056], 3105; [Pub. L. 109–432, div. C, title II, § 201(a)][/us/pl/109/432/s201/a], Dec. 20, 2006, [120 Stat. 3006][/us/stat/120/3006].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 401, Aug. 3, 1977, [91 Stat. 456][/us/stat/91/456]; [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(c) \[title III, § 324\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1875; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6002, Nov. 5, 1990, [104 Stat. 1388–289][/us/stat/104/1388-289]; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(b)(3)(A), title XXV, § 2504(c)(1), Oct. 24, 1992, [106 Stat. 3056][/us/stat/106/3056], 3105; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 201(a), Dec. 20, 2006, [120 Stat. 3006][/us/stat/120/3006].)
 
  __Amendments__ 
 
-    2006—Subsec. (c)(2) to (13). [Pub. L. 109–432, § 201(a)(1)][/us/pl/109/432/s201/a/1], redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+    2006—Subsec. (c)(2) to (13). [Pub. L. 109–432][/us/pl/109/432], § 201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
     “(2) for transfer on an annual basis to the Secretary of Agriculture for use under [section 1236 of this title][/us/usc/t30/s1236];” and
 
     “(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Acts with public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;”.
 
-    Subsec. (d). [Pub. L. 109–432, § 201(a)(2)][/us/pl/109/432/s201/a/2], added subsec. (d) and struck out former subsec. (d) which read as follows: “Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations.”
+    Subsec. (d). [Pub. L. 109–432][/us/pl/109/432], § 201(a)(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations.”
 
-    Subsec. (e). [Pub. L. 109–432, § 201(a)(3)][/us/pl/109/432/s201/a/3], in second sentence, substituted “achieving the purposes of the transfers under [section 1232(h) of this title][/us/usc/t30/s1232/h]” for “the needs of such fund” and, in third sentence, inserted “for the purpose of the transfers under [section 1232(h) of this title][/us/usc/t30/s1232/h]” before period at end.
+    Subsec. (e). [Pub. L. 109–432][/us/pl/109/432], § 201(a)(3), in second sentence, substituted “achieving the purposes of the transfers under [section 1232(h) of this title][/us/usc/t30/s1232/h]” for “the needs of such fund” and, in third sentence, inserted “for the purpose of the transfers under [section 1232(h) of this title][/us/usc/t30/s1232/h]” before period at end.
 
-    Subsec. (f). [Pub. L. 109–432, § 201(a)(4)][/us/pl/109/432/s201/a/4], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–432][/us/pl/109/432], § 201(a)(4), added subsec. (f).
 
-    1992—Subsec. (c)(6). [Pub. L. 102–486, § 2504(c)(1)][/us/pl/102/486/s2504/c/1], substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
+    1992—Subsec. (c)(6). [Pub. L. 102–486][/us/pl/102/486], § 2504(c)(1), substituted “studies, research, and demonstration projects” for “studies” and struck out “to provide information, advice, and technical assistance, including research and demonstration projects” after “private organizations”.
 
-    Subsec. (c)(12), (13). [Pub. L. 102–486, § 19143(b)(3)(A)][/us/pl/102/486/s19143/b/3/A], added par. (12) and redesignated former par. (12) as (13).
+    Subsec. (c)(12), (13). [Pub. L. 102–486][/us/pl/102/486], § 19143(b)(3)(A), added par. (12) and redesignated former par. (12) as (13).
 
-    1990—Subsec. (b)(1). [Pub. L. 101–508, § 6002(a)(1)][/us/pl/101/508/s6002/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the reclamation fees levied under [section 1232 of this title][/us/usc/t30/s1232]: Provided, That an amount not to exceed 10 per centum of such reclamation fees collected for any calendar quarter shall be reserved beginning in the first calendar year in which the fee is imposed and continuing for the remainder of that fiscal year and for the period in which such fee is imposed by law, for the purpose of [section 1257(c) of this title][/us/usc/t30/s1257/c], subject to appropriation pursuant to authorization under [section 1302 of this title][/us/usc/t30/s1302]: Provided further, That not more than $10,000,000 shall be available for such purposes;”.
+    1990—Subsec. (b)(1). [Pub. L. 101–508][/us/pl/101/508], § 6002(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the reclamation fees levied under [section 1232 of this title][/us/usc/t30/s1232]: Provided, That an amount not to exceed 10 per centum of such reclamation fees collected for any calendar quarter shall be reserved beginning in the first calendar year in which the fee is imposed and continuing for the remainder of that fiscal year and for the period in which such fee is imposed by law, for the purpose of [section 1257(c) of this title][/us/usc/t30/s1257/c], subject to appropriation pursuant to authorization under [section 1302 of this title][/us/usc/t30/s1302]: Provided further, That not more than $10,000,000 shall be available for such purposes;”.
 
-    Subsec. (b)(5). [Pub. L. 101–508, § 6002(a)(2)][/us/pl/101/508/s6002/a/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 101–508][/us/pl/101/508], § 6002(a)(2), added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 101–508, § 6002(b)(1)][/us/pl/101/508/s6002/b/1], substituted “section 1232(g)(1)” for “section 1232(g)(2)”.
+    Subsec. (c)(1). [Pub. L. 101–508][/us/pl/101/508], § 6002(b)(1), substituted “section 1232(g)(1)” for “section 1232(g)(2)”.
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 6002(b)(2)][/us/pl/101/508/s6002/b/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for use under [section 1236 of this title][/us/usc/t30/s1236], by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for use under [section 1236 of this title][/us/usc/t30/s1236], by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
 
-    Subsec. (c)(6). [Pub. L. 101–508, § 6002(b)(3)][/us/pl/101/508/s6002/b/3], struck out “by contract” after “Department of the Interior” and inserted “conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986” after “projects”.
+    Subsec. (c)(6). [Pub. L. 101–508][/us/pl/101/508], § 6002(b)(3), struck out “by contract” after “Department of the Interior” and inserted “conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986” after “projects”.
 
-    Subsec. (c)(10) to (12). [Pub. L. 101–508, § 6002(b)(5)][/us/pl/101/508/s6002/b/5], added pars. (10) and (11) and redesignated former par. (10) as (12).
+    Subsec. (c)(10) to (12). [Pub. L. 101–508][/us/pl/101/508], § 6002(b)(5), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
-    Subsec. (e). [Pub. L. 101–508, § 6002(c)][/us/pl/101/508/s6002/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–508][/us/pl/101/508], § 6002(c), added subsec. (e).
 
     1984—Subsec. (c)(1). [Pub. L. 98–473][/us/pl/98/473] inserted at end “and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with [section 1253 of this title][/us/usc/t30/s1253]: Provided, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under [section 1232(g)(2) of this title][/us/usc/t30/s1232/g/2];”.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title VI, § 6014][/us/pl/101/508/s6014], Nov. 5, 1990, [104 Stat. 1388–298][/us/stat/104/1388-298], provided that: 
+[Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6014, Nov. 5, 1990, [104 Stat. 1388–298][/us/stat/104/1388-298], provided that: 
 
 > “The amendments made by this subtitle \[subtitle A (§§ 6001–6014) of title VI of [Pub. L. 101–508][/us/pl/101/508], enacting [section 1240a of this title][/us/usc/t30/s1240a] and amending this section and sections 1232 to 1237, 1239, 1257, and 1302 of this title\] shall take effect at the beginning of the first fiscal year \[Oct. 1, 1991\] immediately following the fiscal year in which this subtitle is enacted.”
 
  __Savings Provision__ 
 
-[Pub. L. 101–508, title VI, § 6013][/us/pl/101/508/s6013], Nov. 5, 1990, [104 Stat. 1388–298][/us/stat/104/1388-298], provided that: 
+[Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6013, Nov. 5, 1990, [104 Stat. 1388–298][/us/stat/104/1388-298], provided that: 
 
 > “Nothing in this subtitle \[subtitle A (§§ 6001–6014) of title VI of [Pub. L. 101–508][/us/pl/101/508], see Short Title of 1990 Amendment note set out under [section 1201 of this title][/us/usc/t30/s1201]\] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle \[Nov. 5, 1990\] that such State has completed the reclamation of eligible abandoned coal mine lands.”
 
  __Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–245, provided in part: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–245, provided in part: 
 
 > “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to [30 U.S.C. 1231][/us/usc/t30/s1231], shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States, and funding to local governments, or tax exempt private entities.”
 
  __Abandoned Mine Reclamation Research and Development__ 
 
-    [Pub. L. 99–509, title III, § 3501][/us/pl/99/509/s3501], Oct. 21, 1986, [100 Stat. 1891][/us/stat/100/1891], as amended by [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172], provided that after enactment of [Pub. L. 99–509][/us/pl/99/509], the research and demonstration authorities of the Department of the Interior under former subsec. (c)(6) of this section were to be transferred to, and carried out by, the Director of the United States Bureau of Mines.
+    [Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3501, Oct. 21, 1986, [100 Stat. 1891][/us/stat/100/1891], as amended by [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172], provided that after enactment of [Pub. L. 99–509][/us/pl/99/509], the research and demonstration authorities of the Department of the Interior under former subsec. (c)(6) of this section were to be transferred to, and carried out by, the Director of the United States Bureau of Mines.
 
 ----------
 
@@ -218,53 +218,53 @@
 [/us/usc/t30/s1232/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F5
 [/us/usc/t30/s1232/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F8
 [/us/usc/t30/s1232/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F1
-[/us/pl/95/87/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs401
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F456
-[/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
-[/us/pl/101/508/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-289
-[/us/pl/102/486/s19143/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F3%2FA
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3056
-[/us/pl/109/432/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs201%2Fa
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3006
-[/us/pl/109/432/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs201%2Fa%2F1
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t30/s1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1236
-[/us/pl/109/432/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs201%2Fa%2F2
-[/us/pl/109/432/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs201%2Fa%2F3
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t30/s1232/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh
 [/us/usc/t30/s1232/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh
-[/us/pl/109/432/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs201%2Fa%2F4
-[/us/pl/102/486/s2504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2504%2Fc%2F1
-[/us/pl/102/486/s19143/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fb%2F3%2FA
-[/us/pl/101/508/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fa%2F1
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
 [/us/usc/t30/s1257/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1257%2Fc
 [/us/usc/t30/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1302
-[/us/pl/101/508/s6002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fa%2F2
-[/us/pl/101/508/s6002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fb%2F1
-[/us/pl/101/508/s6002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fb%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1236
-[/us/pl/101/508/s6002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fb%2F3
-[/us/pl/101/508/s6002/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fb%2F5
-[/us/pl/101/508/s6002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6002%2Fc
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t30/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253
 [/us/usc/t30/s1232/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F2
-[/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-298
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1240a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240a
-[/us/pl/101/508/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6013
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-298
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
-[/us/pl/99/509/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3501
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1891
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 

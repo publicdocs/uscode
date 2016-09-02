@@ -17,7 +17,7 @@
 
     Leases may be terminated by the Secretary for any violation of the regulations or lease terms after thirty days notice provided that such violation is not corrected within the notice period, or in the event the violation is such that it cannot be corrected within the notice period then provided that lessee has not commenced in good faith within said notice period to correct such violation and thereafter to proceed diligently to correct such violation. Lessee shall be entitled to a hearing on the matter of such claimed violation or proposed termination of lease if request for a hearing is made to the Secretary within the thirty-day period after notice. The period for correction of violation or commencement to correct such violation of regulations or of lease terms, as aforesaid, shall be extended to thirty days after the Secretary’s decision after such hearing if the Secretary shall find that a violation exists.
 
-([Pub. L. 91–581, § 12][/us/pl/91/581/s12], Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II, § 236(12)][/us/pl/109/58/s236/12], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 12, Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(12), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs12
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1570
-[/us/pl/109/58/s236/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F12
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

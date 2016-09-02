@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “materials” has the meaning given it by [section 1601(b) of this title][/us/usc/t30/s1601/b].
 
-([Pub. L. 98–373, title II, § 212][/us/pl/98/373/s212], July 31, 1984, [98 Stat. 1254][/us/stat/98/1254].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 212, July 31, 1984, [98 Stat. 1254][/us/stat/98/1254].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1601%2Fb
-[/us/pl/98/373/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs212
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1254
 
 

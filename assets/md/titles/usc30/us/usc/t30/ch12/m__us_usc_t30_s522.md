@@ -19,7 +19,7 @@
 
     (b) If any mining claim hereafter located shall cover any lands embraced within any mining claim which shall have been located prior to February 10, 1954, and which shall be entitled to the benefits of this chapter, then as to such area of conflict said mining claim hereafter located shall be deemed to have been located one hundred and twenty-one days after August 13, 1954.
 
-([Aug. 13, 1954, ch. 730, § 2][/us/act/1954-08-13/ch730/s2], [68 Stat. 709][/us/stat/68/709].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 2, [68 Stat. 709][/us/stat/68/709].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch730/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs2
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F709
 
 

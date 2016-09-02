@@ -17,7 +17,7 @@
 
     Where coal or phosphate lands aggregating two thousand five hundred and sixty acres and subject to lease hereunder do not exist as contiguous areas, the Secretary of the Interior is authorized, if, in his opinion the interests of the public and of the lessee will be thereby subserved, to embrace in a single lease noncontiguous tracts which can be operated as a single mine or unit.
 
-([Feb. 25, 1920, ch. 85, § 6][/us/act/1920-02-25/ch85/s6], [41 Stat. 439][/us/stat/41/439].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 6, [41 Stat. 439][/us/stat/41/439].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs6
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F439
 
 

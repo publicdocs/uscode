@@ -47,7 +47,7 @@
 
         The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall consult with foreign nations which enact, or are preparing to enact, domestic legislation establishing an interim legal framework for exploration and commercial recovery of hard mineral resources. Such consultations shall be carried out with a view to facilitating the designation of such nations as reciprocating states and, as necessary, the negotiation of agreements with foreign nations authorized by subsection (e). In addition, the Administrator shall provide such foreign nations with information on environmental impacts of exploration and commercial recovery activities, and shall provide any technical assistance requested in designing regulatory measures to protect the environment.
 
-([Pub. L. 96–283, title I, § 118][/us/pl/96/283/s118], June 28, 1980, [94 Stat. 574][/us/stat/94/574].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 118, June 28, 1980, [94 Stat. 574][/us/stat/94/574].)
 
 ----------
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t30/s1412/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1412%2Fc%2F1%2FD
 [/us/usc/t30/s1423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1423%2Fc
-[/us/pl/96/283/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs118
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F574
 
 

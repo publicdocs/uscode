@@ -21,7 +21,7 @@
 
  __Protection of Sanctity of Contracts and Leases of Surface Patent Holders With Respect to Coalbed Methane Gas__ 
 
-[Pub. L. 105–367, § 1][/us/pl/105/367/s1], Nov. 10, 1998, [112 Stat. 3313][/us/stat/112/3313], provided that:
+[Pub. L. 105–367][/us/pl/105/367], § 1, Nov. 10, 1998, [112 Stat. 3313][/us/stat/112/3313], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -53,7 +53,7 @@
 
 >         “(6) shall not limit the right of any person who entered into a contract or lease before the date of enactment of this Act \[Nov. 10, 1998\], or enters into a contract or lease on or after the date of enactment of this Act, for coal owned by the United States, to mine and remove the coal and to release coalbed methane without liability to any person referred to in subsection (a)(1)(A) or (a)(2).”
 
-    Similar provisions were contained in [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 349\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–300.
+    Similar provisions were contained in [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 349\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–300.
 
  __Lands in North Platte Reclamation Project; Mineral Rights__ 
 
@@ -68,7 +68,7 @@
 
 [/us/act/1909-03-03/ch270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-03%2Fch270
 [/us/stat/35/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F844
-[/us/pl/105/367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F367%2Fs1
+[/us/pl/105/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F367
 [/us/stat/112/3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3313
 [/us/usc/t30/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs81
 [/us/usc/t30/s83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs83
@@ -79,7 +79,7 @@
 [/us/stat/52/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1209
 [/us/pl/98/290/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F290%2Fs3
 [/us/usc/t25/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs668
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t30/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs125
 

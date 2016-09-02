@@ -29,7 +29,7 @@
 
     “Person” means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
 
-([Aug. 31, 1954, ch. 1156, § 2][/us/act/1954-08-31/ch1156/s2], [68 Stat. 1009][/us/stat/68/1009].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 2, [68 Stat. 1009][/us/stat/68/1009].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-31/ch1156/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs2
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1009
 
 

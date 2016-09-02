@@ -61,11 +61,11 @@
 
         For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) 1 of title 26.
 
-([Pub. L. 96–283, title IV, § 403][/us/pl/96/283/s403], June 28, 1980, [94 Stat. 584][/us/stat/94/584]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–283, title IV][/us/pl/96/283/tIV], § 403, June 28, 1980, [94 Stat. 584][/us/stat/94/584]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
-    Sections 4495 and 4498 of title 26, referred to in subsecs. (b)(1) and (f), were repealed by [Pub. L. 105–34, title XIV, § 1432(b)(1)][/us/pl/105/34/s1432/b/1], Aug. 5, 1997, [111 Stat. 1050][/us/stat/111/1050].
+    Sections 4495 and 4498 of title 26, referred to in subsecs. (b)(1) and (f), were repealed by [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1432(b)(1), Aug. 5, 1997, [111 Stat. 1050][/us/stat/111/1050].
 
  __Codification__ 
 
@@ -86,11 +86,11 @@
 ----------
 ----------
 
-[/us/pl/96/283/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs403
+[/us/pl/96/283/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIV
 [/us/stat/94/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F584
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/105/34/s1432/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1432%2Fb%2F1
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1050
 [/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283
 [/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283

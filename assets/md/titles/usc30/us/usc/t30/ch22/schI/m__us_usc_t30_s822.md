@@ -17,7 +17,7 @@
 
     Except as provided in [section 518(a) of title 28][/us/usc/t28/s518/a], relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter but all such litigation shall be subject to the direction and control of the Attorney General.
 
-([Pub. L. 91–173, title I, § 112][/us/pl/91/173/s112], as added [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1313][/us/stat/91/1313].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 112, as added [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1313][/us/stat/91/1313].)
 
  __References in Text__ 
 
@@ -39,8 +39,8 @@
 ----------
 
 [/us/usc/t28/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs518%2Fa
-[/us/pl/91/173/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs112
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1313
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

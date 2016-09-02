@@ -17,7 +17,7 @@
 
     If the production, use, or conversion of geothermal steam is susceptible of producing a valuable byproduct or byproducts, including commercially demineralized water for beneficial uses in accordance with applicable State water laws, the Secretary shall require substantial beneficial production or use thereof unless, in individual circumstances he modifies or waives this requirement in the interest of conservation of natural resources or for other reasons satisfactory to him. However, the production or use of such byproducts shall be subject to the rights of the holders of preexisting leases, claims, or permits covering the same land or the same minerals, if any.
 
-([Pub. L. 91–581, § 9][/us/pl/91/581/s9], Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II, § 236(9)][/us/pl/109/58/s236/9], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 9, Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(9), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs9
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1570
-[/us/pl/109/58/s236/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F9
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

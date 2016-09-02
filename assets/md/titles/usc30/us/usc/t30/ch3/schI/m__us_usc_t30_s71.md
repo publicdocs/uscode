@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2347 derived from [act Mar. 3, 1873, ch. 279, § 1][/us/act/1873-03-03/ch279/s1], [17 Stat. 607][/us/stat/17/607].
+    R.S. § 2347 derived from [act Mar. 3, 1873, ch. 279][/us/act/1873-03-03/ch279], § 1, [17 Stat. 607][/us/stat/17/607].
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 
 [/us/act/1925-03-03/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch462
 [/us/stat/43/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1145
-[/us/act/1873-03-03/ch279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279%2Fs1
+[/us/act/1873-03-03/ch279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279
 [/us/stat/17/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F607
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

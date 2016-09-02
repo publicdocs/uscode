@@ -17,7 +17,7 @@
 
     The general mining laws of the United States so far as they are applicable to placer-mining claims, as prior to May 4, 1934, extended to the Territory of Alaska, are declared to be in full force and effect in said Territory: Provided, That nothing herein shall be held to change or affect the rights acquired by locators or owners of placer-mining claims prior to May 4, 1934, located in said Territory under act August 1, 1912 ([37 Stat. 242][/us/stat/37/242], 243) and amendatory act March 3, 1925 ([43 Stat. 1118][/us/stat/43/1118]).
 
-([May 4, 1934, ch. 211, § 2][/us/act/1934-05-04/ch211/s2], [48 Stat. 663][/us/stat/48/663].)
+([May 4, 1934, ch. 211][/us/act/1934-05-04/ch211], § 2, [48 Stat. 663][/us/stat/48/663].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-[Act May 4, 1934, ch. 211, § 3][/us/act/1934-05-04/ch211/s3], [48 Stat. 663][/us/stat/48/663], provided that: 
+[Act May 4, 1934, ch. 211][/us/act/1934-05-04/ch211], § 3, [48 Stat. 663][/us/stat/48/663], provided that: 
 
 > “This Act \[enacting this section\] shall take effect thirty days subsequent to the date of convening of the first regular session of the Alaska Territorial Legislature which is held after the passage of this Act \[May 4, 1934\].”
 
@@ -46,11 +46,11 @@
 
 [/us/stat/37/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F242
 [/us/stat/43/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1118
-[/us/act/1934-05-04/ch211/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch211%2Fs2
+[/us/act/1934-05-04/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch211
 [/us/stat/48/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F663
 [/us/stat/37/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F242
 [/us/stat/43/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1118
-[/us/act/1934-05-04/ch211/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch211%2Fs3
+[/us/act/1934-05-04/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch211
 [/us/stat/48/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F663
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

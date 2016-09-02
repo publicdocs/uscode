@@ -51,7 +51,7 @@
 
         If, within 30 days of receipt thereof, an operator of a coal or other mine notifies the Secretary that he intends to contest the issuance or modification of an order issued under [section 814 of this title][/us/usc/t30/s814], or citation or a notification of proposed assessment of a penalty issued under subsection (a) or (b) of this section, or the reasonableness of the length of abatement time fixed in a citation or modification thereof issued under [section 814 of this title][/us/usc/t30/s814], or any miner or representative of miners notifies the Secretary of an intention to contest the issuance, modification, or termination of any order issued under [section 814 of this title][/us/usc/t30/s814], or the reasonableness of the length of time set for abatement by a citation or modification thereof issued under [section 814 of this title][/us/usc/t30/s814], the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing (in accordance with [section 554 of title 5][/us/usc/t5/s554], but without regard to subsection (a)(3) of such section), and thereafter shall issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation, order, or proposed penalty, or directing other appropriate relief. Such order shall become final 30 days after its issuance. The rules of procedure prescribed by the Commission shall provide affected miners or representatives of affected miners an opportunity to participate as parties to hearings under this section. The Commission shall take whatever action is necessary to expedite proceedings for hearing appeals of orders issued under [section 814 of this title][/us/usc/t30/s814].
 
-([Pub. L. 91–173, title I, § 105][/us/pl/91/173/s105], Dec. 30, 1969, [83 Stat. 753][/us/stat/83/753]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1303][/us/stat/91/1303].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 105, Dec. 30, 1969, [83 Stat. 753][/us/stat/83/753]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1303][/us/stat/91/1303].)
 
  __References in Text__ 
 
@@ -94,9 +94,9 @@
 [/us/usc/t30/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs814
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t30/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs814
-[/us/pl/91/173/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs105
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F753
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1303
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

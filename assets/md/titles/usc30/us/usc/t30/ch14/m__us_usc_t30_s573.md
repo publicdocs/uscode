@@ -17,7 +17,7 @@
 
     The Commonwealth shall furnish to the Secretary of the Interior a statement with respect to the project showing work done, the status of the project, expenditures and amounts obligated, at such times and in such detail as the Secretary of the Interior shall require for the purposes of this chapter.
 
-([July 15, 1955, ch. 369, § 3][/us/act/1955-07-15/ch369/s3], [69 Stat. 353][/us/stat/69/353].)
+([July 15, 1955, ch. 369][/us/act/1955-07-15/ch369], § 3, [69 Stat. 353][/us/stat/69/353].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-07-15/ch369/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch369%2Fs3
+[/us/act/1955-07-15/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch369
 [/us/stat/69/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F353
 
 

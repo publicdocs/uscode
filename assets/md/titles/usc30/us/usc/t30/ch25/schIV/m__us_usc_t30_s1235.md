@@ -77,15 +77,15 @@
 
         No State shall be liable under any provision of Federal law for any costs or damages as a result of action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
 
-([Pub. L. 95–87, title IV, § 405][/us/pl/95/87/s405], Aug. 3, 1977, [91 Stat. 459][/us/stat/91/459]; [Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 416][/us/stat/101/416]; [Pub. L. 101–508, title VI][/us/pl/101/508], §§ 6007, 6012(d)(1), (2), Nov. 5, 1990, [104 Stat. 1388–295][/us/stat/104/1388-295], 1388–298.)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 405, Aug. 3, 1977, [91 Stat. 459][/us/stat/91/459]; [Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 416][/us/stat/101/416]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], §§ 6007, 6012(d)(1), (2), Nov. 5, 1990, [104 Stat. 1388–295][/us/stat/104/1388-295], 1388–298.)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 6012(d)(1)][/us/pl/101/508/s6012/d/1], substituted “preparation” for “perparation”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 6012(d)(1), substituted “preparation” for “perparation”.
 
-    Subsec. (h). [Pub. L. 101–508, § 6012(d)(2)][/us/pl/101/508/s6012/d/2], substituted “Upon approval” for “Upon approved”.
+    Subsec. (h). [Pub. L. 101–508][/us/pl/101/508], § 6012(d)(2), substituted “Upon approval” for “Upon approved”.
 
-    Subsec. (l). [Pub. L. 101–508, § 6007][/us/pl/101/508/s6007], added subsec. (l).
+    Subsec. (l). [Pub. L. 101–508][/us/pl/101/508], § 6007, added subsec. (l).
 
     1987—Subsec. (k). [Pub. L. 100–71][/us/pl/100/71], which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
 
@@ -95,7 +95,7 @@
 
  __Grant of Funds to States Under Surface Mining Control and Reclamation Act__ 
 
-[Pub. L. 97–377, title I, § 150][/us/pl/97/377/s150], Dec. 21, 1982, [96 Stat. 1918][/us/stat/96/1918], provided that: 
+[Pub. L. 97–377, title I][/us/pl/97/377/tI], § 150, Dec. 21, 1982, [96 Stat. 1918][/us/stat/96/1918], provided that: 
 
 > “Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act ([91 Stat. 460][/us/stat/91/460]) \[[Pub. L. 95–87][/us/pl/95/87], see Short Title note set out under [section 1201 of this title][/us/usc/t30/s1201]\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act.”
 
@@ -110,20 +110,20 @@
 [/us/usc/t30/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253
 [/us/usc/t30/s1232/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg
 [/us/usc/t30/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1234
-[/us/pl/95/87/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs405
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F459
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F416
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-295
-[/us/pl/101/508/s6012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F1
-[/us/pl/101/508/s6012/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F2
-[/us/pl/101/508/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6007
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6014
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
-[/us/pl/97/377/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs150
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1918
 [/us/stat/91/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F460
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87

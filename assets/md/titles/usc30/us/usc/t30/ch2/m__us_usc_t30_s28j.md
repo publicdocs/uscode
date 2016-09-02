@@ -29,7 +29,7 @@
 
         (3) A fee adjustment under this subsection shall begin to apply the first assessment year which begins after adjustment is made.
 
-([Pub. L. 103–66, title X, § 10105][/us/pl/103/66/s10105], Aug. 10, 1993, [107 Stat. 406][/us/stat/107/406].)
+([Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10105, Aug. 10, 1993, [107 Stat. 406][/us/stat/107/406].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
+    Similar provisions were contained in [Pub. L. 102–381, title I][/us/pl/102/381/tI], Oct. 5, 1992, [106 Stat. 1378][/us/stat/106/1378], 1379.
 
 ----------
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t43/s1744/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1744%2Fb
 [/us/usc/t43/s1744/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1744%2Fc
-[/us/pl/103/66/s10105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10105
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F406
 [/us/pl/103/66/s10105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10105
 [/us/pl/103/66/s10105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10105
 [/us/usc/t30/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtI
 [/us/stat/106/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1378
 
 

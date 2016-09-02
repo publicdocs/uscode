@@ -23,7 +23,7 @@
 
         This section shall take effect with respect to payments made after October 1, 1983, unless the Secretary, by rule, prescribes an earlier effective date.
 
-([Pub. L. 97–451, title I, § 105][/us/pl/97/451/s105], Jan. 12, 1983, [96 Stat. 2452][/us/stat/96/2452].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 105, Jan. 12, 1983, [96 Stat. 2452][/us/stat/96/2452].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs105
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2452
 
 

@@ -17,7 +17,7 @@
 
     Each coal or other mine, the products of which enter commerce, or the operations or products of which affect commerce, and each operator of such mine, and every miner in such mine shall be subject to the provisions of this chapter.
 
-([Pub. L. 91–173, § 4][/us/pl/91/173/s4], Dec. 30, 1969, [83 Stat. 744][/us/stat/83/744]; [Pub. L. 95–164, title I, § 102(c)][/us/pl/95/164/s102/c], Nov. 9, 1977, [91 Stat. 1291][/us/stat/91/1291].)
+([Pub. L. 91–173][/us/pl/91/173], § 4, Dec. 30, 1969, [83 Stat. 744][/us/stat/83/744]; [Pub. L. 95–164, title I][/us/pl/95/164/tI], § 102(c), Nov. 9, 1977, [91 Stat. 1291][/us/stat/91/1291].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/91/173/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs4
+[/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F744
-[/us/pl/95/164/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fc
+[/us/pl/95/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtI
 [/us/stat/91/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1291
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

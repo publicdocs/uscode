@@ -23,7 +23,7 @@
 
         Records required by the Secretary with respect to oil and gas leases from Federal or Indian lands or the Outer Continental Shelf shall be maintained for 6 years after the records are generated unless the Secretary notifies the record holder that he has initiated an audit or investigation involving such records and that such records must be maintained for a longer period. In any case when an audit or investigation is underway, records shall be maintained until the Secretary releases the record holder of the obligation to maintain such records.
 
-([Pub. L. 97–451, title I, § 103][/us/pl/97/451/s103], Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 103, Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs103
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2451
 
 

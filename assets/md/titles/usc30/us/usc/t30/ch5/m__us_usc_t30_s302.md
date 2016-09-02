@@ -17,7 +17,7 @@
 
     The right conferred by this chapter may, subject to the approval of the Secretary of the Interior, be assigned or sublet by the owner thereof to any corporation, firm, association, or individual.
 
-([May 21, 1930, ch. 307, § 2][/us/act/1930-05-21/ch307/s2], [46 Stat. 373][/us/stat/46/373].)
+([May 21, 1930, ch. 307][/us/act/1930-05-21/ch307], § 2, [46 Stat. 373][/us/stat/46/373].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-05-21/ch307/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307%2Fs2
+[/us/act/1930-05-21/ch307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307
 [/us/stat/46/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F373
 
 

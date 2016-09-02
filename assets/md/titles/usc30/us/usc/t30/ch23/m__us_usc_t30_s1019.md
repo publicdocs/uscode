@@ -27,7 +27,7 @@
 
         Amounts paid to a State or county under subsection (a) shall be used consistent with the terms of [section 191 of this title][/us/usc/t30/s191].
 
-([Pub. L. 91–581, § 20][/us/pl/91/581/s20], Dec. 24, 1970, [84 Stat. 1572][/us/stat/84/1572]; [Pub. L. 100–443, § 5(a)][/us/pl/100/443/s5/a], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10202(b)][/us/pl/103/66/s10202/b], Aug. 10, 1993, [107 Stat. 408][/us/stat/107/408]; [Pub. L. 109–58, title II, § 224(b)][/us/pl/109/58/s224/b], Aug. 8, 2005, [119 Stat. 663][/us/stat/119/663].)
+([Pub. L. 91–581][/us/pl/91/581], § 20, Dec. 24, 1970, [84 Stat. 1572][/us/stat/84/1572]; [Pub. L. 100–443][/us/pl/100/443], § 5(a), Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10202(b), Aug. 10, 1993, [107 Stat. 408][/us/stat/107/408]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 224(b), Aug. 8, 2005, [119 Stat. 663][/us/stat/119/663].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
 [/us/usc/t30/s1004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1004%2Fa%2F2
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
-[/us/pl/91/581/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs20
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1572
-[/us/pl/100/443/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs5%2Fa
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1768
-[/us/pl/103/66/s10202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10202%2Fb
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F408
-[/us/pl/109/58/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs224%2Fb
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F663
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t30/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fb

@@ -19,7 +19,7 @@
 
     (b) The provisions of any State law or regulation in effect upon the operative date of this chapter, or which may become effective thereafter, which provide for more stringent health and safety standards applicable to coal or other mines than do the provisions of this chapter or any order issued or any mandatory health or safety standard shall not thereby be construed or held to be in conflict with this chapter. The provisions of any State law or regulation in effect December 30, 1969, or which may become effective thereafter, which provide for health and safety standards applicable to coal or other mines for which no provision is contained in this chapter or in any order issued or any mandatory health or safety standard, shall not be held to be in conflict with this chapter.
 
-([Pub. L. 91–173, title V, § 506][/us/pl/91/173/s506], Dec. 30, 1969, [83 Stat. 803][/us/stat/83/803]; [Pub. L. 95–164, title III, § 303(e)][/us/pl/95/164/s303/e], Nov. 9, 1977, [91 Stat. 1321][/us/stat/91/1321].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 506, Dec. 30, 1969, [83 Stat. 803][/us/stat/83/803]; [Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 303(e), Nov. 9, 1977, [91 Stat. 1321][/us/stat/91/1321].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/91/173/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs506
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F803
-[/us/pl/95/164/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fe
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1321
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

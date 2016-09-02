@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized under general rules and regulations to be prescribed by him to issue leases or permits for the exploration, development, and utilization of the mineral deposits, other than those subject to the provisions of chapter 7 of this title, in those lands added to the Shasta National Forest by the Act of March 19, 1948 (Public Law 449, Eightieth Congress), which were acquired with funds of the United States or lands received in exchange therefor: Provided, That any permit or lease of such deposits in lands administered by the Secretary of Agriculture shall be issued only with his consent and subject to such conditions as he may prescribe to insure the adequate utilization of the lands for the purposes set forth in the Act of March 19, 1948: And provided further, That all receipts derived from leases or permits issued under the authority of sections 192a to 192c of this title shall be paid into the same funds or accounts in the Treasury and shall be distributed in the same manner as prescribed for other receipts from the lands affected by the lease or permit, the intention of this provision being that sections 192a to 192c of this title shall not affect the distribution of receipts pursuant to legislation applicable to such lands.
 
-([Sept. 1, 1949, ch. 529, § 3][/us/act/1949-09-01/ch529/s3], [63 Stat. 683][/us/stat/63/683].)
+([Sept. 1, 1949, ch. 529][/us/act/1949-09-01/ch529], § 3, [63 Stat. 683][/us/stat/63/683].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1949-09-01/ch529/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-01%2Fch529%2Fs3
+[/us/act/1949-09-01/ch529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-01%2Fch529
 [/us/stat/63/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F683
 [/us/act/1948-03-19/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-19%2Fch139
 [/us/stat/62/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F83

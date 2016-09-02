@@ -29,7 +29,7 @@
 
     (b) It shall be the duty of each institute to plan and conduct, or arrange for a component or components of the college or university with which it is affiliated to conduct research, investigations, demonstrations, and experiments of either, or both, a basic or practical nature in relation to mining and mineral resources, and to provide for the training of mineral engineers and scientists through such research, investigations, demonstrations, and experiments. The subject of such research, investigation, demonstration, experiment, and training may include exploration; extraction; processing; development; production of fuel and nonfuel mineral resources; mining and mineral technology; supply and demand for minerals; conservation and best use of available supplies of minerals; the economic, legal, social, engineering, recreational, biological, geographic, ecological, and other aspects of mining, mineral resources, and mineral reclamation. Such research, investigation, demonstration, experiment and training shall consider the interrelationship with the natural environment, the varying conditions and needs of the respective States, and mining and mineral resources research projects being conducted by agencies of the Federal and State governments and other institutes.
 
-([Pub. L. 98–409, § 1][/us/pl/98/409/s1], Aug. 29, 1984, [98 Stat. 1536][/us/stat/98/1536]; [Pub. L. 100–483][/us/pl/100/483], §§ 2–4, Oct. 12, 1988, [102 Stat. 2339][/us/stat/102/2339].)
+([Pub. L. 98–409][/us/pl/98/409], § 1, Aug. 29, 1984, [98 Stat. 1536][/us/stat/98/1536]; [Pub. L. 100–483][/us/pl/100/483], §§ 2–4, Oct. 12, 1988, [102 Stat. 2339][/us/stat/102/2339].)
 
  __Codification__ 
 
@@ -37,15 +37,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1221, [Pub. L. 95–87, title III, § 301][/us/pl/95/87/s301], Aug. 3, 1977, [91 Stat. 451][/us/stat/91/451], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1221, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 301, Aug. 3, 1977, [91 Stat. 451][/us/stat/91/451], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–483, § 2][/us/pl/100/483/s2], substituted “$400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$300,000 for the fiscal year ending September 30, 1985, and $400,000 to each participating State for each fiscal year thereafter for a total of five years”.
+    1988—Subsec. (a)(1). [Pub. L. 100–483][/us/pl/100/483], § 2, substituted “$400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$300,000 for the fiscal year ending September 30, 1985, and $400,000 to each participating State for each fiscal year thereafter for a total of five years”.
 
-    Subsec. (a)(2)(A). [Pub. L. 100–483, § 3][/us/pl/100/483/s3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, and no less than two non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, September 30, 1988, and September 30, 1989.”
+    Subsec. (a)(2)(A). [Pub. L. 100–483][/us/pl/100/483], § 3, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, and no less than two non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, September 30, 1988, and September 30, 1989.”
 
-    Subsec. (b). [Pub. L. 100–483, § 4][/us/pl/100/483/s4], substituted “production of fuel and nonfuel mineral resources” for “production of mineral resources”.
+    Subsec. (b). [Pub. L. 100–483][/us/pl/100/483], § 4, substituted “production of fuel and nonfuel mineral resources” for “production of mineral resources”.
 
  __Short Title__ 
 
@@ -61,15 +61,15 @@
 [/us/usc/t30/s1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1230
 [/us/usc/t30/s1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1230
 [/us/usc/t30/s1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1229
-[/us/pl/98/409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs1
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1536
 [/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2339
-[/us/pl/95/87/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs301
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F451
-[/us/pl/100/483/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs2
-[/us/pl/100/483/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs3
-[/us/pl/100/483/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs4
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/pl/98/409/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs11
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201

@@ -51,7 +51,7 @@
 
         (3) Each permittee shall use at least one vessel documented under the laws of the United States for the transportation from each mining site of hard mineral resources recovered under the permit issued to the permittee.
 
-        (4) For purposes of the shipping laws of the United States, any vessel documented under the laws of the United States and used in the commercial recovery, processing, or transportation from any mining site of hard mineral resources recovered under a permit issued under this subchapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in [section 109 of title 46][/us/usc/t46/s109], and shall be deemed to be a vessel as defined in [section 53701(13) of title 46][/us/usc/t46/s53701/13].
+        (4) For purposes of the shipping laws of the United States, any vessel documented under the laws of the United States and used in the commercial recovery, processing, or transportation from any mining site of hard mineral resources recovered under a permit issued under this subchapter shall be deemed to be used in, and used in an essential service in, the foreign commerce or foreign trade of the United States, as defined in [section 109 of title 46][/us/usc/t46/s109], and shall be deemed to be a vessel as defined in section 53701(13)  <sup>\[1\]</sup>  <sup><sup> 1See References in Text note below. </sup></sup>  of title 46.
 
         (5)
 
@@ -61,11 +61,15 @@
 
             (B) satisfactory assurances have been given by the permittee that such resource, after processing, to the extent of the permittee’s ownership therein, will be returned to the United States for domestic use, if the Administrator so requires after determining that the national interest necessitates such return.
 
-([Pub. L. 96–283, title I, § 102][/us/pl/96/283/s102], June 28, 1980, [94 Stat. 558][/us/stat/94/558].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 102, June 28, 1980, [94 Stat. 558][/us/stat/94/558].)
+
+ __References in Text__ 
+
+    [Section 53701(13) of title 46][/us/usc/t46/s53701/13], referred to in subsec. (c)(4), was redesignated [section 53701(14) of title 46][/us/usc/t46/s53701/14] by [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 302(a)(1)(A), Feb. 8, 2016, [130 Stat. 51][/us/stat/130/51].
 
  __Codification__ 
 
-    In subsec. (c)(4), “[section 109 of title 46][/us/usc/t46/s109]” substituted for “section 905(a) of the Merchant Marine Act, 1936” and “[section 53701(13) of title 46][/us/usc/t46/s53701/13]” substituted for “section 1101(b) of that Act” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted sections 109 and 53701 of Title 46, Shipping.
+    In subsec. (c)(4), “[section 109 of title 46][/us/usc/t46/s109]” substituted for “section 905(a) of the Merchant Marine Act, 1936” and “[section 53701(13) of title 46][/us/usc/t46/s53701/13]” substituted for “section 1101(b) of that Act” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted sections 109 and 53701 of Title 46, Shipping.
 
 ----------
 
@@ -78,12 +82,15 @@
 [/us/usc/t30/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1413%2Fb
 [/us/usc/t30/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1416
 [/us/usc/t46/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs109
-[/us/usc/t46/s53701/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53701%2F13
-[/us/pl/96/283/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs102
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F558
+[/us/usc/t46/s53701/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53701%2F13
+[/us/usc/t46/s53701/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53701%2F14
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F51
 [/us/usc/t46/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs109
 [/us/usc/t46/s53701/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53701%2F13
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 
 

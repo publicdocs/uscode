@@ -25,7 +25,7 @@
 
     (b) The Secretary, his agents, employees, and contractors shall have the right to enter upon any land where the emergency exists and any other land to have access to the land where the emergency exists to restore, reclaim, abate, control, or prevent the adverse effects of coal mining practices and to do all things necessary or expedient to protect the public health, safety, or general welfare. Such entry shall be construed as an exercise of the police power and shall not be construed as an act of condemnation of property nor of trespass thereof. The moneys expended for such work and the benefits accruing to any such premises so entered upon shall be chargeable against such land and shall mitigate or offset any claim in or any action brought by any owner of any interest in such premises for any alleged damages by virtue of such entry: Provided, however, That this provision is not intended to create new rights of action or eliminate existing immunities.
 
-([Pub. L. 95–87, title IV, § 410][/us/pl/95/87/s410], Aug. 3, 1977, [91 Stat. 466][/us/stat/91/466].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 410, Aug. 3, 1977, [91 Stat. 466][/us/stat/91/466].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs410
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F466
 
 

@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated for the purpose of this section $500,000: Provided, That no new budget authority is authorized to be appropriated for fiscal year 1977.
 
-([Pub. L. 95–87, title VII, § 709][/us/pl/95/87/s709], Aug. 3, 1977, [91 Stat. 522][/us/stat/91/522].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 709, Aug. 3, 1977, [91 Stat. 522][/us/stat/91/522].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs709
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F522
 
 

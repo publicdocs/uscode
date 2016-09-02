@@ -67,7 +67,7 @@
 
         (2) The Secretary shall also, by regulation, establish procedures to insure that adequate and complete inspections are made. Any such person may notify the Secretary of any failure to make such inspections, after which the Secretary shall determine whether adequate and complete inspections have been made. The Secretary shall furnish such persons a written statement of the reasons for the Secretary’s determination that adequate and complete inspections have or have not been conducted.
 
-([Pub. L. 95–87, title V, § 517][/us/pl/95/87/s517], Aug. 3, 1977, [91 Stat. 498][/us/stat/91/498].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 517, Aug. 3, 1977, [91 Stat. 498][/us/stat/91/498].)
 
  __Termination of Reporting Requirements__ 
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t30/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1296
-[/us/pl/95/87/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs517
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F498
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

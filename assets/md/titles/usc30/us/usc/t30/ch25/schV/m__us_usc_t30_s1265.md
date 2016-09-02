@@ -277,7 +277,7 @@
 
         The Secretary, with the written concurrence of the Chief of Engineers, shall establish within one hundred and thirty-five days from August 3, 1977, standards and criteria regulating the design, location, construction, operation, maintenance, enlargement, modification, removal, and abandonment of new and existing coal mine waste piles referred to in subsection (b)(13) and [section 1266(b)(5) of this title][/us/usc/t30/s1266/b/5]. Such standards and criteria shall conform to the standards and criteria used by the Chief of Engineers to insure that flood control structures are safe and effectively perform their intended function. In addition to engineering and other technical specifications the standards and criteria developed pursuant to this subsection must include provisions for: review and approval of plans and specifications prior to construction, enlargement, modification, removal, or abandonment; performance of periodic inspections during construction; issuance of certificates of approval upon completion of construction; performance of periodic safety inspections; and issuance of notices for required remedial or maintenance work.
 
-([Pub. L. 95–87, title V, § 515][/us/pl/95/87/s515], Aug. 3, 1977, [91 Stat. 486][/us/stat/91/486]; [Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title I, § 123\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–267, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title I, § 123\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–267; [Pub. L. 102–486, title XXV, § 2503(b)][/us/pl/102/486/s2503/b], Oct. 24, 1992, [106 Stat. 3102][/us/stat/106/3102].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 515, Aug. 3, 1977, [91 Stat. 486][/us/stat/91/486]; [Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title I, § 123\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–267, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title I, § 123\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–267; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2503(b), Oct. 24, 1992, [106 Stat. 3102][/us/stat/106/3102].)
 
  __References in Text__ 
 
@@ -307,13 +307,13 @@
 [/us/usc/t30/s1259/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1259%2Fb
 [/us/usc/t30/s1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1269
 [/us/usc/t30/s1266/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1266%2Fb%2F5
-[/us/pl/95/87/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs515
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F486
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
-[/us/pl/102/486/s2503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2503%2Fb
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3102
 [/us/pl/83/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F566
 [/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656

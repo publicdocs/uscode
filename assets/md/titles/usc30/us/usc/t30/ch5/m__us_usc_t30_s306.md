@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to adopt rules and regulations governing the exercise of the discretion and authority conferred by this chapter, which rules and regulations shall constitute a part of any application or lease hereunder.
 
-([May 21, 1930, ch. 307, § 6][/us/act/1930-05-21/ch307/s6], [46 Stat. 374][/us/stat/46/374].)
+([May 21, 1930, ch. 307][/us/act/1930-05-21/ch307], § 6, [46 Stat. 374][/us/stat/46/374].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-05-21/ch307/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307%2Fs6
+[/us/act/1930-05-21/ch307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307
 [/us/stat/46/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F374
 
 

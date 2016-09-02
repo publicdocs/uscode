@@ -17,7 +17,7 @@
 
     Any lessee is liable for royalty payments on oil or gas lost or wasted from a lease site when such loss or waste is due to negligence on the part of the operator of the lease, or due to the failure to comply with any rule or regulation, order or citation issued under this chapter or any mineral leasing law.
 
-([Pub. L. 97–451, title III, § 308][/us/pl/97/451/s308], Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 308, Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs308
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2462
 
 

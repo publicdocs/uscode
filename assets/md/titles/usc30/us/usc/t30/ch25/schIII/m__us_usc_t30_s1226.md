@@ -33,7 +33,7 @@
 
         (2) There are authorized to be appropriated to the Secretary such sums as are necessary for the printing and publishing of the results of activities carried out by institutes and generic mineral technology centers under this subchapter, but such appropriations shall not exceed $550,000 in any single fiscal year.
 
-([Pub. L. 98–409, § 6][/us/pl/98/409/s6], Aug. 29, 1984, [98 Stat. 1539][/us/stat/98/1539]; [Pub. L. 100–483, § 7][/us/pl/100/483/s7], Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340].)
+([Pub. L. 98–409][/us/pl/98/409], § 6, Aug. 29, 1984, [98 Stat. 1539][/us/stat/98/1539]; [Pub. L. 100–483][/us/pl/100/483], § 7, Oct. 12, 1988, [102 Stat. 2340][/us/stat/102/2340].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1226, [Pub. L. 95–87, title III, § 306][/us/pl/95/87/s306], Aug. 3, 1977, [91 Stat. 454][/us/stat/91/454], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1226, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 306, Aug. 3, 1977, [91 Stat. 454][/us/stat/91/454], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
  __Amendments__ 
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
-[/us/pl/98/409/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs6
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1539
-[/us/pl/100/483/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483%2Fs7
+[/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 [/us/stat/102/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2340
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/stat/94/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3015
 [/us/pl/96/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517%2Fs6%2Fa
-[/us/pl/95/87/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs306
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F454
 [/us/pl/100/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F483
 

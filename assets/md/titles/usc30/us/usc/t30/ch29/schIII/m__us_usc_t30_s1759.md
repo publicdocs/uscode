@@ -17,7 +17,7 @@
 
     In fiscal year 2009 and each fiscal year thereafter, fees and charges authorized by [section 9701 of title 31][/us/usc/t31/s9701] may be collected only to the extent provided in advance in appropriations Acts.
 
-([Pub. L. 111–8, div. E, title I][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 711][/us/stat/123/711].)
+([Pub. L. 111–8, div. E, title I][/us/pl/111/8/dE/tI], Mar. 11, 2009, [123 Stat. 711][/us/stat/123/711].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtI
 [/us/stat/123/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F711
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 

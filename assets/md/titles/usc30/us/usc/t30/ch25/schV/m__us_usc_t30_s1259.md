@@ -35,7 +35,7 @@
 
         The amount of the bond or deposit required and the terms of each acceptance of the applicant’s bond shall be adjusted by the regulatory authority from time to time as affected land acreages are increased or decreased or where the cost of future reclamation changes.
 
-([Pub. L. 95–87, title V, § 509][/us/pl/95/87/s509], Aug. 3, 1977, [91 Stat. 479][/us/stat/91/479].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 509, Aug. 3, 1977, [91 Stat. 479][/us/stat/91/479].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t30/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265
-[/us/pl/95/87/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs509
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F479
 
 

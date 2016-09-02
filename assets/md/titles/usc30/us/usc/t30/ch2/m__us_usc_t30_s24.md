@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2321 derived from [act May 10, 1872, ch. 152, § 7][/us/act/1872-05-10/ch152/s7], [17 Stat. 94][/us/stat/17/94].
+    R.S. § 2321 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 7, [17 Stat. 94][/us/stat/17/94].
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1872-05-10/ch152/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs7
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F94
 
 

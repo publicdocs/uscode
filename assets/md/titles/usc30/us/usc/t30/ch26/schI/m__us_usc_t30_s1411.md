@@ -59,7 +59,7 @@
 
         No United States citizen may interfere or participate in interference with any activity conducted by any licensee or permittee which is authorized to be undertaken under a license or permit issued by the United States to the licensee or permittee under this chapter or with any activity conducted by the holder of, and authorized to be undertaken under, a license or permit or equivalent authorization issued by a reciprocating state for the exploration or commercial recovery of hard mineral resources. United States citizens shall exercise their rights on the high seas with reasonable regard for the interests of other states in their exercise of the freedoms of the high seas.
 
-([Pub. L. 96–283, title I, § 101][/us/pl/96/283/s101], June 28, 1980, [94 Stat. 557][/us/stat/94/557].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 101, June 28, 1980, [94 Stat. 557][/us/stat/94/557].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t30/s1416/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1416%2Fa%2F2%2FB
 [/us/usc/t30/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1413%2Fb
 [/us/usc/t30/s1413/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1413%2Fa%2F2
-[/us/pl/96/283/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs101
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F557
 
 

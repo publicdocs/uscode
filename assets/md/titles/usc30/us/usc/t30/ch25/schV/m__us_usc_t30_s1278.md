@@ -21,7 +21,7 @@
 
     (2) the extraction of coal as an incidental part of Federal, State or local government-financed highway or other construction under regulations established by the regulatory authority.
 
-([Pub. L. 95–87, title V, § 528][/us/pl/95/87/s528], Aug. 3, 1977, [91 Stat. 514][/us/stat/91/514]; [Pub. L. 100–34, title II, § 201(a)][/us/pl/100/34/s201/a], May 7, 1987, [101 Stat. 300][/us/stat/101/300].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 528, Aug. 3, 1977, [91 Stat. 514][/us/stat/91/514]; [Pub. L. 100–34, title II][/us/pl/100/34/tII], § 201(a), May 7, 1987, [101 Stat. 300][/us/stat/101/300].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–34, title II, § 201(b)][/us/pl/100/34/s201/b]–(e), May 7, 1987, [101 Stat. 300][/us/stat/101/300], provided that:
+[Pub. L. 100–34, title II][/us/pl/100/34/tII], § 201(b)–(e), May 7, 1987, [101 Stat. 300][/us/stat/101/300], provided that:
 
 >     “(b)  __Effective Date for New Operations__  __.—__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/95/87/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs528
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F514
-[/us/pl/100/34/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34%2Fs201%2Fa
+[/us/pl/100/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34%2FtII
 [/us/stat/101/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F300
 [/us/pl/100/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34
-[/us/pl/100/34/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34%2Fs201%2Fb
+[/us/pl/100/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F34%2FtII
 [/us/stat/101/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F300
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201

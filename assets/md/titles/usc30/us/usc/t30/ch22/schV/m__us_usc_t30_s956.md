@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, the provisions of sections 551 to 559 and sections 701 to 706 of title 5 shall not apply to the making of any order, notice, or decision made pursuant to this chapter, or to any proceeding for the review thereof.
 
-([Pub. L. 91–173, title V, § 507][/us/pl/91/173/s507], Dec. 30, 1969, [83 Stat. 803][/us/stat/83/803].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 507, Dec. 30, 1969, [83 Stat. 803][/us/stat/83/803].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs507
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F803
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

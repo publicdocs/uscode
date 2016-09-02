@@ -49,7 +49,7 @@
 
         No benefits shall be payable to a widow, child, parent, brother, or sister under this part on account of the death of a miner unless (1) benefits under this part were being paid to such miner with respect to disability due to pneumoconiosis prior to his death, (2) the death of such miner occurred prior to January 1, 1974, or (3) any such individual is entitled to benefits under paragraph (5) of [section 921(c) of this title][/us/usc/t30/s921/c].
 
-([Pub. L. 91–173, title IV, § 414][/us/pl/91/173/s414], Dec. 30, 1969, [83 Stat. 795][/us/stat/83/795]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(1), (6), 5(1)–(3), May 19, 1972, [86 Stat. 151][/us/stat/86/151], 152, 155; [Pub. L. 95–239, § 3(b)(2)][/us/pl/95/239/s3/b/2], Mar. 1, 1978, [92 Stat. 97][/us/stat/92/97]; [Pub. L. 103–296, title I, § 108(i)(2)][/us/pl/103/296/s108/i/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 414, Dec. 30, 1969, [83 Stat. 795][/us/stat/83/795]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(1), (6), 5(1)–(3), May 19, 1972, [86 Stat. 151][/us/stat/86/151], 152, 155; [Pub. L. 95–239][/us/pl/95/239], § 3(b)(2), Mar. 1, 1978, [92 Stat. 97][/us/stat/92/97]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(i)(2), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275][/us/pl/107/275], § 2(a), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
 
  __Amendments__ 
 
@@ -87,15 +87,15 @@
 [/us/usc/t30/s922/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs922%2Fa%2F3
 [/us/usc/t30/s922/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs922%2Fa%2F3
 [/us/usc/t30/s921/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921%2Fc
-[/us/pl/91/173/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs414
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F795
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F151
-[/us/pl/95/239/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs3%2Fb%2F2
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F97
-[/us/pl/103/296/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fi%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1925
 [/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296

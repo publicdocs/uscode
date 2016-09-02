@@ -35,7 +35,7 @@
 
         When not in use, power circuits underground shall be deenergized on idle days and idle shifts, except that rectifiers and transformers may remain energized.
 
-([Pub. L. 91–173, title III, § 307][/us/pl/91/173/s307], Dec. 30, 1969, [83 Stat. 780][/us/stat/83/780].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 307, Dec. 30, 1969, [83 Stat. 780][/us/stat/83/780].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs307
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F780
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

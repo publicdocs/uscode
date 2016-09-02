@@ -17,7 +17,7 @@
 
     That in fiscal year 2006 and thereafter, the MMS may under the royalty-in-kind program, or under its authority to transfer oil to the Strategic Petroleum Reserve, use a portion of the revenues from royalty-in-kind sales, without regard to fiscal year limitation, to pay for transportation to wholesale market centers or upstream pooling points, to process or otherwise dispose of royalty production taken in kind, and to recover MMS transportation costs, salaries, and other administrative costs directly related to the royalty-in-kind program.
 
-([Pub. L. 109–54, title I][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 512][/us/stat/119/512].)
+([Pub. L. 109–54, title I][/us/pl/109/54/tI], Aug. 2, 2005, [119 Stat. 512][/us/stat/119/512].)
 
  __References in Text__ 
 
@@ -35,15 +35,15 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–447, div. E, title I][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3053][/us/stat/118/3053].
+    [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], Dec. 8, 2004, [118 Stat. 3053][/us/stat/118/3053].
 
-    [Pub. L. 108–108, title I][/us/pl/108/108], Nov. 10, 2003, [117 Stat. 1255][/us/stat/117/1255].
+    [Pub. L. 108–108, title I][/us/pl/108/108/tI], Nov. 10, 2003, [117 Stat. 1255][/us/stat/117/1255].
 
-    [Pub. L. 108–7, div. F, title I][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 229][/us/stat/117/229].
+    [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], Feb. 20, 2003, [117 Stat. 229][/us/stat/117/229].
 
-    [Pub. L. 107–63, title I][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 428][/us/stat/115/428].
+    [Pub. L. 107–63, title I][/us/pl/107/63/tI], Nov. 5, 2001, [115 Stat. 428][/us/stat/115/428].
 
-    [Pub. L. 106–291, title I][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 932][/us/stat/114/932].
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], Oct. 11, 2000, [114 Stat. 932][/us/stat/114/932].
 
 ----------
 
@@ -52,17 +52,17 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F512
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3053
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1255
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F229
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F428
-[/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F932
 
 

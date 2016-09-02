@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be deemed to amend or repeal any provisions of chapter 12 of this title, or any right granted thereunder.
 
-([Aug. 11, 1955, ch. 795, § 9][/us/act/1955-08-11/ch795/s9], [69 Stat. 681][/us/stat/69/681].)
+([Aug. 11, 1955, ch. 795][/us/act/1955-08-11/ch795], § 9, [69 Stat. 681][/us/stat/69/681].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch795/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch795%2Fs9
+[/us/act/1955-08-11/ch795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch795
 [/us/stat/69/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F681
 
 

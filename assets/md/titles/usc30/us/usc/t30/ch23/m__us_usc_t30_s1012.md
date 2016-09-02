@@ -17,7 +17,7 @@
 
     The Secretary may waive, suspend, or reduce the rental or royalty for any lease or portion thereof in the interests of conservation and to encourage the greatest ultimate recovery of geothermal resources, if he determines that this is necessary to promote development or that the lease cannot be successfully operated under the lease terms.
 
-([Pub. L. 91–581, § 13][/us/pl/91/581/s13], Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II, § 236(13)][/us/pl/109/58/s236/13], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 13, Dec. 24, 1970, [84 Stat. 1570][/us/stat/84/1570]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(13), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs13
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1570
-[/us/pl/109/58/s236/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F13
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

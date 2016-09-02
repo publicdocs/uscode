@@ -19,7 +19,7 @@
 
     (b) Rights to develop and utilize geothermal resources underlying lands owned by the United States may be acquired solely in accordance with the provisions of this chapter.
 
-([Pub. L. 91–581, § 23][/us/pl/91/581/s23], Dec. 24, 1970, [84 Stat. 1573][/us/stat/84/1573]; [Pub. L. 109–58, title II, § 236(1)][/us/pl/109/58/s236/1], (21), Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671], 673.)
+([Pub. L. 91–581][/us/pl/91/581], § 23, Dec. 24, 1970, [84 Stat. 1573][/us/stat/84/1573]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(1), (21), Aug. 8, 2005, [119 Stat. 671][/us/stat/119/671], 673.)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs23
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1573
-[/us/pl/109/58/s236/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F1
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F671
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

@@ -31,7 +31,7 @@
 
         No miner who is engaged in coal mine employment shall (except as provided in [section 921(c)(3) of this title][/us/usc/t30/s921/c/3]) be entitled to any benefits under this part while so employed. Any miner who has been determined to be eligible for benefits pursuant to a claim filed while such miner was engaged in coal mine employment shall be entitled to such benefits if his or her employment terminates within one year after the date such determination becomes final.
 
-([Pub. L. 91–173, title IV, § 413][/us/pl/91/173/s413], Dec. 30, 1969, [83 Stat. 794][/us/stat/83/794]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(5)(A), 4(f), 5(2), May 19, 1972, [86 Stat. 152][/us/stat/86/152], 154, 155; [Pub. L. 95–239, § 5][/us/pl/95/239/s5], Mar. 1, 1978, [92 Stat. 97][/us/stat/92/97]; [Pub. L. 97–119, title II, § 202(a)][/us/pl/97/119/s202/a], (c), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643]; [Pub. L. 103–296, title I, § 108(i)(2)][/us/pl/103/296/s108/i/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], (b)(2), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 413, Dec. 30, 1969, [83 Stat. 794][/us/stat/83/794]; [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(5)(A), 4(f), 5(2), May 19, 1972, [86 Stat. 152][/us/stat/86/152], 154, 155; [Pub. L. 95–239][/us/pl/95/239], § 5, Mar. 1, 1978, [92 Stat. 97][/us/stat/92/97]; [Pub. L. 97–119, title II][/us/pl/97/119/tII], § 202(a), (c), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(i)(2), Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275][/us/pl/107/275], § 2(a), (b)(2), Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925].)
 
  __References in Text__ 
 
@@ -41,23 +41,23 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], substituted “Secretary” for “Commissioner of Social Security”.
+    2002—Subsec. (a). [Pub. L. 107–275][/us/pl/107/275], § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
 
-    Subsec. (b). [Pub. L. 107–275, § 2(b)(2)][/us/pl/107/275/s2/b/2], substituted “No” for “In carrying out the provisions of this part, the Commissioner of Social Security shall to the maximum extent feasible (and consistent with the provisions of this part) utilize the personnel and procedures he uses in determining entitlement to disability insurance benefit payments under section 223 of the Social Security Act, but no”.
+    Subsec. (b). [Pub. L. 107–275][/us/pl/107/275], § 2(b)(2), substituted “No” for “In carrying out the provisions of this part, the Commissioner of Social Security shall to the maximum extent feasible (and consistent with the provisions of this part) utilize the personnel and procedures he uses in determining entitlement to disability insurance benefit payments under section 223 of the Social Security Act, but no”.
 
-    [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], substituted “Secretary has” for “Commissioner of Social Security has” in two places and “Secretary shall” for “Commissioner of Social Security shall” in two places.
+    [Pub. L. 107–275][/us/pl/107/275], § 2(a), substituted “Secretary has” for “Commissioner of Social Security has” in two places and “Secretary shall” for “Commissioner of Social Security shall” in two places.
 
-    Subsec. (c). [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], substituted “Secretary” for “Commissioner of Social Security”.
+    Subsec. (c). [Pub. L. 107–275][/us/pl/107/275], § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
 
     1994—Subsecs. (a) to (c). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except in reference to Secretary of Labor.
 
-    1981—Subsec. (b). [Pub. L. 97–119, § 202(a)][/us/pl/97/119/s202/a], (c), inserted “, from persons not eligible for benefits in such case with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “such affidavits” and “, other than that involving a claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “In any case”.
+    1981—Subsec. (b). [Pub. L. 97–119][/us/pl/97/119], § 202(a), (c), inserted “, from persons not eligible for benefits in such case with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “such affidavits” and “, other than that involving a claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “In any case”.
 
-    1978—Subsec. (b). [Pub. L. 95–239, § 5(a)][/us/pl/95/239/s5/a], (b), (c), provided that, in the case of a deceased miner where there is no medical or other relevant evidence, the affidavits be considered sufficient to establish that the miner was totally disabled due to pneumoconiosis or that death was due to pneumoconiosis, directed the Secretary to accept a board certified or board eligible radiologist’s interpretation of a chest roentgenogram in cases in which there is other evidence that a miner has a pulmonary or respiratory impairment, provided for regulations covering roentgenogram techniques, provided for acceptance by the Secretary of an autopsy report concerning the presence of pneumoconiosis and the stage of advancement of that pneumoconiosis, directed that each miner who files a claim for benefits under this subchapter be provided upon request an opportunity to substantiate the claim by means of a complete pulmonary evaluation, and, in the reference to the various subsections of [section 405 of Title 42][/us/usc/t42/s405], struck out reference to subsec. (f) and inserted reference to subsec. (n).
+    1978—Subsec. (b). [Pub. L. 95–239][/us/pl/95/239], § 5(a), (b), (c), provided that, in the case of a deceased miner where there is no medical or other relevant evidence, the affidavits be considered sufficient to establish that the miner was totally disabled due to pneumoconiosis or that death was due to pneumoconiosis, directed the Secretary to accept a board certified or board eligible radiologist’s interpretation of a chest roentgenogram in cases in which there is other evidence that a miner has a pulmonary or respiratory impairment, provided for regulations covering roentgenogram techniques, provided for acceptance by the Secretary of an autopsy report concerning the presence of pneumoconiosis and the stage of advancement of that pneumoconiosis, directed that each miner who files a claim for benefits under this subchapter be provided upon request an opportunity to substantiate the claim by means of a complete pulmonary evaluation, and, in the reference to the various subsections of [section 405 of Title 42][/us/usc/t42/s405], struck out reference to subsec. (f) and inserted reference to subsec. (n).
 
-    Subsec. (d). [Pub. L. 95–239, § 5(d)][/us/pl/95/239/s5/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–239][/us/pl/95/239], § 5(d), added subsec. (d).
 
-    1972—Subsec. (a). [Pub. L. 92–303, § 5(2)][/us/pl/92/303/s5/2], substituted “1973” for “1972”.
+    1972—Subsec. (a). [Pub. L. 92–303][/us/pl/92/303], § 5(2), substituted “1973” for “1972”.
 
     Subsec. (b). [Pub. L. 92–303][/us/pl/92/303], §§ 1(c)(5)(A), 4(f), inserted provisions making sections 404 to 408 of title 42 applicable, and for a more liberal consideration of claims for benefits.
 
@@ -83,7 +83,7 @@
 
  __Effective Date for the Application of__  __[__  __Section 405 of Title 42__  __][/us/usc/t42/s405]__ 
 
-[Pub. L. 92–303, § 1(c)(5)(B)][/us/pl/92/303/s1/c/5/B], May 19, 1972, [86 Stat. 152][/us/stat/86/152], provided that: 
+[Pub. L. 92–303][/us/pl/92/303], § 1(c)(5)(B), May 19, 1972, [86 Stat. 152][/us/stat/86/152], provided that: 
 
 > “Only section 205(b), (g), and (h) of those sections of the Social Security Act \[section 405(b), (g), and (h) of Title 42, The Public Health and Welfare\] recited in subparagraph (A) of this paragraph \[amending this section\] shall be effective as of the date provided in subsection (d) of this section.”
 
@@ -101,33 +101,33 @@
 [/us/usc/t42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t30/s921/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921%2Fc%2F3
-[/us/pl/91/173/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs413
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F794
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F152
-[/us/pl/95/239/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs5
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F97
-[/us/pl/97/119/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs202%2Fa
+[/us/pl/97/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtII
 [/us/stat/95/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1643
-[/us/pl/103/296/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fi%2F2
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1488
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/stat/116/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1925
 [/us/pl/97/119/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs206%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
-[/us/pl/107/275/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fb%2F2
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
-[/us/pl/107/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs2%2Fa
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
+[/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/97/119/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs202%2Fa
-[/us/pl/95/239/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs5%2Fa
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
-[/us/pl/95/239/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs5%2Fd
-[/us/pl/92/303/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs5%2F2
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/pl/107/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275
 [/us/pl/107/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F275%2Fs4
@@ -145,7 +145,7 @@
 [/us/pl/92/303/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs4%2Fg
 [/us/usc/t30/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs921
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
-[/us/pl/92/303/s1/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fc%2F5%2FB
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F152
 [/us/pl/92/303/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303

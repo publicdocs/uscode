@@ -109,7 +109,7 @@
 
             During each of fiscal years of 2016 through 2026, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing applications for permits to drill.
 
-([Feb. 25, 1920, ch. 85, § 35][/us/act/1920-02-25/ch85/s35], [41 Stat. 450][/us/stat/41/450]; [May 27, 1947, ch. 83][/us/act/1947-05-27/ch83], [61 Stat. 119][/us/stat/61/119]; [Aug. 3, 1950, ch. 527][/us/act/1950-08-03/ch527], [64 Stat. 402][/us/stat/64/402]; [Pub. L. 85–88, § 2][/us/pl/85/88/s2], July 10, 1957, [71 Stat. 282][/us/stat/71/282]; [Pub. L. 85–508][/us/pl/85/508], §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343][/us/stat/72/343], 351; [Pub. L. 94–273, § 6(2)][/us/pl/94/273/s6/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–377, § 9][/us/pl/94/377/s9], Aug. 4, 1976, [90 Stat. 1089][/us/stat/90/1089]; [Pub. L. 94–422, title III, § 301][/us/pl/94/422/s301], Sept. 28, 1976, [90 Stat. 1323][/us/stat/90/1323]; [Pub. L. 94–579, title III, § 317(a)][/us/pl/94/579/s317/a], Oct. 21, 1976, [90 Stat. 2770][/us/stat/90/2770]; [Pub. L. 97–451, title I][/us/pl/97/451], §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451], 2456; [Pub. L. 100–203, title V, § 5109][/us/pl/100/203/s5109], Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261]; [Pub. L. 100–443, § 5(b)][/us/pl/100/443/s5/b], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10201][/us/pl/103/66/s10201], Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407]; [Pub. L. 106–393, title V, § 503][/us/pl/106/393/s503], Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624]; [Pub. L. 109–58, title III, § 365(g)][/us/pl/109/58/s365/g], Aug. 8, 2005, [119 Stat. 725][/us/stat/119/725]; [Pub. L. 113–67, div. A, title III, § 302][/us/pl/113/67/s302], Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181]; [Pub. L. 113–291, div. B, title XXX, § 3021(b)][/us/pl/113/291/s3021/b], (c)(1), Dec. 19, 2014, [128 Stat. 3760][/us/stat/128/3760], 3761.)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 35, [41 Stat. 450][/us/stat/41/450]; [May 27, 1947, ch. 83][/us/act/1947-05-27/ch83], [61 Stat. 119][/us/stat/61/119]; [Aug. 3, 1950, ch. 527][/us/act/1950-08-03/ch527], [64 Stat. 402][/us/stat/64/402]; [Pub. L. 85–88][/us/pl/85/88], § 2, July 10, 1957, [71 Stat. 282][/us/stat/71/282]; [Pub. L. 85–508][/us/pl/85/508], §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343][/us/stat/72/343], 351; [Pub. L. 94–273][/us/pl/94/273], § 6(2), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–377][/us/pl/94/377], § 9, Aug. 4, 1976, [90 Stat. 1089][/us/stat/90/1089]; [Pub. L. 94–422, title III][/us/pl/94/422/tIII], § 301, Sept. 28, 1976, [90 Stat. 1323][/us/stat/90/1323]; [Pub. L. 94–579, title III][/us/pl/94/579/tIII], § 317(a), Oct. 21, 1976, [90 Stat. 2770][/us/stat/90/2770]; [Pub. L. 97–451, title I][/us/pl/97/451/tI], §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451], 2456; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5109, Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261]; [Pub. L. 100–443][/us/pl/100/443], § 5(b), Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X][/us/pl/103/66/tX], § 10201, Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407]; [Pub. L. 106–393, title V][/us/pl/106/393/tV], § 503, Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 365(g), Aug. 8, 2005, [119 Stat. 725][/us/stat/119/725]; [Pub. L. 113–67, div. A, title III][/us/pl/113/67/dA/tIII], § 302, Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3021(b), (c)(1), Dec. 19, 2014, [128 Stat. 3760][/us/stat/128/3760], 3761.)
 
  __References in Text__ 
 
@@ -121,15 +121,15 @@
 
  __Codification__ 
 
-    “[Section 7433(b) of title 10][/us/usc/t10/s7433/b]” substituted in subsec. (a) for “the Act of June 4, 1920 ([41 Stat. 813][/us/stat/41/813]), as amended June 30, 1938 ([52 Stat. 1252][/us/stat/52/1252])”, which was classified to section 524 of former Title 34, Navy, on authority of [act Aug. 10, 1956, ch. 1041, § 49(b)][/us/act/1956-08-10/ch1041/s49/b], [70A Stat. 640][/us/stat/70A/640], the first section of which enacted Title 10, Armed Forces.
+    “[Section 7433(b) of title 10][/us/usc/t10/s7433/b]” substituted in subsec. (a) for “the Act of June 4, 1920 ([41 Stat. 813][/us/stat/41/813]), as amended June 30, 1938 ([52 Stat. 1252][/us/stat/52/1252])”, which was classified to section 524 of former Title 34, Navy, on authority of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 49(b), [70A Stat. 640][/us/stat/70A/640], the first section of which enacted Title 10, Armed Forces.
 
     Provisions of subsec. (a) which authorized the payment of monies to the Territory of Alaska were omitted as superseded by the provisions authorizing the payment of monies to the State of Alaska.
 
  __Amendments__ 
 
-    2014—Subsec. (c)(3) to (5). [Pub. L. 113–291, § 3021(c)(1)][/us/pl/113/291/s3021/c/1], added pars. (3) to (5) and struck out former par. (3) which read as follows: “For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in [section 15924(d) of title 42][/us/usc/t42/s15924/d].”
+    2014—Subsec. (c)(3) to (5). [Pub. L. 113–291][/us/pl/113/291], § 3021(c)(1), added pars. (3) to (5) and struck out former par. (3) which read as follows: “For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in [section 15924(d) of title 42][/us/usc/t42/s15924/d].”
 
-    Subsec. (d). [Pub. L. 113–291, § 3021(b)][/us/pl/113/291/s3021/b], added subsec. (d)
+    Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 3021(b), added subsec. (d)
 
     2013—Subsec. (b). [Pub. L. 113–67][/us/pl/113/67] amended subsec. (b) generally. Prior to amendment, text read as follows: “In determining the amount of payments to the States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.”
 
@@ -143,9 +143,9 @@
 
     1987—[Pub. L. 100–203][/us/pl/100/203] inserted at end “In determining the amount of payments to States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.”
 
-    1983—[Pub. L. 97–451, § 111(g)][/us/pl/97/451/s111/g], inserted reference to interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982.
+    1983—[Pub. L. 97–451][/us/pl/97/451], § 111(g), inserted reference to interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982.
 
-    [Pub. L. 97–451, § 104(a)][/us/pl/97/451/s104/a], struck out “as soon as practicable after March 31 and September 30 of each year” after “Secretary of the Treasury” and “of those from Alaska”, and inserted at end provisions directing that payments to States be made not later than the last business day of the month in which such moneys are warranted by the United States Treasury to the Secretary as having been received, that warrants be issued by the Treasury not later than 10 days after receipt of the money by the Treasury, that moneys placed in a suspense account which are determined to be payable to a State be made not later than the last business day of the month in which a dispute is resolved, and that amounts placed in a suspense account pending resolution bear interest until the dispute is resolved.
+    [Pub. L. 97–451][/us/pl/97/451], § 104(a), struck out “as soon as practicable after March 31 and September 30 of each year” after “Secretary of the Treasury” and “of those from Alaska”, and inserted at end provisions directing that payments to States be made not later than the last business day of the month in which such moneys are warranted by the United States Treasury to the Secretary as having been received, that warrants be issued by the Treasury not later than 10 days after receipt of the money by the Treasury, that moneys placed in a suspense account which are determined to be payable to a State be made not later than the last business day of the month in which a dispute is resolved, and that amounts placed in a suspense account pending resolution bear interest until the dispute is resolved.
 
     1976—[Pub. L. 94–579][/us/pl/94/579] substituted provisions setting forth determination of amount, time for payments, and manner of expenditure by the States of all moneys received from sales, etc., under provisions of this chapter and the Geothermal Steam Act of 1970, and proviso relating to naval petroleum reserve moneys, for provisions setting forth determination of amount and time for payment to the States of all moneys received from sales, etc., under the provisions of this chapter, and provisos relating to naval petroleum reserve moneys, additional moneys from sales, etc., under this chapter and the Geothermal Steam Act of 1970, and expenditure of State oil shale funds.
 
@@ -173,7 +173,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–393, title V, § 502][/us/pl/106/393/s502], Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624], provided that: 
+[Pub. L. 106–393, title V][/us/pl/106/393/tV], § 502, Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624], provided that: 
 
 > “The Congress finds the following:
 
@@ -187,7 +187,7 @@
 
  __Funds Held by Colorado and Utah From Interior Department Oil Shale Test Leases__ 
 
-[Pub. L. 94–579, title III, § 317(b)][/us/pl/94/579/s317/b], Oct. 21, 1976, [90 Stat. 2771][/us/stat/90/2771], provided that: 
+[Pub. L. 94–579, title III][/us/pl/94/579/tIII], § 317(b), Oct. 21, 1976, [90 Stat. 2771][/us/stat/90/2771], provided that: 
 
 > “Funds now held pursuant to said section 35 \[this section\] by the States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
 
@@ -210,39 +210,39 @@
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/usc/t10/s7433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7433%2Fb
 [/us/usc/t42/s15924/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15924%2Fd
-[/us/act/1920-02-25/ch85/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs35
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F450
 [/us/act/1947-05-27/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-27%2Fch83
 [/us/stat/61/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F119
 [/us/act/1950-08-03/ch527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch527
 [/us/stat/64/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F402
-[/us/pl/85/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F88%2Fs2
+[/us/pl/85/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F88
 [/us/stat/71/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F282
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F343
-[/us/pl/94/273/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs6%2F2
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
-[/us/pl/94/377/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs9
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1089
-[/us/pl/94/422/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2Fs301
+[/us/pl/94/422/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2FtIII
 [/us/stat/90/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1323
-[/us/pl/94/579/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs317%2Fa
+[/us/pl/94/579/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtIII
 [/us/stat/90/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2770
-[/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2451
-[/us/pl/100/203/s5109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5109
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-261
-[/us/pl/100/443/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs5%2Fb
+[/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/stat/102/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1768
-[/us/pl/103/66/s10201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs10201
+[/us/pl/103/66/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtX
 [/us/stat/107/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F407
-[/us/pl/106/393/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs503
+[/us/pl/106/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtV
 [/us/stat/114/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1624
-[/us/pl/109/58/s365/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365%2Fg
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F725
-[/us/pl/113/67/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs302
+[/us/pl/113/67/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtIII
 [/us/stat/127/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1181
-[/us/pl/113/291/s3021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fb
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3760
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/stat/96/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2447
@@ -256,19 +256,19 @@
 [/us/usc/t10/s7433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7433%2Fb
 [/us/stat/41/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F813
 [/us/stat/52/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1252
-[/us/act/1956-08-10/ch1041/s49/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49%2Fb
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
-[/us/pl/113/291/s3021/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fc%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t42/s15924/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15924%2Fd
-[/us/pl/113/291/s3021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/97/451/s111/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111%2Fg
-[/us/pl/97/451/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs104%2Fa
+[/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
+[/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/pl/94/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
@@ -281,12 +281,12 @@
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/pl/94/579/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs701
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/106/393/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs502
+[/us/pl/106/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtV
 [/us/stat/114/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1624
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/stat/107/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F407
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
-[/us/pl/94/579/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs317%2Fb
+[/us/pl/94/579/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtIII
 [/us/stat/90/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2771
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

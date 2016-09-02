@@ -31,7 +31,7 @@
 
         The National Science Foundation is authorized to encourage, to the maximum extent practicable international participation and cooperation in the development and maintenance of programs of education to carrying out the policy of subsection (a).
 
-([Pub. L. 93–410, title I, § 106][/us/pl/93/410/s106], Sept. 3, 1974, [88 Stat. 1085][/us/stat/88/1085].)
+([Pub. L. 93–410, title I][/us/pl/93/410/tI], § 106, Sept. 3, 1974, [88 Stat. 1085][/us/stat/88/1085].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/410/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs106
+[/us/pl/93/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtI
 [/us/stat/88/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1085
 [/us/usc/t42/s5814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5814
 

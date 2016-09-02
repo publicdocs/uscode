@@ -73,7 +73,7 @@
 
         In connection with hearings before the Commission or its administrative law judges under this chapter, the Commission and its administrative law judges may compel the attendance and testimony of witnesses and the production of books, papers, or documents, or objects, and order testimony to be taken by deposition at any stage of the proceedings before them. Any person may be compelled to appear and depose and produce similar documentary or physical evidence, in the same manner as witnesses may be compelled to appear and produce evidence before the Commission and its administrative law judges. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and at depositions ordered by such courts. In case of contumacy, failure, or refusal of any person to obey a subpoena or order of the Commission or an administrative law judge, respectively, to appear, to testify, or to produce documentary or physical evidence, any district court of the United States or the United States courts of any territory or possession, within the jurisdiction of which such person is found, or resides, or transacts business, shall, upon the application of the Commission, or the administrative law judge, respectively, have jurisdiction to issue to such person an order requiring such person to appear, to testify, or to produce evidence as ordered by the Commission or the administrative law judge, respectively, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-([Pub. L. 91–173, title I, § 113][/us/pl/91/173/s113], as added [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1313][/us/stat/91/1313]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 113, as added [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1313][/us/stat/91/1313]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __References in Text__ 
 
@@ -102,8 +102,8 @@
 
 [/us/usc/t5/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs559
 [/us/usc/t5/s557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs557%2Fb
-[/us/pl/91/173/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs113
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1313
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173

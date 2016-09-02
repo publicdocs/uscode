@@ -17,7 +17,7 @@
 
     Any individual whose claim for benefits under this subchapter is denied shall receive from the Secretary a written statement of the reasons for denial of such claim, and a summary of the administrative hearing record or, upon good cause shown, a copy of any transcript thereof.
 
-([Pub. L. 91–173, title IV, § 434][/us/pl/91/173/s434], as added [Pub. L. 95–239, § 14][/us/pl/95/239/s14], Mar. 1, 1978, [92 Stat. 103][/us/stat/92/103].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 434, as added [Pub. L. 95–239][/us/pl/95/239], § 14, Mar. 1, 1978, [92 Stat. 103][/us/stat/92/103].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/91/173/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs434
-[/us/pl/95/239/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs14
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F103
 [/us/pl/95/239/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs20%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901

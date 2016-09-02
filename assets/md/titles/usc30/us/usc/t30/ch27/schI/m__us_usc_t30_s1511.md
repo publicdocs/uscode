@@ -39,7 +39,7 @@
 
         As used in this subchapter, the term “person” includes municipalities, electric cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the entities included within such term under [section 1 of title 1][/us/usc/t1/s1].
 
-([Pub. L. 96–294, title VI, § 611][/us/pl/96/294/s611], June 30, 1980, [94 Stat. 763][/us/stat/94/763].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 611, June 30, 1980, [94 Stat. 763][/us/stat/94/763].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t30/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1144
 [/us/usc/t30/s1513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1513%2Fb
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
-[/us/pl/96/294/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs611
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F763
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F763

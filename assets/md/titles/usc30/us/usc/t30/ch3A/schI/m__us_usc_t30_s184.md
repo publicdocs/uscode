@@ -91,7 +91,7 @@
 
             (E) the Act of June 19, 1936, chapter 592 ([15 U.S.C. 13][/us/usc/t15/s13], 13a, 13b, and 21a).
 
-([Feb. 25, 1920, ch. 85, § 27][/us/act/1920-02-25/ch85/s27], [41 Stat. 448][/us/stat/41/448]; [Apr. 30, 1926, ch. 197][/us/act/1926-04-30/ch197], [44 Stat. 373][/us/stat/44/373]; [July 3, 1930, ch. 854, § 1][/us/act/1930-07-03/ch854/s1], [46 Stat. 1007][/us/stat/46/1007]; [Mar. 4, 1931, ch. 506][/us/act/1931-03-04/ch506], [46 Stat. 1524][/us/stat/46/1524]; [Aug. 8, 1946, ch. 916, § 6][/us/act/1946-08-08/ch916/s6], [60 Stat. 954][/us/stat/60/954]; [June 1, 1948, ch. 365][/us/act/1948-06-01/ch365], [62 Stat. 285][/us/stat/62/285]; [June 3, 1948, ch. 379, § 6][/us/act/1948-06-03/ch379/s6], [62 Stat. 291][/us/stat/62/291]; [Aug. 2, 1954, ch. 650][/us/act/1954-08-02/ch650], [68 Stat. 648][/us/stat/68/648]; [Pub. L. 85–122][/us/pl/85/122], Aug. 13, 1957, [71 Stat. 341][/us/stat/71/341]; [Pub. L. 85–698][/us/pl/85/698], Aug. 21, 1958, [72 Stat. 688][/us/stat/72/688]; [Pub. L. 86–294, § 1][/us/pl/86/294/s1], Sept. 21, 1959, [73 Stat. 571][/us/stat/73/571]; [Pub. L. 86–391, § 1(c)][/us/pl/86/391/s1/c], Mar. 18, 1960, [74 Stat. 8][/us/stat/74/8]; [Pub. L. 86–705, § 3][/us/pl/86/705/s3], Sept. 2, 1960, [74 Stat. 785][/us/stat/74/785]; [Pub. L. 88–526, § 1][/us/pl/88/526/s1], Aug. 31, 1964, [78 Stat. 710][/us/stat/78/710]; [Pub. L. 88–548][/us/pl/88/548], Aug. 31, 1964, [78 Stat. 754][/us/stat/78/754]; [Pub. L. 94–377][/us/pl/94/377], §§ 11, 15, Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], 1091; [Pub. L. 97–78, § 1(2)][/us/pl/97/78/s1/2], (5), Nov. 16, 1981, [95 Stat. 1070][/us/stat/95/1070]; [Pub. L. 106–191, § 2][/us/pl/106/191/s2], Apr. 28, 2000, [114 Stat. 232][/us/stat/114/232]; [Pub. L. 106–463, § 3][/us/pl/106/463/s3], Nov. 7, 2000, [114 Stat. 2011][/us/stat/114/2011]; [Pub. L. 109–58, title III, § 352][/us/pl/109/58/s352], Aug. 8, 2005, [119 Stat. 714][/us/stat/119/714].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 27, [41 Stat. 448][/us/stat/41/448]; [Apr. 30, 1926, ch. 197][/us/act/1926-04-30/ch197], [44 Stat. 373][/us/stat/44/373]; [July 3, 1930, ch. 854][/us/act/1930-07-03/ch854], § 1, [46 Stat. 1007][/us/stat/46/1007]; [Mar. 4, 1931, ch. 506][/us/act/1931-03-04/ch506], [46 Stat. 1524][/us/stat/46/1524]; [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 6, [60 Stat. 954][/us/stat/60/954]; [June 1, 1948, ch. 365][/us/act/1948-06-01/ch365], [62 Stat. 285][/us/stat/62/285]; [June 3, 1948, ch. 379][/us/act/1948-06-03/ch379], § 6, [62 Stat. 291][/us/stat/62/291]; [Aug. 2, 1954, ch. 650][/us/act/1954-08-02/ch650], [68 Stat. 648][/us/stat/68/648]; [Pub. L. 85–122][/us/pl/85/122], Aug. 13, 1957, [71 Stat. 341][/us/stat/71/341]; [Pub. L. 85–698][/us/pl/85/698], Aug. 21, 1958, [72 Stat. 688][/us/stat/72/688]; [Pub. L. 86–294][/us/pl/86/294], § 1, Sept. 21, 1959, [73 Stat. 571][/us/stat/73/571]; [Pub. L. 86–391][/us/pl/86/391], § 1(c), Mar. 18, 1960, [74 Stat. 8][/us/stat/74/8]; [Pub. L. 86–705][/us/pl/86/705], § 3, Sept. 2, 1960, [74 Stat. 785][/us/stat/74/785]; [Pub. L. 88–526][/us/pl/88/526], § 1, Aug. 31, 1964, [78 Stat. 710][/us/stat/78/710]; [Pub. L. 88–548][/us/pl/88/548], Aug. 31, 1964, [78 Stat. 754][/us/stat/78/754]; [Pub. L. 94–377][/us/pl/94/377], §§ 11, 15, Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], 1091; [Pub. L. 97–78][/us/pl/97/78], § 1(2), (5), Nov. 16, 1981, [95 Stat. 1070][/us/stat/95/1070]; [Pub. L. 106–191][/us/pl/106/191], § 2, Apr. 28, 2000, [114 Stat. 232][/us/stat/114/232]; [Pub. L. 106–463][/us/pl/106/463], § 3, Nov. 7, 2000, [114 Stat. 2011][/us/stat/114/2011]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 352, Aug. 8, 2005, [119 Stat. 714][/us/stat/119/714].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 
  __Codification__ 
 
-    In subsec. (l)(2), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (l)(2), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -117,15 +117,15 @@
 
     Subsec. (b)(2). [Pub. L. 106–191][/us/pl/106/191] substituted “30,720 acres” for “fifteen thousand three hundred and sixty acres”.
 
-    1981—Subsec. (d)(1). [Pub. L. 97–78, § 1(5)][/us/pl/97/78/s1/5], inserted proviso that acreage held in special tar sand areas not be chargeable against State limitations.
+    1981—Subsec. (d)(1). [Pub. L. 97–78][/us/pl/97/78], § 1(5), inserted proviso that acreage held in special tar sand areas not be chargeable against State limitations.
 
-    Subsec. (k). [Pub. L. 97–78, § 1(2)][/us/pl/97/78/s1/2], substituted “gilso­nite (including all vein-type solid hydrocarbons)” for “native asphalt, solid and semisolid bitumen, bituminous rock”.
+    Subsec. (k). [Pub. L. 97–78][/us/pl/97/78], § 1(2), substituted “gilso­nite (including all vein-type solid hydrocarbons)” for “native asphalt, solid and semisolid bitumen, bituminous rock”.
 
-    1976—Subsec. (a)(1). [Pub. L. 94–377, § 11(a)][/us/pl/94/377/s11/a], inserted “or any subsidiary, affiliate, or persons controlled by or under common control with such person, association, or corporation” before “shall take, hold, own or control”, “and in no case greater than an aggregate of one hundred thousand acres in the United States” after “in any one State,” proviso relating to non-relinquishment of leases or permits by an entity owning or controlling more than an aggregate of one hundred thousand acres, and proviso prohibiting ownership or control of further Federal leases or permits until reduction to below an aggregate of one hundred thousand acres.
+    1976—Subsec. (a)(1). [Pub. L. 94–377][/us/pl/94/377], § 11(a), inserted “or any subsidiary, affiliate, or persons controlled by or under common control with such person, association, or corporation” before “shall take, hold, own or control”, “and in no case greater than an aggregate of one hundred thousand acres in the United States” after “in any one State,” proviso relating to non-relinquishment of leases or permits by an entity owning or controlling more than an aggregate of one hundred thousand acres, and proviso prohibiting ownership or control of further Federal leases or permits until reduction to below an aggregate of one hundred thousand acres.
 
-    Subsec. (a)(2). [Pub. L. 94–377, § 11(b)][/us/pl/94/377/s11/b], struck out par. (2) providing for application, hearing and granting of additional acreage, not to exceed 5120 acres in any one State, to a person, association or corporation requiring such extra acreage to carry on business economically, and the subsequent reevaluation of such entity’s continuing need for such extra acreage.
+    Subsec. (a)(2). [Pub. L. 94–377][/us/pl/94/377], § 11(b), struck out par. (2) providing for application, hearing and granting of additional acreage, not to exceed 5120 acres in any one State, to a person, association or corporation requiring such extra acreage to carry on business economically, and the subsequent reevaluation of such entity’s continuing need for such extra acreage.
 
-    Subsec. (l). [Pub. L. 94–377, § 15][/us/pl/94/377/s15], added subsec. (l).
+    Subsec. (l). [Pub. L. 94–377][/us/pl/94/377], § 15, added subsec. (l).
 
     1964—Subsec. (a)(1). [Pub. L. 88–526][/us/pl/88/526] struck out “, except as otherwise provided in this subsection,” after “corporation” and increased aggregate number of acres from 10,240 to 46,080 acres.
 
@@ -157,7 +157,7 @@
 
  __Effective Date of 1959 Amendment__ 
 
-[Pub. L. 86–294, § 2][/us/pl/86/294/s2], Sept. 21, 1959, [73 Stat. 571][/us/stat/73/571], provided that: 
+[Pub. L. 86–294][/us/pl/86/294], § 2, Sept. 21, 1959, [73 Stat. 571][/us/stat/73/571], provided that: 
 
 > “The rights granted by the second and third sentences of the amendment contained within section 1 of this Act \[amending this section to provide that holder of interest in lease has right to be dismissed from cancellation or forfeiture proceedings upon showing he acquired his interest as bona fide purchaser and without violation of provisions, and to provide right to have his lease extended if rights thereunder to drill and to assign are suspended or waived during such proceedings and it is determined he is not in violation of provisions\] shall apply with respect to any proceeding now pending or initiated after the date of enactment of this Act \[Sept. 21, 1959\].”
 
@@ -165,15 +165,15 @@
 
     See note set out under [section 181 of this title][/us/usc/t30/s181].
 
-    [Pub. L. 94–377, § 11(b)][/us/pl/94/377/s11/b], Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], provided in part that the repeal by section 11(b) of subsec. (a)(2) of this section is subject to valid existing rights.
+    [Pub. L. 94–377][/us/pl/94/377], § 11(b), Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], provided in part that the repeal by section 11(b) of subsec. (a)(2) of this section is subject to valid existing rights.
 
  __Transfer of Functions__ 
 
-    Functions of Secretary of the Interior, referred to in subsec. (l), to promulgate regulations under this chapter relating to the fostering of competition for Federal leases, the implementation of alternative bidding systems authorized for the award of Federal leases, the establishment of diligence requirements for operations conducted on Federal leases, the setting of rates for production of Federal leases, and the specifying of the procedures, terms, and conditions for the acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by [section 7152(b) of Title 42][/us/usc/t42/s7152/b], The Public Health and Welfare. [Section 7152(b) of Title 42][/us/usc/t42/s7152/b] was repealed by [Pub. L. 97–100, title II, § 201][/us/pl/97/100/s201], Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407], and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+    Functions of Secretary of the Interior, referred to in subsec. (l), to promulgate regulations under this chapter relating to the fostering of competition for Federal leases, the implementation of alternative bidding systems authorized for the award of Federal leases, the establishment of diligence requirements for operations conducted on Federal leases, the setting of rates for production of Federal leases, and the specifying of the procedures, terms, and conditions for the acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by [section 7152(b) of Title 42][/us/usc/t42/s7152/b], The Public Health and Welfare. [Section 7152(b) of Title 42][/us/usc/t42/s7152/b] was repealed by [Pub. L. 97–100, title II][/us/pl/97/100/tII], § 201, Dec. 23, 1981, [95 Stat. 1407][/us/stat/95/1407], and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
  __Findings__ 
 
-[Pub. L. 106–463, § 2][/us/pl/106/463/s2], Nov. 7, 2000, [114 Stat. 2010][/us/stat/114/2010], provided that: 
+[Pub. L. 106–463][/us/pl/106/463], § 2, Nov. 7, 2000, [114 Stat. 2010][/us/stat/114/2010], provided that: 
 
 > “Congress finds that—
 
@@ -201,7 +201,7 @@
 
 >     “(10) to maintain the vitality of the domestic coal industry and ensure the continued flow of valuable revenues to the Federal and State governments and of energy to the American public from coal production on Federal land, the Mineral Leasing Act should be amended to increase the acreage limitation for Federal coal leases.”
 
-[Pub. L. 106–191, § 1][/us/pl/106/191/s1], Apr. 28, 2000, [114 Stat. 231][/us/stat/114/231], provided that: 
+[Pub. L. 106–191][/us/pl/106/191], § 1, Apr. 28, 2000, [114 Stat. 231][/us/stat/114/231], provided that: 
 
 > “The Congress finds and declares that—
 
@@ -241,19 +241,19 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
-[/us/act/1920-02-25/ch85/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs27
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F448
 [/us/act/1926-04-30/ch197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-30%2Fch197
 [/us/stat/44/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F373
-[/us/act/1930-07-03/ch854/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch854%2Fs1
+[/us/act/1930-07-03/ch854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch854
 [/us/stat/46/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1007
 [/us/act/1931-03-04/ch506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch506
 [/us/stat/46/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1524
-[/us/act/1946-08-08/ch916/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs6
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F954
 [/us/act/1948-06-01/ch365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-01%2Fch365
 [/us/stat/62/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F285
-[/us/act/1948-06-03/ch379/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379%2Fs6
+[/us/act/1948-06-03/ch379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379
 [/us/stat/62/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F291
 [/us/act/1954-08-02/ch650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch650
 [/us/stat/68/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F648
@@ -261,25 +261,25 @@
 [/us/stat/71/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F341
 [/us/pl/85/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F698
 [/us/stat/72/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F688
-[/us/pl/86/294/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F294%2Fs1
+[/us/pl/86/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F294
 [/us/stat/73/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F571
-[/us/pl/86/391/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391%2Fs1%2Fc
+[/us/pl/86/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391
 [/us/stat/74/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F8
-[/us/pl/86/705/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs3
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F785
-[/us/pl/88/526/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F526%2Fs1
+[/us/pl/88/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F526
 [/us/stat/78/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F710
 [/us/pl/88/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F548
 [/us/stat/78/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F754
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1090
-[/us/pl/97/78/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F2
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
 [/us/stat/95/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1070
-[/us/pl/106/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F191%2Fs2
+[/us/pl/106/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F191
 [/us/stat/114/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F232
-[/us/pl/106/463/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F463%2Fs3
+[/us/pl/106/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F463
 [/us/stat/114/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2011
-[/us/pl/109/58/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs352
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F714
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
@@ -295,16 +295,16 @@
 [/us/stat/49/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1526
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F463
 [/us/pl/106/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F191
-[/us/pl/97/78/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F5
-[/us/pl/97/78/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78%2Fs1%2F2
-[/us/pl/94/377/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs11%2Fa
-[/us/pl/94/377/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs11%2Fb
-[/us/pl/94/377/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs15
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
+[/us/pl/97/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F78
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/pl/88/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F526
 [/us/pl/88/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F548
 [/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
@@ -312,19 +312,19 @@
 [/us/pl/86/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F294
 [/us/pl/85/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F698
 [/us/pl/85/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F122
-[/us/pl/86/294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F294%2Fs2
+[/us/pl/86/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F294
 [/us/stat/73/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F571
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/94/377/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs11%2Fb
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1090
 [/us/usc/t42/s7152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fb
 [/us/usc/t42/s7152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fb
-[/us/pl/97/100/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2Fs201
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1407
-[/us/pl/106/463/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F463%2Fs2
+[/us/pl/106/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F463
 [/us/stat/114/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2010
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/106/191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F191%2Fs1
+[/us/pl/106/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F191
 [/us/stat/114/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F231
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181

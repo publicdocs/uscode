@@ -61,11 +61,11 @@
 
         (11) The Secretary of Energy shall not use his authority under this subsection to provide Federal assistance unless any Federal funds transferred pursuant to section 9(a) of the Mineral Leasing Act Amendments of 1976 ([Public Law 94–377][/us/pl/94/377]) to the State from the lease of Federal land for or associated with the project have been or, with assurance, will be committed, to the maximum extent allowable under Federal statutes, to financing such essential community development or planning directly resulting from, or necessitated by, a project on leased Federal lands.
 
-([Pub. L. 93–410, title II, § 205][/us/pl/93/410/s205], as added [Pub. L. 95–238, title V, § 512][/us/pl/95/238/s512], Feb. 25, 1978, [92 Stat. 89][/us/stat/92/89]; amended [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
+([Pub. L. 93–410, title II][/us/pl/93/410/tII], § 205, as added [Pub. L. 95–238, title V][/us/pl/95/238/tV], § 512, Feb. 25, 1978, [92 Stat. 89][/us/stat/92/89]; amended [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607.)
 
  __References in Text__ 
 
-    Section 9(a) of the Mineral Leasing Act Amendments of 1976 ([Public Law 94–377][/us/pl/94/377]), referred to in subsecs. (a) and (c)(11), probably means the Federal Coal Leasing Amendments Act of 1976, [Pub. L. 94–377, § 9(a)][/us/pl/94/377/s9/a], Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], as amended, which amended [section 191 of this title][/us/usc/t30/s191].
+    Section 9(a) of the Mineral Leasing Act Amendments of 1976 ([Public Law 94–377][/us/pl/94/377]), referred to in subsecs. (a) and (c)(11), probably means the Federal Coal Leasing Amendments Act of 1976, [Pub. L. 94–377][/us/pl/94/377], § 9(a), Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], as amended, which amended [section 191 of this title][/us/usc/t30/s191].
 
  __Transfer of Functions__ 
 
@@ -81,13 +81,13 @@
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/usc/t30/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1142
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
-[/us/pl/93/410/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs205
-[/us/pl/95/238/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs512
+[/us/pl/93/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtII
+[/us/pl/95/238/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtV
 [/us/stat/92/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F89
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
-[/us/pl/94/377/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs9%2Fa
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1090
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
 [/us/pl/95/238/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs501%2F2

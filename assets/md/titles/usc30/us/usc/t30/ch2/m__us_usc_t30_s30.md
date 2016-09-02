@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2326 derived from [act May 10, 1872, ch. 152, § 7][/us/act/1872-05-10/ch152/s7], [17 Stat. 93][/us/stat/17/93].
+    R.S. § 2326 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 7, [17 Stat. 93][/us/stat/17/93].
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 [/us/act/1925-03-03/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch462
 [/us/stat/43/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1144
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/act/1872-05-10/ch152/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs7
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F93
 [/us/usc/t30/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs29
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100

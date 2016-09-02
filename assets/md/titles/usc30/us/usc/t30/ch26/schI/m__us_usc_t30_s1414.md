@@ -17,7 +17,7 @@
 
     No application for the issuance or transfer of a license for exploration or permit for commercial recovery shall be certified unless the applicant pays to the Administrator a reasonable administrative fee which shall be deposited into miscellaneous receipts of the Treasury. The amount of the administrative fee imposed by the Administrator on any applicant shall reflect the reasonable administrative costs incurred in reviewing and processing the application.
 
-([Pub. L. 96–283, title I, § 104][/us/pl/96/283/s104], June 28, 1980, [94 Stat. 563][/us/stat/94/563].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 104, June 28, 1980, [94 Stat. 563][/us/stat/94/563].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs104
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F563
 
 

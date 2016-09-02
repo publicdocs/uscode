@@ -93,7 +93,7 @@
 
         Any State operating pursuant to a delegation existing on August 13, 1996, may continue to operate under the terms and conditions of the delegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
 
-([Pub. L. 97–451, title II, § 205][/us/pl/97/451/s205], Jan. 12, 1983, [96 Stat. 2459][/us/stat/96/2459]; [Pub. L. 104–185, § 3(a)][/us/pl/104/185/s3/a], Aug. 13, 1996, [110 Stat. 1702][/us/stat/110/1702].)
+([Pub. L. 97–451, title II][/us/pl/97/451/tII], § 205, Jan. 12, 1983, [96 Stat. 2459][/us/stat/96/2459]; [Pub. L. 104–185][/us/pl/104/185], § 3(a), Aug. 13, 1996, [110 Stat. 1702][/us/stat/110/1702].)
 
  __Codification__ 
 
@@ -123,9 +123,9 @@
 [/us/usc/t30/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fb
 [/us/usc/t30/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fb
 [/us/usc/t30/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fb
-[/us/pl/97/451/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs205
+[/us/pl/97/451/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtII
 [/us/stat/96/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2459
-[/us/pl/104/185/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs3%2Fa
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1702
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185

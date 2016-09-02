@@ -17,7 +17,7 @@
 
     Prior to the award of any lease under [section 301 of this title][/us/usc/t30/s301], the Secretary of the Interior shall notify the owner or lessee of adjoining lands and allow him a reasonable time, to be fixed in the notice given, within which to submit an offer or bid of the amount or percentage of compensatory royalty that such owner will agree to pay for the extraction through wells on his or its adjoining land, of the oil or gas under and from such adjoining right of way, and at the same time afford the holder of the railroad or other right of way a like opportunity within the same time to submit its bid or offer as to the amount or percentage of royalty it will agree to pay, if a lease for the extraction of the oil and gas deposits under the right of way be awarded to the holder of such right of way. In case of competing offers by the said parties in interest, the Secretary shall award the right to extract the oil and gas to the bidder, duly qualified, making the offer in his opinion most advantageous to the United States. In case but one bid or offer is received after notice duly given, he may, in his discretion, award the right to extract the oil and gas to such bidder.
 
-([May 21, 1930, ch. 307, § 3][/us/act/1930-05-21/ch307/s3], [46 Stat. 374][/us/stat/46/374].)
+([May 21, 1930, ch. 307][/us/act/1930-05-21/ch307], § 3, [46 Stat. 374][/us/stat/46/374].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs301
-[/us/act/1930-05-21/ch307/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307%2Fs3
+[/us/act/1930-05-21/ch307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307
 [/us/stat/46/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F374
 
 

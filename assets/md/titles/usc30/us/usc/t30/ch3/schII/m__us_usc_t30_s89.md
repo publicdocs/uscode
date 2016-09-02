@@ -17,7 +17,7 @@
 
     The net proceeds derived from the sale and entry of surplus lands in conformity with the provisions of sections 86 to 89 of this title shall be paid into the Treasury of the United States to the credit of the same fund under the same conditions and limitations as are or may be prescribed by law for the disposition of the proceeds arising from the disposal of other surplus lands in such Indian reservation. The provisions of sections 86 to 89 of this title shall not apply to the lands of the Five Civilized Tribes of Indians in Oklahoma.
 
-([Feb. 27, 1917, ch. 133, § 4][/us/act/1917-02-27/ch133/s4], [39 Stat. 945][/us/stat/39/945].)
+([Feb. 27, 1917, ch. 133][/us/act/1917-02-27/ch133], § 4, [39 Stat. 945][/us/stat/39/945].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1917-02-27/ch133/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-27%2Fch133%2Fs4
+[/us/act/1917-02-27/ch133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-27%2Fch133
 [/us/stat/39/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F945
 
 

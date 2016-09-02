@@ -17,7 +17,7 @@
 
     No new loans shall be made under this subchapter after September 30, 1986. Amounts repaid on or before September 30, 1986, on loans theretofore made under [section 1511 of this title][/us/usc/t30/s1511] shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter. Amounts repaid after that date on loans theretofore made under [section 1511 of this title][/us/usc/t30/s1511], and amounts deposited in the Fund for purposes of this subchapter which remain in the Fund after that date and are not required to secure outstanding obligations under this subchapter, shall be deposited into the United States Treasury as miscellaneous receipts.
 
-([Pub. L. 96–294, title VI, § 614][/us/pl/96/294/s614], June 30, 1980, [94 Stat. 764][/us/stat/94/764].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 614, June 30, 1980, [94 Stat. 764][/us/stat/94/764].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t30/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1511
 [/us/usc/t30/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1511
-[/us/pl/96/294/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs614
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F764
 
 

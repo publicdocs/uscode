@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2332 derived from [act July 9, 1870, ch. 235, § 13][/us/act/1870-07-09/ch235/s13], [16 Stat. 217][/us/stat/16/217].
+    R.S. § 2332 derived from [act July 9, 1870, ch. 235][/us/act/1870-07-09/ch235], § 13, [16 Stat. 217][/us/stat/16/217].
 
  __Submerged Lands Act__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1870-07-09/ch235/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-09%2Fch235%2Fs13
+[/us/act/1870-07-09/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-09%2Fch235
 [/us/stat/16/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F217
 [/us/usc/t43/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1303
 

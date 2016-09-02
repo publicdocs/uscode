@@ -17,7 +17,7 @@
 
     Nothing in this chapter contained shall be construed to limit or restrict the rights of the owner or owners of any valid mining claim located prior to the date of withdrawal or reservation: Provided, That nothing in this chapter shall be construed to limit or restrict the rights of the owner or owners of any mining claim who are diligently working to make a discovery of valuable minerals at the time any future withdrawal or reservation for power development is made.
 
-([Aug. 11, 1955, ch. 797, § 5][/us/act/1955-08-11/ch797/s5], [69 Stat. 683][/us/stat/69/683].)
+([Aug. 11, 1955, ch. 797][/us/act/1955-08-11/ch797], § 5, [69 Stat. 683][/us/stat/69/683].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch797/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797%2Fs5
+[/us/act/1955-08-11/ch797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch797
 [/us/stat/69/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F683
 
 

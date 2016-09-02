@@ -53,11 +53,11 @@
 
         (3) to stimulate innovation and technology utilization in basic as well as advanced materials industries.
 
-([Pub. L. 98–373, title II, § 202][/us/pl/98/373/s202], July 31, 1984, [98 Stat. 1249][/us/stat/98/1249].)
+([Pub. L. 98–373, title II][/us/pl/98/373/tII], § 202, July 31, 1984, [98 Stat. 1249][/us/stat/98/1249].)
 
  __Short Title__ 
 
-[Pub. L. 98–373, title II, § 201][/us/pl/98/373/s201], July 31, 1984, [98 Stat. 1248][/us/stat/98/1248], provided that: 
+[Pub. L. 98–373, title II][/us/pl/98/373/tII], § 201, July 31, 1984, [98 Stat. 1248][/us/stat/98/1248], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘National Critical Materials Act of 1984’.”
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/98/373/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs202
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1249
-[/us/pl/98/373/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs201
+[/us/pl/98/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtII
 [/us/stat/98/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1248
 
 

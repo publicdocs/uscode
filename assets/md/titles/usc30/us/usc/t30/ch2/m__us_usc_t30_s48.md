@@ -17,7 +17,7 @@
 
     Except as otherwise provided in chapter 3A of this title, the provisions of sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 47, 51, and 52 of this title and [section 661 of title 43][/us/usc/t43/s661] shall not apply to the mineral lands situated in the States of Michigan, Wisconsin, and Minnesota, which are declared free and open to exploration and purchase, according to legal subdivisions, in like manner as before the 10th day of May 1872. And any bona fide entries of such lands within the States named since the 10th day of May 1872 may be patented without reference to such sections of this title. Such lands shall be offered for public sale in the same manner, and at the same minimum price, as other public lands.
 
-(R.S. § 2345; [Mar. 3, 1891, ch. 561, § 4][/us/act/1891-03-03/ch561/s4], [26 Stat. 1097][/us/stat/26/1097]; [Feb. 25, 1920, ch. 85, § 1][/us/act/1920-02-25/ch85/s1], [41 Stat. 437][/us/stat/41/437].)
+(R.S. § 2345; [Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], § 4, [26 Stat. 1097][/us/stat/26/1097]; [Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 1, [41 Stat. 437][/us/stat/41/437].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1891-03-03/ch561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs4
+[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
 [/us/stat/26/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1097
-[/us/act/1920-02-25/ch85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs1
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/act/1873-02-18/ch159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-18%2Fch159

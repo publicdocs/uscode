@@ -131,7 +131,7 @@
 
                         (ff) are comprised of individuals with a minimum of 3 years underground coal mine experience that shall have occurred within the 10-year period preceding their employment on the contract mine rescue team.
 
-([Pub. L. 91–173, title I, § 115][/us/pl/91/173/s115], as added [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1315][/us/stat/91/1315]; amended [Pub. L. 109–236, § 4][/us/pl/109/236/s4], June 15, 2006, [120 Stat. 497][/us/stat/120/497].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 115, as added [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1315][/us/stat/91/1315]; amended [Pub. L. 109–236][/us/pl/109/236], § 4, June 15, 2006, [120 Stat. 497][/us/stat/120/497].)
 
  __References in Text__ 
 
@@ -154,10 +154,10 @@
 ----------
 ----------
 
-[/us/pl/91/173/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs115
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1315
-[/us/pl/109/236/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs4
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F497
 [/us/pl/95/164/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs307
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

@@ -43,7 +43,7 @@
 
         Trailing cables for medium voltage circuits shall include grounding conductors, a ground check conductor, and ground metallic shields around each power conductor or a grounded metallic shield over the assembly, except that on equipment employing cable reels, cables without shields may be used if the insulation is rated 2,000 volts or more.
 
-([Pub. L. 91–173, title III, § 309][/us/pl/91/173/s309], Dec. 30, 1969, [83 Stat. 782][/us/stat/83/782].)
+([Pub. L. 91–173, title III][/us/pl/91/173/tIII], § 309, Dec. 30, 1969, [83 Stat. 782][/us/stat/83/782].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/91/173/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs309
+[/us/pl/91/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIII
 [/us/stat/83/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F782
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

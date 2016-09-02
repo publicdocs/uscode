@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to impair or modify the legal relationship existing between any of the colleges or universities under whose direction an institute is established and the government of the State in which it is located, and nothing in this subchapter shall in any way be construed to authorize Federal control or direction of education at any college or university.
 
-([Pub. L. 98–409, § 5][/us/pl/98/409/s5], Aug. 29, 1984, [98 Stat. 1539][/us/stat/98/1539].)
+([Pub. L. 98–409][/us/pl/98/409], § 5, Aug. 29, 1984, [98 Stat. 1539][/us/stat/98/1539].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1225, [Pub. L. 95–87, title III, § 305][/us/pl/95/87/s305], Aug. 3, 1977, [91 Stat. 454][/us/stat/91/454], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1225, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 305, Aug. 3, 1977, [91 Stat. 454][/us/stat/91/454], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 ----------
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/98/409/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs5
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1539
-[/us/pl/95/87/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs305
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F454
 
 

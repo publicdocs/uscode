@@ -17,7 +17,7 @@
 
     The amendments made by the Black Lung Benefits Act of 1972, the Black Lung Benefits Reform Act of 1977 and the Black Lung Benefits Amendments of 1981 to part B of this subchapter shall, to the extent appropriate, also apply to this part.
 
-([Pub. L. 91–173, title IV, § 430][/us/pl/91/173/s430], as added [Pub. L. 92–303, § 5(10)][/us/pl/92/303/s5/10], May 19, 1972, [86 Stat. 156][/us/stat/86/156]; amended [Pub. L. 95–239, § 10][/us/pl/95/239/s10], Mar. 1, 1978, [92 Stat. 100][/us/stat/92/100]; [Pub. L. 97–119, title II, § 202(d)][/us/pl/97/119/s202/d], Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 430, as added [Pub. L. 92–303][/us/pl/92/303], § 5(10), May 19, 1972, [86 Stat. 156][/us/stat/86/156]; amended [Pub. L. 95–239][/us/pl/95/239], § 10, Mar. 1, 1978, [92 Stat. 100][/us/stat/92/100]; [Pub. L. 97–119, title II][/us/pl/97/119/tII], § 202(d), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
     The Black Lung Benefits Reform Act of 1977, referred to in text, is [Pub. L. 95–239][/us/pl/95/239], Mar. 1, 1978, [92 Stat. 95][/us/stat/92/95]. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
 
-    The Black Lung Benefits Amendments of 1981, referred to in text, is [Pub. L. 97–119, title II][/us/pl/97/119], Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], which amended this section and sections 901, 902, 921, 922, 923, and 932 of this title and enacted provisions set out as notes under [section 901 of this title][/us/usc/t30/s901]. For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
+    The Black Lung Benefits Amendments of 1981, referred to in text, is [Pub. L. 97–119, title II][/us/pl/97/119/tII], Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], which amended this section and sections 901, 902, 921, 922, 923, and 932 of this title and enacted provisions set out as notes under [section 901 of this title][/us/usc/t30/s901]. For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under [section 801 of this title][/us/usc/t30/s801] and Tables.
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/91/173/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs430
-[/us/pl/92/303/s5/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs5%2F10
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F156
-[/us/pl/95/239/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs10
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F100
-[/us/pl/97/119/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs202%2Fd
+[/us/pl/97/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtII
 [/us/stat/95/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1643
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F150
@@ -61,7 +61,7 @@
 [/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F95
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
-[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtII
 [/us/stat/95/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1643
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

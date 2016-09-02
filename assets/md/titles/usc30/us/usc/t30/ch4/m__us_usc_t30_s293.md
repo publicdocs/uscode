@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying this chapter into full force and effect.
 
-([June 8, 1926, ch. 503, § 3][/us/act/1926-06-08/ch503/s3], [44 Stat. 710][/us/stat/44/710].)
+([June 8, 1926, ch. 503][/us/act/1926-06-08/ch503], § 3, [44 Stat. 710][/us/stat/44/710].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-06-08/ch503/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-08%2Fch503%2Fs3
+[/us/act/1926-06-08/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-08%2Fch503
 [/us/stat/44/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F710
 
 

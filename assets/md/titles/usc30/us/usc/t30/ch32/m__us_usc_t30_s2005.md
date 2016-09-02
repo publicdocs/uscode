@@ -17,7 +17,7 @@
 
     The Secretary shall provide to the Committee on Science of the House of Representatives and the Committee on Energy and Natural Resources of the Senate copies of any report or study that the Department of Energy prepares at the direction of any committee of Congress relating to the methane hydrate research and development program implemented under this chapter.
 
-([Pub. L. 106–193, § 6][/us/pl/106/193/s6], as added [Pub. L. 109–58, title IX, § 968(a)][/us/pl/109/58/s968/a], Aug. 8, 2005, [119 Stat. 898][/us/stat/119/898].)
+([Pub. L. 106–193][/us/pl/106/193], § 6, as added [Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 968(a), Aug. 8, 2005, [119 Stat. 898][/us/stat/119/898].)
 
  __Prior Provisions__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/106/193/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193%2Fs6
-[/us/pl/109/58/s968/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs968%2Fa
+[/us/pl/106/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F898
 [/us/pl/106/193/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193%2Fs6
 [/us/usc/t30/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1902

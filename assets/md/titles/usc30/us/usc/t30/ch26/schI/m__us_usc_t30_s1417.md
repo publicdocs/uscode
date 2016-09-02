@@ -23,7 +23,7 @@
 
         Each permit for commercial recovery shall be issued for a term of 20 years and for so long thereafter as hard mineral resources are recovered annually in commercial quantities from the area to which the recovery plan associated with the permit applies. The permit of any permittee who is not recovering hard mineral resources in commercial quantities at the end of 10 years shall be terminated; except that the Administrator shall for good cause shown, including force majeure, adverse economic conditions, unavoidable delays in construction, major unanticipated vessel repairs that prevent the permittee from conducting commercial recovery activities during an annual period, or other circumstances beyond the control of the permittee, extend the 10-year period, but not beyond the initial 20-year term of the permit.
 
-([Pub. L. 96–283, title I, § 107][/us/pl/96/283/s107], June 28, 1980, [94 Stat. 567][/us/stat/94/567].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 107, June 28, 1980, [94 Stat. 567][/us/stat/94/567].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs107
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F567
 
 

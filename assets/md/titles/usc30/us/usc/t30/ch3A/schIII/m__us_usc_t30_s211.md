@@ -27,7 +27,7 @@
 
         Any phosphate permit issued under this section may be extended by the Secretary for such an additional period, not in excess of four years, as he deems advisable, if he finds that the permittee has been unable, with reasonable diligence, to determine the existence or workability of phosphate deposits in the area covered by the permit and desires to prosecute further prospecting or exploration, or for other reasons warranting such an extension in the opinion of the Secretary.
 
-([Feb. 25, 1920, ch. 85, § 9][/us/act/1920-02-25/ch85/s9], [41 Stat. 440][/us/stat/41/440]; [June 3, 1948, ch. 379, § 2][/us/act/1948-06-03/ch379/s2], [62 Stat. 290][/us/stat/62/290]; [Pub. L. 86–391, § 1(a)][/us/pl/86/391/s1/a], Mar. 18, 1960, [74 Stat. 7][/us/stat/74/7].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 9, [41 Stat. 440][/us/stat/41/440]; [June 3, 1948, ch. 379][/us/act/1948-06-03/ch379], § 2, [62 Stat. 290][/us/stat/62/290]; [Pub. L. 86–391][/us/pl/86/391], § 1(a), Mar. 18, 1960, [74 Stat. 7][/us/stat/74/7].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs9
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F440
-[/us/act/1948-06-03/ch379/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379%2Fs2
+[/us/act/1948-06-03/ch379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch379
 [/us/stat/62/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F290
-[/us/pl/86/391/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391%2Fs1%2Fa
+[/us/pl/86/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391
 [/us/stat/74/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F7
 [/us/pl/86/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F391
 

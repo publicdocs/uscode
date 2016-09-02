@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall affect any rights acquired by any lessee of lands subject to this chapter under the law as it existed prior to August 7, 1947, and such rights shall be governed by the law in effect at the time of their acquisition; but any person qualified to hold a lease who, on August 7, 1947, had pending an application for an oil and gas lease for any lands subject to this chapter which on the date the application was filed was not situated within the known geologic structure of a producing oil or gas field, shall have a preference right over others to a lease of such lands without competitive bidding. Any person holding a lease on lands subject hereto, which lease was issued prior to August 7, 1947, shall be entitled to exchange such lease for a new lease issued under the provisions of this chapter, at any time prior to the expiration of such existing lease.
 
-([Aug. 7, 1947, ch. 513, § 9][/us/act/1947-08-07/ch513/s9], [61 Stat. 915][/us/stat/61/915].)
+([Aug. 7, 1947, ch. 513][/us/act/1947-08-07/ch513], § 9, [61 Stat. 915][/us/stat/61/915].)
 
  __Outer Continental Shelf; Jurisdiction of United States; Validation of Prior Leases__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-07/ch513/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513%2Fs9
+[/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F915
 
 

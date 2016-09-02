@@ -53,7 +53,7 @@
 
         For the purpose of such hearing the regulatory authority shall have the authority and is hereby empowered to administer oaths, subpena witnesses, or written or printed materials, compel the attendance of witnesses, or production of the materials, and take evidence including but not limited to inspections of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
 
-([Pub. L. 95–87, title V, § 519][/us/pl/95/87/s519], Aug. 3, 1977, [91 Stat. 501][/us/stat/91/501].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 519, Aug. 3, 1977, [91 Stat. 501][/us/stat/91/501].)
 
 ----------
 
@@ -68,7 +68,7 @@
 [/us/usc/t30/s1265/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Fb%2F8
 [/us/usc/t30/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265
 [/us/usc/t30/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1263
-[/us/pl/95/87/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs519
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F501
 
 

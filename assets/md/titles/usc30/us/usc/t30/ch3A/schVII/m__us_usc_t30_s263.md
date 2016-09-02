@@ -17,7 +17,7 @@
 
     In addition to areas of such mineral land which may be included in any such prospecting permits or leases, the Secretary of the Interior, in his discretion, may grant to a permittee or lessee of lands containing sodium deposits, and subject to the payment of an annual rental of not less than 25 cents per acre, the exclusive right to use, during the life of the permit or lease, a tract of unoccupied nonmineral public land, not exceeding forty acres in area, for camp sites, refining works, and other purposes connected with and necessary to the proper development and use of the deposits covered by the permit or lease.
 
-([Feb. 25, 1920, ch. 85, § 25][/us/act/1920-02-25/ch85/s25], [41 Stat. 447][/us/stat/41/447].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 25, [41 Stat. 447][/us/stat/41/447].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs25
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F447
 
 

@@ -17,7 +17,7 @@
 
     The adverse claim required by [section 30 of this title][/us/usc/t30/s30] may be verified by the oath of any duly authorized agent or attorney in fact of the adverse claimant cognizant of the facts stated; and the adverse claimant, if residing or at the time being beyond the limits of the district wherein the claim is situated, may make oath to the adverse claim before the clerk of any court of record of the United States or of the State or Territory where the adverse claimant may then be, or before any notary public of such State or Territory.
 
-([Apr. 26, 1882, ch. 106, § 1][/us/act/1882-04-26/ch106/s1], [22 Stat. 49][/us/stat/22/49].)
+([Apr. 26, 1882, ch. 106][/us/act/1882-04-26/ch106], § 1, [22 Stat. 49][/us/stat/22/49].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs30
-[/us/act/1882-04-26/ch106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-04-26%2Fch106%2Fs1
+[/us/act/1882-04-26/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-04-26%2Fch106
 [/us/stat/22/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F49
 
 

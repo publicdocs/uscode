@@ -21,7 +21,7 @@
 
     (2) to retain such contract with the modifications, that (a) the price, on and after March 1, 1949, shall be as defined in the contract, without premium payments, (b) any credit thereby resulting from past premium payments shall be added to the refinery’s account, and (c) the Secretary may, at his option, elect to terminate the contract as so modified, such termination to take place at the end of the third calendar month following the month in which written notice thereof is given by the Secretary.
 
-([Sept. 1, 1949, ch. 529, § 1][/us/act/1949-09-01/ch529/s1], [63 Stat. 682][/us/stat/63/682].)
+([Sept. 1, 1949, ch. 529][/us/act/1949-09-01/ch529], § 1, [63 Stat. 682][/us/stat/63/682].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t30/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs192
-[/us/act/1949-09-01/ch529/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-01%2Fch529%2Fs1
+[/us/act/1949-09-01/ch529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-01%2Fch529
 [/us/stat/63/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F682
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

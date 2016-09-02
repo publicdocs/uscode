@@ -27,7 +27,7 @@
 
         Sums appropriated to carry out the purposes of this chapter shall remain available until expended.
 
-([Pub. L. 86–599, § 5][/us/pl/86/599/s5], formerly § 8, July 7, 1960, [74 Stat. 337][/us/stat/74/337]; renumbered § 5, [Pub. L. 109–58, title X, § 1009(a)(1)(D)][/us/pl/109/58/s1009/a/1/D], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
+([Pub. L. 86–599][/us/pl/86/599], § 5, formerly § 8, July 7, 1960, [74 Stat. 337][/us/stat/74/337]; renumbered § 5, [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(a)(1)(D), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/86/599/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs5
+[/us/pl/86/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599
 [/us/stat/74/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F337
-[/us/pl/109/58/s1009/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fa%2F1%2FD
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
 [/us/pl/86/599/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs5
 [/us/usc/t30/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs665

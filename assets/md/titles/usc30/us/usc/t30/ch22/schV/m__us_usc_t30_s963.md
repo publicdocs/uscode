@@ -47,7 +47,7 @@
 
         Members appointed to the Panel, while carrying out the duties of the Panel shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under [section 210(c) of title 42][/us/usc/t42/s210/c].
 
-([Pub. L. 91–173, title V, § 514][/us/pl/91/173/s514], as added [Pub. L. 109–236, § 11][/us/pl/109/236/s11], June 15, 2006, [120 Stat. 501][/us/stat/120/501].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 514, as added [Pub. L. 109–236][/us/pl/109/236], § 11, June 15, 2006, [120 Stat. 501][/us/stat/120/501].)
 
 ----------
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t42/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210%2Fc
-[/us/pl/91/173/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs514
-[/us/pl/109/236/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236%2Fs11
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
+[/us/pl/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F236
 [/us/stat/120/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F501
 
 

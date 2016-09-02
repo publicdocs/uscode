@@ -45,7 +45,7 @@
 
         The minimum royalty provisions of [section 207(a) of this title][/us/usc/t30/s207/a] shall not apply to any lands covered by this modified lease prior to a modification until the term of the original lease or extension thereof which became effective prior to the effective date of this Act has expired.
 
-([Feb. 25, 1920, ch. 85, § 3][/us/act/1920-02-25/ch85/s3], [41 Stat. 439][/us/stat/41/439]; [Pub. L. 94–377, § 13(b)][/us/pl/94/377/s13/b], Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090]; [Pub. L. 95–554, § 3][/us/pl/95/554/s3], Oct. 30, 1978, [92 Stat. 2074][/us/stat/92/2074]; [Pub. L. 109–58, title IV, § 432][/us/pl/109/58/s432], Aug. 8, 2005, [119 Stat. 760][/us/stat/119/760].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 3, [41 Stat. 439][/us/stat/41/439]; [Pub. L. 94–377][/us/pl/94/377], § 13(b), Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090]; [Pub. L. 95–554][/us/pl/95/554], § 3, Oct. 30, 1978, [92 Stat. 2074][/us/stat/92/2074]; [Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 432, Aug. 8, 2005, [119 Stat. 760][/us/stat/119/760].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Savings Provision__ 
 
-    [Pub. L. 94–377, § 13(b)][/us/pl/94/377/s13/b], Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], provided that the amendment made by that section is subject to valid existing rights.
+    [Pub. L. 94–377][/us/pl/94/377], § 13(b), Aug. 4, 1976, [90 Stat. 1090][/us/stat/90/1090], provided that the amendment made by that section is subject to valid existing rights.
 
 ----------
 
@@ -77,13 +77,13 @@
 ----------
 
 [/us/usc/t30/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs207%2Fa
-[/us/act/1920-02-25/ch85/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs3
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F439
-[/us/pl/94/377/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs13%2Fb
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1090
-[/us/pl/95/554/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554%2Fs3
+[/us/pl/95/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554
 [/us/stat/92/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2074
-[/us/pl/109/58/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs432
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F760
 [/us/usc/t30/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201%2Fd%2F2
 [/us/pl/95/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F554
@@ -94,7 +94,7 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs438
 [/us/usc/t30/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201
-[/us/pl/94/377/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs13%2Fb
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1090
 
 

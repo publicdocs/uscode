@@ -17,7 +17,7 @@
 
     All leases of lands containing oil or gas, made or issued under the provisions of this chapter, shall be subject to the condition that the lessee will, in conducting his explorations and mining operations, use all reasonable precautions to prevent waste of oil or gas developed in the land, or the entrance of water through wells drilled by him to the oil sands or oil-bearing strata, to the destruction or injury of the oil deposits. Violations of the provisions of this section shall constitute grounds for the forfeiture of the lease, to be enforced as provided in this chapter.
 
-([Feb. 25, 1920, ch. 85, § 16][/us/act/1920-02-25/ch85/s16], [41 Stat. 443][/us/stat/41/443]; [Aug. 8, 1946, ch. 916, § 2][/us/act/1946-08-08/ch916/s2], [60 Stat. 951][/us/stat/60/951].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 16, [41 Stat. 443][/us/stat/41/443]; [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 2, [60 Stat. 951][/us/stat/60/951].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs16
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F443
-[/us/act/1946-08-08/ch916/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs2
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F951
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t43/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337

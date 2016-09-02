@@ -39,7 +39,7 @@
 
         As a condition of approval of any State program submitted pursuant to [section 1253 of this title][/us/usc/t30/s1253], the enforcement provisions thereof shall, at a minimum, incorporate sanctions no less stringent than those set forth in this section, and shall contain the same or similar procedural requirements relating thereto. Nothing herein shall be construed so as to eliminate any additional enforcement rights or procedures which are available under State law to a State regulatory authority but which are not specifically enumerated herein.
 
-([Pub. L. 95–87, title V, § 521][/us/pl/95/87/s521], Aug. 3, 1977, [91 Stat. 504][/us/stat/91/504].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 521, Aug. 3, 1977, [91 Stat. 504][/us/stat/91/504].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t30/s1254/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1254%2Fb
 [/us/usc/t30/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1254
 [/us/usc/t30/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1253
-[/us/pl/95/87/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs521
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F504
 
 

@@ -53,13 +53,13 @@
 
         Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary’s approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.
 
-([Feb. 25, 1920, ch. 85, § 7][/us/act/1920-02-25/ch85/s7], [41 Stat. 439][/us/stat/41/439]; [Pub. L. 94–377, § 6][/us/pl/94/377/s6], Aug. 4, 1976, [90 Stat. 1087][/us/stat/90/1087]; [Pub. L. 109–58, title IV][/us/pl/109/58], §§ 434, 435, Aug. 8, 2005, [119 Stat. 761][/us/stat/119/761], 762.)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 7, [41 Stat. 439][/us/stat/41/439]; [Pub. L. 94–377][/us/pl/94/377], § 6, Aug. 4, 1976, [90 Stat. 1087][/us/stat/90/1087]; [Pub. L. 109–58, title IV][/us/pl/109/58/tIV], §§ 434, 435, Aug. 8, 2005, [119 Stat. 761][/us/stat/119/761], 762.)
 
  __Amendments__ 
 
-    2005—Subsec. (b). [Pub. L. 109–58, § 434][/us/pl/109/58/s434], designated first to third and seventh and eighth sentences as pars. (1) to (3) and (6) and (7), respectively, substituted “Advance royalties described in paragraph (2)” for “Such advance royalties” in par. (3), added pars. (4), (5), and (6) related to amount of any production royalty paid, and struck out fourth to sixth sentences which read as follows: “The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed ten. The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under such lease to the extent that such advance royalties have not been used to reduce production royalties for a prior year. No advance royalty paid during the initial twenty-year term of a lease shall be used to reduce a production royalty after the twentieth year of a lease.”
+    2005—Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 434, designated first to third and seventh and eighth sentences as pars. (1) to (3) and (6) and (7), respectively, substituted “Advance royalties described in paragraph (2)” for “Such advance royalties” in par. (3), added pars. (4), (5), and (6) related to amount of any production royalty paid, and struck out fourth to sixth sentences which read as follows: “The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed ten. The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under such lease to the extent that such advance royalties have not been used to reduce production royalties for a prior year. No advance royalty paid during the initial twenty-year term of a lease shall be used to reduce a production royalty after the twentieth year of a lease.”
 
-    Subsec. (c). [Pub. L. 109–58, § 435][/us/pl/109/58/s435], struck out “and not later than three years after a lease is issued,” before “the lessee shall submit”.
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 435, struck out “and not later than three years after a lease is issued,” before “the lessee shall submit”.
 
     1976—[Pub. L. 94–377][/us/pl/94/377] designated existing provisions as subsec. (a), substituted provisions limiting the lease term to 20 years and for so long thereafter as coal is produced annually in commercial quantities for provision authorizing leases for indeterminate periods upon condition of diligent development and continued operation except for strikes, the elements, or casualties not attributable to lessees; provisions for payment of royalties as determined by the Secretary of not less than 12½ per centum of coal value, except as reduced for coal from underground mining operations for provisions specifying royalties as stated in the lease, but not less than 5 cents per ton; provision for rentals as prescribed by regulation for provision setting rentals as fixed by the Secretary at not less than 25 cents per acre for the first year, 50 cents for the second, third, fourth and fifth years, and $1 for each year thereafter, and provision for readjustment of royalties and terms and conditions after primary period of twenty years and subsequent ten year intervals for provision for readjustment after twenty years unless otherwise provided by law, and added subsecs. (b) and (c).
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs7
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F439
-[/us/pl/94/377/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs6
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1087
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F761
-[/us/pl/109/58/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs434
-[/us/pl/109/58/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs435
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs438

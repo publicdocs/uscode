@@ -17,7 +17,7 @@
 
     Any person desiring to make entry under the homestead laws or the desert-land law, any State desiring to make selection under [section 641 of title 43][/us/usc/t43/s641], and the Secretary of the Interior in withdrawing under the Reclamation Act lands classified as coal lands, or valuable for coal, with a view of securing or passing title to the same in accordance with the provisions of said Acts, shall state in the application for entry, selection, or notice of withdrawal that the same is made in accordance with and subject to the provisions and reservations of sections 83 to 85 of this title.
 
-([June 22, 1910, ch. 318, § 2][/us/act/1910-06-22/ch318/s2], [36 Stat. 584][/us/stat/36/584].)
+([June 22, 1910, ch. 318][/us/act/1910-06-22/ch318], § 2, [36 Stat. 584][/us/stat/36/584].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t43/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs641
-[/us/act/1910-06-22/ch318/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-22%2Fch318%2Fs2
+[/us/act/1910-06-22/ch318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-22%2Fch318
 [/us/stat/36/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F584
 [/us/act/1902-06-17/ch1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-17%2Fch1093
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388

@@ -67,7 +67,7 @@
 
         After October 24, 1992, the prohibition of subsection (c) shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term “violation” has the same meaning as such term has under subsection (c).
 
-([Pub. L. 95–87, title V, § 510][/us/pl/95/87/s510], Aug. 3, 1977, [91 Stat. 480][/us/stat/91/480]; [Pub. L. 102–486, title XXV, § 2503(a)][/us/pl/102/486/s2503/a], Oct. 24, 1992, [106 Stat. 3102][/us/stat/106/3102]; [Pub. L. 109–432, div. C, title II, § 208][/us/pl/109/432/s208], Dec. 20, 2006, [120 Stat. 3019][/us/stat/120/3019].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 510, Aug. 3, 1977, [91 Stat. 480][/us/stat/91/480]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2503(a), Oct. 24, 1992, [106 Stat. 3102][/us/stat/106/3102]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 208, Dec. 20, 2006, [120 Stat. 3019][/us/stat/120/3019].)
 
  __Amendments__ 
 
@@ -91,11 +91,11 @@
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/usc/t30/s1257/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1257%2Fb%2F16
 [/us/usc/t30/s1265/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Fb%2F7
-[/us/pl/95/87/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs510
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F480
-[/us/pl/102/486/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2503%2Fa
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3102
-[/us/pl/109/432/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs208
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3019
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t30/s1265/b/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1265%2Fb%2F20%2FB

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to waive, amend, or repeal the requirement of any provision of any law for approval of any official of the United States whose approval prior to prospecting, exploring, or mining would be required.
 
-([Aug. 13, 1954, ch. 730, § 12][/us/act/1954-08-13/ch730/s12], [68 Stat. 717][/us/stat/68/717].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 12, [68 Stat. 717][/us/stat/68/717].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch730/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs12
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F717
 
 

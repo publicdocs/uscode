@@ -45,7 +45,7 @@
 
         There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 98–409, § 12][/us/pl/98/409/s12], as added [Pub. L. 101–498, § 2][/us/pl/101/498/s2], Nov. 2, 1990, [104 Stat. 1207][/us/stat/104/1207].)
+([Pub. L. 98–409][/us/pl/98/409], § 12, as added [Pub. L. 101–498][/us/pl/101/498], § 2, Nov. 2, 1990, [104 Stat. 1207][/us/stat/104/1207].)
 
  __Codification__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/98/409/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs12
-[/us/pl/101/498/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F498%2Fs2
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
+[/us/pl/101/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F498
 [/us/stat/104/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1207
 
 

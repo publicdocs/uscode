@@ -29,7 +29,7 @@
 
         Any license or permit, upon written request of the licensee or permittee, may be transferred by the Administrator; except that no such transfer may occur unless the proposed transferee is a United States citizen and until the Administrator determines that (1) the proposed transfer is in the public interest, and (2) the proposed transferee and the exploration or commercial recovery activities the transferee proposes to conduct meet the requirements of this chapter and regulations issued under this chapter.
 
-([Pub. L. 96–283, title I, § 115][/us/pl/96/283/s115], June 28, 1980, [94 Stat. 572][/us/stat/94/572].)
+([Pub. L. 96–283, title I][/us/pl/96/283/tI], § 115, June 28, 1980, [94 Stat. 572][/us/stat/94/572].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs115
+[/us/pl/96/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtI
 [/us/stat/94/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F572
 
 

@@ -17,7 +17,7 @@
 
     Lands withdrawn from the public domain which are within (a) Helium Reserve Numbered 1, pursuant to Executive orders of March 21, 1924, and January 28, 1926, and (b) Helium Reserve Numbered 2 pursuant to Executive Order 6184 of June 26, 1933, shall be subject to entry and location under the mining laws of the United States, and to permit and lease under the mineral leasing laws, upon determination by the Secretary of the Interior, based upon available geologic and other information, that there is no reasonable probability that operations pursuant to entry or location of the particular lands under the mining laws, or pursuant to a permit or lease of the particular lands under the Mineral Leasing Act \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], will result in the extraction or cause loss or waste of the helium-bearing gas in the lands of such reserves: Provided, That the lands shall not become subject to entry, location, permit or lease until such time as the Secretary designates in an order published in the Federal Register: And provided further, That the Secretary may at any time as a condition to continued mineral operations require the entryman, locator, permittee or lessee to take such measures either above or below the surface of the lands as the Secretary deems necessary to prevent loss or waste of the helium-bearing gas.
 
-([Aug. 13, 1954, ch. 730, § 9][/us/act/1954-08-13/ch730/s9], [68 Stat. 715][/us/stat/68/715].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 9, [68 Stat. 715][/us/stat/68/715].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/act/1954-08-13/ch730/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs9
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F715
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

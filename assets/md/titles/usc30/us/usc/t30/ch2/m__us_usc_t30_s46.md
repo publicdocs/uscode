@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s43.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
+[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s44 _us_usc_t30_s45.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
 
 ## § 46. Additional land districts and officers
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2343 derived from [act July 26, 1866, ch. 262, § 7][/us/act/1866-07-26/ch262/s7], [14 Stat. 252][/us/stat/14/252].
+    R.S. § 2343 derived from [act July 26, 1866, ch. 262][/us/act/1866-07-26/ch262], § 7, [14 Stat. 252][/us/stat/14/252].
 
  __Delegation of Functions__ 
 
@@ -37,14 +37,14 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s43.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
+[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s44 _us_usc_t30_s45.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
 
 ----------
 ----------
 
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1866-07-26/ch262/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-26%2Fch262%2Fs7
+[/us/act/1866-07-26/ch262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-26%2Fch262
 [/us/stat/14/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F252
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t43/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1303

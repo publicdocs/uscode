@@ -17,7 +17,7 @@
 
     Whenever the Secretary of the Interior, after reasonable notice and opportunity for hearing, finds that there is a failure to expend funds in accordance with the terms and conditions governing the Federal contribution for such approved projects, he shall notify the Commonwealth that further payments will not be made to the Commonwealth from appropriations under this chapter until he is satisfied that there will no longer be any such failure. Until he is so satisfied the Secretary of the Interior shall withhold the payment of any financial contributions to the Commonwealth.
 
-([July 15, 1955, ch. 369, § 4][/us/act/1955-07-15/ch369/s4], [69 Stat. 353][/us/stat/69/353].)
+([July 15, 1955, ch. 369][/us/act/1955-07-15/ch369], § 4, [69 Stat. 353][/us/stat/69/353].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-07-15/ch369/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch369%2Fs4
+[/us/act/1955-07-15/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-15%2Fch369
 [/us/stat/69/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F353
 
 

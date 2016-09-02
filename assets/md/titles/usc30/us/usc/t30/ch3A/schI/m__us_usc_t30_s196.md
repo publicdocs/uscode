@@ -23,7 +23,7 @@
 
     with respect to any lease authorizing exploration for or development of coal, any other solid mineral, or geothermal steam on any Federal lands or Indian lands within the State or with respect to any lease or portion of a lease subject to [section 1337(g) of title 43][/us/usc/t43/s1337/g], on the same terms and conditions as those authorized for oil and gas leases under sections 1732, 1733, 1735, and 1736 of this title and the regulations duly promulgated with respect thereto: Provided further, That [section 1734 of this title][/us/usc/t30/s1734] shall apply to leases authorizing exploration for or development of coal, any other solid mineral, or geothermal steam on any Federal lands, or to any lease or portion of a lease subject to [section 1337(g) of title 43][/us/usc/t43/s1337/g]: Provided further, That the Secretary shall compensate any State or Indian tribe for those costs which are necessary to carry out activities conducted pursuant to such cooperative agreement or delegation.
 
-([Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1001][/us/stat/105/1001].)
+([Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1001][/us/stat/105/1001].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t43/s1337/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337%2Fg
 [/us/usc/t30/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1734
 [/us/usc/t43/s1337/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337%2Fg
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1001
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

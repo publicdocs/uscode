@@ -35,7 +35,7 @@
 
         As to any land covered by any mining claim which is entitled to the benefits of this chapter under the provisions of subsection (a) of this section, any withdrawal or reservation of lands made after the original location of such mining claim is hereby modified and amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States which, subsequent to July 31, 1939, and prior to the date of such withdrawal or reservation, were subject to location under the mining laws of the United States.
 
-([Aug. 13, 1954, ch. 730, § 1][/us/act/1954-08-13/ch730/s1], [68 Stat. 708][/us/stat/68/708].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 1, [68 Stat. 708][/us/stat/68/708].)
 
  __Short Title__ 
 
@@ -47,7 +47,7 @@
 
  __Separability__ 
 
-[Act Aug. 13, 1954, ch. 730, § 13][/us/act/1954-08-13/ch730/s13], [68 Stat. 717][/us/stat/68/717], provided that: 
+[Act Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 13, [68 Stat. 717][/us/stat/68/717], provided that: 
 
 > “If any provision of this Act \[enacting this chapter\], or the application of such provision to any person or circumstances, is held unconstitutional, invalid, or unenforcible \[sic\], the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held unconstitutional, invalid, or unenforcible \[sic\], shall not be affected thereby.”
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch730/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs1
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F708
 [/us/usc/t42/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805
 [/us/usc/t42/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805
-[/us/act/1954-08-13/ch730/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs13
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F717
 
 

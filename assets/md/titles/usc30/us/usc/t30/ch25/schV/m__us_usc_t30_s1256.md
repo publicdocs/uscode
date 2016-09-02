@@ -47,7 +47,7 @@
 
         (3) Any permit renewal shall be for a term not to exceed the period of the original permit established by this chapter. Application for permit renewal shall be made at least one hundred and twenty days prior to the expiration of the valid permit.
 
-([Pub. L. 95–87, title V, § 506][/us/pl/95/87/s506], Aug. 3, 1977, [91 Stat. 473][/us/stat/91/473].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 506, Aug. 3, 1977, [91 Stat. 473][/us/stat/91/473].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t30/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1259
 [/us/usc/t30/s1260/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1260%2Fb%2F5
 [/us/usc/t30/s1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1258
-[/us/pl/95/87/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs506
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F473
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

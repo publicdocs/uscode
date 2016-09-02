@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated for the purposes of subsection (a) such sums as may be necessary.
 
-([Pub. L. 95–239, § 18][/us/pl/95/239/s18], Mar. 1, 1978, [92 Stat. 105][/us/stat/92/105].)
+([Pub. L. 95–239][/us/pl/95/239], § 18, Mar. 1, 1978, [92 Stat. 105][/us/stat/92/105].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/239/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs18
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F105
 [/us/pl/95/239/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs20%2Fa
 [/us/usc/t30/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs901

@@ -17,7 +17,7 @@
 
     Except in the case of fraud, any action to recover penalties under this chapter shall be barred unless the action is commenced within 6 years after the date of the act or omission which is the basis for the action.
 
-([Pub. L. 97–451, title III, § 307][/us/pl/97/451/s307], Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 307, Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
 
  __Applicability__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs307
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2462
 [/us/pl/104/185/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs8%2Fa
 [/us/usc/t30/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1732

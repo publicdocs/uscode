@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated $11,000,000 for the fiscal year ending September 30, 1979, and for each of the five succeeding fiscal years. For payments for the initial awarding of fellowships awarded under this subchapter, there are authorized to be appropriated for the fiscal year ending September 30, 1979, and for each of the five succeeding fiscal years, such sums as may be necessary in order that fellowships already awarded might be completed.
 
-([Pub. L. 95–87, title IX, § 907][/us/pl/95/87/s907], Aug. 3, 1977, [91 Stat. 531][/us/stat/91/531].)
+([Pub. L. 95–87, title IX][/us/pl/95/87/tIX], § 907, Aug. 3, 1977, [91 Stat. 531][/us/stat/91/531].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs907
+[/us/pl/95/87/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIX
 [/us/stat/91/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F531
 
 

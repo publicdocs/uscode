@@ -35,7 +35,7 @@
 
         (2) Any person engaged in transporting any oil or gas by pipeline from any lease site, or allocated to any lease site, on Federal or Indian lands shall maintain documentation showing, at a minimum, amount, origin, and intended first destination of such oil or gas.
 
-([Pub. L. 97–451, title I, § 102][/us/pl/97/451/s102], Jan. 12, 1983, [96 Stat. 2450][/us/stat/96/2450]; [Pub. L. 104–185, § 6(g)][/us/pl/104/185/s6/g], Aug. 13, 1996, [110 Stat. 1715][/us/stat/110/1715].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 102, Jan. 12, 1983, [96 Stat. 2450][/us/stat/96/2450]; [Pub. L. 104–185][/us/pl/104/185], § 6(g), Aug. 13, 1996, [110 Stat. 1715][/us/stat/110/1715].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/97/451/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs102
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2450
-[/us/pl/104/185/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fg
+[/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/stat/110/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1715
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185

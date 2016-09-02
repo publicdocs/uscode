@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2344 derived from acts [July 9, 1870, ch. 235, § 17][/us/act/1870-07-09/ch235/s17], [16 Stat. 218][/us/stat/16/218]; [May 10, 1872, ch. 152, § 16][/us/act/1872-05-10/ch152/s16], [17 Stat. 96][/us/stat/17/96].
+    R.S. § 2344 derived from acts [July 9, 1870, ch. 235][/us/act/1870-07-09/ch235], § 17, [16 Stat. 218][/us/stat/16/218]; [May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 16, [17 Stat. 96][/us/stat/17/96].
 
  __Submerged Lands Act__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1870-07-09/ch235/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-09%2Fch235%2Fs17
+[/us/act/1870-07-09/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1870-07-09%2Fch235
 [/us/stat/16/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F218
-[/us/act/1872-05-10/ch152/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs16
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F96
 [/us/usc/t43/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1303
 

@@ -19,7 +19,7 @@
 
     (b) Upon the establishment of a permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States, and when all research and development (and other) functions of the Project are transferred, the members of the Project may provide advice and counsel to the head of such organization or agency, in accordance with arrangements made at that time.
 
-([Pub. L. 93–410, title III, § 303][/us/pl/93/410/s303], Sept. 3, 1974, [88 Stat. 1088][/us/stat/88/1088].)
+([Pub. L. 93–410, title III][/us/pl/93/410/tIII], § 303, Sept. 3, 1974, [88 Stat. 1088][/us/stat/88/1088].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/410/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2Fs303
+[/us/pl/93/410/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F410%2FtIII
 [/us/stat/88/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1088
 
 

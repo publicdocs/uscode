@@ -17,7 +17,7 @@
 
     All regulations made with respect to this subchapter shall be promulgated no later than six months after June 30, 1980.
 
-([Pub. L. 96–294, title VI, § 644][/us/pl/96/294/s644], June 30, 1980, [94 Stat. 770][/us/stat/94/770].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 644, June 30, 1980, [94 Stat. 770][/us/stat/94/770].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs644
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/stat/94/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F768

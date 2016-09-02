@@ -41,7 +41,7 @@
 
         Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls are stable. All other performance standards in this subchapter shall apply to such mines.
 
-([Pub. L. 95–87, title V, § 527][/us/pl/95/87/s527], Aug. 3, 1977, [91 Stat. 513][/us/stat/91/513].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 527, Aug. 3, 1977, [91 Stat. 513][/us/stat/91/513].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/95/87/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs527
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F513
 
 

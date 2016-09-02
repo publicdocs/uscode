@@ -29,7 +29,7 @@
 
         For the purpose of making any inspection or investigation under this chapter, the Secretary shall have the same right to enter upon or travel across any lease site as the lessee or operator has acquired by purchase, condemnation, or otherwise.
 
-([Pub. L. 97–451, title I, § 108][/us/pl/97/451/s108], Jan. 12, 1983, [96 Stat. 2453][/us/stat/96/2453].)
+([Pub. L. 97–451, title I][/us/pl/97/451/tI], § 108, Jan. 12, 1983, [96 Stat. 2453][/us/stat/96/2453].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs108
+[/us/pl/97/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtI
 [/us/stat/96/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2453
 
 

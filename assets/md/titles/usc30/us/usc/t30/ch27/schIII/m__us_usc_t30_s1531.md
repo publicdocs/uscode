@@ -51,7 +51,7 @@
 
         As used in this section, the term “person” includes municipalities, cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the districts referred to in subsection (a) and the other entities included within such term under [section 1 of title 1][/us/usc/t1/s1].
 
-([Pub. L. 96–294, title VI, § 631][/us/pl/96/294/s631], June 30, 1980, [94 Stat. 767][/us/stat/94/767].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 631, June 30, 1980, [94 Stat. 767][/us/stat/94/767].)
 
 ----------
 
@@ -64,7 +64,7 @@
 [/us/usc/t42/s1962d–17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317%2Fa
 [/us/usc/t30/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1144
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
-[/us/pl/96/294/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs631
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F767
 
 

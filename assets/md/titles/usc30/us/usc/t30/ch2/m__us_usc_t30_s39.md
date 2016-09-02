@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 2334 derived from [act May 10, 1872, ch. 152, § 12][/us/act/1872-05-10/ch152/s12], [17 Stat. 95][/us/stat/17/95].
+    R.S. § 2334 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 12, [17 Stat. 95][/us/stat/17/95].
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 [/us/stat/43/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1144
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t43/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs661
-[/us/act/1872-05-10/ch152/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs12
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F95
 [/us/usc/t30/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs29
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100

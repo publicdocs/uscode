@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for chlorides, sulphates, carbonates, borates, silicates, or nitrates of sodium, in lands belonging to the United States for a period of not exceeding two years: Provided, That the area to be included in such a permit shall not exceed two thousand five hundred and sixty acres of land in reasonably compact form.
 
-([Feb. 25, 1920, ch. 85, § 23][/us/act/1920-02-25/ch85/s23], [41 Stat. 447][/us/stat/41/447]; [Dec. 11, 1928, ch. 19][/us/act/1928-12-11/ch19], [45 Stat. 1019][/us/stat/45/1019].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 23, [41 Stat. 447][/us/stat/41/447]; [Dec. 11, 1928, ch. 19][/us/act/1928-12-11/ch19], [45 Stat. 1019][/us/stat/45/1019].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs23
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F447
 [/us/act/1928-12-11/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-12-11%2Fch19
 [/us/stat/45/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1019

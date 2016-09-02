@@ -45,7 +45,7 @@
 
         The commencement of a proceeding under this section shall not, unless specifically ordered by the court, operate as a stay of the order or decision of the Commission or the Panel.
 
-([Pub. L. 91–173, title I, § 106][/us/pl/91/173/s106], Dec. 30, 1969, [83 Stat. 754][/us/stat/83/754]; [Pub. L. 95–164, title II, § 201][/us/pl/95/164/s201], Nov. 9, 1977, [91 Stat. 1306][/us/stat/91/1306]; [Pub. L. 98–620, title IV, § 402(34)][/us/pl/98/620/s402/34], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
+([Pub. L. 91–173, title I][/us/pl/91/173/tI], § 106, Dec. 30, 1969, [83 Stat. 754][/us/stat/83/754]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 201, Nov. 9, 1977, [91 Stat. 1306][/us/stat/91/1306]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(34), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
 
  __References in Text__ 
 
@@ -91,11 +91,11 @@
 [/us/usc/t30/s817/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs817%2Fa
 [/us/usc/t30/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs815
 [/us/usc/t30/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs820
-[/us/pl/91/173/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs106
+[/us/pl/91/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtI
 [/us/stat/83/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F754
-[/us/pl/95/164/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs201
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1306
-[/us/pl/98/620/s402/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F34
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

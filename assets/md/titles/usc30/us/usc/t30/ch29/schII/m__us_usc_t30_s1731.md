@@ -17,7 +17,7 @@
 
     This subchapter shall apply only with respect to oil and gas leases on Federal lands or Indian lands. Nothing in this subchapter shall be construed to apply to any lease on the Outer Continental Shelf.
 
-([Pub. L. 97–451, title II, § 201][/us/pl/97/451/s201], Jan. 12, 1983, [96 Stat. 2457][/us/stat/96/2457].)
+([Pub. L. 97–451, title II][/us/pl/97/451/tII], § 201, Jan. 12, 1983, [96 Stat. 2457][/us/stat/96/2457].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs201
+[/us/pl/97/451/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtII
 [/us/stat/96/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2457
 
 

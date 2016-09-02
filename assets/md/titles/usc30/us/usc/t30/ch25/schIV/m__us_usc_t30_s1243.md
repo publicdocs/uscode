@@ -17,7 +17,7 @@
 
     All departments, boards, commissioners, and agencies of the United States of America shall cooperate with the Secretary by providing technical expertise, personnel, equipment, materials, and supplies to implement and administer the provisions of this subchapter.
 
-([Pub. L. 95–87, title IV, § 414][/us/pl/95/87/s414], formerly § 413, Aug. 3, 1977, [91 Stat. 467][/us/stat/91/467], renumbered § 414, [Pub. L. 101–508, title VI, § 6010(1)][/us/pl/101/508/s6010/1], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 414, formerly § 413, Aug. 3, 1977, [91 Stat. 467][/us/stat/91/467], renumbered § 414, [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6010(1), Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/95/87/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs414
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F467
-[/us/pl/101/508/s6010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6010%2F1
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-296
 
 

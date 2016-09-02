@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act May 9, 1938, ch. 187, § 1][/us/act/1938-05-09/ch187/s1], [52 Stat. 329][/us/stat/52/329], providing that purchase of supplies and equipment or procurement of services for Bureau of Mines might be made in open market without compliance with section 5 of former Title 41, Public Contracts, where amount involved did not exceed $100, was a provision of Interior Department appropriation act and was discontinued in acts subsequent to 1938 appropriation act.
+    Section, [act May 9, 1938, ch. 187][/us/act/1938-05-09/ch187], § 1, [52 Stat. 329][/us/stat/52/329], providing that purchase of supplies and equipment or procurement of services for Bureau of Mines might be made in open market without compliance with section 5 of former Title 41, Public Contracts, where amount involved did not exceed $100, was a provision of Interior Department appropriation act and was discontinued in acts subsequent to 1938 appropriation act.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-09/ch187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch187%2Fs1
+[/us/act/1938-05-09/ch187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-09%2Fch187
 [/us/stat/52/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F329
 
 

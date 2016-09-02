@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, acting through the United States Bureau of Mines, may, in his discretion, create and establish an advisory committee composed of not more than six members to exercise consultative functions, when required by the Secretary, in connection with the administration of sections 13 to 16 of this title. The said committee shall be composed of representatives of anthracite coal mine owners, of representatives of anthracite coal mine workers and the public in equal number. The members of said committee shall be appointed by the Secretary of the Interior without regard to the civil-service laws.
 
-([Dec. 18, 1942, ch. 764, § 4][/us/act/1942-12-18/ch764/s4], [56 Stat. 1057][/us/stat/56/1057].)
+([Dec. 18, 1942, ch. 764][/us/act/1942-12-18/ch764], § 4, [56 Stat. 1057][/us/stat/56/1057].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1942-12-18/ch764/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-18%2Fch764%2Fs4
+[/us/act/1942-12-18/ch764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-18%2Fch764
 [/us/stat/56/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1057
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

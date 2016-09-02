@@ -51,7 +51,7 @@
 
     (o) “Commission” means the Federal Mine Safety and Health Review Commission.
 
-([Pub. L. 91–173, § 3][/us/pl/91/173/s3], Dec. 30, 1969, [83 Stat. 743][/us/stat/83/743]; [Pub. L. 95–164, title I, § 102(b)][/us/pl/95/164/s102/b], Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290].)
+([Pub. L. 91–173][/us/pl/91/173], § 3, Dec. 30, 1969, [83 Stat. 743][/us/stat/83/743]; [Pub. L. 95–164, title I][/us/pl/95/164/tI], § 102(b), Nov. 9, 1977, [91 Stat. 1290][/us/stat/91/1290].)
 
  __References in Text__ 
 
@@ -59,17 +59,17 @@
 
  __Amendments__ 
 
-    1977—Par. (a). [Pub. L. 95–164, § 102(b)(1)][/us/pl/95/164/s102/b/1], substituted “Secretary of Labor” for “Secretary of the Interior”.
+    1977—Par. (a). [Pub. L. 95–164][/us/pl/95/164], § 102(b)(1), substituted “Secretary of Labor” for “Secretary of the Interior”.
 
-    Par. (d). [Pub. L. 95–164, § 102(b)(2)][/us/pl/95/164/s102/b/2], (4), substituted “supervises a coal or other mine or any independent contractor performing services or construction at such mine” for “supervises a coal mine”.
+    Par. (d). [Pub. L. 95–164][/us/pl/95/164], § 102(b)(2), (4), substituted “supervises a coal or other mine or any independent contractor performing services or construction at such mine” for “supervises a coal mine”.
 
-    Pars. (e), (g). [Pub. L. 95–164, § 102(b)(4)][/us/pl/95/164/s102/b/4], inserted “or other” after “coal” wherever appearing.
+    Pars. (e), (g). [Pub. L. 95–164][/us/pl/95/164], § 102(b)(4), inserted “or other” after “coal” wherever appearing.
 
-    Par. (h). [Pub. L. 95–164, § 102(b)(3)][/us/pl/95/164/s102/b/3], added subpar. (1), designated existing provisions as subpar. (2), and inserted “For purposes of subchapters II, III, and IV of this chapter,” after “(2)”.
+    Par. (h). [Pub. L. 95–164][/us/pl/95/164], § 102(b)(3), added subpar. (1), designated existing provisions as subpar. (2), and inserted “For purposes of subchapters II, III, and IV of this chapter,” after “(2)”.
 
-    Par. (j). [Pub. L. 95–164, § 102(b)(4)][/us/pl/95/164/s102/b/4], inserted “or other” after “coal”.
+    Par. (j). [Pub. L. 95–164][/us/pl/95/164], § 102(b)(4), inserted “or other” after “coal”.
 
-    Pars. (n), (o). [Pub. L. 95–164, § 102(b)(5)][/us/pl/95/164/s102/b/5], added pars. (n) and (o).
+    Pars. (n), (o). [Pub. L. 95–164][/us/pl/95/164], § 102(b)(5), added pars. (n) and (o).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -86,19 +86,19 @@
 ----------
 ----------
 
-[/us/pl/91/173/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs3
+[/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F743
-[/us/pl/95/164/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb
+[/us/pl/95/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtI
 [/us/stat/91/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1290
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
-[/us/pl/95/164/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb%2F1
-[/us/pl/95/164/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb%2F2
-[/us/pl/95/164/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb%2F4
-[/us/pl/95/164/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb%2F3
-[/us/pl/95/164/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb%2F4
-[/us/pl/95/164/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs102%2Fb%2F5
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/95/164/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs307
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

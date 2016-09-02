@@ -17,7 +17,7 @@
 
     No action contesting a decision of the Secretary involving any oil and gas lease shall be maintained unless such action is commenced or taken within ninety days after the final decision of the Secretary relating to such matter. No such action contesting such a decision of the Secretary rendered prior to September 2, 1960 shall be maintained unless the same be commenced or taken within ninety days after September 2, 1960.
 
-([Feb. 25, 1920, ch. 85, § 42][/us/act/1920-02-25/ch85/s42], as added [Pub. L. 86–705, § 5][/us/pl/86/705/s5], Sept. 2, 1960, [74 Stat. 790][/us/stat/74/790].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 42, as added [Pub. L. 86–705][/us/pl/86/705], § 5, Sept. 2, 1960, [74 Stat. 790][/us/stat/74/790].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1920-02-25/ch85/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs42
-[/us/pl/86/705/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705%2Fs5
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
+[/us/pl/86/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F705
 [/us/stat/74/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F790
 
 

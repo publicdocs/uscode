@@ -45,7 +45,7 @@
 
         Any applicant or any person with an interest which is or may be adversely affected who has participated in the administrative proceedings as an objector, and who is aggrieved by the decision of the regulatory authority, or if the regulatory authority fails to act within the time limits specified in this chapter shall have the right to appeal in accordance with [section 1276 of this title][/us/usc/t30/s1276].
 
-([Pub. L. 95–87, title V, § 514][/us/pl/95/87/s514], Aug. 3, 1977, [91 Stat. 485][/us/stat/91/485].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 514, Aug. 3, 1977, [91 Stat. 485][/us/stat/91/485].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t30/s1263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1263%2Fb
 [/us/usc/t30/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1276
 [/us/usc/t30/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1276
-[/us/pl/95/87/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs514
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F485
 
 

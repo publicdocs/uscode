@@ -17,7 +17,7 @@
 
     Any lease granted by the Secretary of the Interior pursuant to this chapter may, in the discretion of said Secretary, contain a provision giving the lessee the right, with the approval of said Secretary, to shut down the operation of any well or wells the operation of which has become unprofitable, to resume operations when such resumption may result in profit, and to abandon any well or wells that cease to produce oil and/or gas in paying quantities.
 
-([May 21, 1930, ch. 307, § 4][/us/act/1930-05-21/ch307/s4], [46 Stat. 374][/us/stat/46/374].)
+([May 21, 1930, ch. 307][/us/act/1930-05-21/ch307], § 4, [46 Stat. 374][/us/stat/46/374].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-05-21/ch307/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307%2Fs4
+[/us/act/1930-05-21/ch307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch307
 [/us/stat/46/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F374
 
 

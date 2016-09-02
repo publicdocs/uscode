@@ -31,11 +31,11 @@
 
         (1) The National Mine Health and Safety Academy shall be maintained as an agency of the Department of Labor. The Academy shall be responsible for the training of mine safety and health inspectors under [section 954 of this title][/us/usc/t30/s954], and in training of technical support personnel of the Mine Safety and Health Administration established under [section 557a of title 29][/us/usc/t29/s557a]; and for any other training programs for mine inspectors, mining personnel, or other persons as the Secretary of Labor shall designate. In performing this function, the Academy shall have the authority to enter into cooperative educational and training agreements with educational institutions, State governments, labor organizations, and mine operators and related industries. Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the user.
 
-        (2) Repealed. [Pub. L. 96–38, title I, § 100][/us/pl/96/38/s100], July 25, 1979, [93 Stat. 111][/us/stat/93/111].
+        (2) Repealed. [Pub. L. 96–38, title I][/us/pl/96/38/tI], § 100, July 25, 1979, [93 Stat. 111][/us/stat/93/111].
 
         (3) The Secretary of the Interior shall conduct his safety research responsibilities under [section 951 of this title][/us/usc/t30/s951] in coordination with the Secretary of Labor, and the Secretaries of Labor and the Interior are authorized to enter into contractual or other agreements for the performance of such safety related research.
 
-([Pub. L. 91–173, title V, § 502][/us/pl/91/173/s502], Dec. 30, 1969, [83 Stat. 800][/us/stat/83/800]; [Pub. L. 95–164, title III, § 303(b)][/us/pl/95/164/s303/b], (h), Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320], 1321; [Pub. L. 96–38, title I, § 100][/us/pl/96/38/s100], July 25, 1979, [93 Stat. 111][/us/stat/93/111].)
+([Pub. L. 91–173, title V][/us/pl/91/173/tV], § 502, Dec. 30, 1969, [83 Stat. 800][/us/stat/83/800]; [Pub. L. 95–164, title III][/us/pl/95/164/tIII], § 303(b), (h), Nov. 9, 1977, [91 Stat. 1320][/us/stat/91/1320], 1321; [Pub. L. 96–38, title I][/us/pl/96/38/tI], § 100, July 25, 1979, [93 Stat. 111][/us/stat/93/111].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
     Subsec. (c)(2). [Pub. L. 96–38][/us/pl/96/38] struck out par. (2) which directed that the National Mine Health and Safety Academy use the facilities and personnel of the Department of the Interior and that the Secretary of the Interior appoint or assign to the Academy necessary officers and employees.
 
-    1977—Subsecs. (a), (b). [Pub. L. 95–164, § 303(b)][/us/pl/95/164/s303/b], inserted references to mines other than coal mines.
+    1977—Subsecs. (a), (b). [Pub. L. 95–164][/us/pl/95/164], § 303(b), inserted references to mines other than coal mines.
 
-    Subsec. (c). [Pub. L. 95–164, § 303(h)][/us/pl/95/164/s303/h], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–164][/us/pl/95/164], § 303(h), added subsec. (c).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -64,22 +64,22 @@
 
 [/us/usc/t30/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs954
 [/us/usc/t29/s557a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs557a
-[/us/pl/96/38/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs100
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F111
 [/us/usc/t30/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs951
-[/us/pl/91/173/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs502
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F800
-[/us/pl/95/164/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fb
+[/us/pl/95/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtIII
 [/us/stat/91/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1320
-[/us/pl/96/38/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs100
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F111
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/pl/96/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38
 [/us/pl/96/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38
-[/us/pl/95/164/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fb
-[/us/pl/95/164/s303/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs303%2Fh
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
+[/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/95/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164
 [/us/pl/95/164/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs307
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

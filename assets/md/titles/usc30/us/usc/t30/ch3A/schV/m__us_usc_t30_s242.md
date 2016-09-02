@@ -67,7 +67,7 @@
 
         Notwithstanding any other provision of law, with respect to any oil shale mining claim located under the general mining laws of the United States, no patent for such claim shall be issued except as provided by this section.
 
-([Pub. L. 102–486, title XXV, § 2511][/us/pl/102/486/s2511], Oct. 24, 1992, [106 Stat. 3109][/us/stat/106/3109].)
+([Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2511, Oct. 24, 1992, [106 Stat. 3109][/us/stat/106/3109].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 
 [/us/usc/t43/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1744
 [/us/usc/t43/s1744/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1744%2Fa%2F2
-[/us/pl/102/486/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2511
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3109
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776

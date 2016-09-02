@@ -29,7 +29,7 @@
 
     (6) actions to facilitate interagency communication at management levels.
 
-([Pub. L. 98–409, § 8][/us/pl/98/409/s8], Aug. 29, 1984, [98 Stat. 1540][/us/stat/98/1540].)
+([Pub. L. 98–409][/us/pl/98/409], § 8, Aug. 29, 1984, [98 Stat. 1540][/us/stat/98/1540].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1228, [Pub. L. 95–87, title III, § 308][/us/pl/95/87/s308], Aug. 3, 1977, [91 Stat. 455][/us/stat/91/455], contained provisions similar to this section covering fiscal years 1978 through 1984.
+    A prior section 1228, [Pub. L. 95–87, title III][/us/pl/95/87/tIII], § 308, Aug. 3, 1977, [91 Stat. 455][/us/stat/91/455], contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 ----------
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/98/409/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409%2Fs8
+[/us/pl/98/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F409
 [/us/stat/98/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1540
-[/us/pl/95/87/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs308
+[/us/pl/95/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIII
 [/us/stat/91/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F455
 
 

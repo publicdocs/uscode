@@ -17,7 +17,7 @@
 
     Leases under this chapter may be issued only to citizens of the United States, associations of such citizens, corporations organized under the laws of the United States or of any State or the District of Columbia, or governmental units, including, without limitation, municipalities.
 
-([Pub. L. 91–581, § 16][/us/pl/91/581/s16], Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 109–58, title II, § 236(16)][/us/pl/109/58/s236/16], Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
+([Pub. L. 91–581][/us/pl/91/581], § 16, Dec. 24, 1970, [84 Stat. 1571][/us/stat/84/1571]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(16), Aug. 8, 2005, [119 Stat. 672][/us/stat/119/672].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/581/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs16
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1571
-[/us/pl/109/58/s236/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F16
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F672
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 

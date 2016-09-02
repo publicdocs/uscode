@@ -17,7 +17,7 @@
 
     For the purpose of this chapter the Secretary, acting through the United States Bureau of Mines, is authorized to acquire land and interests therein, and to accept in the name of the United States donations of any property, real or personal, and to utilize voluntary or uncompensated services at such laboratory. The Secretary is authorized and directed to cooperate with other departments or agencies of the Federal Government, States, and State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
 
-([Mar. 25, 1948, ch. 146, § 2][/us/act/1948-03-25/ch146/s2], [62 Stat. 85][/us/stat/62/85].)
+([Mar. 25, 1948, ch. 146][/us/act/1948-03-25/ch146], § 2, [62 Stat. 85][/us/stat/62/85].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1948-03-25/ch146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146%2Fs2
+[/us/act/1948-03-25/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-25%2Fch146
 [/us/stat/62/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F85
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2350 derived from [act Mar. 3, 1873, ch. 279, § 4][/us/act/1873-03-03/ch279/s4], [17 Stat. 607][/us/stat/17/607].
+    R.S. § 2350 derived from [act Mar. 3, 1873, ch. 279][/us/act/1873-03-03/ch279], § 4, [17 Stat. 607][/us/stat/17/607].
 
  __Indian Lands Excepted__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t30/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs72
-[/us/act/1873-03-03/ch279/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279%2Fs4
+[/us/act/1873-03-03/ch279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch279
 [/us/stat/17/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F607
 [/us/usc/t30/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs71
 

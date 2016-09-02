@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2323 derived from [act May 10, 1872, ch. 152, § 4][/us/act/1872-05-10/ch152/s4], [17 Stat. 92][/us/stat/17/92].
+    R.S. § 2323 derived from [act May 10, 1872, ch. 152][/us/act/1872-05-10/ch152], § 4, [17 Stat. 92][/us/stat/17/92].
 
  __Short Title__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1872-05-10/ch152/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152%2Fs4
+[/us/act/1872-05-10/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-10%2Fch152
 [/us/stat/17/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F92
 
 

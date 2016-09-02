@@ -29,7 +29,7 @@
 
         (2) Until such a Treaty is concluded, the Secretary of State is encouraged to promote any international actions necessary to adequately protect the environment from adverse impacts which may result from any exploration for and commercial recovery of hard mineral resources of the deep seabed carried out by persons not subject to this chapter.
 
-([Pub. L. 96–283, § 3][/us/pl/96/283/s3], June 28, 1980, [94 Stat. 555][/us/stat/94/555].)
+([Pub. L. 96–283][/us/pl/96/283], § 3, June 28, 1980, [94 Stat. 555][/us/stat/94/555].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs3
+[/us/pl/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283
 [/us/stat/94/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F555
 
 

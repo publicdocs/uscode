@@ -55,7 +55,7 @@
 
         Nothing in this section shall be construed to waive the acreage limitations for coal leases contained in [section 184(a) of this title][/us/usc/t30/s184/a].
 
-([Feb. 25, 1920, ch. 85, § 2(d)][/us/act/1920-02-25/ch85/s2/d], as added [Pub. L. 94–377, § 5(b)][/us/pl/94/377/s5/b], Aug. 4, 1976, [90 Stat. 1086][/us/stat/90/1086]; amended [Pub. L. 109–58, title IV, § 433][/us/pl/109/58/s433], Aug. 8, 2005, [119 Stat. 761][/us/stat/119/761].)
+([Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 2(d), as added [Pub. L. 94–377][/us/pl/94/377], § 5(b), Aug. 4, 1976, [90 Stat. 1086][/us/stat/90/1086]; amended [Pub. L. 109–58, title IV][/us/pl/109/58/tIV], § 433, Aug. 8, 2005, [119 Stat. 761][/us/stat/119/761].)
 
  __References in Text__ 
 
@@ -83,10 +83,10 @@
 ----------
 
 [/us/usc/t30/s184/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs184%2Fa
-[/us/act/1920-02-25/ch85/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs2%2Fd
-[/us/pl/94/377/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377%2Fs5%2Fb
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
+[/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/stat/90/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1086
-[/us/pl/109/58/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs433
+[/us/pl/109/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIV
 [/us/stat/119/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F761
 [/us/pl/94/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F377
 [/us/usc/t30/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201

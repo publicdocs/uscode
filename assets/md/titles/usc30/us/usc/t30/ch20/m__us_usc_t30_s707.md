@@ -17,7 +17,7 @@
 
     In any conveyance under this chapter the mineral interests of the United States in the lands conveyed are reserved for the term of the estate conveyed. Minerals locatable under the mining laws or disposable under subchapter I of chapter 15 of this title, are withdrawn from all forms of entry and appropriation for the term of the estate. The underlying oil, gas, and other leasable minerals of the United States are reserved for exploration and development purposes, but without the right of surface ingress and egress, and may be leased by the Secretary under the mineral leasing laws.
 
-([Pub. L. 87–851, § 7][/us/pl/87/851/s7], Oct. 23, 1962, [76 Stat. 1128][/us/stat/76/1128].)
+([Pub. L. 87–851][/us/pl/87/851], § 7, Oct. 23, 1962, [76 Stat. 1128][/us/stat/76/1128].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/851/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851%2Fs7
+[/us/pl/87/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F851
 [/us/stat/76/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1128
 
 

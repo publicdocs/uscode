@@ -25,7 +25,7 @@
 
     (d) The term “qualified expert” means an individual qualified by education or experience to conduct geological, geochemical or geophysical surveys, as the case may be.
 
-([Pub. L. 85–876, § 2][/us/pl/85/876/s2], Sept. 2, 1958, [72 Stat. 1701][/us/stat/72/1701].)
+([Pub. L. 85–876][/us/pl/85/876], § 2, Sept. 2, 1958, [72 Stat. 1701][/us/stat/72/1701].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t30/s28–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs28%E2%80%931
-[/us/pl/85/876/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F876%2Fs2
+[/us/pl/85/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F876
 [/us/stat/72/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1701
 
 

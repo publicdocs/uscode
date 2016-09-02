@@ -43,7 +43,7 @@
 
         Action of the State regulatory authority pursuant to an approved State program shall be subject to judicial review by a court of competent jurisdiction in accordance with State law, but the availability of such review shall not be construed to limit the operation of the rights established in [section 1270 of this title][/us/usc/t30/s1270] except as provided therein.
 
-([Pub. L. 95–87, title V, § 526][/us/pl/95/87/s526], Aug. 3, 1977, [91 Stat. 512][/us/stat/91/512].)
+([Pub. L. 95–87, title V][/us/pl/95/87/tV], § 526, Aug. 3, 1977, [91 Stat. 512][/us/stat/91/512].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t30/s1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1275
 [/us/usc/t30/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1271
 [/us/usc/t30/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1270
-[/us/pl/95/87/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs526
+[/us/pl/95/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtV
 [/us/stat/91/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F512
 
 

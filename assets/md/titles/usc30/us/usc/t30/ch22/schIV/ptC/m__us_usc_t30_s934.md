@@ -61,7 +61,7 @@
 
             (B) for any period after calendar year 1982, shall be the rate established by [section 6621 of title 26][/us/usc/t26/s6621] which is in effect for such period.
 
-([Pub. L. 91–173, title IV, § 424][/us/pl/91/173/s424], Dec. 30, 1969, [83 Stat. 798][/us/stat/83/798]; [Pub. L. 92–303, § 1(c)(1)][/us/pl/92/303/s1/c/1], May 19, 1972, [86 Stat. 151][/us/stat/86/151]; [Pub. L. 95–227, § 3(d)][/us/pl/95/227/s3/d], Feb. 10, 1978, [92 Stat. 13][/us/stat/92/13]; [Pub. L. 96–222, title I, § 108(b)(2)(A)][/us/pl/96/222/s108/b/2/A], Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 97–119, title I, § 104(a)(1)][/us/pl/97/119/s104/a/1], (2), (b)(6), Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 91–173, title IV][/us/pl/91/173/tIV], § 424, Dec. 30, 1969, [83 Stat. 798][/us/stat/83/798]; [Pub. L. 92–303][/us/pl/92/303], § 1(c)(1), May 19, 1972, [86 Stat. 151][/us/stat/86/151]; [Pub. L. 95–227][/us/pl/95/227], § 3(d), Feb. 10, 1978, [92 Stat. 13][/us/stat/92/13]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 108(b)(2)(A), Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 104(a)(1), (2), (b)(6), Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -75,17 +75,17 @@
 
  __Codification__ 
 
-    In subsec. (b)(3)(B), “[section 3713(a) of title 31][/us/usc/t31/s3713/a]” substituted for “section 3466 of the Revised Statutes ([31 U.S.C. 191][/us/usc/t31/s191])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(3)(B), “[section 3713(a) of title 31][/us/usc/t31/s3713/a]” substituted for “section 3466 of the Revised Statutes ([31 U.S.C. 191][/us/usc/t31/s191])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
     1986—Subsec. (b)(3)(A), (C), (D), (5)(B). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1981—Subsec. (a). [Pub. L. 97–119, § 104(b)(6)][/us/pl/97/119/s104/b/6], substituted provision defining “fund” as used in this section for provision specifying payments, repayments, and reimbursements which funds from the Black Lung Disability Trust Fund would be available to pay.
+    1981—Subsec. (a). [Pub. L. 97–119][/us/pl/97/119], § 104(b)(6), substituted provision defining “fund” as used in this section for provision specifying payments, repayments, and reimbursements which funds from the Black Lung Disability Trust Fund would be available to pay.
 
-    Subsec. (b)(1). [Pub. L. 97–119, § 104(a)(2)][/us/pl/97/119/s104/a/2], inserted “plus interest thereon” after “attributed to him”.
+    Subsec. (b)(1). [Pub. L. 97–119][/us/pl/97/119], § 104(a)(2), inserted “plus interest thereon” after “attributed to him”.
 
-    Subsec. (b)(5). [Pub. L. 97–119, § 104(a)(1)][/us/pl/97/119/s104/a/1], added par. (5).
+    Subsec. (b)(5). [Pub. L. 97–119][/us/pl/97/119], § 104(a)(1), added par. (5).
 
     1980—Subsec. (b)(3)(A)(i). [Pub. L. 96–222][/us/pl/96/222] substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
@@ -95,7 +95,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–119, title I, § 104(a)(3)][/us/pl/97/119/s104/a/3], Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639], provided that: 
+[Pub. L. 97–119, title I][/us/pl/97/119/tI], § 104(a)(3), Dec. 29, 1981, [95 Stat. 1639][/us/stat/95/1639], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1982, and shall apply to amounts outstanding on such date or arising thereafter.”
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–227, § 3(e)][/us/pl/95/227/s3/e], Feb. 10, 1978, [92 Stat. 15][/us/stat/92/15], provided that: 
+[Pub. L. 95–227][/us/pl/95/227], § 3(e), Feb. 10, 1978, [92 Stat. 15][/us/stat/92/15], provided that: 
 
 > “This section \[enacting [section 934a of this title][/us/usc/t30/s934a] and amending this section\] shall take effect on April 1, 1978.”
 
@@ -124,17 +124,17 @@
 [/us/usc/t26/s6323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323%2Fa
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
-[/us/pl/91/173/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs424
+[/us/pl/91/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtIV
 [/us/stat/83/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F798
-[/us/pl/92/303/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303%2Fs1%2Fc%2F1
+[/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
 [/us/stat/86/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F151
-[/us/pl/95/227/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs3%2Fd
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F13
-[/us/pl/96/222/s108/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs108%2Fb%2F2%2FA
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F226
-[/us/pl/97/119/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fa%2F1
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1639
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6321
 [/us/usc/t26/s6332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6332%2Fb
@@ -144,22 +144,22 @@
 [/us/stat/92/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2682
 [/us/usc/t31/s3713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713%2Fa
 [/us/usc/t31/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs191
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/119/s104/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fb%2F6
-[/us/pl/97/119/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fa%2F2
-[/us/pl/97/119/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fa%2F1
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
+[/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/pl/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F303
-[/us/pl/97/119/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs104%2Fa%2F3
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1639
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/pl/96/222/s108/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs108%2Fb%2F4
 [/us/usc/t26/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs192
-[/us/pl/95/227/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs3%2Fe
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F15
 [/us/usc/t30/s934a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs934a
 

@@ -51,19 +51,19 @@
 
         There are authorized to be appropriated to the Secretary of Agriculture, from amounts in the Treasury other than amounts in the fund, such sums as may be necessary to carry out this section.
 
-([Pub. L. 95–87, title IV, § 406][/us/pl/95/87/s406], Aug. 3, 1977, [91 Stat. 460][/us/stat/91/460]; [Pub. L. 97–98, title XV, § 1551][/us/pl/97/98/s1551], Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344]; [Pub. L. 101–508, title VI][/us/pl/101/508], §§ 6008, 6012(c), (d)(3), Nov. 5, 1990, [104 Stat. 1388–295][/us/stat/104/1388-295], 1388–298; [Pub. L. 109–432, div. C, title II, § 204][/us/pl/109/432/s204], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 406, Aug. 3, 1977, [91 Stat. 460][/us/stat/91/460]; [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1551, Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], §§ 6008, 6012(c), (d)(3), Nov. 5, 1990, [104 Stat. 1388–295][/us/stat/104/1388-295], 1388–298; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 204, Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016].)
 
  __Amendments__ 
 
-    2006—Subsec. (h). [Pub. L. 109–432, § 204(a)][/us/pl/109/432/s204/a], substituted “Natural Resources Conservation Service” for “Soil Conservation Service”.
+    2006—Subsec. (h). [Pub. L. 109–432][/us/pl/109/432], § 204(a), substituted “Natural Resources Conservation Service” for “Soil Conservation Service”.
 
-    Subsec. (i). [Pub. L. 109–432, § 204(b)][/us/pl/109/432/s204/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 109–432][/us/pl/109/432], § 204(b), added subsec. (i).
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 6012(d)(3)][/us/pl/101/508/s6012/d/3], which directed the substitution of “(including owners” for “including owners” was executed the first time that phrase appeared to reflect the probable intent of Congress, because the parenthetical statement concluding with “water rights)” was enacted without an opening parenthesis.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 6012(d)(3), which directed the substitution of “(including owners” for “including owners” was executed the first time that phrase appeared to reflect the probable intent of Congress, because the parenthetical statement concluding with “water rights)” was enacted without an opening parenthesis.
 
-    Subsec. (d). [Pub. L. 101–508, § 6008][/us/pl/101/508/s6008], struck out “experimental” before “reclamation treatment projects” in last sentence.
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 6008, struck out “experimental” before “reclamation treatment projects” in last sentence.
 
-    Subsec. (i). [Pub. L. 101–508, § 6012(c)][/us/pl/101/508/s6012/c], repealed subsec. (i) which read as follows: “Funds shall be made available to the Secretary of Agriculture for the purposes of this section, as provided in [section 1231 of this title][/us/usc/t30/s1231].”
+    Subsec. (i). [Pub. L. 101–508][/us/pl/101/508], § 6012(c), repealed subsec. (i) which read as follows: “Funds shall be made available to the Secretary of Agriculture for the purposes of this section, as provided in [section 1231 of this title][/us/usc/t30/s1231].”
 
     1981—Subsec. (d). [Pub. L. 97–98][/us/pl/97/98] inserted provisions that notwithstanding any other provision of this section with regard to acreage limitations, the Secretary may carry out experimental reclamation treatment projects to control erosion and improve water quality on all lands within a hydrologic unit, consisting of not more than 25,000 acres, if the Secretary determines that treatment of such lands as a hydrologic unit will achieve greater reduction in the adverse effects of past surface mining practices than would be achieved if reclamation was done on individual parcels of land.
 
@@ -82,19 +82,19 @@
 ----------
 ----------
 
-[/us/pl/95/87/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs406
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F460
-[/us/pl/97/98/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1551
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1344
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-295
-[/us/pl/109/432/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs204
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3016
-[/us/pl/109/432/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs204%2Fa
-[/us/pl/109/432/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs204%2Fb
-[/us/pl/101/508/s6012/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fd%2F3
-[/us/pl/101/508/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6008
-[/us/pl/101/508/s6012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6012%2Fc
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t30/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1231
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

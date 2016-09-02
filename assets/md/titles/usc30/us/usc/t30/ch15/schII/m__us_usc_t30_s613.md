@@ -67,7 +67,7 @@
 
         If any department or agency requesting publication shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
-([July 23, 1955, ch. 375, § 5][/us/act/1955-07-23/ch375/s5], [69 Stat. 369][/us/stat/69/369]; [Pub. L. 86–507, § 1(26)][/us/pl/86/507/s1/26], June 11, 1960, [74 Stat. 201][/us/stat/74/201].)
+([July 23, 1955, ch. 375][/us/act/1955-07-23/ch375], § 5, [69 Stat. 369][/us/stat/69/369]; [Pub. L. 86–507][/us/pl/86/507], § 1(26), June 11, 1960, [74 Stat. 201][/us/stat/74/201].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t30/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs612
 [/us/usc/t30/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs612
 [/us/usc/t30/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs612
-[/us/act/1955-07-23/ch375/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-23%2Fch375%2Fs5
+[/us/act/1955-07-23/ch375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-23%2Fch375
 [/us/stat/69/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F369
-[/us/pl/86/507/s1/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F26
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 

@@ -17,7 +17,7 @@
 
     As used in this chapter “mineral leasing laws” shall mean the Act of February 25, 1920 ([41 Stat. 437][/us/stat/41/437]) \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\]; the Act of April 17, 1926 ([44 Stat. 301][/us/stat/44/301]) \[[30 U.S.C. 271][/us/usc/t30/s271] et seq.\]; the Act of February 7, 1927 ([44 Stat. 1057][/us/stat/44/1057]) \[[30 U.S.C. 281][/us/usc/t30/s281] et seq.\]; Geothermal Steam Act of 1970 \[[30 U.S.C. 1001][/us/usc/t30/s1001] et seq.\]; and all Acts heretofore or hereafter enacted which are amendatory of or supplementary to any of the foregoing Acts; “Leasing Act minerals” shall mean all minerals which, upon August 13, 1954, are provided in the mineral leasing laws to be disposed of thereunder and all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder; “Leasing Act operations” shall mean operations conducted under a lease, permit, or license issued under the mineral leasing laws in or incidental to prospecting for, drilling for, mining, treating, storing, transporting, or removing Leasing Act minerals; “mining operations” shall mean operations under any unpatented or patented mining claim or millsite in or incidental to prospecting for, mining, treating, storing, transporting, or removing minerals other than Leasing Act minerals and any other use under any claim of right or title based upon such mining claim or millsite; “Leasing Act operator” shall mean any party who shall conduct Leasing Act operations; “mining operator” shall mean any party who shall conduct mining operations; “Atomic Energy Act” shall mean the Act of August 1, 1946 ([60 Stat. 755][/us/stat/60/755]), as amended \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\]; “Atomic Energy Commission” shall mean the United States Atomic Energy Commission established under the Atomic Energy Act or any amendments thereof; “fissionable source material” shall mean uranium, thorium, and all other materials referred to in section 5(b)(1) of the Atomic Energy Act, as amended, as reserved or to be reserved to the United States; “uranium lease application” shall mean an application for a uranium lease filed with said Commission with respect to lands which would be open for entry under the mining laws except for their being lands embraced within an offer, application, permit, or lease under the mineral leasing laws or lands known to be valuable for minerals leasable under those laws; “uranium lease” shall mean a uranium mining lease issued by said Commission with respect to any such lands; and “person” shall mean any individual, corporation, partnership, or other legal entity.
 
-([Aug. 13, 1954, ch. 730, § 11][/us/act/1954-08-13/ch730/s11], [68 Stat. 716][/us/stat/68/716]; [Pub. L. 91–581, § 26][/us/pl/91/581/s26], Dec. 24, 1970, [84 Stat. 1573][/us/stat/84/1573]; [Pub. L. 109–58, title II, § 236(24)][/us/pl/109/58/s236/24], Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 11, [68 Stat. 716][/us/stat/68/716]; [Pub. L. 91–581][/us/pl/91/581], § 26, Dec. 24, 1970, [84 Stat. 1573][/us/stat/84/1573]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 236(24), Aug. 8, 2005, [119 Stat. 673][/us/stat/119/673].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58][/us/pl/109/58] amended directory language of [Pub. L. 91–581, § 26][/us/pl/91/581/s26]. See 1970 Amendment note below.
+    2005—[Pub. L. 109–58][/us/pl/109/58] amended directory language of [Pub. L. 91–581][/us/pl/91/581], § 26. See 1970 Amendment note below.
 
-    1970—[Pub. L. 91–581, § 26][/us/pl/91/581/s26], as amended by [Pub. L. 109–58][/us/pl/109/58], redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
+    1970—[Pub. L. 91–581][/us/pl/91/581], § 26, as amended by [Pub. L. 109–58][/us/pl/109/58], redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
 
  __Transfer of Functions__ 
 
@@ -61,11 +61,11 @@
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/stat/60/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F755
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/act/1954-08-13/ch730/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs11
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F716
-[/us/pl/91/581/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs26
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1573
-[/us/pl/109/58/s236/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs236%2F24
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F673
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
@@ -86,8 +86,8 @@
 [/us/usc/t42/s1805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805%2Fb%2F1
 [/us/usc/t42/s2014/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fz
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/91/581/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs26
-[/us/pl/91/581/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581%2Fs26
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
+[/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

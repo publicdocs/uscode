@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 25, 1926, ch. 674, § 1][/us/act/1926-06-25/ch674/s1], [44 Stat. 768][/us/stat/44/768], authorized appropriation of $100,000 for fiscal year ending June 30, 1927, and the four succeeding fiscal years for investigation of potash deposits.
+    Section, [act June 25, 1926, ch. 674][/us/act/1926-06-25/ch674], § 1, [44 Stat. 768][/us/stat/44/768], authorized appropriation of $100,000 for fiscal year ending June 30, 1927, and the four succeeding fiscal years for investigation of potash deposits.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-06-25/ch674/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-25%2Fch674%2Fs1
+[/us/act/1926-06-25/ch674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-25%2Fch674
 [/us/stat/44/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F768
 
 

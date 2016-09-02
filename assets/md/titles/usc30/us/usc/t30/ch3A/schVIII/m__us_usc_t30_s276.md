@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall apply only to the States of Louisiana and New Mexico.
 
-([Apr. 17, 1926, ch. 158, § 6][/us/act/1926-04-17/ch158/s6], [44 Stat. 302][/us/stat/44/302]; [July 16, 1932, ch. 498][/us/act/1932-07-16/ch498], [47 Stat. 701][/us/stat/47/701].)
+([Apr. 17, 1926, ch. 158][/us/act/1926-04-17/ch158], § 6, [44 Stat. 302][/us/stat/44/302]; [July 16, 1932, ch. 498][/us/act/1932-07-16/ch498], [47 Stat. 701][/us/stat/47/701].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1926-04-17/ch158/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158%2Fs6
+[/us/act/1926-04-17/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-17%2Fch158
 [/us/stat/44/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F302
 [/us/act/1932-07-16/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-16%2Fch498
 [/us/stat/47/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F701

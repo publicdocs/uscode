@@ -27,7 +27,7 @@
 
         Except as otherwise provided in subsections (a) and (b) of this section, no mining claim hereafter located shall be valid as to any lands which at the time of such location were covered by a uranium lease application or a uranium lease. Any tract upon which a notice of lease application has been posted in accordance with said paragraph (c) of said Circular 7 shall be deemed to have been included in a uranium lease application from and after the time of the posting of such notice of lease application: Provided, That there shall have been timely compliance with the other provisions of said paragraph (c) or, if there shall not have been such timely compliance, then from and after the time of the filing of a uranium lease application with the Atomic Energy Commission.
 
-([Aug. 13, 1954, ch. 730, § 3][/us/act/1954-08-13/ch730/s3], [68 Stat. 709][/us/stat/68/709].)
+([Aug. 13, 1954, ch. 730][/us/act/1954-08-13/ch730], § 3, [68 Stat. 709][/us/stat/68/709].)
 
  __Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-13/ch730/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730%2Fs3
+[/us/act/1954-08-13/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch730
 [/us/stat/68/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F709
 
 

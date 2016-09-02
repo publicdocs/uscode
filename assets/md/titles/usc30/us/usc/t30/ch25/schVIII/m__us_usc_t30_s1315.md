@@ -49,7 +49,7 @@
 
         Whenever a member of the Council appointed under clauses (1) through (5) is unable to attend a meeting, that member shall appoint an appropriate alternate to represent him for that meeting.
 
-([Pub. L. 95–87, title VIII, § 805][/us/pl/95/87/s805], Aug. 3, 1977, [91 Stat. 528][/us/stat/91/528]; [Pub. L. 95–617, title VI, § 604(c)][/us/pl/95/617/s604/c], Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 95–87, title VIII][/us/pl/95/87/tVIII], § 805, Aug. 3, 1977, [91 Stat. 528][/us/stat/91/528]; [Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 604(c), Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Amendments__ 
 
@@ -80,11 +80,11 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/95/87/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs805
+[/us/pl/95/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVIII
 [/us/stat/91/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F528
-[/us/pl/95/617/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs604%2Fc
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3167
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb

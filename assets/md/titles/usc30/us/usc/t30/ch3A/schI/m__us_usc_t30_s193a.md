@@ -17,7 +17,7 @@
 
     The United States shall, at all times, have the preference right to purchase so much of the product of any mine or mines opened upon the lands sold under the provisions of this Act, as may be necessary for the use of the Army and Navy, and at such reasonable and remunerative price as may be fixed by the President; but the producers of any coal so purchased who may be dissatisfied with the price thus fixed shall have the right to prosecute suits against the United States in the United States Court of Federal Claims for the recovery of any additional sum or sums they may claim as justly due upon such purchase.
 
-([May 28, 1908, ch. 211, § 2][/us/act/1908-05-28/ch211/s2], [35 Stat. 424][/us/stat/35/424]; [Pub. L. 97–164, title I, § 160(a)(10)][/us/pl/97/164/s160/a/10], Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([May 28, 1908, ch. 211][/us/act/1908-05-28/ch211], § 2, [35 Stat. 424][/us/stat/35/424]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(10), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/act/1908-05-28/ch211/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch211%2Fs2
+[/us/act/1908-05-28/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch211
 [/us/stat/35/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F424
-[/us/pl/97/164/s160/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F10
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/act/1908-05-28/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch211
 [/us/stat/35/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F424

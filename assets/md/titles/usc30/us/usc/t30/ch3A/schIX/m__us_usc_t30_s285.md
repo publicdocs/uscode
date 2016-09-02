@@ -17,11 +17,11 @@
 
     The general provisions of sections 182 to 184, 185 to 188, 189 to 192, 193, and 194  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, are made applicable to permits and leases under this subchapter.
 
-([Feb. 7, 1927, ch. 66, § 5][/us/act/1927-02-07/ch66/s5], [44 Stat. 1058][/us/stat/44/1058]; [Aug. 8, 1946, ch. 916, § 11][/us/act/1946-08-08/ch916/s11], [60 Stat. 957][/us/stat/60/957].)
+([Feb. 7, 1927, ch. 66][/us/act/1927-02-07/ch66], § 5, [44 Stat. 1058][/us/stat/44/1058]; [Aug. 8, 1946, ch. 916][/us/act/1946-08-08/ch916], § 11, [60 Stat. 957][/us/stat/60/957].)
 
  __References in Text__ 
 
-    [Section 194 of this title][/us/usc/t30/s194], referred to in text, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 644][/us/stat/80/644].
+    [Section 194 of this title][/us/usc/t30/s194], referred to in text, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 644][/us/stat/80/644].
 
  __Codification__ 
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/act/1927-02-07/ch66/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66%2Fs5
+[/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1058
-[/us/act/1946-08-08/ch916/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs11
+[/us/act/1946-08-08/ch916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916
 [/us/stat/60/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F957
 [/us/usc/t30/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs194
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F644
 [/us/usc/t30/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs193
 [/us/usc/t30/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs193

@@ -17,7 +17,7 @@
 
     Effective October 1, 1983, there are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, including such sums as may be necessary for the cooperative agreements, contracts, and delegations authorized by this chapter: Provided, That nothing in this chapter shall be construed to affect or impair any authority to enter into contracts or make payments under any other provision of law.
 
-([Pub. L. 97–451, title III, § 306][/us/pl/97/451/s306], Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
+([Pub. L. 97–451, title III][/us/pl/97/451/tIII], § 306, Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/451/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs306
+[/us/pl/97/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2FtIII
 [/us/stat/96/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2462
 
 

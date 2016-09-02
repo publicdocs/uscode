@@ -17,7 +17,7 @@
 
     The Secretary shall conduct a detailed study of the need for and feasibility of establishing a reservoir insurance and reinsurance program incorporating the terms, conditions, and provisions set forth in [section 1522 of this title][/us/usc/t30/s1522], and shall submit to the Congress within one year after June 30, 1980, a report on the results of such study including his findings and recommendations with respect thereto.
 
-([Pub. L. 96–294, title VI, § 621][/us/pl/96/294/s621], June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
+([Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 621, June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t30/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1522
-[/us/pl/96/294/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs621
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F765
 
 

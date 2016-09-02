@@ -17,7 +17,7 @@
 
     Lands and water eligible for reclamation or drainage abatement expenditures under this subchapter are those which were mined for coal or which were affected by such mining, wastebanks, coal processing, or other coal mining processes, except as provided for under [section 1240a of this title][/us/usc/t30/s1240a], and abandoned or left in an inadequate reclamation status prior to August 3, 1977, and for which there is no continuing reclamation responsibility under State or other Federal laws. For other provisions relating to lands and waters eligible for such expenditures, see [section 1232(g)(4) of this title][/us/usc/t30/s1232/g/4], [section 1233(b)(1) of this title][/us/usc/t30/s1233/b/1], and [section 1239 of this title][/us/usc/t30/s1239]. Surface coal mining operations on lands eligible for remining shall not affect the eligibility of such lands for reclamation and restoration under this subchapter after the release of the bond or deposit for any such operation as provided under [section 1269 of this title][/us/usc/t30/s1269]. In the event the bond or deposit for a surface coal mining operation on lands eligible for remining is forfeited, funds available under this subchapter may be used if the amount of such bond or deposit is not sufficient to provide for adequate reclamation or abatement, except that if conditions warrant the Secretary shall immediately exercise his authority under [section 1240 of this title][/us/usc/t30/s1240].
 
-([Pub. L. 95–87, title IV, § 404][/us/pl/95/87/s404], Aug. 3, 1977, [91 Stat. 459][/us/stat/91/459]; [Pub. L. 101–508, title VI, § 6006][/us/pl/101/508/s6006], Nov. 5, 1990, [104 Stat. 1388–295][/us/stat/104/1388-295]; [Pub. L. 102–486, title XXV, § 2503(d)][/us/pl/102/486/s2503/d], Oct. 24, 1992, [106 Stat. 3103][/us/stat/106/3103].)
+([Pub. L. 95–87, title IV][/us/pl/95/87/tIV], § 404, Aug. 3, 1977, [91 Stat. 459][/us/stat/91/459]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6006, Nov. 5, 1990, [104 Stat. 1388–295][/us/stat/104/1388-295]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2503(d), Oct. 24, 1992, [106 Stat. 3103][/us/stat/106/3103].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 [/us/usc/t30/s1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1239
 [/us/usc/t30/s1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1269
 [/us/usc/t30/s1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1240
-[/us/pl/95/87/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs404
+[/us/pl/95/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtIV
 [/us/stat/91/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F459
-[/us/pl/101/508/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6006
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-295
-[/us/pl/102/486/s2503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2503%2Fd
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3103
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t30/s1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1269

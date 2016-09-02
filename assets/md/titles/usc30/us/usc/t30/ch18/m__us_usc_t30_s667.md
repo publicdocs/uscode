@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s666.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s668.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs667)
 
-## § 667. Repealed. [Pub. L. 109–58, title X, § 1009(a)(1)(C)][/us/pl/109/58/s1009/a/1/C], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934]
+## § 667. Repealed. [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(a)(1)(C), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934]
 
-    Section, [Pub. L. 86–599, § 7][/us/pl/86/599/s7], July 7, 1960, [74 Stat. 337][/us/stat/74/337], related to reports to President and Congress.
+    Section, [Pub. L. 86–599][/us/pl/86/599], § 7, July 7, 1960, [74 Stat. 337][/us/stat/74/337], related to reports to President and Congress.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1009/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fa%2F1%2FC
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
-[/us/pl/86/599/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs7
+[/us/pl/86/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599
 [/us/stat/74/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F337
 
 

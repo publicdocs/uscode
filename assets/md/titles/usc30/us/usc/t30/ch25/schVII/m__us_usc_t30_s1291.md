@@ -91,7 +91,7 @@
 
     (34) the term “lands eligible for remining” means those lands that would otherwise be eligible for expenditures under [section 1234 of this title][/us/usc/t30/s1234] or under [section 1232(g)(4) of this title][/us/usc/t30/s1232/g/4].
 
-([Pub. L. 95–87, title VII, § 701][/us/pl/95/87/s701], Aug. 5, 1977, [91 Stat. 516][/us/stat/91/516]; [Pub. L. 102–486, title XXV, § 2503(c)][/us/pl/102/486/s2503/c], Oct. 24, 1992, [106 Stat. 3103][/us/stat/106/3103]; [Pub. L. 105–244, title I, § 102(a)(10)][/us/pl/105/244/s102/a/10], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 701, Aug. 5, 1977, [91 Stat. 516][/us/stat/91/516]; [Pub. L. 102–486, title XXV][/us/pl/102/486/tXXV], § 2503(c), Oct. 24, 1992, [106 Stat. 3103][/us/stat/106/3103]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(10), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620].)
 
  __References in Text__ 
 
@@ -129,11 +129,11 @@
 [/us/usc/t30/s1260/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1260%2Fe
 [/us/usc/t30/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1234
 [/us/usc/t30/s1232/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F4
-[/us/pl/95/87/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs701
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F516
-[/us/pl/102/486/s2503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2503%2Fc
+[/us/pl/102/486/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXV
 [/us/stat/106/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3103
-[/us/pl/105/244/s102/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F10
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445

@@ -17,7 +17,7 @@
 
     If any provision of this chapter or any application thereof is held invalid, the validity of the remainder of the chapter, or any other application, shall not be affected thereby.
 
-([Pub. L. 96–283, title III, § 311][/us/pl/96/283/s311], June 28, 1980, [94 Stat. 582][/us/stat/94/582].)
+([Pub. L. 96–283, title III][/us/pl/96/283/tIII], § 311, June 28, 1980, [94 Stat. 582][/us/stat/94/582].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/283/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2Fs311
+[/us/pl/96/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F283%2FtIII
 [/us/stat/94/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F582
 
 

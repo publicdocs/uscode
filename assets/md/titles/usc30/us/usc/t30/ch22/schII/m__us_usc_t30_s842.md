@@ -65,7 +65,7 @@
 
         Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all persons whenever exposed to concentrations of respirable dust in excess of the levels required to be maintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
 
-([Pub. L. 91–173, title II, § 202][/us/pl/91/173/s202], Dec. 30, 1969, [83 Stat. 760][/us/stat/83/760]; [Pub. L. 95–164, title II, § 202(a)][/us/pl/95/164/s202/a], Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–173, title II][/us/pl/91/173/tII], § 202, Dec. 30, 1969, [83 Stat. 760][/us/stat/83/760]; [Pub. L. 95–164, title II][/us/pl/95/164/tII], § 202(a), Nov. 9, 1977, [91 Stat. 1317][/us/stat/91/1317]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -96,11 +96,11 @@
 [/us/usc/t30/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs804
 [/us/usc/t30/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs811
 [/us/usc/t30/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs811
-[/us/pl/91/173/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs202
+[/us/pl/91/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtII
 [/us/stat/83/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F760
-[/us/pl/95/164/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2Fs202%2Fa
+[/us/pl/95/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F164%2FtII
 [/us/stat/91/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1317
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/173/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs509
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801

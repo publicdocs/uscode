@@ -21,7 +21,7 @@
 
     (b) to plan and execute projects for control or extinguishment of fires in coal formations.
 
-([Aug. 31, 1954, ch. 1156, § 3][/us/act/1954-08-31/ch1156/s3], [68 Stat. 1009][/us/stat/68/1009].)
+([Aug. 31, 1954, ch. 1156][/us/act/1954-08-31/ch1156], § 3, [68 Stat. 1009][/us/stat/68/1009].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t30/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs551
-[/us/act/1954-08-31/ch1156/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156%2Fs3
+[/us/act/1954-08-31/ch1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1156
 [/us/stat/68/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1009
 
 

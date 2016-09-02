@@ -17,7 +17,7 @@
 
     All gold, silver, or quicksilver deposits, or mines or minerals of the same on lands embraced within any land claim confirmed or hereafter confirmed by decree of the Court of Private Land Claims, and which did not convey the mineral rights to the grantee by the terms of the grant, and to which such grantee has not become otherwise entitled in law or in equity, may be leased by the Secretary of the Interior to the grantee, or to those claiming through or under him, for a period of twenty years, with the preferential right in the lessee to renew the same for successive periods of ten years, upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior, unless otherwise provided by law at the time of the expiration of such periods.
 
-([June 8, 1926, ch. 503, § 1][/us/act/1926-06-08/ch503/s1], [44 Stat. 710][/us/stat/44/710].)
+([June 8, 1926, ch. 503][/us/act/1926-06-08/ch503], § 1, [44 Stat. 710][/us/stat/44/710].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-06-08/ch503/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-08%2Fch503%2Fs1
+[/us/act/1926-06-08/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-08%2Fch503
 [/us/stat/44/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F710
 
 

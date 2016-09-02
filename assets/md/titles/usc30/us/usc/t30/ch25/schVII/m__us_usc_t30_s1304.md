@@ -51,7 +51,7 @@
 
         Nothing in this section shall be construed as increasing or diminishing any property rights by the United States or by any other landowner.
 
-([Pub. L. 95–87, title VII, § 714][/us/pl/95/87/s714], Aug. 3, 1977, [91 Stat. 524][/us/stat/91/524].)
+([Pub. L. 95–87, title VII][/us/pl/95/87/tVII], § 714, Aug. 3, 1977, [91 Stat. 524][/us/stat/91/524].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t30/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201
 [/us/usc/t30/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201%2Fa
 [/us/usc/t30/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201%2Fa
-[/us/pl/95/87/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs714
+[/us/pl/95/87/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2FtVII
 [/us/stat/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F524
 
 
