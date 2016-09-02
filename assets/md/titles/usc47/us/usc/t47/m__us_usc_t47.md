@@ -15,7 +15,7 @@
 
 # Title 47—TELECOMMUNICATIONS
 
-Current through 113-75!66
+Current through 113-75
 
 <table>
 
