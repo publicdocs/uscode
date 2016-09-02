@@ -43,7 +43,7 @@
 
         (1)  __National distribution__  __.—__ 
 
-        $65,500,000 for each of fiscal years 2013 and 2014 and $54,553,425 for the period beginning on October 1, 2014, and ending on July 31, 2015, shall be allocated to all States and territories, with each State receiving $1,250,000 for each such fiscal year and $1,041,096 for such period and each territory receiving $500,000 for each such fiscal year and $416,438 for such period.
+        $65,500,000 for each of fiscal years 2013 through 2015 and $5,189,891 for the period beginning on October 1, 2015, and ending on October 29, 2015, shall be allocated to all States and territories, with each State receiving $1,250,000 for each such fiscal year and $99,044 for such period and each territory receiving $500,000 for each such fiscal year and $39,617 for such period.
 
         (2)  __Distribution using population and service factors__  __.—__ 
 
@@ -89,11 +89,13 @@
 
         (2) The term “territory” means the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the United States Virgin Islands.
 
-(Added [Pub. L. 108–7, div. I, title III, § 356][/us/pl/108/7/s356], Feb. 20, 2003, [117 Stat. 421][/us/stat/117/421]; amended [Pub. L. 109–59, title III, § 3037(a)][/us/pl/109/59/s3037/a], Aug. 10, 2005, [119 Stat. 1635][/us/stat/119/1635]; [Pub. L. 112–141, div. B, § 20029(a)][/us/pl/112/141/s20029/a], July 6, 2012, [126 Stat. 729][/us/stat/126/729]; [Pub. L. 113–159, title I, § 1204][/us/pl/113/159/s1204], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I, § 1204][/us/pl/114/21/s1204], May 29, 2015, [129 Stat. 225][/us/stat/129/225].)
+(Added [Pub. L. 108–7, div. I, title III, § 356][/us/pl/108/7/s356], Feb. 20, 2003, [117 Stat. 421][/us/stat/117/421]; amended [Pub. L. 109–59, title III, § 3037(a)][/us/pl/109/59/s3037/a], Aug. 10, 2005, [119 Stat. 1635][/us/stat/119/1635]; [Pub. L. 112–141, div. B, § 20029(a)][/us/pl/112/141/s20029/a], July 6, 2012, [126 Stat. 729][/us/stat/126/729]; [Pub. L. 113–159, title I, § 1204][/us/pl/113/159/s1204], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I, § 1204][/us/pl/114/21/s1204], May 29, 2015, [129 Stat. 225][/us/stat/129/225]; [Pub. L. 114–41, title I, § 1204][/us/pl/114/41/s1204], July 31, 2015, [129 Stat. 452][/us/stat/129/452].)
 
  __Amendments__ 
 
-    2015—Subsec. (d)(1). [Pub. L. 114–21][/us/pl/114/21] substituted “and $54,553,425 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $43,606,849 for the period beginning on October 1, 2014, and ending on May 31, 2015,”, “$1,041,096 for such period” for “$832,192 for such period” and “$416,438 for such period” for “$332,877 for such period”.
+    2015—Subsec. (d)(1). [Pub. L. 114–41][/us/pl/114/41] substituted “each of fiscal years 2013 through 2015 and $5,189,891 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of fiscal years 2013 and 2014 and $54,553,425 for the period beginning on October 1, 2014, and ending on July 31, 2015,”, “$99,044 for such period” for “$1,041,096 for such period”, and “$39,617 for such period” for “$416,438 for such period”.
+
+    [Pub. L. 114–21][/us/pl/114/21] substituted “and $54,553,425 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $43,606,849 for the period beginning on October 1, 2014, and ending on May 31, 2015,”, “$1,041,096 for such period” for “$832,192 for such period”, and “$416,438 for such period” for “$332,877 for such period”.
 
     2014—Subsec. (d)(1). [Pub. L. 113–159][/us/pl/113/159] inserted “for each of fiscal years 2013 and 2014 and $43,606,849 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “$65,500,000”, “for each such fiscal year and $832,192 for such period” after “$1,250,000”, and “for each such fiscal year and $332,877 for such period” after “$500,000”.
 
@@ -124,6 +126,9 @@
 [/us/stat/128/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1847
 [/us/pl/114/21/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1204
 [/us/stat/129/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F225
+[/us/pl/114/41/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1204
+[/us/stat/129/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F452
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

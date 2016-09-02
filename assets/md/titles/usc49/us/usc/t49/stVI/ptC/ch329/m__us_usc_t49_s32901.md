@@ -517,7 +517,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
     2014—Subsec. (c)(2)(B). [Pub. L. 113–291, § 318(b)(1)][/us/pl/113/291/s318/b/1], inserted “, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles” after “at least 200 miles”.
 
-    Subsec. (c)(2)(C). [Pub. L. 113–291, § 318(b)(2)][/us/pl/113/291/s318/b/2], inserted second sentence.
+    Subsec. (c)(2)(C). [Pub. L. 113–291, § 318(b)(2)][/us/pl/113/291/s318/b/2], inserted at end “Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).”
 
     2007—Subsec. (a)(3). [Pub. L. 110–140, § 103(a)(1)][/us/pl/110/140/s103/a/1], added par. (3) and struck out former par. (3) which read as follows: “except as provided in [section 32908 of this title][/us/usc/t49/s32908], ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
 

@@ -49,7 +49,7 @@
 
             (A)
 
-             the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54][/us/usc/t54/s306108], United States Code, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “, United States Code,” probably should not appear. </sup></sup>  that—
+             the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54][/us/usc/t54/s306108], United States Code, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “, United States Code” probably should not appear. </sup></sup>  that—
 
                 (i) the transportation program or project will have no adverse effect on the historic site; or
 

@@ -189,7 +189,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 5002(c), 105 Stat. 2158.  </td>
 
  __Change of Name__ 
 
-    “Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of [Pub. L. 113–76][/us/pl/113/76], set out in part as a note under [section 112 of this title][/us/usc/t49/s112].
+    “Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of [Pub. L. 113–76][/us/pl/113/76], set out in part as a Transfer of Duties and Powers note under [section 112 of this title][/us/usc/t49/s112].
 
 ----------
 

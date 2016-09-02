@@ -229,7 +229,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
  __Amendments__ 
 
-    2014—Subsec. (b)(3)(D). [Pub. L. 113–76][/us/pl/113/76] and [Pub. L. 113–235][/us/pl/113/235], which identically directed substitution of “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”, could not be executed because of the prior amendment by [Pub. L. 112–55, § 119][/us/pl/112/55/s119]. See 2011 Amendment note below.
+    2014—Subsec. (b)(3)(D). [Pub. L. 113–76][/us/pl/113/76] and [Pub. L. 113–235][/us/pl/113/235], which identically directed substitution of “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”, could not be executed because of the prior amendment by [Pub. L. 112–55][/us/pl/112/55]. See 2011 Amendment note below.
 
     2012—Subsec. (b)(1). [Pub. L. 112–95, § 147(a)(1)][/us/pl/112/95/s147/a/1], designated existing provisions as subpar. (A), inserted par. and subpar. headings, and added subpars. (B) and (C).
 
@@ -344,7 +344,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 [/us/stat/128/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2704
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/pl/112/55/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs119
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/pl/112/95/s147/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fa%2F1
 [/us/pl/112/95/s147/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fa%2F2
 [/us/pl/112/95/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fb

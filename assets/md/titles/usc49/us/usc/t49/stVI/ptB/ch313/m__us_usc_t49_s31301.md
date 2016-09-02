@@ -427,7 +427,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
  __Grant Program for Commercial Motor Vehicle Operators__ 
 
-[Pub. L. 109–59, title IV, § 4134][/us/pl/109/59/s4134], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], as amended by [Pub. L. 111–147, title IV, § 422(h)][/us/pl/111/147/s422/h], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(h)][/us/pl/111/322/s2202/h], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(h)][/us/pl/112/5/s202/h], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(g)][/us/pl/112/30/s122/g], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(g)][/us/pl/112/102/s202/g], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(g)][/us/pl/112/140/s202/g], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(g)][/us/pl/112/141/s32603/g], July 6, 2012, [126 Stat. 808][/us/stat/126/808]; [Pub. L. 113–159, title I, § 1102(g)][/us/pl/113/159/s1102/g], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(g)][/us/pl/114/21/s1102/g], May 29, 2015, [129 Stat. 222][/us/stat/129/222], provided that:
+[Pub. L. 109–59, title IV, § 4134][/us/pl/109/59/s4134], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], as amended by [Pub. L. 111–147, title IV, § 422(h)][/us/pl/111/147/s422/h], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(h)][/us/pl/111/322/s2202/h], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(h)][/us/pl/112/5/s202/h], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(g)][/us/pl/112/30/s122/g], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(g)][/us/pl/112/102/s202/g], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(g)][/us/pl/112/140/s202/g], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(g)][/us/pl/112/141/s32603/g], July 6, 2012, [126 Stat. 808][/us/stat/126/808]; [Pub. L. 113–159, title I, § 1102(g)][/us/pl/113/159/s1102/g], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(g)][/us/pl/114/21/s1102/g], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(g)][/us/pl/114/41/s1102/g], July 31, 2015, [129 Stat. 449][/us/stat/129/449], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -439,7 +439,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >     “(c)  __Funding__  __.—__ 
 
->     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2014 and $832,877 for the period beginning on October 1, 2014, and ending on July 31, 2015, to carry out this section.”
+>     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2015 and $79,235 for the period beginning on October 1, 2015, and ending on October 29, 2015, to carry out this section.”
 
  __CDL Task Force__ 
 
@@ -538,6 +538,8 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 [/us/stat/128/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1844
 [/us/pl/114/21/s1102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fg
 [/us/stat/129/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F222
+[/us/pl/114/41/s1102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fg
+[/us/stat/129/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F449
 [/us/usc/t49/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31301
 [/us/usc/t49/s31104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Fi
 [/us/pl/109/59/s4135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4135
