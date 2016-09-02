@@ -41,7 +41,7 @@
 
             (A)
 
-             the Secretary has determined, in accordance with the consultation process required under section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]), that—
+             the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54][/us/usc/t54/s306108], that—
 
                 (i) the transportation program or project will have no adverse effect on the historic site; or
 
@@ -59,13 +59,15 @@
 
             (B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
 
-(Added [Pub. L. 89–574, § 15(a)][/us/pl/89/574/s15/a], Sept. 13, 1966, [80 Stat. 771][/us/stat/80/771]; amended [Pub. L. 90–495, § 18(a)][/us/pl/90/495/s18/a], Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823]; [Pub. L. 94–280, title I, § 124][/us/pl/94/280/s124], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 100–17, title I, § 133(b)(10)][/us/pl/100/17/s133/b/10], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 109–59, title VI, § 6009(a)(1)][/us/pl/109/59/s6009/a/1], Aug. 10, 2005, [119 Stat. 1874][/us/stat/119/1874]; [Pub. L. 112–141, div. A, title I, § 1119(c)(2)][/us/pl/112/141/s1119/c/2], July 6, 2012, [126 Stat. 492][/us/stat/126/492].)
+(Added [Pub. L. 89–574, § 15(a)][/us/pl/89/574/s15/a], Sept. 13, 1966, [80 Stat. 771][/us/stat/80/771]; amended [Pub. L. 90–495, § 18(a)][/us/pl/90/495/s18/a], Aug. 23, 1968, [82 Stat. 823][/us/stat/82/823]; [Pub. L. 94–280, title I, § 124][/us/pl/94/280/s124], May 5, 1976, [90 Stat. 440][/us/stat/90/440]; [Pub. L. 100–17, title I, § 133(b)(10)][/us/pl/100/17/s133/b/10], Apr. 2, 1987, [101 Stat. 171][/us/stat/101/171]; [Pub. L. 109–59, title VI, § 6009(a)(1)][/us/pl/109/59/s6009/a/1], Aug. 10, 2005, [119 Stat. 1874][/us/stat/119/1874]; [Pub. L. 112–141, div. A, title I, § 1119(c)(2)][/us/pl/112/141/s1119/c/2], July 6, 2012, [126 Stat. 492][/us/stat/126/492]; [Pub. L. 113–287, § 5(f)(2)][/us/pl/113/287/s5/f/2], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __References in Text__ 
 
     For the effective date of the Federal-Aid Highway Act of 1968, referred to in subsec. (a), see [section 37 of Pub. L. 90–495][/us/pl/90/495/s37], as amended, set out as an Effective Date of 1968 Amendment note under [section 101 of this title][/us/usc/t23/s101].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])” in introductory provisions.
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141] substituted “Federal lands transportation facility” for “park road or parkway under [section 204 of this title][/us/usc/t23/s204]”.
 
@@ -152,7 +154,7 @@
 ----------
 ----------
 
-[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/pl/89/574/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F574%2Fs15%2Fa
 [/us/stat/80/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F771
 [/us/pl/90/495/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs18%2Fa
@@ -165,8 +167,13 @@
 [/us/stat/119/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1874
 [/us/pl/112/141/s1119/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fc%2F2
 [/us/stat/126/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F492
+[/us/pl/113/287/s5/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F2
+[/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/90/495/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs37
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/109/59/s6009/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F1%2FA

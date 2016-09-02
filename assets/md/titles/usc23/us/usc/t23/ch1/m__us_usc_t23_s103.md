@@ -169,15 +169,15 @@
 
             Subject to subparagraph (C)—
 
-                (i) the Secretary shall determine, through the administrative process established for exempting the Interstate System from section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]), those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
+                (i) the Secretary shall determine, through the administrative process established for exempting the Interstate System from [section 306108 of title 54][/us/usc/t54/s306108], those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
 
                 (ii) those elements shall be considered to be historic sites under [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], as applicable.
 
             (C)  __Construction, maintenance, restoration, and rehabilitation activities__  __.—__ 
 
-            Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], as applicable, and section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]).
+            Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with [section 303 of title 49][/us/usc/t49/s303] or [section 138 of this title][/us/usc/t23/s138], as applicable, and [section 306108 of title 54][/us/usc/t54/s306108].
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 887][/us/stat/72/887]; [Pub. L. 86–70, § 21(d)(1)][/us/pl/86/70/s21/d/1], June 25, 1959, [73 Stat. 145][/us/stat/73/145]; [Pub. L. 86–624, § 17(b)][/us/pl/86/624/s17/b], (c), July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 8(a)][/us/pl/87/866/s8/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 90–238][/us/pl/90/238], Jan. 2, 1968, [81 Stat. 772][/us/stat/81/772]; [Pub. L. 90–495][/us/pl/90/495], §§ 14, 21, Aug. 23, 1968, [82 Stat. 822][/us/stat/82/822], 826; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(b), 124, Dec. 31, 1970, [84 Stat. 1716][/us/stat/84/1716], 1729; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, [87 Stat. 255][/us/stat/87/255], 256, 268, 274; [Pub. L. 93–643, § 125][/us/pl/93/643/s125], Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 109, 110, 111(a), May 5, 1976, [90 Stat. 431][/us/stat/90/431], 433; [Pub. L. 95–599, title I, § 107(a)][/us/pl/95/599/s107/a], (b), (f)(1), Nov. 6, 1978, [92 Stat. 2694][/us/stat/92/2694], 2695; [Pub. L. 96–106][/us/pl/96/106], §§ 1, 2(a), (c), Nov. 9, 1979, [93 Stat. 796][/us/stat/93/796]; [Pub. L. 96–144, § 2][/us/pl/96/144/s2], Dec. 13, 1979, [93 Stat. 1084][/us/stat/93/1084]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, [96 Stat. 2101–2104][/us/stat/96/2101-2104]; [Pub. L. 100–17, title I, § 103(b)][/us/pl/100/17/s103/b], (f)(1), Apr. 2, 1987, [101 Stat. 136][/us/stat/101/136], 141; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1006(a), (b), (d), 1011, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1923][/us/stat/105/1923], 1925, 1935, 2088; [Pub. L. 103–272, § 5(f)(1)][/us/pl/103/272/s5/f/1], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–429][/us/pl/103/429], §§ 3(1), 7(a)(4)(B), Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377], 4389; [Pub. L. 104–59, title I, § 101][/us/pl/104/59/s101], title III, § 301(a), Nov. 28, 1995, [109 Stat. 569][/us/stat/109/569], 578; [Pub. L. 104–287, § 2][/us/pl/104/287/s2], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–178, title I, § 1106(b)][/us/pl/105/178/s1106/b], June 9, 1998, [112 Stat. 131][/us/stat/112/131]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1106, 1118(b)(1), title VI, §§ 6006(a)(1), 6007, Aug. 10, 2005, [119 Stat. 1166][/us/stat/119/1166], 1181, 1872, 1873; [Pub. L. 112–141, div. A, title I, § 1104(a)][/us/pl/112/141/s1104/a], July 6, 2012, [126 Stat. 422][/us/stat/126/422].)
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 887][/us/stat/72/887]; [Pub. L. 86–70, § 21(d)(1)][/us/pl/86/70/s21/d/1], June 25, 1959, [73 Stat. 145][/us/stat/73/145]; [Pub. L. 86–624, § 17(b)][/us/pl/86/624/s17/b], (c), July 12, 1960, [74 Stat. 415][/us/stat/74/415]; [Pub. L. 87–866, § 8(a)][/us/pl/87/866/s8/a], Oct. 23, 1962, [76 Stat. 1147][/us/stat/76/1147]; [Pub. L. 90–238][/us/pl/90/238], Jan. 2, 1968, [81 Stat. 772][/us/stat/81/772]; [Pub. L. 90–495][/us/pl/90/495], §§ 14, 21, Aug. 23, 1968, [82 Stat. 822][/us/stat/82/822], 826; [Pub. L. 91–605, title I][/us/pl/91/605], §§ 106(b), 124, Dec. 31, 1970, [84 Stat. 1716][/us/stat/84/1716], 1729; [Pub. L. 93–87, title I][/us/pl/93/87], §§ 109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, [87 Stat. 255][/us/stat/87/255], 256, 268, 274; [Pub. L. 93–643, § 125][/us/pl/93/643/s125], Jan. 4, 1975, [88 Stat. 2290][/us/stat/88/2290]; [Pub. L. 94–280, title I][/us/pl/94/280], §§ 109, 110, 111(a), May 5, 1976, [90 Stat. 431][/us/stat/90/431], 433; [Pub. L. 95–599, title I, § 107(a)][/us/pl/95/599/s107/a], (b), (f)(1), Nov. 6, 1978, [92 Stat. 2694][/us/stat/92/2694], 2695; [Pub. L. 96–106][/us/pl/96/106], §§ 1, 2(a), (c), Nov. 9, 1979, [93 Stat. 796][/us/stat/93/796]; [Pub. L. 96–144, § 2][/us/pl/96/144/s2], Dec. 13, 1979, [93 Stat. 1084][/us/stat/93/1084]; [Pub. L. 97–424, title I][/us/pl/97/424], §§ 107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, [96 Stat. 2101–2104][/us/stat/96/2101-2104]; [Pub. L. 100–17, title I, § 103(b)][/us/pl/100/17/s103/b], (f)(1), Apr. 2, 1987, [101 Stat. 136][/us/stat/101/136], 141; [Pub. L. 102–240, title I][/us/pl/102/240], §§ 1006(a), (b), (d), 1011, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1923][/us/stat/105/1923], 1925, 1935, 2088; [Pub. L. 103–272, § 5(f)(1)][/us/pl/103/272/s5/f/1], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–429][/us/pl/103/429], §§ 3(1), 7(a)(4)(B), Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377], 4389; [Pub. L. 104–59, title I, § 101][/us/pl/104/59/s101], title III, § 301(a), Nov. 28, 1995, [109 Stat. 569][/us/stat/109/569], 578; [Pub. L. 104–287, § 2][/us/pl/104/287/s2], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–178, title I, § 1106(b)][/us/pl/105/178/s1106/b], June 9, 1998, [112 Stat. 131][/us/stat/112/131]; [Pub. L. 109–59, title I][/us/pl/109/59], §§ 1106, 1118(b)(1), title VI, §§ 6006(a)(1), 6007, Aug. 10, 2005, [119 Stat. 1166][/us/stat/119/1166], 1181, 1872, 1873; [Pub. L. 112–141, div. A, title I, § 1104(a)][/us/pl/112/141/s1104/a], July 6, 2012, [126 Stat. 422][/us/stat/126/422]; [Pub. L. 113–287, § 5(f)(1)][/us/pl/113/287/s5/f/1], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __References in Text__ 
 
@@ -188,6 +188,10 @@
     Another [section 1106(b) of Pub. L. 105–178][/us/pl/105/178/s1106/b] is set out as a note below.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(5)(B)(i). [Pub. L. 113–287, § 5(f)(1)(A)][/us/pl/113/287/s5/f/1/A], substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])”.
+
+    Subsec. (c)(5)(C). [Pub. L. 113–287, § 5(f)(1)(B)][/us/pl/113/287/s5/f/1/B], substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])”.
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to Federal-aid systems.
 
@@ -522,12 +526,12 @@
 
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
-[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
-[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F887
 [/us/pl/86/70/s21/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fd%2F1
@@ -574,9 +578,17 @@
 [/us/stat/119/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1166
 [/us/pl/112/141/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1104%2Fa
 [/us/stat/126/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F422
+[/us/pl/113/287/s5/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F1
+[/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/105/178/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1106%2Fb
+[/us/pl/113/287/s5/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F1%2FA
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/pl/113/287/s5/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F1%2FB
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s1118/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1118%2Fb%2F1%2FA
 [/us/pl/109/59/s1118/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1118%2Fb%2F1%2FB

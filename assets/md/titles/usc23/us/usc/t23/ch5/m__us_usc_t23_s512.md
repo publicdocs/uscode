@@ -529,7 +529,7 @@
 
 >         “(1)  __Development__  __.—__ 
 
->         The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]) and the regulations of the Advisory Council on Historic Preservation.
+>         The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]) \[now [54 U.S.C. 306108][/us/usc/t54/s306108]\]and the regulations of the Advisory Council on Historic Preservation.
 
 >         “(2)  __Consultation__  __.—__ 
 
@@ -582,6 +582,7 @@
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t26/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs470i
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs513

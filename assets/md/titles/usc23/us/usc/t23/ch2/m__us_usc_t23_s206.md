@@ -61,7 +61,7 @@
 
             (A) have been planned and developed under the laws, policies, and administrative procedures of the State; and
 
-            (B) are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.), that is in effect.
+            (B) are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by chapter 2003 of title 54, that is in effect.
 
         (2)  __Permissible uses__  __.—__ 
 
@@ -79,7 +79,7 @@
 
                 (i) permissible under other law;
 
-                (ii) necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.) and that is in effect;
+                (ii) necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by chapter 2003 of title 54 and that is in effect;
 
                 (iii) approved by the administering agency of the State designated under subsection (c)(1); and
 
@@ -207,7 +207,7 @@
 
         (3)  __Continuing recreational use__  __.—__ 
 
-        At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–8(f)(3)).
+        At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of [section 200305(f)(3) of title 54][/us/usc/t54/s200305/f/3].
 
         (4) __Cooperation by private persons.—__ 
 
@@ -223,11 +223,9 @@
 
     Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
-(Added [Pub. L. 105–178, title I, § 1112(a)][/us/pl/105/178/s1112/a], June 9, 1998, [112 Stat. 146][/us/stat/112/146]; amended [Pub. L. 109–59, title I, § 1109(b)][/us/pl/109/59/s1109/b]–(e), Aug. 10, 2005, [119 Stat. 1168–1170][/us/stat/119/1168-1170]; [Pub. L. 110–244, title I, § 101(q)][/us/pl/110/244/s101/q], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576].)
+(Added [Pub. L. 105–178, title I, § 1112(a)][/us/pl/105/178/s1112/a], June 9, 1998, [112 Stat. 146][/us/stat/112/146]; amended [Pub. L. 109–59, title I, § 1109(b)][/us/pl/109/59/s1109/b]–(e), Aug. 10, 2005, [119 Stat. 1168–1170][/us/stat/119/1168-1170]; [Pub. L. 110–244, title I, § 101(q)][/us/pl/110/244/s101/q], June 6, 2008, [122 Stat. 1576][/us/stat/122/1576]; [Pub. L. 113–287, § 5(f)(3)][/us/pl/113/287/s5/f/3], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __References in Text__ 
-
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (d)(1)(B), (2)(D)(ii), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
 
     The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(D)(iv), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
@@ -240,6 +238,12 @@
     A prior section 206, [Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 908][/us/stat/72/908], provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by [Pub. L. 97–424, title I, § 126(d)][/us/pl/97/424/s126/d], Jan. 6, 1983, [96 Stat. 2115][/us/stat/96/2115].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1)(B). [Pub. L. 113–287, § 5(f)(3)(A)][/us/pl/113/287/s5/f/3/A], substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.)”.
+
+    Subsec. (d)(2)(D)(ii). [Pub. L. 113–287, § 5(f)(3)(B)][/us/pl/113/287/s5/f/3/B], substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.)”.
+
+    Subsec. (h)(3). [Pub. L. 113–287, § 5(f)(3)(C)][/us/pl/113/287/s5/f/3/C], substituted “[section 200305(f)(3) of title 54][/us/usc/t54/s200305/f/3]” for “section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–8(f)(3))”.
 
     2008—Subsec. (d)(3)(A). [Pub. L. 110–244][/us/pl/110/244] substituted “(B) and (C)” for “(B), (C), and (D)” in introductory provisions.
 
@@ -300,22 +304,20 @@ Similar provisions were contained in the following prior acts:
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t54/s200305/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Ff%2F3
 [/us/pl/105/178/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1112%2Fa
 [/us/stat/112/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F146
 [/us/pl/109/59/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fb
 [/us/stat/119/1168-1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1168-1170
 [/us/pl/110/244/s101/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Fq
 [/us/stat/122/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1576
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287/s5/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3
+[/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
@@ -329,6 +331,13 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/72/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F908
 [/us/pl/97/424/s126/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs126%2Fd
 [/us/stat/96/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2115
+[/us/pl/113/287/s5/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3%2FA
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s5/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3%2FB
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s5/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Ff%2F3%2FC
+[/us/usc/t54/s200305/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Ff%2F3
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fb
 [/us/pl/109/59/s1109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1109%2Fc

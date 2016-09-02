@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    An Act for the preservation of American antiquities, referred to in text, is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], popularly known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of Title 16][/us/usc/t16/s431] and Tables.
+    An Act for the preservation of American antiquities, referred to in text, is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], popularly known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -41,7 +41,6 @@
 [/us/stat/74/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F525
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 [/us/pl/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F657
 
 
