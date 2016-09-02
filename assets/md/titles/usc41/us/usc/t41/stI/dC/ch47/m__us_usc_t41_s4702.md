@@ -15,15 +15,15 @@
 
 ## § 4702. Prohibition on release of contractor proposals
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “proposal” means a proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-    (b) __Prohibition.—__ 
+    (b)  __Prohibition__  __.—__ 
 
     A proposal in the possession or control of an executive agency may not be made available to any person under [section 552 of title 5][/us/usc/t5/s552].
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     Subsection (b) does not apply to a proposal that is set forth or incorporated by reference in a contract entered into between the agency and the contractor that submitted the proposal.
 

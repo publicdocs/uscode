@@ -15,11 +15,11 @@
 
 ## § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the authority, direction, and control of the Director of the Office of Management and Budget, the Administrator of General Services shall establish and maintain a database of information regarding the integrity and performance of certain persons awarded Federal agency contracts and grants for use by Federal agency officials having authority over contracts and grants.
 
-    (b) __Persons Covered.—__ 
+    (b)  __Persons Covered__  __.—__ 
 
     The database shall cover the following:
 
@@ -27,7 +27,7 @@
 
         (2) Any person awarded such other category or categories of Federal agency contract as the Federal Acquisition Regulation may provide, if any information described in subsection (c) exists with respect to the person.
 
-    (c) __Information Included.—__ 
+    (c)  __Information Included__  __.—__ 
 
     With respect to a covered person, the database shall include information (in the form of a brief description) for the most recent 5-year period regarding the following:
 
@@ -71,11 +71,11 @@
 
     (d) __Requirements Relating to Database Information.—__ 
 
-        (1) __Direct input and update.—__ 
+        (1)  __Direct input and update__  __.—__ 
 
         The Administrator of General Services shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions that the officials have taken with regard to contractors or grant recipients.
 
-        (2) __Timeliness and accuracy.—__ 
+        (2)  __Timeliness and accuracy__  __.—__ 
 
         The Administrator of General Services shall develop policies to require—
 
@@ -85,27 +85,27 @@
 
             (C) opportunities for any covered person to submit comments pertaining to information about the person for inclusion in the database.
 
-        (3) __Information on corporations.—__ 
+        (3)  __Information on corporations__  __.—__ 
 
         The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
 
     (e) __Use of Database.—__ 
 
-        (1) __Availability to government officials.—__ 
+        (1)  __Availability to government officials__  __.—__ 
 
         The Administrator of General Services shall ensure that the information in the database is available to appropriate acquisition officials of Federal agencies, other government officials as the Administrator of General Services determines appropriate, and, on request, the Chairman and Ranking Member of the committees of Congress having jurisdiction.
 
         (2) __Review and assessment of data.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Before awarding a contract or grant in excess of the simplified acquisition threshold under [section 134 of this title][/us/usc/t41/s134], the Federal agency official responsible for awarding the contract or grant shall review the database and consider all information in the database with regard to any offer or proposal, and in the case of a contract, shall consider other past performance information available with respect to the offeror in making any responsibility determination or past performance evaluation for the offeror.
 
-            (B) __Documentation in contract file.—__ 
+            (B)  __Documentation in contract file__  __.—__ 
 
             The contract file for each contract of a Federal agency in excess of the simplified acquisition threshold shall document the manner in which the material in the database was considered in any responsibility determination or past performance evaluation.
 
-    (f) __Disclosure in Applications.—__ 
+    (f)  __Disclosure in Applications__  __.—__ 
 
     The Federal Acquisition Regulation shall require that persons with Federal agency contracts and grants valued in total greater than $10,000,000 shall—
 
@@ -113,7 +113,7 @@
 
         (2) update the information submitted under paragraph (1) on a semiannual basis.
 
-    (g) __Rulemaking.—__ 
+    (g)  __Rulemaking__  __.—__ 
 
     The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 

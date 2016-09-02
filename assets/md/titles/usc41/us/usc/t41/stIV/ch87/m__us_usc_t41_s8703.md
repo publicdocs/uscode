@@ -15,7 +15,7 @@
 
 ## § 8703. Contractor responsibilities
 
-    (a) __Requirements Included in Contracts.—__ 
+    (a)  __Requirements Included in Contracts__  __.—__ 
 
     Each contracting agency shall include in each prime contract awarded by the agency a requirement that the prime contractor shall—
 
@@ -23,21 +23,21 @@
 
         (2) cooperate fully with a Federal Government agency investigating a violation of [section 8702 of this title][/us/usc/t41/s8702].
 
-    (b) __Full Cooperation Required.—__ 
+    (b)  __Full Cooperation Required__  __.—__ 
 
     Notwithstanding subsection (d), a prime contractor shall cooperate fully with a Federal Government agency investigating a violation of [section 8702 of this title][/us/usc/t41/s8702].
 
     (c) __Reporting Requirement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A prime contractor or subcontractor that has reasonable grounds to believe that a violation of [section 8702 of this title][/us/usc/t41/s8702] may have occurred shall promptly report the possible violation in writing to the inspector general of the contracting agency, the head of the contracting agency if the agency does not have an inspector general, or the Attorney General.
 
-        (2) __Supplying information as favorable evidence.—__ 
+        (2)  __Supplying information as favorable evidence__  __.—__ 
 
         In an administrative or contractual action to suspend or debar a person who is eligible to enter into contracts with the Federal Government, evidence that the person has supplied information to the Federal Government pursuant to paragraph (1) is favorable evidence of the person’s responsibility for the purposes of Federal procurement laws and regulations.
 
-    (d) __Inapplicability to Certain Prime Contracts.—__ 
+    (d)  __Inapplicability to Certain Prime Contracts__  __.—__ 
 
     Subsection (a) does not apply to a prime contract—
 

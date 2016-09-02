@@ -15,11 +15,11 @@
 
 ## § 2309. Protection of constitutional rights of contractors
 
-    (a) __Prohibition on Requiring Waiver of Rights.—__ 
+    (a)  __Prohibition on Requiring Waiver of Rights__  __.—__ 
 
     A contractor may not be required, as a condition for entering into a contract with the Federal Government, to waive a right under the Constitution for a purpose relating to the Chemical Weapons Convention Implementation Act of 1998 ([22 U.S.C. 6701][/us/usc/t22/s6701] et seq.) or the Chemical Weapons Convention (as defined in section 3 of that Act ([22 U.S.C. 6701][/us/usc/t22/s6701])).
 
-    (b) __Permissible Contract Clauses.—__ 
+    (b)  __Permissible Contract Clauses__  __.—__ 
 
     Subsection (a) does not prohibit an executive agency from including in a contract a clause that requires the contractor to permit inspections to ensure that the contractor is performing the contract in accordance with the provisions of the contract.
 

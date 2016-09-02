@@ -15,21 +15,21 @@
 
 ## § 3103. Acquisition programs
 
-    (a) __Congressional Policy.—__ 
+    (a)  __Congressional Policy__  __.—__ 
 
     It is the policy of Congress that the head of each executive agency should achieve, on average, 90 percent of the cost, performance, and schedule goals established for major acquisition programs of the agency.
 
     (b) __Establishment of Goals.—__ 
 
-        (1) __By head of executive agency.—__ 
+        (1)  __By head of executive agency__  __.—__ 
 
         The head of each executive agency shall approve or define the cost, performance, and schedule goals for major acquisition programs of the agency.
 
-        (2) __By chief financial officer.—__ 
+        (2)  __By chief financial officer__  __.—__ 
 
         The chief financial officer of an executive agency shall evaluate the cost goals proposed for each major acquisition program of the agency.
 
-    (c) __Identification of Noncompliant Programs.—__ 
+    (c)  __Identification of Noncompliant Programs__  __.—__ 
 
     When it is necessary to implement the policy set out in subsection (a), the head of an executive agency shall—
 

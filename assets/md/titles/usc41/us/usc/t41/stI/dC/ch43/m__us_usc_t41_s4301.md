@@ -17,19 +17,19 @@
 
     In this chapter:
 
-    (1) __Compensation.—__ 
+    (1)  __Compensation__  __.—__ 
 
     The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer’s cost accounting records for the fiscal year.
 
-    (2) __Covered contract.—__ 
+    (2)  __Covered contract__  __.—__ 
 
     The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that the term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
-    (3) __Fiscal year.—__ 
+    (3)  __Fiscal year__  __.—__ 
 
     The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-    (4) __Senior executive.—__ 
+    (4)  __Senior executive__  __.—__ 
 
     The term “senior executive”, with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
 

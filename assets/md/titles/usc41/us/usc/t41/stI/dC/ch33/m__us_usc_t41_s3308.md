@@ -17,11 +17,11 @@
 
     (a) __Development Contract.—__ 
 
-        (1) __Determining whether proposals are necessary.—__ 
+        (1)  __Determining whether proposals are necessary__  __.—__ 
 
         In preparing a solicitation for the award of a development contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require the proposals, the head of the agency shall consider the purposes for which the system is being procured and the technology necessary to meet the system’s required capabilities. If the proposals are required, the head of the agency shall consider them in evaluating the offeror’s price.
 
-        (2) __Contents of proposals.—__ 
+        (2)  __Contents of proposals__  __.—__ 
 
         The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are the following:
 
@@ -31,11 +31,11 @@
 
     (b) __Production Contract.—__ 
 
-        (1) __Determining whether proposals are necessary.—__ 
+        (1)  __Determining whether proposals are necessary__  __.—__ 
 
         In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require the proposals, the head of the agency shall consider the purposes for which the system is being procured and the technology necessary to meet the system’s required capabilities. If the proposals are required, the head of the agency shall consider them in evaluating the offeror’s price.
 
-        (2) __Content of proposals.—__ 
+        (2)  __Content of proposals__  __.—__ 
 
         The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are proposals identifying opportunities to ensure that the Federal Government will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to this requirement may include the following:
 
@@ -43,7 +43,7 @@
 
             (B) Proposals for the qualification or development of multiple sources of supply for the item.
 
-    (c) __Consideration of Factors as Objectives in Negotiations.—__ 
+    (c)  __Consideration of Factors as Objectives in Negotiations__  __.—__ 
 
     If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in subsections (a) and (b) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded.
 

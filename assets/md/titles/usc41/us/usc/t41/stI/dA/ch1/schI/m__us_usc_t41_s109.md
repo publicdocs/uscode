@@ -15,11 +15,11 @@
 
 ## § 109. Major system
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not include construction or other improvements to real property.
 
-    (b) __System Deemed To Be Major System.—__ 
+    (b)  __System Deemed To Be Major System__  __.—__ 
 
     A system is deemed to be a major system if—
 

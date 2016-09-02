@@ -15,7 +15,7 @@
 
 ## § 3301. Full and open competition
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in sections 3303, 3304(a), and 3305 of this title and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services shall—
 
@@ -25,7 +25,7 @@
 
     (b) __Appropriate Competitive Procedures.—__ 
 
-        (1) __Use of sealed bids.—__ 
+        (1)  __Use of sealed bids__  __.—__ 
 
         In determining the competitive procedures appropriate under the circumstance, an executive agency shall—
 
@@ -43,11 +43,11 @@
 
             (B) request competitive proposals if sealed bids are not appropriate under subparagraph (A).
 
-        (2) __Sealed bid not required.—__ 
+        (2)  __Sealed bid not required__  __.—__ 
 
         Paragraph (1)(A) does not require the use of sealed-bid procedures in cases in which section 204(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23 applies.
 
-    (c) __Efficient Fulfillment of Government Requirements.—__ 
+    (c)  __Efficient Fulfillment of Government Requirements__  __.—__ 
 
     The Federal Acquisition Regulation shall ensure that the requirement to obtain full and open competition is implemented in a manner that is consistent with the need to efficiently fulfill the Federal Government’s requirements.
 

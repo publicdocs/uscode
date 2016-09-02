@@ -15,11 +15,11 @@
 
 ## § 6505. Exclusions
 
-    (a) __Items Available in the Open Market.—__ 
+    (a)  __Items Available in the Open Market__  __.—__ 
 
     This chapter does not apply to the purchase of materials, supplies, articles, or equipment that may usually be bought in the open market.
 
-    (b) __Perishables and Agricultural Products.—__ 
+    (b)  __Perishables and Agricultural Products__  __.—__ 
 
     This chapter does not apply to any of the following:
 
@@ -29,7 +29,7 @@
 
         (3) Contracts made by the Secretary of Agriculture for the purchase of agricultural commodities or products of agricultural commodities.
 
-    (c) __Carriage of Freight or Personnel.—__ 
+    (c)  __Carriage of Freight or Personnel__  __.—__ 
 
     This chapter may not be construed to apply to—
 

@@ -15,7 +15,7 @@
 
 ## § 1122. Functions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The functions of the Administrator include—
 
@@ -49,7 +49,7 @@
 
         (13) completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
 
-    (b) __Consultation and Assistance.—__ 
+    (b)  __Consultation and Assistance__  __.—__ 
 
     In carrying out the functions in subsection (a), the Administrator—
 
@@ -61,17 +61,17 @@
 
     (c) __Assignment, Delegation, or Transfer.—__ 
 
-        (1) __To administrator.—__ 
+        (1)  __To administrator__  __.—__ 
 
         Except as otherwise provided by law, only duties, functions, or responsibilities expressly assigned by this division shall be assigned, delegated, or transferred to the Administrator.
 
         (2) __By administrator.—__ 
 
-            (A) __Within office.—__ 
+            (A)  __Within office__  __.—__ 
 
             The Administrator may make and authorize delegations within the Office of Federal Procurement Policy that the Administrator determines to be necessary to carry out this division.
 
-            (B) __To another executive agency.—__ 
+            (B)  __To another executive agency__  __.—__ 
 
             The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
 
@@ -201,11 +201,11 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
 [Pub. L. 105–135, title IV, § 414][/us/pl/105/135/s414], Dec. 2, 1997, [111 Stat. 2619][/us/stat/111/2619], provided that:
 
->     “(a) __Data Collection Required.—__ 
+>     “(a)  __Data Collection Required__  __.—__ 
 
 >     The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405(d)(4)(A)][/us/usc/t41/s405/d/4/A]) \[now [41 U.S.C. 1122(a)(4)(A)][/us/usc/t41/s1122/a/4/A]\] shall be modified to collect data regarding bundling of contract requirements when the contracting officer anticipates that the resulting contract price, including all options, is expected to exceed $5,000,000. The data shall reflect a determination made by the contracting officer regarding whether a particular solicitation constitutes a contract bundling.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section, the term ‘bundling of contract requirements’ has the meaning given that term in section 3(o) of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632](o)) (as added by section 412 of this subtitle).”
 
@@ -213,11 +213,11 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
 [Pub. L. 103–355, title V, § 5052][/us/pl/103/355/s5052], Oct. 13, 1994, [108 Stat. 3352][/us/stat/108/3352], provided that:
 
->     “(a) __Development of Process Required.—__ 
+>     “(a)  __Development of Process Required__  __.—__ 
 
 >     The Administrator for Federal Procurement Policy, in consultation with the heads of appropriate Federal agencies, shall develop results-oriented acquisition process guidelines for implementation by agencies in acquisitions of property and services by the Federal agencies. The process guidelines shall include the identification of quantitative measures and standards for determining the extent to which an acquisition of items other than commercial items by a Federal agency satisfies the needs for which the items are being acquired.
 
->     “(b) __Inapplicability of Process to Department of Defense.—__ 
+>     “(b)  __Inapplicability of Process to Department of Defense__  __.—__ 
 
 >     The process guidelines developed pursuant to subsection (a) may not be applied to the Department of Defense.”
 
@@ -225,7 +225,7 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
 [Pub. L. 103–355, title X, § 10004][/us/pl/103/355/s10004], Oct. 13, 1994, [108 Stat. 3405][/us/stat/108/3405], provided that:
 
->     “(a) __Data Collection Required.—__ 
+>     “(a)  __Data Collection Required__  __.—__ 
 
 >     The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405(d)(4)(A)][/us/usc/t41/s405/d/4/A]) \[now [41 U.S.C. 1122(a)(4)(A)][/us/usc/t41/s1122/a/4/A]\] shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
 
@@ -239,7 +239,7 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
 >         “(5) Contracts for the acquisition of commercial items.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘simplified acquisition threshold’ has the meaning given such term in section 4(11) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(11)][/us/usc/t41/s403/11]) \[now [41 U.S.C. 134][/us/usc/t41/s134]\].”
 

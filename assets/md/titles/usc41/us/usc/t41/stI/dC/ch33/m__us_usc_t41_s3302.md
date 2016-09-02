@@ -15,19 +15,19 @@
 
 ## § 3302. Requirements for purchase of property and services pursuant to multiple award contracts
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Executive agency.—__ 
+        (1)  __Executive agency__  __.—__ 
 
          The term “executive agency” has the same meaning given in [section 133 of this title][/us/usc/t41/s133].
 
-        (2) __Individual purchase.—__ 
+        (2)  __Individual purchase__  __.—__ 
 
         The term “individual purchase” means a task order, delivery order, or other purchase.
 
-        (3) __Multiple award contract.—__ 
+        (3)  __Multiple award contract__  __.—__ 
 
         The term “multiple award contract” means—
 
@@ -37,17 +37,17 @@
 
             (C) any other indefinite delivery, indefinite quantity contract that is entered into by the head of an executive agency with 2 or more sources pursuant to the same solicitation.
 
-        (4) __Sole source task or delivery order.—__ 
+        (4)  __Sole source task or delivery order__  __.—__ 
 
         The term “sole source task or delivery order” means any order that does not follow the competitive procedures in paragraph (2) or (3) of subsection (c).
 
-    (b) __Regulations Required.—__ 
+    (b)  __Regulations Required__  __.—__ 
 
     The Federal Acquisition Regulation shall require enhanced competition in the purchase of property and services by all executive agencies pursuant to multiple award contracts.
 
     (c) __Content of Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The regulations required by subsection (b) shall provide that each individual purchase of property or services in excess of the simplified acquisition threshold that is made under a multiple award contract shall be made on a competitive basis unless a contracting officer—
 
@@ -61,7 +61,7 @@
 
             (B) justifies the determination in writing.
 
-        (2) __Competitive basis procedures.—__ 
+        (2)  __Competitive basis procedures__  __.—__ 
 
         For purposes of this subsection, an individual purchase of property or services is made on a competitive basis only if it is made pursuant to procedures that—
 
@@ -71,11 +71,11 @@
 
         (3) __Exception to notice requirement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than all contractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice is provided to as many contractors as practicable.
 
-            (B) __Limitation on exception.—__ 
+            (B)  __Limitation on exception__  __.—__ 
 
             A purchase may not be made pursuant to a notice that is provided to fewer than all contractors under subparagraph (A) unless—
 
@@ -85,7 +85,7 @@
 
     (d) __Public Notice Requirements Related to Sole Source Task or Delivery Orders.—__ 
 
-        (1) __Public notice required.—__ 
+        (1)  __Public notice required__  __.—__ 
 
         The Federal Acquisition Regulation shall require the head of each executive agency to—
 
@@ -93,11 +93,11 @@
 
             (B) disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by [section 2304(f)(1) of title 10][/us/usc/t10/s2304/f/1] and [section 3304(e)(1) of this title][/us/usc/t41/s3304/e/1], except in the event of extraordinary circumstances or classified orders.
 
-        (2) __Exemption.—__ 
+        (2)  __Exemption__  __.—__ 
 
         This subsection does not require the public availability of information that is exempt from public disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b].
 
-    (e) __Applicability.—__ 
+    (e)  __Applicability__  __.—__ 
 
     The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
 

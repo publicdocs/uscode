@@ -15,7 +15,7 @@
 
 ## § 6702. Contracts to which this chapter applies
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), this chapter applies to any contract or bid specification for a contract, whether negotiated or advertised, that—
 
@@ -25,7 +25,7 @@
 
         (3) has as its principal purpose the furnishing of services in the United States through the use of service employees.
 
-    (b) __Exemptions.—__ 
+    (b)  __Exemptions__  __.—__ 
 
     This chapter does not apply to—
 

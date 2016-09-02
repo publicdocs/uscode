@@ -15,11 +15,11 @@
 
 ## § 2105. Penalties and administrative actions
 
-    (a) __Criminal Penalties.—__ 
+    (a)  __Criminal Penalties__  __.—__ 
 
     A person that violates [section 2102 of this title][/us/usc/t41/s2102] to exchange information covered by [section 2102 of this title][/us/usc/t41/s2102] for anything of value or to obtain or give a person a competitive advantage in the award of a Federal agency procurement contract shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
-    (b) __Civil Penalties.—__ 
+    (b)  __Civil Penalties__  __.—__ 
 
     The Attorney General may bring a civil action in an appropriate district court of the United States against a person that engages in conduct that violates section 2102, 2103, or 2104 of this title. On proof of that conduct by a preponderance of the evidence—
 
@@ -29,7 +29,7 @@
 
     (c) __Administrative Actions.—__ 
 
-        (1) __Types of action that federal agency may take.—__ 
+        (1)  __Types of action that federal agency may take__  __.—__ 
 
         A Federal agency that receives information that a contractor or a person has violated section 2102, 2103, or 2104 of this title shall consider taking one or more of the following actions, as appropriate:
 
@@ -47,11 +47,11 @@
 
             (D) Initiating an adverse personnel action, pursuant to the procedures in chapter 75 of title 5 or other applicable law or regulation.
 
-        (2) __Amount government entitled to recover.—__ 
+        (2)  __Amount government entitled to recover__  __.—__ 
 
         When a Federal agency rescinds a contract pursuant to paragraph (1)(B), the Federal Government is entitled to recover, in addition to any penalty prescribed by law, the amount expended under the contract.
 
-        (3) __Present responsibility affected by conduct.—__ 
+        (3)  __Present responsibility affected by conduct__  __.—__ 
 
         For purposes of a suspension or debarment proceeding initiated pursuant to paragraph (1)(C), engaging in conduct constituting an offense under section 2102, 2103, or 2104 of this title affects the present responsibility of a Federal Government contractor or subcontractor.
 

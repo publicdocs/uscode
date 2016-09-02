@@ -15,17 +15,17 @@
 
 ## § 6306. Prohibition on Members of Congress making contracts with Federal Government
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A Member of Congress may not enter into or benefit from a contract or agreement or any part of a contract or agreement with the Federal Government.
 
     (b) __Exemptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subsection (a) does not apply to contracts that the Secretary of Agriculture may enter into with farmers.
 
-        (2) __Certain acts.—__ 
+        (2)  __Certain acts__  __.—__ 
 
         Subsection (a) does not apply to a contract entered into under—
 
@@ -35,7 +35,7 @@
 
             (C) the Home Owners’ Loan Act ([12 U.S.C. 1461][/us/usc/t12/s1461] et seq.).
 
-        (3) __Public record.—__ 
+        (3)  __Public record__  __.—__ 
 
         An exemption under this subsection shall be made a matter of public record.
 

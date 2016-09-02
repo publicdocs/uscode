@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Contracting officer.—__ 
+    (1)  __Contracting officer__  __.—__ 
 
     The term “contracting officer” means an individual who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to the contract.
 
-    (2) __Contractor bid or proposal information.—__ 
+    (2)  __Contractor bid or proposal information__  __.—__ 
 
     The term “contractor bid or proposal information” means any of the following information submitted to a Federal agency as part of, or in connection with, a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
 
@@ -33,15 +33,15 @@
 
         (D) Information marked by the contractor as “contractor bid or proposal information”, in accordance with applicable law or regulation.
 
-    (3) __Federal agency.—__ 
+    (3)  __Federal agency__  __.—__ 
 
     The term “Federal agency” has the meaning given that term in [section 102 of title 40][/us/usc/t40/s102].
 
-    (4) __Federal agency procurement.—__ 
+    (4)  __Federal agency procurement__  __.—__ 
 
     The term “Federal agency procurement” means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
 
-    (5) __Official.—__ 
+    (5)  __Official__  __.—__ 
 
     The term “official” means—
 
@@ -51,11 +51,11 @@
 
         (C) a member of the uniformed services, as defined in [section 2101(3) of title 5][/us/usc/t5/s2101/3].
 
-    (6) __Protest.—__ 
+    (6)  __Protest__  __.—__ 
 
     The term “protest” means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
 
-    (7) __Source selection information.—__ 
+    (7)  __Source selection information__  __.—__ 
 
     The term “source selection information” means any of the following information prepared for use by a Federal agency to evaluate a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
 

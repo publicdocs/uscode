@@ -17,29 +17,29 @@
 
     (a) __Individual or Class Determinations and Decisions Authorized.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Determinations and decisions required to be made under this division by the head of an executive agency or provided in this division or chapters 1 to 11 of title 40 to be made by the Administrator of General Services or other agency head may be made for an individual purchase or contract or, except for determinations or decisions made under sections 3105, 3301, 3303 to 3305, 3306(a)–(e), and 3308, chapter 37, and [section 4702 of this title][/us/usc/t41/s4702] or to the extent expressly prohibited by another law, for a class of purchases or contracts.
 
-        (2) __Delegation.—__ 
+        (2)  __Delegation__  __.—__ 
 
         Except as provided in [section 3304(a)(7) of this title][/us/usc/t41/s3304/a/7], and except as provided in section 121(d)(1) and (2) of title 40 with respect to the Administrator of General Services, the agency head, in the discretion and subject to the direction of the agency head, may delegate powers provided by this division or chapters 1 to 11 of title 40, including the making of determinations and decisions described in paragraph (1), to other officers or officials of the agency.
 
-        (3) __Finality.—__ 
+        (3)  __Finality__  __.—__ 
 
         The determinations and decisions are final.
 
     (b) __Written Findings.—__ 
 
-        (1) __Basis for certain determinations.—__ 
+        (1)  __Basis for certain determinations__  __.—__ 
 
         Each determination or decision under section 3901, 3905, 4503, or 4706(d)(2)(B) of this title shall be based on a written finding by the individual making the determination or decision. A finding under section 4503 or 4706(d)(2)(B) shall set out facts and circumstances that support the determination or decision.
 
-        (2) __Finality.—__ 
+        (2)  __Finality__  __.—__ 
 
         Each finding referred to in paragraph (1) is final.
 
-        (3) __Maintaining copies of findings.—__ 
+        (3)  __Maintaining copies of findings__  __.—__ 
 
         The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by an individual in that executive agency. The period begins on the date of the determination or decision to which the finding relates.
 

@@ -17,15 +17,15 @@
 
     In this chapter:
 
-    (1) __Blind.—__ 
+    (1)  __Blind__  __.—__ 
 
     The term “blind” refers to an individual or class of individuals whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than 20 degrees.
 
-    (2) __Committee.—__ 
+    (2)  __Committee__  __.—__ 
 
     The term “Committee” means the Committee for Purchase From People Who Are Blind or Severely Disabled established under [section 8502 of this title][/us/usc/t41/s8502].
 
-    (3) __Direct labor.—__ 
+    (3)  __Direct labor__  __.—__ 
 
     The term “direct labor”—
 
@@ -33,15 +33,15 @@
 
         (B) does not include supervision, administration, inspection, or shipping.
 
-    (4) __Entity of the federal government and federal government.—__ 
+    (4)  __Entity of the federal government and federal government__  __.—__ 
 
     The terms “entity of the Federal Government” and “Federal Government” include an entity of the legislative or judicial branch, a military department or executive agency (as defined in sections 102 and 105 of title 5, respectively), the United States Postal Service, and a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces.
 
-    (5) __Other severely disabled.—__ 
+    (5)  __Other severely disabled__  __.—__ 
 
     The term “other severely disabled” means an individual or class of individuals under a physical or mental disability, other than blindness, which (according to criteria established by the Committee after consultation with appropriate entities of the Federal Government and taking into account the views of non-Federal Government entities representing the disabled) constitutes a substantial handicap to employment and is of a nature that prevents the individual from currently engaging in normal competitive employment.
 
-    (6) __Qualified nonprofit agency for other severely disabled.—__ 
+    (6)  __Qualified nonprofit agency for other severely disabled__  __.—__ 
 
     The term “qualified nonprofit agency for other severely disabled” means an agency—
 
@@ -57,7 +57,7 @@
 
         (C) that in the production of products and in the provision of services (whether or not the products or services are procured under this chapter) during the fiscal year employs blind or other severely disabled individuals for at least 75 percent of the hours of direct labor required for the production or provision of the products or services.
 
-    (7) __Qualified nonprofit agency for the blind.—__ 
+    (7)  __Qualified nonprofit agency for the blind__  __.—__ 
 
     The term “qualified nonprofit agency for the blind” means an agency—
 
@@ -73,11 +73,11 @@
 
         (C) that in the production of products and in the provision of services (whether or not the products or services are procured under this chapter) during the fiscal year employs blind individuals for at least 75 percent of the hours of direct labor required for the production or provision of the products or services.
 
-    (8) __Severely disabled individual.—__ 
+    (8)  __Severely disabled individual__  __.—__ 
 
     The term “severely disabled individual” means an individual or class of individuals under a physical or mental disability, other than blindness, which (according to criteria established by the Committee after consultation with appropriate entities of the Federal Government and taking into account the views of non-Federal Government entities representing the disabled) constitutes a substantial handicap to employment and is of a nature that prevents the individual from currently engaging in normal competitive employment.
 
-    (9) __State.—__ 
+    (9)  __State__  __.—__ 
 
     The term “State” includes the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
@@ -255,21 +255,21 @@ June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Sta
 
 >     “(a) __Inapplicability of Certain Laws.—__ 
 
->         “(1) __Inapplicability of the randolph-sheppard act to contracts and subcontracts for military dining facility support services covered by javits-wagner-o’day act.—__ 
+>         “(1)  __Inapplicability of the randolph-sheppard act to contracts and subcontracts for military dining facility support services covered by javits-wagner-o’day act__  __.—__ 
 
 >         The Randolph-Sheppard Act ([20 U.S.C. 107][/us/usc/t20/s107] et seq.) does not apply to full food services, mess attendant services, or services supporting the operation of a military dining facility that, as of the date of the enactment of this Act \[Oct. 17, 2006\], were services on the procurement list established under section 2 of the Javits-Wagner-O’Day Act (\[former\] [41 U.S.C. 47][/us/usc/t41/s47]) \[now [41 U.S.C. 8503][/us/usc/t41/s8503]\].
 
->         “(2) __Inapplicability of the javits-wagner-o’day act to contracts for the operation of a military dining facility.—__ 
+>         “(2)  __Inapplicability of the javits-wagner-o’day act to contracts for the operation of a military dining facility__  __.—__ 
 
 >             (A) The Javits-Wagner-O’Day Act (\[former\] [41 U.S.C. 46][/us/usc/t41/s46] et seq.) \[now [41 U.S.C. 8501][/us/usc/t41/s8501] et seq.\] does not apply at the prime contract level to any contract entered into by the Department of Defense as of the date of the enactment of this Act with a State licensing agency under the Randolph-Sheppard Act ([20 U.S.C. 107][/us/usc/t20/s107] et seq.) for the operation of a military dining facility.
 
 >             “(B) The Javits-Wagner-O’Day Act \[now [41 U.S.C. 8501][/us/usc/t41/s8501] et seq.\] shall apply to any subcontract entered into by a Department of Defense contractor for full food services, mess attendant services, and other services supporting the operation of a military dining facility.
 
->         “(3) __Repeal of superseded law.—__ 
+>         “(3)  __Repeal of superseded law__  __.—__ 
 
 >         \[Repealed section 853(a), (b) of [Pub. L. 108–375][/us/pl/108/375], [118 Stat. 2021][/us/stat/118/2021].\]
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -281,11 +281,11 @@ June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Sta
 
 [Pub. L. 109–163, div. A, title VIII, § 848(b)][/us/pl/109/163/s848/b], (c), Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395], provided that:
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     The Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall jointly issue a statement of policy related to the implementation of the Randolph-Sheppard Act ([20 U.S.C. 107][/us/usc/t20/s107] et seq.) and the Javits-Wagner-O’Day Act (\[former\] [41 U.S.C. 48][/us/usc/t41/s48] \[46 et seq.\]) \[now [41 U.S.C. 8501][/us/usc/t41/s8501] et seq.\] within the Department of Defense and the Department of Education. The joint statement of policy shall specifically address the application of those Acts to both operation and management of all or any part of a military mess hall, military troop dining facility, or any similar dining facility operated for the purpose of providing meals to members of the Armed Forces, and shall take into account and address, to the extent practicable, the positions acceptable to persons representing programs implemented under each Act.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
 

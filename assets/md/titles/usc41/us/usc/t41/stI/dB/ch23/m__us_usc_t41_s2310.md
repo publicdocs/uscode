@@ -15,7 +15,7 @@
 
 ## § 2310. Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items
 
-    (a) __Criteria.—__ 
+    (a)  __Criteria__  __.—__ 
 
     A performance-based contract for the procurement of services entered into by an executive agency or a performance-based task order for services issued by an executive agency may be treated as a contract for the procurement of commercial items if—
 
@@ -33,15 +33,15 @@
 
         (3) the source of the services provides similar services to the general public under terms and conditions similar to those offered to the Federal Government.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     Regulations implementing this section shall require agencies to collect and maintain reliable data sufficient to identify the contracts or task orders treated as contracts for commercial items using the authority of this section. The data may be collected using the Federal Procurement Data System or other reporting mechanism.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
     Not later than 2 years after November 24, 2003, the Director of the Office of Management and Budget shall prepare and submit to the Committees on Homeland Security and Governmental Affairs and on Armed Services of the Senate and the Committees on Oversight and Government Reform and on Armed Services of the House of Representatives a report on the contracts or task orders treated as contracts for commercial items using the authority of this section. The report shall include data on the use of the authority, both government-wide and for each department and agency.
 
-    (d) __Expiration.—__ 
+    (d)  __Expiration__  __.—__ 
 
     The authority under this section expires 10 years after November 24, 2003.
 

@@ -17,11 +17,11 @@
 
     (a) __Establishment and Designation.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         Each executive agency has an advocate for competition.
 
-        (2) __Designation.—__ 
+        (2)  __Designation__  __.—__ 
 
         The head of each executive agency shall—
 
@@ -31,7 +31,7 @@
 
             (C) provide those officers or employees with the staff or assistance necessary to carry out the duties and responsibilities of the advocate for competition, such as individuals who are specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
 
-    (b) __Duties and Functions.—__ 
+    (b)  __Duties and Functions__  __.—__ 
 
     The advocate for competition of an executive agency shall—
 
@@ -67,7 +67,7 @@
 
         (6) describe other ways in which the executive agency has emphasized competition in programs for procurement training and research.
 
-    (c) __Responsibilities.—__ 
+    (c)  __Responsibilities__  __.—__ 
 
     The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial items, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 

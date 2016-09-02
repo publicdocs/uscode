@@ -15,17 +15,17 @@
 
 ## § 1703. Acquisition workforce
 
-    (a) __Description.—__ 
+    (a)  __Description__  __.—__ 
 
     For purposes of this section, the acquisition workforce of an agency consists of all employees serving in acquisition positions listed in subsection (g)(1)(A).
 
     (b) __Applicability.—__ 
 
-        (1) __Nonapplicability to certain executive agencies.—__ 
+        (1)  __Nonapplicability to certain executive agencies__  __.—__ 
 
         Except as provided in subsection (i), this section does not apply to an executive agency that is subject to chapter 87 of title 10.
 
-        (2) __Applicability of programs.—__ 
+        (2)  __Applicability of programs__  __.—__ 
 
         The programs established by this section apply to the acquisition workforce of each executive agency.
 
@@ -33,21 +33,21 @@
 
         (1) __Duties of head of executive agency.—__ 
 
-            (A) __Establish policies and procedures.—__ 
+            (A)  __Establish policies and procedures__  __.—__ 
 
             After consultation with the Administrator, the head of each executive agency shall establish policies and procedures for the effective management (including accession, education, training, career development, and performance incentives) of the acquisition workforce of the agency. The development of acquisition workforce policies under this section shall be carried out consistent with the merit system principles set forth in [section 2301(b) of title 5][/us/usc/t5/s2301/b].
 
-            (B) __Ensure uniform implementation.—__ 
+            (B)  __Ensure uniform implementation__  __.—__ 
 
             The head of each executive agency shall ensure that, to the maximum extent practicable, acquisition workforce policies and procedures established are uniform in their implementation throughout the agency.
 
         (2) __Duties of administrator.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator shall issue policies to promote uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Administrator shall coordinate with the Deputy Director for Management of the Office of Management and Budget to ensure that the policies are consistent with the policies and procedures established, and enhanced system of incentives provided, pursuant to section 5051(c) of the Federal Acquisition Streamlining Act of 1994 ([Public Law 103–355][/us/pl/103/355], [108 Stat. 3351][/us/stat/108/3351]). The Administrator shall evaluate the implementation of this section by executive agencies.
 
-            (B) __Government-wide training standards and certification.—__ 
+            (B)  __Government-wide training standards and certification__  __.—__ 
 
             The Administrator, acting through the Federal Acquisition Institute, shall provide and update government-wide training standards and certification requirements, including—
 
@@ -63,11 +63,11 @@
 
                 (vi) managing rotation assignments to support opportunities to apply skills included in certification.
 
-    (d) __Authority and Responsibility of Senior Procurement Executive.—__ 
+    (d)  __Authority and Responsibility of Senior Procurement Executive__  __.—__ 
 
     Subject to the authority, direction, and control of the head of an executive agency, the senior procurement executive of the agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementing this section. The senior procurement executive shall ensure that the policies of the head of the executive agency established in accordance with this section are implemented throughout the agency.
 
-    (e) __Collecting and Maintaining Information.—__ 
+    (e)  __Collecting and Maintaining Information__  __.—__ 
 
     The Administrator shall ensure that the heads of executive agencies collect and maintain standardized information on the acquisition workforce related to implementing this section. To the maximum extent practicable, information requirements shall conform to standards the Director of the Office of Personnel Management establishes for the Central Personnel Data File.
 
@@ -75,19 +75,19 @@
 
         (1) __Career paths.—__ 
 
-            (A) __Identification.—__ 
+            (A)  __Identification__  __.—__ 
 
             The head of each executive agency shall ensure that appropriate career paths for personnel who desire to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression to the most senior acquisition positions. The head of each executive agency shall make available information on those career paths.
 
-            (B) __Critical duties and tasks.—__ 
+            (B)  __Critical duties and tasks__  __.—__ 
 
             For each career path, the head of each executive agency shall identify the critical acquisition-related duties and tasks in which, at minimum, employees of the agency in the career path shall be competent to perform at full performance grade levels. For this purpose, the head of the executive agency shall provide appropriate coverage of the critical duties and tasks identified by the Director of the Federal Acquisition Institute.
 
-            (C) __Mandatory training and education.—__ 
+            (C)  __Mandatory training and education__  __.—__ 
 
             For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency also shall encourage employees to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
 
-        (2) __Performance incentives.—__ 
+        (2)  __Performance incentives__  __.—__ 
 
         The head of each executive agency shall provide for an enhanced system of incentives to encourage excellence in the acquisition workforce that rewards performance of employees who contribute to achieving the agency’s performance goals. The system of incentives shall include provisions that—
 
@@ -97,7 +97,7 @@
 
     (g) __Qualification Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), the Administrator shall—
 
@@ -115,31 +115,31 @@
 
             (B) prescribe the manner and extent to which the qualification requirements shall apply to an individual serving in a position described in subparagraph (A) at the time the requirements are established.
 
-        (2) __Relationship to requirements applicable to defense acquisition workforce.—__ 
+        (2)  __Relationship to requirements applicable to defense acquisition workforce__  __.—__ 
 
         The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable to those established for the same or equivalent positions pursuant to chapter 87 of title 10 with appropriate modifications.
 
-        (3) __Approval of requirements.—__ 
+        (3)  __Approval of requirements__  __.—__ 
 
         The Administrator shall submit any requirement established or prescription made under paragraph (1) to the Director of the Office of Personnel Management for approval. The Director is deemed to have approved the requirement or prescription if the Director does not disapprove the requirement or prescription within 30 days after receiving it.
 
     (h) __Education and Training.—__ 
 
-        (1) __Funding levels.—__ 
+        (1)  __Funding levels__  __.—__ 
 
         The head of an executive agency shall set forth separately the funding levels requested for educating and training the acquisition workforce in the budget justification documents submitted in support of the President’s budget submitted to Congress under [section 1105 of title 31][/us/usc/t31/s1105].
 
-        (2) __Tuition assistance.—__ 
+        (2)  __Tuition assistance__  __.—__ 
 
         The head of an executive agency may provide tuition reimbursement in education (including a full-time course of study leading to a degree) in accordance with [section 4107 of title 5][/us/usc/t5/s4107] for personnel serving in acquisition positions in the agency.
 
-        (3) __Restricted obligation.—__ 
+        (3)  __Restricted obligation__  __.—__ 
 
         Amounts appropriated for education and training under this section may not be obligated for another purpose.
 
     (i) __Training Fund.—__ 
 
-        (1) __Purposes.—__ 
+        (1)  __Purposes__  __.—__ 
 
         The purposes of this subsection are to ensure that the Federal acquisition workforce—
 
@@ -147,11 +147,11 @@
 
             (B) acquires new skills and a new perspective to enable it to contribute effectively in the changing environment of the 21st century.
 
-        (2) __Establishment and management of fund.—__ 
+        (2)  __Establishment and management of fund__  __.—__ 
 
         There is an acquisition workforce training fund. The Administrator of General Services shall manage the fund through the Federal Acquisition Institute to support the activities set forth in [section 1201(a) of this title][/us/usc/t41/s1201/a], except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
 
-        (3) __Credits to fund.—__ 
+        (3)  __Credits to fund__  __.—__ 
 
         Five percent of the fees collected by executive agencies (other than the Department of Defense) under the following contracts shall be credited to the fund:
 
@@ -161,43 +161,43 @@
 
             (C) multiple-award schedule contracts entered into by the Administrator of General Services.
 
-        (4) __Remittance by head of executive agency.—__ 
+        (4)  __Remittance by head of executive agency__  __.—__ 
 
         The head of an executive agency that administers a contract described in paragraph (3) shall remit to the General Services Administration the amount required to be credited to the fund with respect to the contract at the end of each quarter of the fiscal year.
 
-        (5) __Transfer and use of fees collected from department of defense.—__ 
+        (5)  __Transfer and use of fees collected from department of defense__  __.—__ 
 
         The Administrator of General Services shall transfer to the Secretary of Defense fees collected from the Department of Defense pursuant to paragraph (3). The Defense Acquisition University shall use the fees for acquisition workforce training.
 
-        (6) __Amounts not to be used for other purposes.—__ 
+        (6)  __Amounts not to be used for other purposes__  __.—__ 
 
         The Administrator of General Services, through the Office of Federal Procurememt  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Procurement”. </sup></sup>  Policy, shall ensure that amounts collected under this section are not used for a purpose other than the activities set forth in [section 1201(a) of this title][/us/usc/t41/s1201/a].
 
-        (7) __Amounts are in addition to other amounts for education and training.—__ 
+        (7)  __Amounts are in addition to other amounts for education and training__  __.—__ 
 
         Amounts credited to the fund are in addition to amounts requested and appropriated for education and training referred to in subsection (h)(1).
 
-        (8) __Availability of amounts.—__ 
+        (8)  __Availability of amounts__  __.—__ 
 
         Amounts credited to the fund remain available to be expended only in the fiscal year for which they are credited and the 2 succeeding fiscal years.
 
     (j) __Recruitment Program.—__ 
 
-        (1) __Shortage category positions.—__ 
+        (1)  __Shortage category positions__  __.—__ 
 
         For purposes of sections 3304, 5333, and 5753 of title 5, the head of a department or agency of the Federal Government (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in subsection (g)(1)(A)) are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified individuals directly to those positions in the department or agency.
 
-        (2) __Termination of authority.—__ 
+        (2)  __Termination of authority__  __.—__ 
 
         The head of a department or agency may not appoint an individual to a position of employment under this subsection after September 30, 2017.
 
     (k) __Reemployment Without Loss of Annuity.—__ 
 
-        (1) __Establishment of policies and procedures.—__ 
+        (1)  __Establishment of policies and procedures__  __.—__ 
 
         The head of each executive agency, after consultation with the Administrator and the Director of the Office of Personnel Management, shall establish policies and procedures under which the agency head may reemploy in an acquisition-related position (as described in subsection (g)(1)(A)) an individual receiving an annuity from the Civil Service Retirement and Disability Fund, on the basis of the individual’s service, without discontinuing the annuity. The head of each executive agency shall keep the Administrator informed of the agency’s use of this authority.
 
-        (2) __Criteria for continuation of annuity.—__ 
+        (2)  __Criteria for continuation of annuity__  __.—__ 
 
         Policies and procedures established under paragraph (1) shall authorize the head of the executive agency, on a case-by-case basis, to continue an annuity if any of the following makes the reemployment of an individual essential:
 
@@ -207,19 +207,19 @@
 
             (C) A temporary emergency hiring need.
 
-        (3) __Service not subject to csrs or fers.—__ 
+        (3)  __Service not subject to csrs or fers__  __.—__ 
 
         An individual reemployed under this subsection shall not be deemed an employee for purposes of chapter 83 or 84 of title 5.
 
-        (4) __Reporting requirement.—__ 
+        (4)  __Reporting requirement__  __.—__ 
 
         The Administrator shall submit annually to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the use of the authority under this subsection, including the number of employees reemployed under authority of this subsection.
 
-        (5) __Sunset provision.—__ 
+        (5)  __Sunset provision__  __.—__ 
 
         The authority under this subsection expires on December 31, 2011.
 
-    (l) __Acquisition Internship and Training Programs.—__ 
+    (l)  __Acquisition Internship and Training Programs__  __.—__ 
 
     All Federal civilian agency acquisition internship or acquisition training programs shall follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the Federal Government.
 

@@ -15,7 +15,7 @@
 
 ## § 1304. Contract clauses and certifications
 
-    (a) __Repetitive Nonstandard Contract Clauses Discouraged.—__ 
+    (a)  __Repetitive Nonstandard Contract Clauses Discouraged__  __.—__ 
 
     The Council shall prescribe regulations to discourage the use of a nonstandard contract clause on a repetitive basis. The regulations shall include provisions that—
 
@@ -25,11 +25,11 @@
 
     (b) __When Certification Required.—__ 
 
-        (1) __By law.—__ 
+        (1)  __By law__  __.—__ 
 
         A provision of law may not be construed as requiring a certification by a contractor or offeror in a procurement made or to be made by the Federal Government unless that provision of law specifically provides that such a certification shall be required.
 
-        (2) __In federal acquisition regulation.—__ 
+        (2)  __In federal acquisition regulation__  __.—__ 
 
         A requirement for a certification by a contractor or offeror may not be included in the Federal Acquisition Regulation unless—
 
@@ -39,11 +39,11 @@
 
         (3) __Executive agency procurement regulation.—__ 
 
-            (A) __Definition.—__ 
+            (A)  __Definition__  __.—__ 
 
             In subparagraph (B), the term “head of the executive agency” with respect to a military department means the Secretary of Defense.
 
-            (B) __When certification requirement may be included in regulation.—__ 
+            (B)  __When certification requirement may be included in regulation__  __.—__ 
 
             A requirement for a certification by a contractor or offeror may not be included in a procurement regulation of an executive agency unless—
 

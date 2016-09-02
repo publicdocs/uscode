@@ -15,11 +15,11 @@
 
 ## § 4310. Proceeding costs not allowable
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Costs.—__ 
+        (1)  __Costs__  __.—__ 
 
         The term “costs”, with respect to a proceeding, means all costs incurred by a contractor, whether before or after the commencement of the proceeding, including—
 
@@ -31,15 +31,15 @@
 
             (D) the pay of directors, officers, and employees of the contractor for time devoted by those directors, officers, and employees to the proceeding.
 
-        (2) __Penalty.—__ 
+        (2)  __Penalty__  __.—__ 
 
         The term “penalty” does not include restitution, reimbursement, or compensatory damages.
 
-        (3) __Proceeding.—__ 
+        (3)  __Proceeding__  __.—__ 
 
         The term “proceeding” includes an investigation.
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     Except as otherwise provided in this section, costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under [section 4712 of this title][/us/usc/t41/s4712] are not allowable as reimbursable costs under a covered contract if the proceeding—
 
@@ -47,7 +47,7 @@
 
         (2) results in a disposition described in subsection (c).
 
-    (c) __Covered Dispositions.—__ 
+    (c)  __Covered Dispositions__  __.—__ 
 
     A disposition referred to in subsection (b)(2) is any of the following:
 
@@ -69,11 +69,11 @@
 
         (5) A disposition of the proceeding by consent or compromise if the disposition could have resulted in a disposition described in paragraph (1), (2), (3), or (4).
 
-    (d) __Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government.—__ 
+    (d)  __Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government__  __.—__ 
 
     In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the Federal Government, the costs incurred by the contractor in connection with the proceeding that are otherwise not allowable as reimbursable costs under subsection (b) may be allowed to the extent specifically provided in that agreement.
 
-    (e) __Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State.—__ 
+    (e)  __Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State__  __.—__ 
 
     In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
 
@@ -83,21 +83,21 @@
 
     (f) __Other Allowable Costs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (3), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if the costs are not disallowable under subsection (b), but only to the extent provided in paragraph (2).
 
         (2) __Amount of allowable costs.—__ 
 
-            (A) __Maximum amount allowed.—__ 
+            (A)  __Maximum amount allowed__  __.—__ 
 
             The amount of the costs allowable under paragraph (1) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that the costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
 
-            (B) __Content of regulations.—__ 
+            (B)  __Content of regulations__  __.—__ 
 
             Regulations issued for the purpose of subparagraph (A) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the Federal Government as a party, and other factors as may be appropriate.
 
-        (3) __When otherwise allowable costs are not allowable.—__ 
+        (3)  __When otherwise allowable costs are not allowable__  __.—__ 
 
         In the case of a proceeding referred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
 

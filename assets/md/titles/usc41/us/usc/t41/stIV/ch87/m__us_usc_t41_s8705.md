@@ -15,17 +15,17 @@
 
 ## § 8705. Administrative offsets
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “contracting officer” has the meaning given that term in chapter 71 of this title.
 
-    (b) __Offset Authority.—__ 
+    (b)  __Offset Authority__  __.—__ 
 
     A contracting officer of a contracting agency may offset the amount of a kickback provided, accepted, or charged in violation of [section 8702 of this title][/us/usc/t41/s8702] against amounts the Federal Government owes the prime contractor under the prime contract to which the kickback relates.
 
     (c) __Duties of Prime Contractor.—__ 
 
-        (1) __Withholding and paying over or retaining amounts.—__ 
+        (1)  __Withholding and paying over or retaining amounts__  __.—__ 
 
         On direction of a contracting officer of a contracting agency with respect to a prime contract, the prime contractor shall withhold from amounts owed to a subcontractor under a subcontract of the prime contract the amount of a kickback which was or may be offset against the prime contractor under subsection (b). The contracting officer may order that amounts withheld—
 
@@ -33,11 +33,11 @@
 
             (B) be retained by the prime contractor if the Federal Government has already offset the amount against the prime contractor.
 
-        (2) __Notice.—__ 
+        (2)  __Notice__  __.—__ 
 
         The prime contractor shall notify the contracting officer when an amount is withheld and retained under paragraph (1)(B).
 
-    (d) __Offset, Direction, or Order is Claim of Federal Government.—__ 
+    (d)  __Offset, Direction, or Order is Claim of Federal Government__  __.—__ 
 
     An offset under subsection (b) or a direction or order of a contracting officer under subsection (c) is a claim by the Federal Government for the purposes of chapter 71 of this title.
 

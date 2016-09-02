@@ -17,11 +17,11 @@
 
     (a) __Authority.—__ 
 
-        (1) __Cost accounting standards board.—__ 
+        (1)  __Cost accounting standards board__  __.—__ 
 
         The Cost Accounting Standards Board has exclusive authority to prescribe, amend, and rescind cost accounting standards, and interpretations of the standards, designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the Federal Government.
 
-        (2) __Administrator for federal procurement policy.—__ 
+        (2)  __Administrator for federal procurement policy__  __.—__ 
 
         The Administrator, after consultation with the Board, shall prescribe rules and procedures governing actions of the Board under this chapter. The rules and procedures shall require that any action to prescribe, amend, or rescind a standard or interpretation be approved by majority vote of the Board.
 
@@ -29,15 +29,15 @@
 
         (1) __Subcontract.—__ 
 
-            (A) __Definition.—__ 
+            (A)  __Definition__  __.—__ 
 
             In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
-            (B) __When standards are to be used.—__ 
+            (B)  __When standards are to be used__  __.—__ 
 
             Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in [section 2306a(a)(1)(A)(i) of title 10][/us/usc/t10/s2306a/a/1/A/i] as the amount is adjusted in accordance with applicable requirements of law.
 
-            (C) __Nonapplication of standards.—__ 
+            (C)  __Nonapplication of standards__  __.—__ 
 
             Subparagraph (B) does not apply to—
 
@@ -49,7 +49,7 @@
 
                 (iv) a contract or subcontract with a value of less than $7,500,000 if, when the contract or subcontract is entered into, the segment of the contractor or subcontractor that will perform the work has not been awarded at least one contract or subcontract with a value of more than $7,500,000 that is covered by the standards.
 
-        (2) __Exemptions and waivers by board.—__ 
+        (2)  __Exemptions and waivers by board__  __.—__ 
 
         The Board may—
 
@@ -59,7 +59,7 @@
 
         (3) __Waiver by head of executive agency.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
@@ -67,15 +67,15 @@
 
                 (ii) would not otherwise be subject to the cost accounting standards under this section.
 
-            (B) __In exceptional circumstances.—__ 
+            (B)  __In exceptional circumstances__  __.—__ 
 
             The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the standards under this subparagraph shall be set forth in writing and shall include a statement of the circumstances justifying the waiver.
 
-            (C) __Restriction on delegation of authority.—__ 
+            (C)  __Restriction on delegation of authority__  __.—__ 
 
             The head of an executive agency may not delegate the authority under subparagraph (A) or (B) to an official in the executive agency below the senior policymaking level in the executive agency.
 
-            (D) __Contents of federal acquisition regulation.—__ 
+            (D)  __Contents of federal acquisition regulation__  __.—__ 
 
             The Federal Acquisition Regulation shall include—
 
@@ -83,11 +83,11 @@
 
                 (ii) the specific circumstances under which the waiver may be granted.
 
-            (E) __Report.—__ 
+            (E)  __Report__  __.—__ 
 
             The head of each executive agency shall report the waivers granted under subparagraphs (A) and (B) for that agency to the Board on an annual basis.
 
-    (c) __Required Board Action for Prescribing Standards and Interpretations.—__ 
+    (c)  __Required Board Action for Prescribing Standards and Interpretations__  __.—__ 
 
     Before prescribing cost accounting standards and interpretations, the Board shall—
 
@@ -113,15 +113,15 @@
 
         (4) publish a notice of proposed rulemaking in the Federal Register and provide all parties affected at least 60 days after publication to submit their views and comments.
 
-    (d) __Effective Dates.—__ 
+    (d)  __Effective Dates__  __.—__ 
 
     Rules, regulations, cost accounting standards, and modifications thereof prescribed or amended under this chapter shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines that a longer period is necessary. The Board shall determine implementation dates for contractors and subcontractors. The dates may not be later than the beginning of the second fiscal year of the contractor or subcontractor after the standard becomes effective.
 
-    (e) __Accompanying Material.—__ 
+    (e)  __Accompanying Material__  __.—__ 
 
     Rules, regulations, cost accounting standards, and modifications thereof prescribed or amended under this chapter shall be accompanied by prefatory comments and by illustrations, if necessary.
 
-    (f) __Implementing Regulations.—__ 
+    (f)  __Implementing Regulations__  __.—__ 
 
     The Board shall prescribe regulations for the implementation of cost accounting standards prescribed or interpreted under this section. The regulations shall be incorporated into the Federal Acquisition Regulation and shall require contractors and subcontractors as a condition of contracting with the Federal Government to—
 
@@ -129,7 +129,7 @@
 
         (2) agree to a contract price adjustment, with interest, for any increased costs paid to the contractor or subcontractor by the Federal Government because of a change in the contractor’s or subcontractor’s cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
 
-    (g) __Nonapplicability of Certain Sections of Title 5.—__ 
+    (g)  __Nonapplicability of Certain Sections of Title __  __5.—__ 
 
     Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
 
@@ -305,7 +305,7 @@ Pub. L. 93–400, § 26(g), (h)(1), as added Pub. L. 100–679, § 5(a), Nov
 
 [Pub. L. 106–65, div. A, title VIII, § 802(c)][/us/pl/106/65/s802/c]–(e), (g)–(i), Oct. 5, 1999, [113 Stat. 701][/us/stat/113/701], 702, provided that:
 
->     “(c) __Regulation on Types of CAS Coverage.—__ 
+>     “(c)  __Regulation on Types of CAS Coverage__  __.—__ 
 
 >         (1) The Administrator for Federal Procurement Policy shall revise the rules and procedures prescribed pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 422(f)][/us/usc/t41/s422/f]) \[now [41 U.S.C. 1502(a)][/us/usc/t41/s1502/a], (b)\] to the extent necessary to increase the thresholds established in section 9903.201–2 of title 48 of the Code of Federal Regulations from $25,000,000 to $50,000,000.
 
@@ -323,21 +323,21 @@ Pub. L. 93–400, § 26(g), (h)(1), as added Pub. L. 100–679, § 5(a), Nov
 
 >             “(B) a requirement to apply the regulation.
 
->     “(d) __Implementation.—__ 
+>     “(d)  __Implementation__  __.—__ 
 
 >     The Administrator for Federal Procurement Policy shall ensure that this section \[see Tables for classification\] and the amendments made by this section are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs from contracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
 
->     “(e) __Implementation of Requirements for Revision of Regulations.—__ 
+>     “(e)  __Implementation of Requirements for Revision of Regulations__  __.—__ 
 
 >         (1) Final regulations required by subsection (c) shall be issued not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\].
 
 >         “(2) Subsection (c) shall cease to be effective one year after the date on which final regulations issued in accordance with that subsection take effect.
 
->     “(g) __Inapplicability of Standards to Certain Contracts.—__ 
+>     “(g)  __Inapplicability of Standards to Certain Contracts__  __.—__ 
 
 >     The cost accounting standards issued pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 422(f)][/us/usc/t41/s422/f]) \[now [41 U.S.C. 1502(a)][/us/usc/t41/s1502/a], (b)\], as amended by this section, shall not apply during fiscal year 2000 with respect to a contract entered into under the authority provided in chapter 89 of title 5, United States Code (relating to health benefits for Federal employees).
 
->     “(h) __Construction Regarding Certain Not-For-Profit Entities.—__ 
+>     “(h)  __Construction Regarding Certain Not-For-Profit Entities__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[see Tables for classification\] shall not be construed as modifying or superseding, nor as intended to impair or restrict, the applicability of the cost accounting standards described in section 26(f) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 422(f)][/us/usc/t41/s422/f]) \[now [41 U.S.C. 1502(a)][/us/usc/t41/s1502/a], (b)\] to—
 
@@ -345,7 +345,7 @@ Pub. L. 93–400, § 26(g), (h)(1), as added Pub. L. 100–679, § 5(a), Nov
 
 >         “(2) any contract with a nonprofit entity that provides research and development and related products or services to the Department of Defense.
 
->     “(i) __Effective Date.—__ 
+>     “(i)  __Effective Date__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[see Tables for classification\] shall take effect 180 days after the date of enactment of this Act \[Oct. 5, 1999\], and shall apply with respect to—
 

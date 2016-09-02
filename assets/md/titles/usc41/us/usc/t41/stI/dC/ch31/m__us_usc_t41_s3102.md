@@ -15,11 +15,11 @@
 
 ## § 3102. Delegation and assignment of powers, functions, and responsibilities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except to the extent expressly prohibited by another law, the head of an executive agency may delegate to another officer or official of that agency any power under this division.
 
-    (b) __Procurements For or With Another Agency.—__ 
+    (b)  __Procurements For or With Another Agency__  __.—__ 
 
     Subject to subsection (a), to facilitate the procurement of property and services covered by this division by an executive agency for another executive agency, and to facilitate joint procurement by executive agencies—
 

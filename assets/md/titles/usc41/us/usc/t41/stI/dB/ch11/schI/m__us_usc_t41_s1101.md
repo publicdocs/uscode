@@ -15,11 +15,11 @@
 
 ## § 1101. Office of Federal Procurement Policy
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     There is an Office of Federal Procurement Policy in the Office of Management and Budget.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the Office of Federal Procurement Policy are to—
 
@@ -27,7 +27,7 @@
 
         (2) promote economy, efficiency, and effectiveness in the procurement of property and services by the executive branch of the Federal Government.
 
-    (c) __Authorization of Appropriations.—__ 
+    (c)  __Authorization of Appropriations__  __.—__ 
 
     Necessary amounts may be appropriated each fiscal year for the Office of Federal Procurement Policy to carry out the responsibilities of the Office for that fiscal year.
 

@@ -15,7 +15,7 @@
 
 ## § 1126. Policy regarding consideration of contractor past performance
 
-    (a) __Guidance.—__ 
+    (a)  __Guidance__  __.—__ 
 
     The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—
 
@@ -33,7 +33,7 @@
 
         (4) the period for which information on past performance of offerors may be maintained and considered.
 
-    (b) __Information Not Available.—__ 
+    (b)  __Information Not Available__  __.—__ 
 
     If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
 
@@ -103,17 +103,17 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 
 [Pub. L. 112–239, div. A, title VIII, § 853][/us/pl/112/239/s853], Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], provided that:
 
->     “(a) __Strategy Required.—__ 
+>     “(a)  __Strategy Required__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Federal Acquisition Regulatory Council shall develop a strategy for ensuring that timely, accurate, and complete information on contractor performance is included in past performance databases used by executive agencies for making source selection decisions.
 
->         “(2) __Consultation with usdatl.—__ 
+>         “(2)  __Consultation with usdatl__  __.—__ 
 
 >         In developing the strategy required by this subsection, the Federal Acquisition Regulatory Council shall consult with the Under Secretary of Defense for Acquisition, Technology, and Logistics to ensure that the strategy is, to the extent practicable, consistent with the strategy developed by the Under Secretary pursuant to section 806 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1487][/us/stat/125/1487]; [10 U.S.C. 2302][/us/usc/t10/s2302] note).
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The strategy required by subsection (a) shall, at a minimum—
 
@@ -123,7 +123,7 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 
 >         “(3) ensure that past performance submissions for such purposes are consistent with award fee evaluations in cases where such evaluations have been conducted.
 
->     “(c) __Contractor Comments.—__ 
+>     “(c)  __Contractor Comments__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Federal Acquisition Regulation shall be revised to require the following:
 
@@ -133,11 +133,11 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 
 >         “(3) That agency evaluations of contractor past performance, including any comments, rebuttals, or additional information submitted under paragraph (2), are included in the relevant past performance database not later than the date that is 14 days after the date of delivery of the information provided in accordance with paragraph (1).
 
->     “(d) __Construction.—__ 
+>     “(d)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to prohibit a contractor from submitting comments, rebuttals, or additional information pertaining to past performance after the period described in subsection (c)(2) has elapsed or to prohibit a contractor from challenging a past performance evaluation in accordance with applicable laws, regulations, or procedures.
 
->     “(e) __Comptroller General Report.—__ 
+>     “(e)  __Comptroller General Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Jan. 2, 2013\], the Comptroller General of the United States shall submit to the appropriate committees of Congress a report on the actions taken by the Federal Acquisition Regulatory Council pursuant to this section, including an assessment of the following:
 
@@ -145,7 +145,7 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 
 >         “(2) The extent to which the actions of the Federal Acquisition Regulatory Council pursuant to this section have otherwise achieved the objectives of this section.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 

@@ -17,7 +17,7 @@
 
     (a) __Review.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The decision of an agency board is final, except that—
 
@@ -25,7 +25,7 @@
 
             (B) if an agency head determines that an appeal should be taken, the agency head, with the prior approval of the Attorney General, may transmit the decision to the United States Court of Appeals for the Federal Circuit for judicial review under [section 1295 of title 28][/us/usc/t28/s1295], within 120 days from the date the agency receives a copy of the decision.
 
-        (2) __Tennessee valley authority.—__ 
+        (2)  __Tennessee valley authority__  __.—__ 
 
         Notwithstanding paragraph (1), a decision of the board of contract appeals of the Tennessee Valley Authority is final, except that—
 
@@ -33,11 +33,11 @@
 
             (B) the Tennessee Valley Authority may appeal the decision to a United States district court pursuant to [section 1337 of title 28][/us/usc/t28/s1337], within 120 days from the date of the decision.
 
-        (3) __Review of arbitration.—__ 
+        (3)  __Review of arbitration__  __.—__ 
 
         An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, except that the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
 
-    (b) __Finality of Agency Board Decisions on Questions of Law and Fact.—__ 
+    (b)  __Finality of Agency Board Decisions on Questions of Law and Fact__  __.—__ 
 
     Notwithstanding any contract provision, regulation, or rule of law to the contrary, in an appeal by a contractor or the Federal Government from the decision of an agency board pursuant to subsection (a)—
 
@@ -53,33 +53,33 @@
 
             (C) not supported by substantial evidence.
 
-    (c) __Remand.—__ 
+    (c)  __Remand__  __.—__ 
 
     In an appeal by a contractor or the Federal Government from the decision of an agency board pursuant to subsection (a), the court may render an opinion and judgment and remand the case for further action by the agency board or by the executive agency as appropriate, with direction the court considers just and proper.
 
-    (d) __Consolidation.—__ 
+    (d)  __Consolidation__  __.—__ 
 
     If 2 or more actions arising from one contract are filed in the United States Court of Federal Claims and one or more agency boards, for the convenience of parties or witnesses or in the interest of justice, the United States Court of Federal Claims may order the consolidation of the actions in that court or transfer any actions to or among the agency boards involved.
 
-    (e) __Judgments as to Fewer Than All Claims or Parties.—__ 
+    (e)  __Judgments as to Fewer Than All Claims or Parties__  __.—__ 
 
     In an action filed pursuant to this chapter involving 2 or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one of the claims can be divided for purposes of decision or judgment, and in any action where multiple parties are involved, the court, whenever appropriate, may enter a judgment as to one or more but fewer than all of the claims or portions of claims or parties.
 
     (f) __Advisory Opinions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whenever an action involving an issue described in paragraph (2) is pending in a district court of the United States, the district court may request an agency board to provide the court with an advisory opinion on the matters of contract interpretation under consideration.
 
-        (2) __Applicable issue.—__ 
+        (2)  __Applicable issue__  __.—__ 
 
         An issue referred to in paragraph (1) is any issue that could be the proper subject of a final decision of a contracting officer appealable under this chapter.
 
-        (3) __Referral to agency board with jurisdiction.—__ 
+        (3)  __Referral to agency board with jurisdiction__  __.—__ 
 
         A district court shall direct a request under paragraph (1) to the agency board having jurisdiction under this chapter to adjudicate appeals of contract claims under the contract being interpreted by the court.
 
-        (4) __Timely response.—__ 
+        (4)  __Timely response__  __.—__ 
 
         After receiving a request for an advisory opinion under paragraph (1), an agency board shall provide the advisory opinion in a timely manner to the district court making the request.
 

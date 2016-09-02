@@ -17,19 +17,19 @@
 
     (a) __Provision Requiring Adjustment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A prime contract (or change or modification to a prime contract) under which a certificate under [section 3502(b) of this title][/us/usc/t41/s3502/b] is required shall contain a provision that the price of the contract to the Federal Government, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the executive agency that the price was increased because the contractor (or any subcontractor required to make the certificate available) submitted defective cost or pricing data.
 
-        (2) __What constitutes defective cost or pricing data.—__ 
+        (2)  __What constitutes defective cost or pricing data__  __.—__ 
 
         For the purposes of this chapter, defective cost or pricing data are cost or pricing data that, as of the date of agreement on the price of the contract (or another date agreed on between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree on a date other than the date of agreement on the price of the contract, the date agreed on by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
-    (b) __Valid Defense.—__ 
+    (b)  __Valid Defense__  __.—__ 
 
     In determining for purposes of a contract price adjustment under a contract provision required by subsection (a) whether, and to what extent, a contract price was increased because the contractor (or a subcontractor) submitted defective cost or pricing data, it is a defense that the Federal Government did not rely on the defective data submitted by the contractor or subcontractor.
 
-    (c) __Invalid Defenses.—__ 
+    (c)  __Invalid Defenses__  __.—__ 
 
     It is not a defense to an adjustment of the price of a contract under a contract provision required by subsection (a) that—
 
@@ -49,7 +49,7 @@
 
     (d) __Offsets.—__ 
 
-        (1) __When allowed.—__ 
+        (1)  __When allowed__  __.—__ 
 
         A contractor shall be allowed to offset an amount against the amount of a contract price adjustment under a contract provision required by subsection (a) if—
 
@@ -57,7 +57,7 @@
 
             (B) the contractor proves that the cost or pricing data were available before the date of agreement on the price of the contract (or price of the modification), or, if applicable, consistent with subsection (a)(2), another date agreed on by the parties, and that the data were not submitted as specified in [section 3502(c) of this title][/us/usc/t41/s3502/c] before that date.
 
-        (2) __When not allowed.—__ 
+        (2)  __When not allowed__  __.—__ 
 
         A contractor shall not be allowed to offset an amount otherwise authorized to be offset under paragraph (1) if—
 

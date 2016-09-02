@@ -17,11 +17,11 @@
 
     (a) __Functions.—__ 
 
-        (1) __Issue and maintain federal acquisition regulation.—__ 
+        (1)  __Issue and maintain federal acquisition regulation__  __.—__ 
 
         Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapters 4 and 137 of title 10, and the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2451][/us/usc/t42/s2451] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
 
-        (2) __Limitation on other regulations.—__ 
+        (2)  __Limitation on other regulations__  __.—__ 
 
         Other regulations relating to procurement issued by an executive agency shall be limited to—
 
@@ -29,31 +29,31 @@
 
             (B) additional policies and procedures required to satisfy the specific and unique needs of the agency.
 
-        (3) __Ensure consistent regulations.—__ 
+        (3)  __Ensure consistent regulations__  __.—__ 
 
         The Administrator, in consultation with the Council, shall ensure that procurement regulations prescribed by executive agencies are consistent with the Federal Acquisition Regulation and in accordance with the policies prescribed pursuant to [section 1121(b) of this title][/us/usc/t41/s1121/b].
 
         (4) __Request to review regulation.—__ 
 
-            (A) __Basis for request.—__ 
+            (A)  __Basis for request__  __.—__ 
 
             Under procedures the Administrator establishes, a person may request the Administrator to review a regulation relating to procurement on the basis that the regulation is inconsistent with the Federal Acquisition Regulation.
 
-            (B) __Period of review.—__ 
+            (B)  __Period of review__  __.—__ 
 
             Unless the request is frivolous or does not, on its face, state a valid basis for the review, the Administrator shall complete the review not later than 60 days after receiving the request. The time for completion of the review may be extended if the Administrator determines that an additional period of review is required. The Administrator shall advise the requester of the reasons for the extension and the date by which the review will be completed.
 
-        (5) __When regulation is inconsistent or needs to be improved.—__ 
+        (5)  __When regulation is inconsistent or needs to be improved__  __.—__ 
 
         If the Administrator determines that a regulation relating to procurement is inconsistent with the Federal Acquisition Regulation or that the regulation otherwise should be revised to remove an inconsistency with the policies prescribed under [section 1121(b) of this title][/us/usc/t41/s1121/b], the Administrator shall rescind or deny the promulgation of the regulation or take other action authorized under sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title as may be necessary to remove the inconsistency. If the Administrator determines that the regulation, although not inconsistent with the Federal Acquisition Regulation or those policies, should be revised to improve compliance with the Regulation or policies, the Administrator shall take action authorized under sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 as may be necessary and appropriate.
 
-        (6) __Decisions to be in writing and publicly available.—__ 
+        (6)  __Decisions to be in writing and publicly available__  __.—__ 
 
         The decisions of the Administrator shall be in writing and made publicly available.
 
     (b) __Additional Responsibilities of Membership.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the authority, direction, and control of the head of the agency concerned, each official who represents an agency on the Council pursuant to [section 1302(b) of this title][/us/usc/t41/s1302/b] shall—
 
@@ -69,15 +69,15 @@
 
                 (ii) redundant or unnecessary procurement regulations which are unique to that agency.
 
-        (2) __Limitation on delegation.—__ 
+        (2)  __Limitation on delegation__  __.—__ 
 
         The authority to review and approve or disapprove regulations under paragraph (1)(A) may not be delegated to an individual outside the office of the official who represents the agency on the Council pursuant to [section 1302(b) of this title][/us/usc/t41/s1302/b].
 
-    (c) __Governing Policies.—__ 
+    (c)  __Governing Policies__  __.—__ 
 
     All actions of the Council and of members of the Council shall be in accordance with and furtherance of the policies prescribed under [section 1121(b) of this title][/us/usc/t41/s1121/b].
 
-    (d) __General Authority With Respect to Federal Acquisition Regulation.—__ 
+    (d)  __General Authority With Respect to Federal Acquisition Regulation__  __.—__ 
 
     Subject to [section 1121(d) of this title][/us/usc/t41/s1121/d], the Council shall manage, coordinate, control, and monitor the maintenance of, issuance of, and changes in, the Federal Acquisition Regulation.
 

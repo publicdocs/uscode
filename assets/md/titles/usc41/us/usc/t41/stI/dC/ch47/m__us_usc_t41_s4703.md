@@ -15,7 +15,7 @@
 
 ## § 4703. Validation of proprietary data restrictions
 
-    (a) __Contract That Provides for Delivery of Technical Data.—__ 
+    (a)  __Contract That Provides for Delivery of Technical Data__  __.—__ 
 
     A contract for property or services entered into by an executive agency that provides for the delivery of technical data shall provide that—
 
@@ -23,7 +23,7 @@
 
         (2) the contracting officer may review the validity of a restriction the contractor or subcontractor asserts under the contract on the right of the Federal Government to use technical data furnished to the Federal Government under the contract if the contracting officer determines that reasonable grounds exist to question the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the Federal Government would make it impracticable to procure the item competitively at a later time.
 
-    (b) __Challenge of Restriction.—__ 
+    (b)  __Challenge of Restriction__  __.—__ 
 
     If after a review the contracting officer determines that a challenge to the asserted restriction is warranted, the contracting officer shall provide written notice to the contractor or subcontractor asserting the restriction. The notice shall state—
 
@@ -31,31 +31,31 @@
 
         (2) the requirement for a response within 60 days justifying the current validity of the asserted restriction.
 
-    (c) __Additional Time for Responses.—__ 
+    (c)  __Additional Time for Responses__  __.—__ 
 
     If a contractor or subcontractor asserting a restriction subject to this section submits to the contracting officer a written request showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, the contracting officer shall provide appropriate additional time to adequately permit the justification to be submitted.
 
-    (d) __Multiple Challenges.—__ 
+    (d)  __Multiple Challenges__  __.—__ 
 
     If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the earliest challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each challenge.
 
     (e) __Decision on Validity of Asserted Restriction.—__ 
 
-        (1) __No response submitted.—__ 
+        (1)  __No response submitted__  __.—__ 
 
         The contracting officer shall issue a decision pertaining to the validity of the asserted restriction if the contractor or subcontractor does not submit a response under subsection (b).
 
-        (2) __Response submitted.—__ 
+        (2)  __Response submitted__  __.—__ 
 
         Within 60 days of receipt of a justification submitted in response to the notice provided pursuant to subsection (b), a contracting officer shall issue a decision or notify the party asserting the restriction of the time within which a decision will be issued.
 
-    (f) __Claim Deemed Claim Within Chapter 71.—__ 
+    (f)  __Claim Deemed Claim Within Chapter__  __71.—__ 
 
     A claim pertaining to the validity of the asserted restriction that is submitted in writing to a contracting officer by a contractor or subcontractor at any tier is deemed to be a claim within the meaning of chapter 71 of this title.
 
     (g) __Final Disposition of Challenge.—__ 
 
-        (1) __Challenge is sustained.—__ 
+        (1)  __Challenge is sustained__  __.—__ 
 
         If the contracting officer’s challenge to the restriction on the right of the Federal Government to use technical data is sustained on final disposition—
 
@@ -63,7 +63,7 @@
 
             (B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor, as appropriate, is liable to the Federal Government for payment of the cost to the Federal Government of reviewing the asserted restriction and the fees and other expenses (as defined in [section 2412(d)(2)(A) of title 28][/us/usc/t28/s2412/d/2/A]) incurred by the Federal Government in challenging the asserted restriction, unless special circumstances would make the payment unjust.
 
-        (2) __Challenge not sustained.—__ 
+        (2)  __Challenge not sustained__  __.—__ 
 
         If the contracting officer’s challenge to the restriction on the right of the Federal Government to use technical data is not sustained on final disposition, the Federal Government—
 

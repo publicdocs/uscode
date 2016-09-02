@@ -15,15 +15,15 @@
 
 ## § 4711. Linking of award and incentive fees to acquisition outcomes
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “executive agency” has the same meaning given in [section 133 of this title][/us/usc/t41/s133].
 
-    (b) __Guidance for Executive Agencies on Linking of Award and Incentive Fees to Acquisition Outcomes.—__ 
+    (b)  __Guidance for Executive Agencies on Linking of Award and Incentive Fees to Acquisition Outcomes__  __.—__ 
 
     The Federal Acquisition Regulation shall provide executive agencies other than the Department of Defense with instructions, including definitions, on the appropriate use of award and incentive fees in Federal acquisition programs.
 
-    (c) __Elements.—__ 
+    (c)  __Elements__  __.—__ 
 
     The regulations under subsection (b) shall—
 
@@ -53,7 +53,7 @@
 
         (10) provide mechanisms for sharing proven incentive strategies for the acquisition of different types of products and services among contracting and program management officials.
 
-    (d) __Guidance for Department of Defense.—__ 
+    (d)  __Guidance for Department of Defense__  __.—__ 
 
     The Department of Defense shall continue to be subject to guidance on award and incentive fees issued by the Secretary of Defense pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364], [10 U.S.C. 2302][/us/usc/t10/s2302] note).
 

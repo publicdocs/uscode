@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Administrator.—__ 
+    (1)  __Administrator__  __.—__ 
 
     The term “Administrator” means the Administrator for Federal Procurement Policy appointed pursuant to [section 1102 of this title][/us/usc/t41/s1102].
 
-    (2) __Agency board or agency board of contract appeals.—__ 
+    (2)  __Agency board or agency board of contract appeals__  __.—__ 
 
     The term “agency board” or “agency board of contract appeals” means—
 
@@ -33,19 +33,19 @@
 
         (D) the Postal Service Board established under [section 7105(d)(1) of this title][/us/usc/t41/s7105/d/1].
 
-    (3) __Agency head.—__ 
+    (3)  __Agency head__  __.—__ 
 
     The term “agency head” means the head and any assistant head of an executive agency. The term may include the chief official of a principal division of an executive agency if the head of the executive agency so designates that chief official.
 
-    (4) __Armed services board.—__ 
+    (4)  __Armed services board__  __.—__ 
 
     The term “Armed Services Board” means the Armed Services Board of Contract Appeals established under [section 7105(a)(1) of this title][/us/usc/t41/s7105/a/1].
 
-    (5) __Civilian board.—__ 
+    (5)  __Civilian board__  __.—__ 
 
     The term “Civilian Board” means the Civilian Board of Contract Appeals established under [section 7105(b)(1) of this title][/us/usc/t41/s7105/b/1].
 
-    (6) __Contracting officer.—__ 
+    (6)  __Contracting officer__  __.—__ 
 
     The term “contracting officer”—
 
@@ -53,11 +53,11 @@
 
         (B) includes an authorized representative of the contracting officer, acting within the limits of the representative’s authority.
 
-    (7) __Contractor.—__ 
+    (7)  __Contractor__  __.—__ 
 
     The term “contractor” means a party to a Federal Government contract other than the Federal Government.
 
-    (8) __Executive agency.—__ 
+    (8)  __Executive agency__  __.—__ 
 
     The term “executive agency” means—
 
@@ -69,7 +69,7 @@
 
         (D) a wholly owned Government corporation as defined in [section 9101(3) of title 31][/us/usc/t31/s9101/3].
 
-    (9) __Misrepresentation of fact.—__ 
+    (9)  __Misrepresentation of fact__  __.—__ 
 
     The term “misrepresentation of fact” means a false statement of substantive fact, or conduct that leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
 

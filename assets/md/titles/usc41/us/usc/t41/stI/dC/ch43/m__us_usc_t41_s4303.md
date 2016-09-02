@@ -15,13 +15,13 @@
 
 ## § 4303. Effect of submission of unallowable costs
 
-    (a) __Indirect Cost That Violates Federal Acquisition Regulation Cost Principle.—__ 
+    (a)  __Indirect Cost That Violates Federal Acquisition Regulation Cost Principle__  __.—__ 
 
     An executive agency shall require that a covered contract provide that if the contractor submits to the executive agency a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued and if that proposal includes the submission of a cost that is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation or an executive agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
 
     (b) __Penalty for Violation of Cost Principle.—__ 
 
-        (1) __Unallowable cost in proposal.—__ 
+        (1)  __Unallowable cost in proposal__  __.—__ 
 
         If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) that defines the allowability of specific selected costs, the executive agency shall assess a penalty against the contractor in an amount equal to—
 
@@ -29,11 +29,11 @@
 
             (B) interest (to be computed based on provisions in the Federal Acquisition Regulation) to compensate the Federal Government for the use of the amount which a contractor has been paid in excess of the amount to which the contractor was entitled.
 
-        (2) __Cost determined to be unallowable before proposal submitted.—__ 
+        (2)  __Cost determined to be unallowable before proposal submitted__  __.—__ 
 
         If the executive agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of that contractor before the submission of that proposal, the executive agency shall assess a penalty against the contractor in an amount equal to 2 times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
 
-    (c) __Waiver of Penalty.—__ 
+    (c)  __Waiver of Penalty__  __.—__ 
 
     The Federal Acquisition Regulation shall provide for a penalty under subsection (b) to be waived in the case of a contractor’s proposal for settlement of indirect costs when—
 
@@ -49,7 +49,7 @@
 
             (B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
 
-    (d) __Applicability of Contract Disputes Procedure.—__ 
+    (d)  __Applicability of Contract Disputes Procedure__  __.—__ 
 
     An action of an executive agency under subsection (a) or (b)—
 

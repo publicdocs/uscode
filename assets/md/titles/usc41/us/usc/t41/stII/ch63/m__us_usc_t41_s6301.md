@@ -15,13 +15,13 @@
 
 ## § 6301. Authorization requirement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A contract or purchase on behalf of the Federal Government shall not be made unless the contract or purchase is authorized by law or is under an appropriation adequate to its fulfillment.
 
     (b) __Exception.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “defined Secretary” means—
 
@@ -29,19 +29,19 @@
 
             (B) the Secretary of Homeland Security with respect to the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         Subsection (a) does not apply to a contract or purchase made by a defined Secretary for clothing, subsistence, forage, fuel, quarters, transportation, or medical and hospital supplies.
 
-        (3) __Current year limitation.—__ 
+        (3)  __Current year limitation__  __.—__ 
 
         A contract or purchase made by a defined Secretary under this subsection may not exceed the necessities of the current year.
 
-        (4) __Reports.—__ 
+        (4)  __Reports__  __.—__ 
 
         The defined Secretary shall immediately advise Congress when authority is exercised under this subsection. The defined Secretary shall report quarterly on the estimated obligations incurred pursuant to the authority granted in this subsection.
 
-    (c) __Special Rule for Purchase of Land.—__ 
+    (c)  __Special Rule for Purchase of Land__  __.—__ 
 
     Land may not be purchased by the Federal Government unless the purchase is authorized by law.
 

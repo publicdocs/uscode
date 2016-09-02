@@ -15,7 +15,7 @@
 
 ## § 1903. Special emergency procurement authority
 
-    (a) __Applicability.—__ 
+    (a)  __Applicability__  __.—__ 
 
     The authorities provided in subsections (b) and (c) apply with respect to a procurement of property or services by or for an executive agency that the head of the executive agency determines are to be used—
 
@@ -23,7 +23,7 @@
 
         (2) to facilitate the defense against or recovery from nuclear, biological, chemical, or radiological attack against the United States.
 
-    (b) __Increased Thresholds and Limitation.—__ 
+    (b)  __Increased Thresholds and Limitation__  __.—__ 
 
     For a procurement to which this section applies under subsection (a)—
 
@@ -47,11 +47,11 @@
 
     (c) __Authority To Treat Property or Service as Commercial Item.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The head of an executive agency carrying out a procurement of property or a service to which this section applies under subsection (a)(2) may treat the property or service as a commercial item for the purpose of carrying out the procurement.
 
-        (2) __Certain contracts not exempt from standards or requirements.—__ 
+        (2)  __Certain contracts not exempt from standards or requirements__  __.—__ 
 
         A contract in an amount of more than $15,000,000 that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (1) is not exempt from—
 

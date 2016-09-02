@@ -17,15 +17,15 @@
 
     In this chapter—
 
-    (1) __Agency of the united states.—__ 
+    (1)  __Agency of the united states__  __.—__ 
 
     The term “agency of the United States” means an executive department, independent establishment, or other agency or instrumentality of the United States, the District of Columbia, or a corporation in which all stock is beneficially owned by the Federal Government.
 
-    (2) __Person.—__ 
+    (2)  __Person__  __.—__ 
 
     The term “person” includes one or more individuals, partnerships, associations, corporations, legal representatives, trustees, trustees in cases under title 11, or receivers.
 
-    (3) __Secretary.—__ 
+    (3)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Labor.
 

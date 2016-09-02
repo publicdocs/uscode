@@ -15,7 +15,7 @@
 
 ## § 3503. Exceptions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Submission of certified cost or pricing data shall not be required under [section 3502 of this title][/us/usc/t41/s3502] in the case of a contract, a subcontract, or a modification of a contract or subcontract—
 
@@ -31,7 +31,7 @@
 
         (3) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this chapter may be waived and justifies in writing the reasons for the determination.
 
-    (b) __Modifications of Contracts and Subcontracts for Commercial Items.—__ 
+    (b)  __Modifications of Contracts and Subcontracts for Commercial Items__  __.—__ 
 
     In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1) or (2) of subsection (a), submission of certified cost or pricing data shall not be required under [section 3502 of this title][/us/usc/t41/s3502] if—
 

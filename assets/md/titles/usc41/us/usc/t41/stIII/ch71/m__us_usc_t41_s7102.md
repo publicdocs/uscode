@@ -15,7 +15,7 @@
 
 ## § 7102. Applicability of chapter
 
-    (a) __Executive Agency Contracts.—__ 
+    (a)  __Executive Agency Contracts__  __.—__ 
 
     Unless otherwise specifically provided in this chapter, this chapter applies to any express or implied contract (including those of the nonappropriated fund activities described in sections 1346 and 1491 of title 28) made by an executive agency for—
 
@@ -29,19 +29,19 @@
 
     (b) __Tennessee Valley Authority Contracts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         With respect to contracts of the Tennessee Valley Authority, this chapter applies only to contracts containing a clause that requires contract disputes to be resolved through an agency administrative process.
 
-        (2) __Exclusion.—__ 
+        (2)  __Exclusion__  __.—__ 
 
         Notwithstanding any other provision of this chapter, this chapter does not apply to a contract of the Tennessee Valley Authority for the sale of fertilizer or electric power or related to the conduct or operation of the electric power system.
 
-    (c) __Foreign Government or International Organization Contracts.—__ 
+    (c)  __Foreign Government or International Organization Contracts__  __.—__ 
 
     If an agency head determines that applying this chapter would not be in the public interest, this chapter does not apply to a contract with a foreign government, an agency of a foreign government, an international organization, or a subsidiary body of an international organization.
 
-    (d) __Maritime Contracts.—__ 
+    (d)  __Maritime Contracts__  __.—__ 
 
     Appeals under [section 7107(a) of this title][/us/usc/t41/s7107/a] and actions brought under sections 7104(b) and 7107(b) to (f) of this title, arising out of maritime contracts, are governed by chapter 309 or 311 of title 46, as applicable, to the extent that those chapters are not inconsistent with this chapter.
 

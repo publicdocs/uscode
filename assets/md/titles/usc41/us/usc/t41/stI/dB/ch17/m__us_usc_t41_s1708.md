@@ -15,7 +15,7 @@
 
 ## § 1708. Procurement notice
 
-    (a) __Notice Requirement.—__ 
+    (a)  __Notice Requirement__  __.—__ 
 
     Except as provided in subsection (b)—
 
@@ -33,7 +33,7 @@
 
     (b) __Exemptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A notice is not required under subsection (a) if—
 
@@ -63,7 +63,7 @@
 
             (G) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in a trial, hearing, or proceeding before a court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
 
-        (2) __Certain procurements.—__ 
+        (2)  __Certain procurements__  __.—__ 
 
         The requirements of subsection (a)(2) do not apply to a procurement—
 
@@ -71,11 +71,11 @@
 
             (B) for which the head of the executive agency makes a determination in writing, after consultation with the Administrator and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 
-        (3) __Implementation consistent with international agreements.—__ 
+        (3)  __Implementation consistent with international agreements__  __.—__ 
 
         Paragraph (1)(A) shall be implemented in a manner consistent with applicable international agreements.
 
-    (c) __Contents of Notice.—__ 
+    (c)  __Contents of Notice__  __.—__ 
 
     Each notice of solicitation required by paragraph (1) or (2) of subsection (a) shall include—
 
@@ -117,13 +117,13 @@
 
             (B) a statement specifying the periods for prospective offerors and the contracting officer to take the necessary preaward and award actions.
 
-    (d) __Electronic Publication of Notice of Solicitation, Award, or Order.—__ 
+    (d)  __Electronic Publication of Notice of Solicitation, Award, or Order__  __.—__ 
 
     A notice of solicitation, award, or order required to be published under subsection (a) shall be published by electronic means. The notice must be electronically accessible in a form that allows convenient and universal user access through the single Government-wide point of entry designated in the Federal Acquisition Regulation.
 
     (e) __Time Limitations.—__ 
 
-        (1) __Issuing notice of solicitation and establishing deadline for submitting bids and proposals.—__ 
+        (1)  __Issuing notice of solicitation and establishing deadline for submitting bids and proposals__  __.—__ 
 
         An executive agency required by subsection (a)(2) to publish a notice of solicitation may not—
 
@@ -139,19 +139,19 @@
 
                 (iii) in any other case, is earlier than 30 days after the date the solicitation is issued.
 
-        (2) __Establishing deadline when none provided by statute.—__ 
+        (2)  __Establishing deadline when none provided by statute__  __.—__ 
 
         An executive agency shall establish a deadline for the submission of all bids or proposals in response to a solicitation for which a deadline is not provided by statute. Each deadline for the submission of offers shall afford potential offerors a reasonable opportunity to respond.
 
-        (3) __Flexible deadlines.—__ 
+        (3)  __Flexible deadlines__  __.—__ 
 
         The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
 
-    (f) __Consideration of Certain Timely Received Offers.—__ 
+    (f)  __Consideration of Certain Timely Received Offers__  __.—__ 
 
     An executive agency intending to solicit offers for a contract for which a notice of solicitation is required to be posted under subsection (a)(1) shall ensure that contracting officers consider each responsive offer timely received from an offeror.
 
-    (g) __Availability of Complete Solicitation Package and Payment of Fee.—__ 
+    (g)  __Availability of Complete Solicitation Package and Payment of Fee__  __.—__ 
 
     An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 

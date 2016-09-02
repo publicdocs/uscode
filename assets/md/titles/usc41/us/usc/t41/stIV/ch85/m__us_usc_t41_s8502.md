@@ -15,11 +15,11 @@
 
 ## § 8502. Committee for Purchase From People Who Are Blind or Severely Disabled
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a Committee for Purchase From People Who Are Blind or Severely Disabled.
 
-    (b) __Composition.—__ 
+    (b)  __Composition__  __.—__ 
 
     The Committee consists of 15 members appointed by the President as follows:
 
@@ -57,53 +57,53 @@
 
         (5) One member from individuals who are not officers or employees of the Federal Government and who represent severely disabled individuals (other than blind individuals) employed in qualified nonprofit agencies for other severely disabled individuals.
 
-    (c) __Terms of Office.—__ 
+    (c)  __Terms of Office__  __.—__ 
 
     Members appointed under paragraph (2), (3), (4), or (5) of subsection (b) shall be appointed for terms of 5 years and may be reappointed if the member meets the qualifications prescribed by those paragraphs.
 
-    (d) __Chairman.—__ 
+    (d)  __Chairman__  __.—__ 
 
     The members of the Committee shall elect one of the members to be Chairman.
 
     (e) __Vacancy.—__ 
 
-        (1) __Manner in which filled.—__ 
+        (1)  __Manner in which filled__  __.—__ 
 
         A vacancy in the membership of the Committee shall be filled in the manner in which the original appointment was made.
 
-        (2) __Unfulfilled term.—__ 
+        (2)  __Unfulfilled term__  __.—__ 
 
         A member appointed under paragraph (2), (3), (4), or (5) of subsection (b) to fill a vacancy occurring prior to the expiration of the term for which the predecessor was appointed shall be appointed only for the remainder of the term. The member may serve after the expiration of a term until a successor takes office.
 
     (f) __Pay and Travel Expenses.—__ 
 
-        (1) __Amount to which members are entitled.—__ 
+        (1)  __Amount to which members are entitled__  __.—__ 
 
         Except as provided in paragraph (2), members of the Committee are entitled to receive the daily equivalent of the maximum annual rate of basic pay payable for level IV of the Executive Schedule for each day (including travel-time) during which they perform services for the Committee. A member is entitled to travel expenses, including a per diem allowance instead of subsistence, as provided under [section 5703 of title 5][/us/usc/t5/s5703].
 
-        (2) __Officers or employees of the federal government.—__ 
+        (2)  __Officers or employees of the federal government__  __.—__ 
 
         Members who are officers or employees of the Federal Government may not receive additional pay because of their service on the Committee.
 
      (g) __Staff.—__ 
 
-        (1) __Appointment and compensation.—__ 
+        (1)  __Appointment and compensation__  __.—__ 
 
         Subject to rules the Committee may adopt and to chapters 33 and 51 and subchapter III of chapter 53 of title 5, the Chairman may appoint and fix the pay of personnel the Committee determines are necessary to assist it in carrying out this chapter.
 
-        (2) __Personnel from other entities.—__ 
+        (2)  __Personnel from other entities__  __.—__ 
 
         On request of the Committee, the head of an entity of the Federal Government may detail, on a reimbursable basis, any personnel of the entity to the Committee to assist it in carrying out this chapter.
 
-    (h) __Obtaining Official Information.—__ 
+    (h)  __Obtaining Official Information__  __.—__ 
 
     The Committee may secure directly from an entity of the Federal Government information necessary to enable it to carry out this chapter. On request of the Chairman, the head of the entity shall furnish the information to the Committee.
 
-    (i) __Administrative Support Services.—__ 
+    (i)  __Administrative Support Services__  __.—__ 
 
     The Administrator of General Services shall provide to the Committee, on a reimbursable basis, administrative support services the Committee requests.
 
-    (j) __Annual Report.—__ 
+    (j)  __Annual Report__  __.—__ 
 
     Not later than December 31 of each year, the Committee shall transmit to the President a report that includes the names of the Committee members serving in the prior fiscal year, the dates of Committee meetings in that year, a description of the activities of the Committee under this chapter in that year, and any recommendations for changes in this chapter which the Committee determines are necessary.
 

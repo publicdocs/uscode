@@ -15,25 +15,25 @@
 
 ## § 7104. Contractor’s right of appeal from decision by contracting officer
 
-    (a) __Appeal to Agency Board.—__ 
+    (a)  __Appeal to Agency Board__  __.—__ 
 
     A contractor, within 90 days from the date of receipt of a contracting officer’s decision under [section 7103 of this title][/us/usc/t41/s7103], may appeal the decision to an agency board as provided in [section 7105 of this title][/us/usc/t41/s7105].
 
     (b) __Bringing an Action De Novo in Federal Court.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), and in lieu of appealing the decision of a contracting officer under [section 7103 of this title][/us/usc/t41/s7103] to an agency board, a contractor may bring an action directly on the claim in the United States Court of Federal Claims, notwithstanding any contract provision, regulation, or rule of law to the contrary.
 
-        (2) __Tennessee valley authority.—__ 
+        (2)  __Tennessee valley authority__  __.—__ 
 
         In the case of an action against the Tennessee Valley Authority, the contractor may only bring an action directly on the claim in a district court of the United States pursuant to [section 1337 of title 28][/us/usc/t28/s1337], notwithstanding any contract provision, regulation, or rule of law to the contrary.
 
-        (3) __Time for filing.—__ 
+        (3)  __Time for filing__  __.—__ 
 
         A contractor shall file any action under paragraph (1) or (2) within 12 months from the date of receipt of a contracting officer’s decision under [section 7103 of this title][/us/usc/t41/s7103].
 
-        (4) __De novo.—__ 
+        (4)  __De novo__  __.—__ 
 
         An action under paragraph (1) or (2) shall proceed de novo in accordance with the rules of the appropriate court.
 

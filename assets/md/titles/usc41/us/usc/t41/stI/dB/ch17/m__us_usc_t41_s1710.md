@@ -17,7 +17,7 @@
 
     (a) __Public-private competition.—__ 
 
-        (1) __When conversion to contractor performance is allowed.—__ 
+        (1)  __When conversion to contractor performance is allowed__  __.—__ 
 
         A function of an executive agency performed by 10 or more agency civilian employees may not be converted, in whole or in part, to performance by a contractor unless the conversion is based on the results of a public-private competition that—
 
@@ -49,11 +49,11 @@
 
             (G) examines the effect of performance of the function by a contractor on the agency mission associated with the performance of the function.
 
-        (2) __Not a new requirement.—__ 
+        (2)  __Not a new requirement__  __.—__ 
 
         A function that is performed by the executive agency and is reengineered, reorganized, modernized, upgraded, expanded, or changed to become more efficient, but still essentially provides the same service, shall not be considered a new requirement.
 
-        (3) __Prohibitions.—__ 
+        (3)  __Prohibitions__  __.—__ 
 
         In no case may a function being performed by executive agency personnel be—
 
@@ -63,7 +63,7 @@
 
     (b) __Consulting With Affected Employees or Their Representatives.—__ 
 
-        (1) __Consulting with affected employees.—__ 
+        (1)  __Consulting with affected employees__  __.—__ 
 
         Each civilian employee of an executive agency responsible for determining under Office of Management and Budget Circular A76 whether to convert to contractor performance any function of the executive agency—
 
@@ -73,21 +73,21 @@
 
         (2) __Consulting with representatives.—__ 
 
-            (A) __Employees represented by a labor organization.—__ 
+            (A)  __Employees represented by a labor organization__  __.—__ 
 
             In the case of employees represented by a labor organization accorded exclusive recognition under [section 7111 of title 5][/us/usc/t5/s7111], consultation with representatives of that labor organization shall satisfy the consultation requirement in paragraph (1).
 
-            (B) __Employees not represented by a labor organization.—__ 
+            (B)  __Employees not represented by a labor organization__  __.—__ 
 
             In the case of employees other than employees referred to in subparagraph (A), consultation with appropriate representatives of those employees shall satisfy the consultation requirement in paragraph (1).
 
-        (3) __Regulations.—__ 
+        (3)  __Regulations__  __.—__ 
 
         The head of each executive agency shall prescribe regulations to carry out this subsection. The regulations shall include provisions for the selection or designation of appropriate representatives of employees referred to in paragraph (2)(B) for purposes of consultation required by paragraph (1).
 
     (c) __Congressional Notification.—__ 
 
-        (1) __Report.—__ 
+        (1)  __Report__  __.—__ 
 
         Before commencing a public-private competition under subsection (a), the head of an executive agency shall submit to Congress a report containing the following:
 
@@ -101,7 +101,7 @@
 
             (E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of an executive agency to impose predetermined constraints or limitations on agency civilian employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
 
-        (2) __Examination of potential economic effect.—__ 
+        (2)  __Examination of potential economic effect__  __.—__ 
 
         The report required under paragraph (1) shall include an examination of the potential economic effect of performance of the function by a contractor on—
 
@@ -111,7 +111,7 @@
 
         (3) __Objections to public-private competition.—__ 
 
-            (A) __Grounds.—__ 
+            (A)  __Grounds__  __.—__ 
 
             A representative individual or entity at a facility where a public-private competition is conducted may submit to the head of the executive agency an objection to the public-private competition on the grounds that—
 
@@ -119,7 +119,7 @@
 
                 (ii) the certification required by paragraph (1)(E) was not included in the report required by paragraph (1).
 
-            (B) __Deadlines.—__ 
+            (B)  __Deadlines__  __.—__ 
 
             The objection shall be in writing and shall be submitted within 90 days after the following date:
 
@@ -127,11 +127,11 @@
 
                 (ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
 
-            (C) __Report and certification required before solicitation or award of contract.—__ 
+            (C)  __Report and certification required before solicitation or award of contract__  __.—__ 
 
             If the head of the executive agency determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
-    (d) __Exemption for the Purchase of Products and Services of the Blind and Other Severely Disabled People.—__ 
+    (d)  __Exemption for the Purchase of Products and Services of the Blind and Other Severely Disabled People__  __.—__ 
 
     This section shall not apply to a commercial or industrial type function of an executive agency that is—
 
@@ -139,7 +139,7 @@
 
         (2) planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely disabled people in accordance with chapter 85 of this title.
 
-    (e) __Inapplicability During War or Emergency.—__ 
+    (e)  __Inapplicability During War or Emergency__  __.—__ 
 
     The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 

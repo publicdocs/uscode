@@ -15,11 +15,11 @@
 
 ## § 4103. General authority
 
-    (a) __Authority To Award.—__ 
+    (a)  __Authority To Award__  __.—__ 
 
     Subject to the requirements of this section, [section 4106 of this title][/us/usc/t41/s4106], and other applicable law, the head of an executive agency may enter into a task or delivery order contract for procurement of services or property.
 
-    (b) __Solicitation.—__ 
+    (b)  __Solicitation__  __.—__ 
 
     The solicitation for a task or delivery order contract shall include—
 
@@ -29,13 +29,13 @@
 
         (3) a statement of work, specifications, or other description that reasonably describes the general scope, nature, complexity, and purposes of the services or property to be procured under the contract.
 
-    (c) __Applicability of Restriction on Use of Noncompetitive Procedures.—__ 
+    (c)  __Applicability of Restriction on Use of Noncompetitive Procedures__  __.—__ 
 
     The head of an executive agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in [section 3304(a) of this title][/us/usc/t41/s3304/a] applies to the contract and the use of those procedures is approved in accordance with [section 3304(e) of this title][/us/usc/t41/s3304/e].
 
     (d) __Single and Multiple Contract Awards.—__ 
 
-        (1) __Exercise of authority.—__ 
+        (1)  __Exercise of authority__  __.—__ 
 
         The head of an executive agency may exercise the authority provided in this section—
 
@@ -43,13 +43,13 @@
 
             (B) if the solicitation states that the head of the executive agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to 2 or more sources.
 
-        (2) __Determination not required.—__ 
+        (2)  __Determination not required__  __.—__ 
 
         No determination under [section 3303 of this title][/us/usc/t41/s3303] is required for an award of multiple task or delivery order contracts under paragraph (1)(B).
 
         (3) __Single source award for task or delivery order contracts exceeding $100,000,000.—__ 
 
-            (A) __When single awards are allowed.—__ 
+            (A)  __When single awards are allowed__  __.—__ 
 
             No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the executive agency determines in writing that—
 
@@ -67,11 +67,11 @@
 
                 (iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
 
-            (B) __Notification of Congress.—__ 
+            (B)  __Notification of Congress__  __.—__ 
 
             The head of the executive agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
 
-        (4) __Regulations.—__ 
+        (4)  __Regulations__  __.—__ 
 
         Regulations implementing this subsection shall establish—
 
@@ -79,15 +79,15 @@
 
             (B) criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
 
-    (e) __Contract Modifications.—__ 
+    (e)  __Contract Modifications__  __.—__ 
 
     A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
 
-    (f) __Inapplicability to Contracts for Advisory and Assistance Services.—__ 
+    (f)  __Inapplicability to Contracts for Advisory and Assistance Services__  __.—__ 
 
     Except as otherwise specifically provided in [section 4105 of this title][/us/usc/t41/s4105], this section does not apply to a task or delivery order contract for the acquisition of advisory and assistance services (as defined in [section 1105(g) of title 31][/us/usc/t31/s1105/g]).
 
-    (g) __Relationship to Other Contracting Authority.—__ 
+    (g)  __Relationship to Other Contracting Authority__  __.—__ 
 
     Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 

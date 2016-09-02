@@ -15,7 +15,7 @@
 
 ## § 3101. Applicability
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An executive agency shall make purchases and contracts for property and services in accordance with this division and implementing regulations of the Administrator of General Services.
 
@@ -23,21 +23,21 @@
 
         (1) __Simplified acquisition threshold.—__ 
 
-            (A) __Definition.—__ 
+            (A)  __Definition__  __.—__ 
 
             For purposes of an acquisition by an executive agency, the simplified acquisition threshold is as specified in [section 134 of this title][/us/usc/t41/s134].
 
-            (B) __Inapplicable laws.—__ 
+            (B)  __Inapplicable laws__  __.—__ 
 
             A law properly listed in the Federal Acquisition Regulation pursuant to [section 1905 of this title][/us/usc/t41/s1905] does not apply to or with respect to a contract or subcontract that is not greater than the simplified acquisition threshold.
 
-        (2) __Simplified acquisition procedures.—__ 
+        (2)  __Simplified acquisition procedures__  __.—__ 
 
         Simplified acquisition procedures contained in the Federal Acquisition Regulation pursuant to [section 1901 of this title][/us/usc/t41/s1901] apply in executive agencies as provided in section 1901.
 
     (c) __Exceptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This division does not apply—
 
@@ -45,7 +45,7 @@
 
             (B) except as provided in paragraph (2), when this division is made inapplicable pursuant to law.
 
-        (2) __Applicability of certain laws related to advertising, opening of bids, and length of contract.—__ 
+        (2)  __Applicability of certain laws related to advertising, opening of bids, and length of contract__  __.—__ 
 
         Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However, when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statute to procure without advertising or without regard to [section 6101 of this title][/us/usc/t41/s6101]. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to [section 6101 of this title][/us/usc/t41/s6101] is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
 

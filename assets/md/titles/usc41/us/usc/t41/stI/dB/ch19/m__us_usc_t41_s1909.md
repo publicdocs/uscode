@@ -15,7 +15,7 @@
 
 ## § 1909. Management of purchase cards
 
-    (a) __Required Safeguards and Internal Controls.—__ 
+    (a)  __Required Safeguards and Internal Controls__  __.—__ 
 
     The head of each executive agency that issues and uses purchase cards and convenience checks shall establish and maintain safeguards and internal controls to ensure the following:
 
@@ -57,21 +57,21 @@
 
         (13) The executive agency takes steps to recover the cost of any illegal, improper, or erroneous purchase made with a purchase card or convenience check by an employee, including, as necessary, through salary offsets.
 
-    (b) __Guidance.—__ 
+    (b)  __Guidance__  __.—__ 
 
     The Director of the Office of Management and Budget shall review existing guidance and, as necessary, prescribe additional guidance governing the implementation of the requirements of subsection (a) by executive agencies.
 
     (c) __Penalties for Violations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The head of each executive agency shall provide for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the agency violate agency policies implementing the guidance required by subsection (b) or make illegal, improper, or erroneous purchases with purchase cards or convenience checks.
 
-        (2) __Dismissal.—__ 
+        (2)  __Dismissal__  __.—__ 
 
         Penalties prescribed for employee misuse of purchase cards or convenience checks shall include dismissal of the employee, as appropriate.
 
-        (3) __Reports on violations.—__ 
+        (3)  __Reports on violations__  __.—__ 
 
         The guidance prescribed under subsection (b) shall direct each head of an executive agency with more than $10,000,000 in purchase card spending annually, and each Inspector General of such an executive agency, on a semiannual basis, to submit to the Director of the Office of Management and Budget a joint report on violations or other actions covered by paragraph (1) by employees of such executive agency. At a minimum, the report shall set forth the following:
 
@@ -79,7 +79,7 @@
 
             (B) A summary description of all adverse personnel action, punishment, or other action taken based on each violation.
 
-    (d) __Risk Assessments and Audits.—__ 
+    (d)  __Risk Assessments and Audits__  __.—__ 
 
     The Inspector General of each executive agency shall—
 
@@ -99,7 +99,7 @@
 
         (4) report to the Director of the Office of Management and Budget on the implementation of recommendations made to the head of the executive agency to address findings of any analysis or audit of purchase card and convenience check transactions or programs for compilation and transmission by the Director to Congress and the Comptroller General.
 
-    (e) __Relationship to Department of Defense Purchase Card Regulations.—__ 
+    (e)  __Relationship to Department of Defense Purchase Card Regulations__  __.—__ 
 
     The requirements of this section shall not apply to the Department of Defense. See [section 2784 of title 10][/us/usc/t10/s2784] for provisions relating to management of purchase cards in the Department.
 

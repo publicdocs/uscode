@@ -15,7 +15,7 @@
 
 ## § 1504. Effect on other standards and regulations
 
-    (a) __Previously Existing Standards.—__ 
+    (a)  __Previously Existing Standards__  __.—__ 
 
     All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)—
 
@@ -23,11 +23,11 @@
 
         (2) are subject to the provisions of this division in the same manner as if prescribed by the Board under this division.
 
-    (b) __Inconsistent Agency Regulations.—__ 
+    (b)  __Inconsistent Agency Regulations__  __.—__ 
 
     To ensure that a regulation or proposed regulation of an executive agency is not inconsistent with a cost accounting standard prescribed or amended under this chapter, the Administrator, under the authority in sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, shall rescind or deny the promulgation of the inconsistent regulation or proposed regulation and take other appropriate action authorized under sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305.
 
-    (c) __Costs Not Subject to Different Standards.—__ 
+    (c)  __Costs Not Subject to Different Standards__  __.—__ 
 
     Costs that are the subject of cost accounting standards prescribed under this chapter are not subject to regulations established by another executive agency that differ from those standards with respect to the measurement, assignment, and allocation of those costs.
 

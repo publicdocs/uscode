@@ -15,11 +15,11 @@
 
 ## § 1311. Establishment and membership
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is in the executive branch a Chief Acquisition Officers Council.
 
-    (b) __Membership.—__ 
+    (b)  __ Membership__  __.—__ 
 
     The members of the Council are—
 
@@ -35,19 +35,19 @@
 
     (c) __Leadership and Support.—__ 
 
-        (1) __Chairman.—__ 
+        (1)  __Chairman__  __.—__ 
 
         The Deputy Director for Management of the Office of Management and Budget is the Chairman of the Council.
 
-        (2) __Vice chairman.—__ 
+        (2)  __Vice chairman__  __.—__ 
 
         The Vice Chairman of the Council shall be selected by the Council from among its members. The Vice Chairman serves for one year and may serve multiple terms.
 
-        (3) __Leader of activities.—__ 
+        (3)  __Leader of activities__  __.—__ 
 
         The Administrator shall lead the activities of the Council on behalf of the Deputy Director for Management.
 
-        (4) __Support.—__ 
+        (4)  __Support__  __.—__ 
 
         The Administrator of General Services shall provide administrative and other support for the Council.
 

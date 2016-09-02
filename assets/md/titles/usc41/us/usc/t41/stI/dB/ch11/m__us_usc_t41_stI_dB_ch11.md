@@ -145,6 +145,16 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
 </table>
 
+ __Amendment of Analysis__ 
+
+    [Pub. L. 113–67, div. A, title VII, § 702(b)(2)][/us/pl/113/67/s702/b/2], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
+
+    [Pub. L. 113–66, div. A, title VIII, § 811(c)(2)][/us/pl/113/66/s811/c/2], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this analysis is amended by striking out item 1127. See 2013 Amendment note below.
+
+ __Amendments__ 
+
+    2013—[Pub. L. 113–66, div. A, title VIII, § 811(c)(2)][/us/pl/113/66/s811/c/2], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], and [Pub. L. 113–67, div. A, title VII, § 702(b)(2)][/us/pl/113/67/s702/b/2], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], struck out item 1127 “Determining benchmark compensation amount”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dB/m__us_usc_t41_stI_dB.md) | [Next](./../../../../../..//us/usc/t41/stI/dB/ch11/schI/m__us_usc_t41_stI_dB_ch11_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2FstI%2FdB%2Fch11)
@@ -152,5 +162,13 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 ----------
 ----------
 
+[/us/pl/113/67/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fb%2F2
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/66/s811/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fc%2F2
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/pl/113/66/s811/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fc%2F2
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/pl/113/67/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fb%2F2
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
 
 

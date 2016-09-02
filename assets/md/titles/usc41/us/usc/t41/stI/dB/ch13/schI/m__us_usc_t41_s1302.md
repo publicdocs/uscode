@@ -15,13 +15,13 @@
 
 ## § 1302. Establishment and membership
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a Federal Acquisition Regulatory Council to assist in the direction and coordination of Government-wide procurement policy and Government-wide procurement regulatory activities in the Federal Government.
 
     (b) __Membership.—__ 
 
-        (1) __Makeup of council.—__ 
+        (1)  __Makeup of council__  __.—__ 
 
         The Council consists of—
 
@@ -35,7 +35,7 @@
 
         (2) __Designation of other officials.—__ 
 
-            (A) __Officials who may be designated.—__ 
+            (A)  __Officials who may be designated__  __.—__ 
 
             Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (B) to (D) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official—
 
@@ -43,7 +43,7 @@
 
                 (ii) if no official of that agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to [section 1702(c) of this title][/us/usc/t41/s1702/c].
 
-            (B) __Limitation on designation.—__ 
+            (B)  __Limitation on designation__  __.—__ 
 
             No other official or employee may be designated to serve on the Council.
 

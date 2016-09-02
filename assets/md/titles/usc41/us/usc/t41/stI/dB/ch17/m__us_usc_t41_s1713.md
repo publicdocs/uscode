@@ -15,23 +15,23 @@
 
 ## § 1713. Procurement data
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Qualified hubzone small business concern.—__ 
+        (1)  __Qualified hubzone small business concern__  __.—__ 
 
         The term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ([15 U.S.C. 632(p)][/us/usc/t15/s632/p]).
 
-        (2) __Small business concern owned and controlled by socially and economically disadvantaged individuals.—__ 
+        (2)  __Small business concern owned and controlled by socially and economically disadvantaged individuals__  __.—__ 
 
         The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given that term in section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]).
 
-        (3) __Small business concern owned and controlled by women.—__ 
+        (3)  __Small business concern owned and controlled by women__  __.—__ 
 
         The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]) and section 204 of the Women’s Business Ownership Act of 1988 ([Public Law 100–533][/us/pl/100/533], [102 Stat. 2692][/us/stat/102/2692]).
 
-    (b) __Reporting.—__ 
+    (b)  __Reporting__  __.—__ 
 
     Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small business concerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
 

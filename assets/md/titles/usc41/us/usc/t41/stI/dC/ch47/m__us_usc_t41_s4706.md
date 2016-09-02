@@ -15,13 +15,13 @@
 
 ## § 4706. Examination of facilities and records of contractor
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether the items are in written form, in the form of computer data, or in any other form.
 
     (b) __Agency Authority.—__ 
 
-        (1) __Inspection of plant and audit of records.—__ 
+        (1)  __Inspection of plant and audit of records__  __.—__ 
 
         The head of an executive agency, acting through an authorized representative, may inspect the plant and audit the records of—
 
@@ -29,7 +29,7 @@
 
             (B) a subcontractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract, or any combination of those subcontracts, under a contract referred to in subparagraph (A).
 
-        (2) __Examination of records.—__ 
+        (2)  __Examination of records__  __.—__ 
 
         The head of an executive agency, acting through an authorized representative, may, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to chapter 35 of this title with respect to a contract or subcontract, examine all records of the contractor or subcontractor related to—
 
@@ -43,29 +43,29 @@
 
     (c) __Subpoena Power.—__ 
 
-        (1) __Authority to require the production of records.—__ 
+        (1)  __Authority to require the production of records__  __.—__ 
 
         The Inspector General of an executive agency appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) or, on request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (b).
 
-        (2) __Enforcement of subpoena.—__ 
+        (2)  __Enforcement of subpoena__  __.—__ 
 
         A subpoena under paragraph (1), in the case of contumacy or refusal to obey, is enforceable by order of an appropriate United States district court.
 
-        (3) __Authority not delegable.—__ 
+        (3)  __Authority not delegable__  __.—__ 
 
         The authority provided by paragraph (1) may not be delegated.
 
-        (4) __Report.—__ 
+        (4)  __Report__  __.—__ 
 
         In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the exercise of the authority during the preceding year and the reasons why the authority was exercised in any instance.
 
     (d) __Authority of Comptroller General.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and representatives of the Comptroller General may examine records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract and to interview any current employee regarding the transactions.
 
-        (2) __Exception for foreign contractor or subcontractor.—__ 
+        (2)  __Exception for foreign contractor or subcontractor__  __.—__ 
 
         Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or the designee of the Comptroller General, that applying paragraph (1) to the contract or subcontract would not be in the public interest. The concurrence of the Comptroller General or the designee is not required when—
 
@@ -79,19 +79,19 @@
 
             (B) the executive agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
 
-        (3) __Additional records not required.—__ 
+        (3)  __Additional records not required__  __.—__ 
 
         Paragraph (1) does not require a contractor or subcontractor to create or maintain a record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another law.
 
-    (e) __Limitation on Audits Relating to Indirect Costs.—__ 
+    (e)  __Limitation on Audits Relating to Indirect Costs__  __.—__ 
 
     An executive agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification when the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by another department or agency of the Federal Government within one year preceding the date of the contracting officer’s determination.
 
-    (f) __Expiration of Authority.—__ 
+    (f)  __Expiration of Authority__  __.—__ 
 
     The authority of an executive agency under subsection (b) and the authority of the Comptroller General under subsection (d) shall expire 3 years after final payment under the contract or subcontract.
 
-    (g) __Inapplicability to Certain Contracts.—__ 
+    (g)  __Inapplicability to Certain Contracts__  __.—__ 
 
     This section does not apply to the following contracts:
 
@@ -99,23 +99,23 @@
 
         (2) A contract or subcontract that is not greater than the simplified acquisition threshold.
 
-    (h) __Electronic Form Allowed.—__ 
+    (h)  __Electronic Form Allowed__  __.—__ 
 
     This section does not preclude a contractor from duplicating or storing original records in electronic form.
 
-    (i) __Original Records Not Required.—__ 
+    (i)  __Original Records Not Required__  __.—__ 
 
     An executive agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
-        (1) __Preservation procedures established.—__ 
+        (1)  __Preservation procedures established__  __.—__ 
 
         The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
-        (2) __Indexing system maintained.—__ 
+        (2)  __Indexing system maintained__  __.—__ 
 
         The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
 
-        (3) __Original records retained.—__ 
+        (3)  __Original records retained__  __.—__ 
 
         The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 

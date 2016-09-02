@@ -17,35 +17,35 @@
 
     In this chapter:
 
-    (1) __Contracting agency.—__ 
+    (1)  __Contracting agency__  __.—__ 
 
     The term “contracting agency”, when used with respect to a prime contractor, means a department, agency, or establishment of the Federal Government that enters into a prime contract with a prime contractor.
 
-    (2) __Kickback.—__ 
+    (2)  __Kickback__  __.—__ 
 
     The term “kickback” means any money, fee, commission, credit, gift, gratuity, thing of value, or compensation of any kind that is provided to a prime contractor, prime contractor employee, subcontractor, or subcontractor employee to improperly obtain or reward favorable treatment in connection with a prime contract or a subcontract relating to a prime contract.
 
-    (3) __Person.—__ 
+    (3)  __Person__  __.—__ 
 
     The term “person” means a corporation, partnership, business association of any kind, trust, joint-stock company, or individual.
 
-    (4) __Prime contract.—__ 
+    (4)  __Prime contract__  __.—__ 
 
     The term “prime contract” means a contract or contractual action entered into by the Federal Government to obtain supplies, materials, equipment, or services of any kind.
 
-    (5) __Prime contractor.—__ 
+    (5)  __Prime contractor__  __.—__ 
 
     The term “prime contractor” means a person that has entered into a prime contract with the Federal Government.
 
-    (6) __Prime contractor employee.—__ 
+    (6)  __Prime contractor employee__  __.—__ 
 
     The term “prime contractor employee” means an officer, partner, employee, or agent of a prime contractor.
 
-    (7) __Subcontract.—__ 
+    (7)  __Subcontract__  __.—__ 
 
     The term “subcontract” means a contract or contractual action entered into by a prime contractor or subcontractor to obtain supplies, materials, equipment, or services of any kind under a prime contract.
 
-    (8) __Subcontractor.—__ 
+    (8)  __Subcontractor__  __.—__ 
 
     The term “subcontractor”—
 
@@ -53,7 +53,7 @@
 
         (B) includes a person that offers to furnish or furnishes general supplies to the prime contractor or a higher tier subcontractor.
 
-    (9) __Subcontractor employee.—__ 
+    (9)  __Subcontractor employee__  __.—__ 
 
     The term “subcontractor employee” means an officer, partner, employee, or agent of a subcontractor.
 

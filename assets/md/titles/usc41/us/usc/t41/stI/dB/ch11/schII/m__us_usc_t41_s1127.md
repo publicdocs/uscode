@@ -15,27 +15,27 @@
 
 ## § 1127. Determining benchmark compensation amount
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Benchmark compensation amount.—__ 
+        (1)  __Benchmark compensation amount__  __.—__ 
 
         The term “benchmark compensation amount”, for a fiscal year, is the median amount of the compensation provided for all senior executives of all benchmark corporations for the most recent year for which data is available at the time the determination under subsection (b) is made.
 
-        (2) __Benchmark corporation.—__ 
+        (2)  __Benchmark corporation__  __.—__ 
 
         The term “benchmark corporation”, with respect to a fiscal year, means a publicly-owned United States corporation that has annual sales in excess of $50,000,000 for the fiscal year.
 
-        (3) __Compensation.—__ 
+        (3)  __Compensation__  __.—__ 
 
         The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer’s cost accounting records for the fiscal year.
 
-        (4) __Fiscal year.—__ 
+        (4)  __Fiscal year__  __.—__ 
 
         The term “fiscal year” means a fiscal year a contractor establishes for accounting purposes.
 
-        (5) __Publicly-owned united states corporation.—__ 
+        (5)  __Publicly-owned united states corporation__  __.—__ 
 
         The term “publicly-owned United States corporation” means a corporation—
 
@@ -43,15 +43,21 @@
 
             (B) whose voting stock is publicly traded.
 
-        (6) __Senior executives.—__ 
+        (6)  __Senior executives__  __.—__ 
 
         The term “senior executives”, with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
 
-    (b) __Determining Benchmark Compensation Amount.—__ 
+    (b)  __Determining Benchmark Compensation Amount__  __.—__ 
 
     For purposes of [section 4304(a)(16) of this title][/us/usc/t41/s4304/a/16] and [section 2324(e)(1)(P) of title 10][/us/usc/t10/s2324/e/1/P], the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
 
 ([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3689][/us/stat/124/3689].)
+
+ __Repeal of Section__ 
+
+    [Pub. L. 113–67, div. A, title VII, § 702(b)(1)][/us/pl/113/67/s702/b/1], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.
+
+    [Pub. L. 113–66, div. A, title VIII, § 811(c)(1)][/us/pl/113/66/s811/c/1], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.
 
 <table>
 
@@ -183,6 +189,12 @@ Pub. L. 93–400, § 39, as added Pub. L. 105–85, title VIII, § 808(c)(1)
 
 </table>
 
+ __Effective Date of Repeal__ 
+
+    Repeal by [Pub. L. 113–67][/us/pl/113/67] applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see [section 702(c) of Pub. L. 113–67][/us/pl/113/67/s702/c], set out as an Effective Date of 2013 Amendment note under [section 2324 of Title 10][/us/usc/t10/s2324], Armed Forces.
+
+    Repeal by [Pub. L. 113–66][/us/pl/113/66] applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see [section 811(d) of Pub. L. 113–66][/us/pl/113/66/s811/d], set out as an Effective Date of 2013 Amendment note under [section 2324 of Title 10][/us/usc/t10/s2324], Armed Forces.
+
  __Exclusive Applicability of Provisions Limiting Allowability of Compensation for Certain Contractor Personnel__ 
 
 [Pub. L. 105–85, div. A, title VIII, § 808(f)][/us/pl/105/85/s808/f], Nov. 18, 1997, [111 Stat. 1838][/us/stat/111/1838], provided that: 
@@ -210,6 +222,16 @@ Pub. L. 93–400, § 39, as added Pub. L. 105–85, title VIII, § 808(c)(1)
 [/us/usc/t10/s2324/e/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324%2Fe%2F1%2FP
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3689
+[/us/pl/113/67/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fb%2F1
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/66/s811/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fc%2F1
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fc
+[/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fd
+[/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
 [/us/pl/105/85/s808/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs808%2Ff
 [/us/stat/111/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1838
 [/us/pl/105/85/s808/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs808%2Fg

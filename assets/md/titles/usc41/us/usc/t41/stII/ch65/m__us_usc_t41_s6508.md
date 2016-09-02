@@ -15,23 +15,23 @@
 
 ## § 6508. Authority to make exceptions
 
-    (a) __Duty of the Secretary To Make Exceptions.—__ 
+    (a)  __Duty of the Secretary To Make Exceptions__  __.—__ 
 
     When the head of an agency of the United States makes a written finding that the inclusion of representations or stipulations under [section 6502 of this title][/us/usc/t41/s6502] in a proposal or contract will seriously impair the conduct of Federal Government business, the Secretary shall make exceptions, in specific cases or otherwise, when justice or the public interest will be served.
 
-    (b) __Authority of the Secretary To Modify Existing Contracts.—__ 
+    (b)  __Authority of the Secretary To Modify Existing Contracts__  __.—__ 
 
     When an agency of the United States and a contractor jointly recommend, the Secretary may modify the terms of an existing contract with respect to minimum wages and maximum hours of labor as the Secretary finds necessary and proper in the public interest or to prevent injustice and undue hardship.
 
-    (c) __Authority of the Secretary To Allow Limitations, Variations, Tolerances, and Exemptions.—__ 
+    (c)  __Authority of the Secretary To Allow Limitations, Variations, Tolerances, and Exemptions__  __.—__ 
 
     The Secretary may provide reasonable limitations and may prescribe regulations to allow reasonable variations, tolerances, and exemptions in the application of this chapter to contractors, including with respect to minimum wages and maximum hours of labor.
 
-    (d) __Rate of Pay for Overtime.—__ 
+    (d)  __Rate of Pay for Overtime__  __.—__ 
 
     When the Secretary permits an increase in the maximum hours of labor stipulated in a contract, the Secretary shall set a rate of pay for overtime. The overtime rate must be at least one and one-half times the basic hourly rate.
 
-    (e) __Authority of the President To Suspend.—__ 
+    (e)  __Authority of the President To Suspend__  __.—__ 
 
     The President may suspend any of the representations and stipulations contained in [section 6502 of this title][/us/usc/t41/s6502] whenever, in the President’s judgment, suspension is in the public interest.
 

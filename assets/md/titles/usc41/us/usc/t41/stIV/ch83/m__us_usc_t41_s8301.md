@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Public building, public use, and public work.—__ 
+    (1)  __Public building, public use, and public work__  __.—__ 
 
     The terms “public building”, “public use”, and “public work” mean a public building of, use by, and a public work of, the Federal Government, the District of Columbia, Puerto Rico, American Samoa, and the Virgin Islands.
 
-    (2) __United states.—__ 
+    (2)  __United states__  __.—__ 
 
     The term “United States” includes any place subject to the jurisdiction of the United States.
 
@@ -81,11 +81,11 @@ Mar. 3, 1933, ch. 212, title III, § 1, 47 Stat. 1520; Pub. L. 86–70, § 4
 
 [Pub. L. 100–371, title V, § 508][/us/pl/100/371/s508], July 19, 1988, [102 Stat. 875][/us/stat/102/875], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     For purposes of title III of the Act of March 3, 1933 ([47 Stat. 1520][/us/stat/47/1520]; \[former\] [41 U.S.C. 10a–10c][/us/usc/t41/s10a–10c]) \[see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\], commonly known as the Buy American Act, a cofferdam or any other temporary structure to be constructed by the Secretary of the Army, acting through the Chief of Engineers, shall be treated in the same manner as a permanent dam constructed by the Secretary of the Army.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall only apply to contracts entered into after the date of the enactment of this Act \[July 19, 1988\].”
 

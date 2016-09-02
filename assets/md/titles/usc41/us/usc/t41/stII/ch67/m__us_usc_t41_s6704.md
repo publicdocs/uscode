@@ -15,11 +15,11 @@
 
 ## § 6704. Limitation on minimum wage
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A contractor that makes a contract with the Federal Government, the principal purpose of which is to furnish services through the use of service employees, and any subcontractor, may not pay less than the minimum wage specified under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]) to an employee engaged in performing work on the contract.
 
-    (b) __Violations.—__ 
+    (b)  __Violations__  __.—__ 
 
     Sections 6705 to 6707(d) of this title are applicable to a violation of this section.
 

@@ -15,7 +15,7 @@
 
 ## § 3305. Simplified procedures for small purchases
 
-    (a) __Authorization.—__ 
+    (a)  __Authorization__  __.—__ 
 
     To promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for special simplified procedures for purchases of property and services for amounts—
 
@@ -23,19 +23,19 @@
 
         (2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
-    (b) __Leasehold Interests in Real Property.—__ 
+    (b)  __Leasehold Interests in Real Property__  __.—__ 
 
     The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold. The rental rate under a multiyear lease does not exceed the simplified acquisition threshold if the average annual amount of the rent payable for the period of the lease does not exceed the simplified acquisition threshold.
 
-    (c) __Prohibition on Dividing Contracts.—__ 
+    (c)  __Prohibition on Dividing Contracts__  __.—__ 
 
     A proposed purchase or contract for an amount above the simplified acquisition threshold may not be divided into several purchases or contracts for lesser amounts to use the simplified procedures required by subsection (a).
 
-    (d) __Promotion of Competition.—__ 
+    (d)  __Promotion of Competition__  __.—__ 
 
     In using the simplified procedures, an executive agency shall promote competition to the maximum extent practicable.
 
-    (e) __Compliance With Special Requirements of Federal Acquisition Regulation.—__ 
+    (e)  __Compliance With Special Requirements of Federal Acquisition Regulation__  __.—__ 
 
     An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in [section 1901(e) of this title][/us/usc/t41/s1901/e].
 

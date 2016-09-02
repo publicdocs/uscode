@@ -15,7 +15,7 @@
 
 ## § 8303. Contracts for public works
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Every contract for the construction, alteration, or repair of any public building or public work in the United States shall contain a provision that in the performance of the work the contractor, subcontractors, material men, or suppliers shall use only—
 
@@ -25,7 +25,7 @@
 
     (b) __Exceptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This section does not apply—
 
@@ -35,15 +35,15 @@
 
             (C) to manufactured articles, materials, or supplies procured under any contract with an award value that is not more than the micro-purchase threshold under [section 1902 of this title][/us/usc/t41/s1902].
 
-        (2) __Particular article, material, or supply.—__ 
+        (2)  __Particular article, material, or supply__  __.—__ 
 
         If the head of the department or independent establishment making the contract finds that it is impracticable to comply with subsection (a) for a particular article, material, or supply or that it would unreasonably increase the cost, an exception shall be noted in the specifications for that article, material, or supply and a public record of the findings that justified the exception shall be made.
 
-        (3) __Inconsistent with public interest.—__ 
+        (3)  __Inconsistent with public interest__  __.—__ 
 
         Subsection (a) shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the department or independent establishment concerned determines their purchase to be inconsistent with the public interest or their cost to be unreasonable.
 
-    (c) __Results of Failure To Comply.—__ 
+    (c)  __Results of Failure To Comply__  __.—__ 
 
     If the head of a department, bureau, agency, or independent establishment that has made a contract containing the provision required by subsection (a) finds that there has been a failure to comply with the provision in the performance of the contract, the head of the department, bureau, agency, or independent establishment shall make the findings public. The findings shall include the name of the contractor obligated under the contract. The contractor, and any subcontractor, material man, or supplier associated or affiliated with the contractor, shall not be awarded another contract for the construction, alteration, or repair of any public building or public work for 3 years after the findings are made public.
 

@@ -15,7 +15,7 @@
 
 ## § 2304. Conflict of interest standards for consultants
 
-    (a) __Content of Regulations.—__ 
+    (a)  __Content of Regulations__  __.—__ 
 
     The Administrator shall prescribe under this division Government-wide regulations that set forth—
 
@@ -23,7 +23,7 @@
 
         (2) procedures, including registration, certification, and enforcement requirements as may be appropriate, to promote compliance with the standards.
 
-    (b) __Services Subject to Regulations.—__ 
+    (b)  __Services Subject to Regulations__  __.—__ 
 
     Regulations required by subsection (a) apply to—
 
@@ -35,15 +35,15 @@
 
     (c) __Intelligence Activities Exemption.—__ 
 
-        (1) __Activities that may be exempt.—__ 
+        (1)  __Activities that may be exempt__  __.—__ 
 
         Intelligence activities as defined in section 3.4(e) of Executive Order No. 12333 or a comparable definitional section in any successor order may be exempt from the regulations required by subsection (a).
 
-        (2) __Report.—__ 
+        (2)  __Report__  __.—__ 
 
         The Director of National Intelligence shall report to the Intelligence and Appropriations Committees of Congress each January 1, delineating the activities and organizations that have been exempted under paragraph (1).
 
-    (d) __Presidential Determination.—__ 
+    (d)  __Presidential Determination__  __.—__ 
 
     Before the regulations required by subsection (a) are prescribed, the President shall determine if prescribing the regulations will have a significantly adverse effect on the accomplishment of the mission of the Defense Department or another Federal agency. If the President determines that the regulations will have such an adverse effect, the President shall so report to the appropriate committees of the Senate and the House of Representatives, stating in full the reasons for the determination. If such a report is submitted, the requirement for the regulations shall be null and void.
 

@@ -15,11 +15,11 @@
 
 ## § 4710. Limitations on tiering of subcontractors
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “executive agency” has the same meaning given in [section 133 of this title][/us/usc/t41/s133].
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     For executive agencies other than the Department of Defense, the Federal Acquisition Regulation shall—
 
@@ -27,15 +27,15 @@
 
         (2) ensure that neither a contractor nor a subcontractor receives indirect costs or profit on work performed by a lower-tier subcontractor to which the higher-tier contractor or subcontractor adds no or negligible value (but not to limit charges for indirect costs and profit based on the direct costs of managing lower-tier subcontracts).
 
-    (c) __Covered Contracts.—__ 
+    (c)  __Covered Contracts__  __.—__ 
 
     This section applies to any cost-reimbursement type contract or task or delivery order in an amount greater than the simplified acquisition threshold (as defined by [section 134 of this title][/us/usc/t41/s134]).
 
-    (d) __Rule of Construction.—__ 
+    (d)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed as limiting the ability of the Department of Defense to implement more restrictive limitations on the tiering of subcontractors.
 
-    (e) __Applicability.—__ 
+    (e)  __Applicability__  __.—__ 
 
     The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department of Defense pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364], [10 U.S.C. 2324][/us/usc/t10/s2324] note).
 

@@ -15,11 +15,11 @@
 
 ## § 4106. Orders
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies to task and delivery order contracts entered into under sections 4103 and 4105 of this title.
 
-    (b) __Actions Not Required for Issuance of Orders.—__ 
+    (b)  __Actions Not Required for Issuance of Orders__  __.—__ 
 
     The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
 
@@ -27,7 +27,7 @@
 
         (2) Except as provided in subsection (c), a competition (or a waiver of competition approved in accordance with [section 3304(e) of this title][/us/usc/t41/s3304/e]) that is separate from that used for entering into the contract.
 
-    (c) __Multiple Award Contracts.—__ 
+    (c)  __Multiple Award Contracts__  __.—__ 
 
     When multiple contracts are awarded under section 4103(d)(1)(B) or 4105(f) of this title, all contractors awarded the contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts, unless—
 
@@ -39,7 +39,7 @@
 
         (4) it is necessary to place the order with a particular contractor to satisfy a minimum guarantee.
 
-    (d) __Enhanced Competition for Orders in Excess of $5,000,000.—__ 
+    (d)  __Enhanced Competition for Orders in Excess of__  __$5,000,000.—__ 
 
     In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (c) is not met unless all such contractors are provided, at a minimum—
 
@@ -59,13 +59,13 @@
 
         (5) an opportunity for a post-award debriefing consistent with the requirements of [section 3704 of this title][/us/usc/t41/s3704].
 
-    (e) __Statement of Work.—__ 
+    (e)  __Statement of Work__  __.—__ 
 
     A task or delivery order shall include a statement of work that clearly specifies all tasks to be performed or property to be delivered under the order.
 
     (f) __Protests.—__ 
 
-        (1) __Protest not authorized.—__ 
+        (1)  __Protest not authorized__  __.—__ 
 
         A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for—
 
@@ -73,21 +73,21 @@
 
             (B) a protest of an order valued in excess of $10,000,000.
 
-        (2) __Jurisdiction over protests.—__ 
+        (2)  __Jurisdiction over protests__  __.—__ 
 
         Notwithstanding [section 3556 of title 31][/us/usc/t31/s3556], the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
-        (3) __Effective period.—__ 
+        (3)  __Effective period__  __.—__ 
 
         Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
 
     (g) __Task and Delivery Order Ombudsman.—__ 
 
-        (1) __Appointment or designation and responsibilities.—__ 
+        (1)  __Appointment or designation and responsibilities__  __.—__ 
 
         The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
 
-        (2) __Who is eligible.—__ 
+        (2)  __Who is eligible__  __.—__ 
 
         The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency’s advocate for competition.
 

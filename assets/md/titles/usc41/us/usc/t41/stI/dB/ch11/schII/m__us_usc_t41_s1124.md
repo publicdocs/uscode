@@ -15,7 +15,7 @@
 
 ## § 1124. Tests of innovative procurement methods and procedures
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator may develop innovative procurement methods and procedures to be tested by selected executive agencies. In developing a program to test innovative procurement methods and procedures under this subsection, the Administrator shall consult with the heads of executive agencies to—
 
@@ -31,11 +31,11 @@
 
         (6) develop the methods to be used to analyze the results of the program.
 
-    (b) __Approval of Executive Agencies Required.—__ 
+    (b)  __Approval of Executive Agencies Required__  __.—__ 
 
     A program to test innovative procurement methods and procedures may not be carried out unless approved by the heads of the executive agencies selected to carry out the program.
 
-    (c) __Request for Waiver of Law.—__ 
+    (c)  __Request for Waiver of Law__  __.—__ 
 
     If the Administrator determines that it is necessary to waive the application of a provision of law to carry out a proposed program to test innovative procurement methods and procedures under subsection (a), the Administrator shall transmit notice of the proposed program to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate and request that the Committees take the necessary action to provide that the provision of law does not apply with respect to the proposed program. The notification to Congress shall include—
 

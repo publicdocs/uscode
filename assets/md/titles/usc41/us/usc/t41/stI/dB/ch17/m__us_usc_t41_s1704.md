@@ -15,19 +15,19 @@
 
 ## § 1704. Planning and policy-making for acquisition workforce
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Associate Administrator.—__ 
+        (1)  __Associate Administrator__  __.—__ 
 
         The term “Associate Administrator” means the Associate Administrator for Acquisition Workforce Programs as designated by the Administrator pursuant to subsection (b).
 
-        (2) __Chief Acquisition Officer.—__ 
+        (2)  __Chief Acquisition Officer__  __.—__ 
 
         The term “Chief Acquisition Officer” means a Chief Acquisition Officer for an executive agency appointed pursuant to [section 1702 of this title][/us/usc/t41/s1702].
 
-    (b) __Associate Administrator for Acquisition Workforce Programs.—__ 
+    (b)  __Associate Administrator for Acquisition Workforce Programs__  __.—__ 
 
     The Administrator shall designate a member of the Senior Executive Service as the Associate Administrator for Acquisition Workforce Programs. The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management. The Associate Administrator shall be located in the Office of Federal Procurement Policy. The Associate Administrator shall be responsible for—
 
@@ -45,11 +45,11 @@
 
     (c) __Acquisition and Contracting Training Programs Within Executive Agencies.—__ 
 
-        (1) __Chief Acquisition Officer authorities and responsibilities.—__ 
+        (1)  __Chief Acquisition Officer authorities and responsibilities__  __.—__ 
 
         Subject to the authority, direction, and control of the head of an executive agency, the Chief Acquisition Officer for that agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementation of this subsection. The Chief Acquisition Officer shall ensure that the policies established by the head of the agency in accordance with this subsection are implemented throughout the agency.
 
-        (2) __Requirement.—__ 
+        (2)  __Requirement__  __.—__ 
 
         The head of each executive agency, after consultation with the Associate Administrator, shall establish and operate acquisition and contracting training programs. The programs shall—
 
@@ -59,21 +59,21 @@
 
             (C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever those features can be applied without reducing the effectiveness of the training or negatively affecting academic standards.
 
-    (d) __Government-wide Policies and Evaluation.—__ 
+    (d)  __ Government-wide Policies and Evaluation__  __.—__ 
 
     The Administrator shall issue policies to promote the development of performance standards for training and uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Administrator shall evaluate the implementation of the provisions of subsection (c) by executive agencies.
 
-    (e) __Information on Acquisition and Contracting Training.—__ 
+    (e)  __Information on Acquisition and Contracting Training__  __.—__ 
 
     The Administrator shall ensure that the heads of executive agencies collect and maintain standardized information on the acquisition and contracting workforce related to the implementation of subsection (c).
 
     (f) __Acquisition Workforce Human Capital Succession Plan.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each Chief Acquisition Officer for an executive agency shall develop, in consultation with the Chief Human Capital Officer for the agency and the Associate Administrator, a succession plan consistent with the agency’s strategic human capital plan for the recruitment, development, and retention of the agency’s acquisition workforce, with a particular focus on warranted contracting officers and program managers of the agency.
 
-        (2) __Content of plan.—__ 
+        (2)  __Content of plan__  __.—__ 
 
         The acquisition workforce succession plan shall address—
 
@@ -89,7 +89,7 @@
 
     (g) __Acquisition Workforce Development Strategic Plan.—__ 
 
-        (1) __Purpose.—__ 
+        (1)  __Purpose__  __.—__ 
 
         The purpose of this subsection is to authorize the preparation and completion of the Acquisition Workforce Development Strategic Plan, which is a plan for Federal agencies other than the Department of Defense to—
 
@@ -97,11 +97,11 @@
 
             (B) operate a government-wide acquisition intern program for the Federal agencies.
 
-        (2) __Establishment of plan.—__ 
+        (2)  __Establishment of plan__  __.—__ 
 
         The Associate Administrator shall be responsible for the management, oversight, and administration of the Acquisition Workforce Development Strategic Plan in cooperation and consultation with the Office of Federal Procurement Policy and with the assistance of the Federal Acquisition Institute.
 
-        (3) __Criteria.—__ 
+        (3)  __Criteria__  __.—__ 
 
         The Acquisition Workforce Development Strategic Plan shall include an examination of the following matters:
 
@@ -117,19 +117,19 @@
 
             (F) If the Associate Administrator recommends as part of the plan a growth in the acquisition workforce of the Federal agencies covered by the plan below 25 percent over the next 5 years, an examination of each of the matters specified in subparagraphs (A) to (E) in the context of a 5-year plan that increases the size of such acquisition workforce by not less than 25 percent, or an explanation why such a level of growth would not be in the best interest of the Federal Government.
 
-        (4) __Deadline for completion.—__ 
+        (4)  __Deadline for completion__  __.—__ 
 
         The Acquisition Workforce Development Strategic Plan shall be completed not later than one year after October 14, 2008, and in a fashion that allows for immediate implementation of its recommendations and guidelines.
 
-        (5) __Funds.—__ 
+        (5)  __Funds__  __.—__ 
 
         The acquisition workforce development strategic plan shall be funded from the acquisition workforce training fund under [section 1703(i) of this title][/us/usc/t41/s1703/i].
 
-    (h) __Training in the Acquisition of Architect and Engineering Services.—__ 
+    (h)  __Training in the Acquisition of Architect and Engineering Services__  __.—__ 
 
     The Administrator shall ensure that a sufficient number of Federal employees are trained in the acquisition of architect and engineering services.
 
-    (i) __Utilization of Recruitment and Retention Authorities.—__ 
+    (i)  __Utilization of Recruitment and Retention Authorities__  __.—__ 
 
     The Administrator, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to use existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
 

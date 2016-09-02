@@ -15,15 +15,15 @@
 
 ## § 2308. Modular contracting for information technology
 
-    (a) __Use.—__ 
+    (a)  __Use__  __.—__ 
 
     To the maximum extent practicable, the head of an executive agency should use modular contracting for an acquisition of a major system of information technology.
 
-    (b) __Modular Contracting Described.—__ 
+    (b)  __Modular Contracting Described__  __.—__ 
 
     Under modular contracting, an executive agency’s need for a system is satisfied in successive acquisitions of interoperable increments. Each increment complies with common or commercially accepted standards applicable to information technology so that the increments are compatible with other increments of information technology comprising the system.
 
-    (c) __Provisions in Federal Acquisition Regulation.—__ 
+    (c)  __Provisions in Federal Acquisition Regulation__  __.—__ 
 
     The Federal Acquisition Regulation shall provide that—
 

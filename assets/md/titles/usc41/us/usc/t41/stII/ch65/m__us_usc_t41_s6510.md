@@ -15,11 +15,11 @@
 
 ## § 6510. Manufacturers and regular dealers
 
-    (a) __Prescribing Standards.—__ 
+    (a)  __Prescribing Standards__  __.—__ 
 
     The Secretary may prescribe, in regulations, standards for determining whether a contractor is a manufacturer or regular dealer with respect to materials, supplies, articles, or equipment to be manufactured or furnished under, or used in the performance of, a contract entered into by an agency of the United States.
 
-    (b) __Judicial Review.—__ 
+    (b)  __Judicial Review__  __.—__ 
 
     An interested person has the right of judicial review of any legal question relating to interpretation of the terms “regular dealer” and “manufacturer” as defined pursuant to subsection (a).
 

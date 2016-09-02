@@ -15,33 +15,33 @@
 
 ## § 1902. Procedures applicable to purchases below micro-purchase threshold
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     For purposes of this section, the micro-purchase threshold is $3,000.
 
     (b) __Compliance With Certain Requirements and Nonapplicability of Certain Authority.—__ 
 
-        (1) __Compliance with certain requirements.—__ 
+        (1)  __Compliance with certain requirements__  __.—__ 
 
         The head of each executive agency shall ensure that procuring activities of that agency, when awarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]), [section 2323 of title 10][/us/usc/t10/s2323], and section 7102 of the Federal Acquisition Streamlining Act of 1994 ([Public Law 103–355][/us/pl/103/355], [15 U.S.C. 644][/us/usc/t15/s644] note).
 
-        (2) __Nonapplicability of certain authority.—__ 
+        (2)  __Nonapplicability of certain authority__  __.—__ 
 
         The authority under part 13.106(a)(1) of the Federal Acquisition Regulation (48 C.F.R. 13.106(a)(1)), as in effect on November 18, 1993, to make purchases without securing competitive quotations does not apply to a purchase with a price exceeding the micro-purchase threshold.
 
-    (c) __Nonapplicability of Certain Provisions.—__ 
+    (c)  __Nonapplicability of Certain Provisions__  __.—__ 
 
     An executive agency purchase with an anticipated value of the micro-purchase threshold or less is not subject to section 15(j) of the Small Business Act ([15 U.S.C. 644(j)][/us/usc/t15/s644/j]) and chapter 83 of this title.
 
-    (d) __Purchases Without Competitive Quotations.—__ 
+    (d)  __Purchases Without Competitive Quotations__  __.—__ 
 
     A purchase not greater than $3,000 may be made without obtaining competitive quotations if an employee of an executive agency or a member of the armed forces, authorized to do so, determines that the price for the purchase is reasonable.
 
-    (e) __Equitable Distribution.—__ 
+    (e)  __Equitable Distribution__  __.—__ 
 
     Purchases not greater than $3,000 shall be distributed equitably among qualified suppliers.
 
-    (f) __Implementation Through Federal Acquisition Regulation.—__ 
+    (f)  __Implementation Through Federal Acquisition Regulation__  __.—__ 
 
     This section shall be implemented through the Federal Acquisition Regulation.
 

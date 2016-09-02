@@ -17,7 +17,7 @@
 
     (a) __Exclusion of Particular Source.—__ 
 
-        (1) __Criteria for exclusion.—__ 
+        (1)  __Criteria for exclusion__  __.—__ 
 
         An executive agency may provide for the procurement of property or services covered by [section 3301 of this title][/us/usc/t41/s3301] using competitive procedures but excluding a particular source to establish or maintain an alternative source of supply for that property or service if the agency head determines that to do so would—
 
@@ -33,15 +33,15 @@
 
             (F) satisfy a critical need for medical, safety, or emergency supplies.
 
-        (2) __Determination for class disallowed.—__ 
+        (2)  __Determination for class disallowed__  __.—__ 
 
         A determination under paragraph (1) may not be made for a class of purchases or contracts.
 
-    (b) __Exclusion of Other Than Small Business Concerns.—__ 
+    (b)  __Exclusion of Other Than Small Business Concerns__  __.—__ 
 
     An executive agency may provide for the procurement of property or services covered by [section 3301 of this title][/us/usc/t41/s3301] using competitive procedures, but excluding other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ([15 U.S.C. 638][/us/usc/t15/s638], 644).
 
-    (c) __Nonapplication of Justification and Approval Requirements.—__ 
+    (c)  __Nonapplication of Justification and Approval Requirements__  __.—__ 
 
     A contract awarded pursuant to the competitive procedures referred to in subsections (a) and (b) is not subject to the justification and approval required by [section 3304(e)(1) of this title][/us/usc/t41/s3304/e/1].
 

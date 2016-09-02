@@ -15,7 +15,7 @@
 
 ## § 2104. Prohibition on former official’s acceptance of compensation from contractor
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     A former official of a Federal agency may not accept compensation from a contractor as an employee, officer, director, or consultant of the contractor within one year after the official—
 
@@ -35,15 +35,15 @@
 
             (D) pay or settle a claim in excess of $10,000,000 with that contractor.
 
-    (b) __When Compensation May Be Accepted.—__ 
+    (b)  __When Compensation May Be Accepted__  __.—__ 
 
     Subsection (a) does not prohibit a former official of a Federal agency from accepting compensation from a division or affiliate of a contractor that does not produce the same or similar products or services as the entity of the contractor that is responsible for the contract referred to in paragraph (1), (2), or (3) of subsection (a).
 
-    (c) __Implementing Regulations.—__ 
+    (c)  __Implementing Regulations__  __.—__ 
 
     Regulations implementing this section shall include procedures for an official or former official of a Federal agency to request advice from the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this section from accepting compensation from a particular contractor.
 
-    (d) __Persons Subject to Penalties.—__ 
+    (d)  __Persons Subject to Penalties__  __.—__ 
 
     The following are subject to the penalties and administrative actions set forth in [section 2105 of this title][/us/usc/t41/s2105]:
 

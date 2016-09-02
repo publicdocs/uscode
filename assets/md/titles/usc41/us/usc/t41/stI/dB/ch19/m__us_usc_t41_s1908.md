@@ -15,17 +15,17 @@
 
 ## § 1908. Inflation adjustment of acquisition-related dollar thresholds
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “Council” has the meaning given that term in [section 1301 of this title][/us/usc/t41/s1301].
 
     (b) __Application.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), the requirement for adjustment under subsection (c) applies to a dollar threshold that is specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency, as the Council determines.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         Subsection (c) does not apply to dollar thresholds—
 
@@ -35,13 +35,13 @@
 
             (C) the United States Trade Representative establishes pursuant to title III of the Trade Agreements Act of 1979 ([19 U.S.C. 2511][/us/usc/t19/s2511] et seq.).
 
-        (3) __Relationship to other inflation adjustment authorities.—__ 
+        (3)  __Relationship to other inflation adjustment authorities__  __.—__ 
 
         This section supersedes the applicability of other provisions of law that provide for the adjustment of a dollar threshold that is adjustable under this section.
 
     (c) __Requirement for Periodic Adjustment.—__ 
 
-        (1) __Baseline constant dollar value.—__ 
+        (1)  __Baseline constant dollar value__  __.—__ 
 
         For purposes of paragraph (2), the baseline constant dollar value for a dollar threshold—
 
@@ -49,19 +49,19 @@
 
             (B) specified in a law that takes effect after October 1, 2000, is the constant dollar value of that threshold as of the effective date of that dollar threshold pursuant to that law.
 
-        (2) __Adjustment.—__ 
+        (2)  __Adjustment__  __.—__ 
 
         On October 1 of each year evenly divisible by 5, the Council shall adjust each acquisition-related dollar threshold provided by law, as described in subsection (b)(1), to the baseline constant dollar value of that threshold.
 
-        (3) __Exclusive means of adjustment.—__ 
+        (3)  __Exclusive means of adjustment__  __.—__ 
 
         A dollar threshold adjustable under this section shall be adjusted only as provided in this section.
 
-    (d) __Publication.—__ 
+    (d)  __Publication__  __.—__ 
 
     The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication.
 
-    (e) __Calculation.—__ 
+    (e)  __Calculation__  __.—__ 
 
     An adjustment under this section shall be—
 
@@ -81,11 +81,11 @@
 
     (f) __Petition for Inclusion of Omitted Threshold.—__ 
 
-        (1) __Petition submitted to administrator.—__ 
+        (1)  __Petition submitted to administrator__  __.—__ 
 
         A person may request adjustment of a dollar threshold adjustable under this section that is not included in a notice of adjustment published under subsection (d) by submitting a petition for adjustment to the Administrator.
 
-        (2) __Actions of administrator.—__ 
+        (2)  __Actions of administrator__  __.—__ 
 
         On receipt of a petition for adjustment of a dollar threshold under paragraph (1), the Administrator—
 
@@ -93,7 +93,7 @@
 
             (B) on determining that it should be adjusted, shall publish in the Federal Register a revised notice of the adjustment dollar thresholds under this section that includes the adjustment of the dollar threshold covered by the petition.
 
-        (3) __Effective date of adjustment by petition.—__ 
+        (3)  __Effective date of adjustment by petition__  __.—__ 
 
         The adjustment of a dollar threshold pursuant to a petition under this subsection takes effect on the date the revised notice adding the adjustment under paragraph (2)(B) is published.
 

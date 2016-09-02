@@ -17,41 +17,41 @@
 
     (a) __Armed Services Board.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         An Armed Services Board of Contract Appeals may be established within the Department of Defense when the Secretary of Defense, after consultation with the Administrator, determines from a workload study that the volume of contract claims justifies the establishment of a full-time agency board of at least 3 members who shall have no other inconsistent duties. Workload studies will be updated at least once every 3 years and submitted to the Administrator.
 
-        (2) __Appointment of members and compensation.—__ 
+        (2)  __Appointment of members and compensation__  __.—__ 
 
         Members of the Armed Services Board shall be selected and appointed in the same manner as administrative law judges appointed pursuant to [section 3105 of title 5][/us/usc/t5/s3105], with an additional requirement that members must have had at least 5 years of experience in public contract law. The Secretary of Defense shall designate the chairman and vice chairman of the Armed Services Board from among the appointed members. Compensation for the chairman, vice chairman, and other members shall be determined under [section 5372a of title 5][/us/usc/t5/s5372a].
 
     (b) __Civilian Board.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established in the General Services Administration the Civilian Board of Contract Appeals.
 
         (2) __Membership.—__ 
 
-            (A) __Eligibility.—__ 
+            (A)  __Eligibility__  __.—__ 
 
             The Civilian Board consists of members appointed by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) from a register of applicants maintained by the Administrator of General Services, in accordance with rules issued by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) for establishing and maintaining a register of eligible applicants and selecting Civilian Board members. The Administrator of General Services shall appoint a member without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of a Civilian Board member.
 
-            (B) __Appointment of members and compensation.—__ 
+            (B)  __Appointment of members and compensation__  __.—__ 
 
             Members of the Civilian Board shall be selected and appointed to serve in the same manner as administrative law judges appointed pursuant to [section 3105 of title 5][/us/usc/t5/s3105], with an additional requirement that members must have had at least 5 years experience in public contract law. Compensation for the members shall be determined under [section 5372a of title 5][/us/usc/t5/s5372a].
 
-        (3) __Removal.—__ 
+        (3)  __Removal__  __.—__ 
 
         Members of the Civilian Board are subject to removal in the same manner as administrative law judges, as provided in [section 7521 of title 5][/us/usc/t5/s7521].
 
         (4) __Functions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Civilian Board has jurisdiction as provided by subsection (e)(1)(B).
 
-            (B) __Additional jurisdiction.—__ 
+            (B)  __Additional jurisdiction__  __.—__ 
 
             With the concurrence of the Federal agencies affected, the Civilian Board may assume—
 
@@ -61,25 +61,25 @@
 
     (c) __Tennessee Valley Authority Board.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Board of Directors of the Tennessee Valley Authority may establish a board of contract appeals of the Tennessee Valley Authority of an indeterminate number of members.
 
-        (2) __Appointment of members and compensation.—__ 
+        (2)  __Appointment of members and compensation__  __.—__ 
 
         The Board of Directors of the Tennessee Valley Authority shall establish criteria for the appointment of members to the agency board established under paragraph (1), and shall designate a chairman of the agency board. The chairman and other members of the agency board shall receive compensation, at the daily equivalent of the rates determined under [section 5372a of title 5][/us/usc/t5/s5372a], for each day they are engaged in the actual performance of their duties as members of the agency board.
 
     (d) __Postal Service Board.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established an agency board of contract appeals known as the Postal Service Board of Contract Appeals.
 
-        (2) __Appointment and service of members.—__ 
+        (2)  __Appointment and service of members__  __.—__ 
 
         The Postal Service Board of Contract Appeals consists of judges appointed by the Postmaster General. The judges shall meet the qualifications of and serve in the same manner as members of the Civilian Board.
 
-        (3) __Application.—__ 
+        (3)  __Application__  __.—__ 
 
         This chapter applies to contract disputes before the Postal Service Board of Contract Appeals in the same manner as it applies to contract disputes before the Civilian Board.
 
@@ -87,31 +87,31 @@
 
         (1) __In general.—__ 
 
-            (A) __Armed services board.—__ 
+            (A)  __Armed services board__  __.—__ 
 
             The Armed Services Board has jurisdiction to decide any appeal from a decision of a contracting officer of the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, or the National Aeronautics and Space Administration relative to a contract made by that department or agency.
 
-            (B) __Civilian board.—__ 
+            (B)  __Civilian board__  __.—__ 
 
             The Civilian Board has jurisdiction to decide any appeal from a decision of a contracting officer of any executive agency (other than the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the National Aeronautics and Space Administration, the United States Postal Service, the Postal Regulatory Commission, or the Tennessee Valley Authority) relative to a contract made by that agency.
 
-            (C) __Postal service board.—__ 
+            (C)  __Postal service board__  __.—__ 
 
             The Postal Service Board of Contract Appeals has jurisdiction to decide any appeal from a decision of a contracting officer of the United States Postal Service or the Postal Regulatory Commission relative to a contract made by either agency.
 
-            (D) __Other agency boards.—__ 
+            (D)  __Other agency boards__  __.—__ 
 
             Each other agency board has jurisdiction to decide any appeal from a decision of a contracting officer relative to a contract made by its agency.
 
-        (2) __Relief.—__ 
+        (2)  __Relief__  __.—__ 
 
         In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
 
-    (f) __Subpoena, Discovery, and Deposition.—__ 
+    (f)  __Subpoena, Discovery, and Deposition__  __.—__ 
 
     A member of an agency board of contract appeals may administer oaths to witnesses, authorize depositions and discovery proceedings, and require by subpoena the attendance of witnesses, and production of books and papers, for the taking of testimony or evidence by deposition or in the hearing of an appeal by the agency board. In case of contumacy or refusal to obey a subpoena by a person who resides, is found, or transacts business within the jurisdiction of a United States district court, the court, upon application of the agency board through the Attorney General, or upon application by the board of contract appeals of the Tennessee Valley Authority, shall have jurisdiction to issue the person an order requiring the person to appear before the agency board or a member of the agency board, to produce evidence or to give testimony, or both. Any failure of the person to obey the order of the court may be punished by the court as contempt of court.
 
-    (g) __Decisions.—__ 
+    (g)  __Decisions__  __.—__ 
 
     An agency board shall—
 

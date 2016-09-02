@@ -15,23 +15,23 @@
 
 ## § 6506. Administrative provisions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall administer this chapter.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary may make, amend, and rescind regulations as necessary to carry out this chapter.
 
-    (c) __Use of Government Officers and Employees.—__ 
+    (c)  __Use of Government Officers and Employees__  __.—__ 
 
     The Secretary shall use Federal officers and employees and, with a State’s consent, State and local officers and employees as the Secretary finds necessary to assist in the administration of this chapter.
 
-    (d) __Appointments.—__ 
+    (d)  __Appointments__  __.—__ 
 
     The Secretary shall appoint an administrative officer and attorneys, experts, and other employees from time to time as the Secretary finds necessary for the administration of this chapter. The appointments are subject to chapter 51 and subchapter III of chapter 53 of title 5 and other law applicable to the employment and compensation of officers and employees of the Federal Government.
 
-    (e) __Investigations.—__ 
+    (e)  __Investigations__  __.—__ 
 
     The Secretary, or an authorized representative of the Secretary, may make investigations and findings as provided in this chapter and may, in any part of the United States, prosecute an inquiry necessary to carry out this chapter.
 

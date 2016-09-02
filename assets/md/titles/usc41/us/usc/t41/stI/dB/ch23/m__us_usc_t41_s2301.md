@@ -15,19 +15,19 @@
 
 ## § 2301. Use of electronic commerce in Federal procurement
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     For the purposes of this section, the term “electronic commerce” means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
 
-    (b) __Establishment, Maintenance, and Use of Electronic Commerce Procedures and Processes.—__ 
+    (b)  __Establishment, Maintenance, and Use of Electronic Commerce Procedures and Processes__  __.—__ 
 
     The head of each executive agency, after consulting with the Administrator, shall establish, maintain, and use, to the maximum extent that is practicable and cost-effective, procedures and processes that employ electronic commerce in the conduct and administration of the procurement system of the agency.
 
-    (c) __Applicable Standards.—__ 
+    (c)  __Applicable Standards__  __.—__ 
 
     In conducting electronic commerce, the head of an executive agency shall apply nationally and internationally recognized standards that broaden interoperability and ease the electronic interchange of information.
 
-    (d) __Requirements of Systems, Technologies, Procedures, and Processes.—__ 
+    (d)  __Requirements of Systems, Technologies, Procedures, and Processes__  __.—__ 
 
     The head of each executive agency shall ensure that systems, technologies, procedures, and processes established pursuant to this section—
 
@@ -39,7 +39,7 @@
 
         (4) ensure that any notice of agency requirements or agency solicitation for contract opportunities is provided in a form that allows convenient and universal user access through a single, Government-wide point of entry.
 
-    (e) __Implementation.—__ 
+    (e)  __Implementation__  __.—__ 
 
     In carrying out the requirements of this section, the Administrator shall—
 

@@ -17,7 +17,7 @@
 
     (a) __In General.—__ 
 
-        (1) __Persons other than individuals.—__ 
+        (1)  __Persons other than individuals__  __.—__ 
 
         A person other than an individual shall not be considered a responsible source (as defined in [section 113 of this title][/us/usc/t41/s113]) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in [section 134 of this title][/us/usc/t41/s134]) by a Federal agency, other than a contract for the procurement of commercial items (as defined in [section 103 of this title][/us/usc/t41/s103]), unless the person agrees to provide a drug-free workplace by—
 
@@ -51,13 +51,13 @@
 
             (G) making a good faith effort to continue to maintain a drug-free workplace through implementation of subparagraphs (A) to (F).
 
-        (2) __Individuals.—__ 
+        (2)  __Individuals__  __.—__ 
 
         A Federal agency shall not make a contract with an individual unless the individual agrees not to engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in the performance of the contract.
 
     (b) __Suspension, Termination, or Debarment of Contractor.—__ 
 
-        (1) __Grounds for suspension, termination, or debarment.—__ 
+        (1)  __Grounds for suspension, termination, or debarment__  __.—__ 
 
         Payment under a contract awarded by a Federal agency may be suspended and the contract may be terminated, and the contractor or individual who made the contract with the agency may be suspended or debarred in accordance with the requirements of this section, if the head of the agency determines that—
 
@@ -65,11 +65,11 @@
 
             (B) the number of employees of the contractor who have been convicted of violations of criminal drug statutes for violations occurring in the workplace indicates that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a).
 
-        (2) __Conduct of suspension, termination, and debarment proceedings.—__ 
+        (2)  __Conduct of suspension, termination, and debarment proceedings__  __.—__ 
 
         A contracting officer who determines in writing that cause for suspension of payments, termination, or suspension or debarment exists shall initiate an appropriate action, to be conducted by the agency concerned in accordance with the Federal Acquisition Regulation and applicable agency procedures. The Federal Acquisition Regulation shall be revised to include rules for conducting suspension and debarment proceedings under this subsection, including rules providing notice, opportunity to respond in writing or in person, and other procedures as may be necessary to provide a full and fair proceeding to a contractor or individual.
 
-        (3) __Effect of debarment.—__ 
+        (3)  __Effect of debarment__  __.—__ 
 
         A contractor or individual debarred by a final decision under this subsection is ineligible for award of a contract by a Federal agency, and for participation in a future procurement by a Federal agency, for a period specified in the decision, not to exceed 5 years.
 

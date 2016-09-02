@@ -15,7 +15,7 @@
 
 ## § 3304. Use of noncompetitive procedures
 
-    (a) __When Noncompetitive Procedures May Be Used.—__ 
+    (a)  __When Noncompetitive Procedures May Be Used__  __.—__ 
 
     An executive agency may use procedures other than competitive procedures only when—
 
@@ -49,7 +49,7 @@
 
             (B) notifies Congress in writing of that determination not less than 30 days before the award of the contract.
 
-    (b) __Property or Services Deemed Available From Only One Source.—__ 
+    (b)  __Property or Services Deemed Available From Only One Source__  __.—__ 
 
     For the purposes of subsection (a)(1), in the case of—
 
@@ -65,7 +65,7 @@
 
     (c) __Property or Services Needed With Unusual and Compelling Urgency.—__ 
 
-        (1) __Allowable contract period.—__ 
+        (1)  __Allowable contract period__  __.—__ 
 
         The contract period of a contract described in paragraph (2) that is entered into by an executive agency pursuant to the authority provided under subsection (a)(2)—
 
@@ -79,17 +79,17 @@
 
             (B) may not exceed one year unless the head of the executive agency entering into the contract determines that exceptional circumstances apply.
 
-        (2) __Applicability of allowable contract period.—__ 
+        (2)  __Applicability of allowable contract period__  __.—__ 
 
         This subsection applies to any contract in an amount greater than the simplified acquisition threshold.
 
-    (d) __Offer Requests to Potential Sources.—__ 
+    (d)  __Offer Requests to Potential Sources__  __.—__ 
 
     An executive agency using procedures other than competitive procedures to procure property or services by reason of the application of paragraph (2) or (6) of subsection (a) shall request offers from as many potential sources as is practicable under the circumstances.
 
     (e) __Justification for Use of Noncompetitive Procedures.—__ 
 
-        (1) __Prerequisites for awarding contract.—__ 
+        (1)  __Prerequisites for awarding contract__  __.—__ 
 
         Except as provided in paragraphs (3) and (4), an executive agency may not award a contract using procedures other than competitive procedures unless—
 
@@ -107,7 +107,7 @@
 
             (C) any required notice has been published with respect to the contract pursuant to [section 1708 of this title][/us/usc/t41/s1708] and the executive agency has considered all bids or proposals received in response to that notice.
 
-        (2) __Elements of justification.—__ 
+        (2)  __Elements of justification__  __.—__ 
 
         The justification required by paragraph (1)(A) shall include—
 
@@ -123,11 +123,11 @@
 
             (F) a statement of any actions the agency may take to remove or overcome a barrier to competition before a subsequent procurement for those needs.
 
-        (3) __Justification allowed after contract awarded.—__ 
+        (3)  __Justification allowed after contract awarded__  __.—__ 
 
         In the case of a procurement permitted by subsection (a)(2), the justification and approval required by paragraph (1) may be made after the contract is awarded.
 
-        (4) __Justification not required.—__ 
+        (4)  __Justification not required__  __.—__ 
 
         The justification and approval required by paragraph (1) are not required if—
 
@@ -141,7 +141,7 @@
 
         (5) __Restrictions on executive agencies.—__ 
 
-            (A) __Contracts and procurement of property or services.—__ 
+            (A)  __Contracts and procurement of property or services__  __.—__ 
 
             In no case may an executive agency—
 
@@ -149,7 +149,7 @@
 
                 (ii) procure property or services from another executive agency unless the other executive agency complies fully with the requirements of this division in its procurement of the property or services.
 
-            (B) __Additional restriction.—__ 
+            (B)  __Additional restriction__  __.—__ 
 
             The restriction set out in subparagraph (A)(ii) is in addition to any other restriction provided by law.
 
@@ -157,19 +157,19 @@
 
         (1) __Time requirement.—__ 
 
-            (A) __Within 14 days after contract award.—__ 
+            (A)  __Within 14 days after contract award__  __.—__ 
 
             Except as provided in subparagraph (B), in the case of a procurement permitted by subsection (a), the head of an executive agency shall make publicly available, within 14 days after the award of the contract, the documents containing the justification and approval required by subsection (e)(1) with respect to the procurement.
 
-            (B) __Within 30 days after contract award.—__ 
+            (B)  __Within 30 days after contract award__  __.—__ 
 
             In the case of a procurement permitted by subsection (a)(2), subparagraph (A) shall be applied by substituting “30 days” for “14 days”.
 
-        (2) __Availability on websites.—__ 
+        (2)  __Availability on websites__  __.—__ 
 
         The documents referred to in subparagraph (A) of paragraph (1) shall be made available on the website of the agency and through a Government-wide website selected by the Administrator.
 
-        (3) __Exception to availability and approval requirement.—__ 
+        (3)  __Exception to availability and approval requirement__  __.—__ 
 
         This subsection does not require the public availability of information that is exempt from public disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b].
 

@@ -83,7 +83,7 @@
 
 [Act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title III, § 317, as added [Pub. L. 107–347, title II, § 210(b)][/us/pl/107/347/s210/b], Dec. 17, 2002, [116 Stat. 2934][/us/stat/116/2934], provided that:
 
->     “(a) __Authority To Enter Into Share-in-Savings Contracts.—__ 
+>     “(a)  __Authority To Enter Into Share-in-Savings Contracts__  __.—__ 
 
 >         (1) The head of an executive agency may enter into a share-in-savings contract for information technology (as defined in [section 11101(6) of title 40][/us/usc/t40/s11101/6], United States Code) in which the Government awards a contract to improve mission-related or administrative processes or to accelerate the achievement of its mission and share with the contractor in savings achieved through contract performance.
 
@@ -115,7 +115,7 @@
 
 >                 “(ii) be applied first to fund any contingent liabilities associated with share-in-savings procurements that are not fully funded.
 
->     “(b) __Cancellation and Termination.—__ 
+>     “(b)  __Cancellation and Termination__  __.—__ 
 
 >         (1)
 
@@ -147,7 +147,7 @@
 
 >             “(B) The aggregate number of share-in-savings contracts that may be entered into under subparagraph (A) by all executive agencies to which this chapter applies in a fiscal year may not exceed 5 in each of fiscal years 2003, 2004, and 2005.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -181,7 +181,7 @@
 
 >                 “(ii) acceleration of achievement of agency missions.
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     No share-in-savings contracts may be entered into under this section after September 30, 2005.”
 

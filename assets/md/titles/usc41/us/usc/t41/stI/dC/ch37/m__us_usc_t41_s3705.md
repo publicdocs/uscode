@@ -15,19 +15,19 @@
 
 ## § 3705. Pre-award debriefings
 
-    (a) __Request for Debriefing.—__ 
+    (a)  __Request for Debriefing__  __.—__ 
 
     When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes that offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award.
 
-    (b) __When Debriefing To Be Conducted.—__ 
+    (b)  __When Debriefing To Be Conducted__  __.—__ 
 
     The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Federal Government to conduct a debriefing at that time.
 
-    (c) __Precondition for Post-Award Debriefing.—__ 
+    (c)  __Precondition for Post-Award Debriefing__  __.—__ 
 
     The contracting officer is required to debrief an excluded offeror in accordance with [section 3704 of this title][/us/usc/t41/s3704] only if that offeror requested and was refused a pre-award debriefing under subsections (a) and (b).
 
-    (d) __Information To Be Provided.—__ 
+    (d)  __Information To Be Provided__  __.—__ 
 
     The debriefing conducted under this section shall include—
 
@@ -37,11 +37,11 @@
 
         (3) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 
-    (e) __Information Not To Be Disclosed.—__ 
+    (e)  __Information Not To Be Disclosed__  __.—__ 
 
     The debriefing conducted pursuant to this section may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
 
-    (f) __Summary To Be Included in File.—__ 
+    (f)  __Summary To Be Included in File__  __.—__ 
 
     The contracting officer shall include a summary of the debriefing in the contract file.
 

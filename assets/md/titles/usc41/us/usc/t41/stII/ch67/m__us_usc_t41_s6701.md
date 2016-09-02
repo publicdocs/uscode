@@ -17,15 +17,15 @@
 
     In this chapter:
 
-    (1) __Compensation.—__ 
+    (1)  __Compensation__  __.—__ 
 
     The term “compensation” means any of the payments or fringe benefits described in [section 6703 of this title][/us/usc/t41/s6703].
 
-    (2) __Secretary.—__ 
+    (2)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Labor.
 
-    (3) __Service employee.—__ 
+    (3)  __Service employee__  __.—__ 
 
     The term “service employee”—
 
@@ -35,7 +35,7 @@
 
         (C) does not include an individual employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in part 541 of title 29, Code of Federal Regulations.
 
-    (4) __United states.—__ 
+    (4)  __United states__  __.—__ 
 
     The term “United States”—
 

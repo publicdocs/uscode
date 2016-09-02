@@ -17,7 +17,7 @@
 
     (a) __Procurement List.—__ 
 
-        (1) __Maintenance of list.—__ 
+        (1)  __Maintenance of list__  __.—__ 
 
         The Committee shall maintain and publish in the Federal Register a procurement list. The list shall include the following products and services determined by the Committee to be suitable for the Federal Government to procure pursuant to this chapter:
 
@@ -25,19 +25,19 @@
 
             (B) The services those agencies provide.
 
-        (2) __Changes to list.—__ 
+        (2)  __Changes to list__  __.—__ 
 
         The Committee may, by rule made in accordance with the requirements of section 553(b) to (e) of title 5, add to and remove from the procurement list products so produced and services so provided.
 
-    (b) __Fair Market Price.—__ 
+    (b)  __Fair Market Price__  __.—__ 
 
     The Committee shall determine the fair market price of products and services contained on the procurement list that are offered for sale to the Federal Government by a qualified nonprofit agency for the blind or a qualified nonprofit agency for other severely disabled. The Committee from time to time shall revise its price determinations with respect to those products and services in accordance with changing market conditions.
 
-    (c) __Central Nonprofit Agency or Agencies.—__ 
+    (c)  __Central Nonprofit Agency or Agencies__  __.—__ 
 
     The Committee shall designate a central nonprofit agency or agencies to facilitate the distribution, by direct allocation, subcontract, or any other means, of orders of the Federal Government for products and services on the procurement list among qualified nonprofit agencies for the blind or qualified nonprofit agencies for other severely disabled.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Committee—
 
@@ -45,7 +45,7 @@
 
         (2) shall prescribe regulations providing that when the Federal Government purchases products produced and offered for sale by qualified nonprofit agencies for the blind or qualified nonprofit agencies for other severely disabled, priority shall be given to products produced and offered for sale by qualified nonprofit agencies for the blind.
 
-    (e) __Study and Evaluation of Activities.—__ 
+    (e)  __Study and Evaluation of Activities__  __.—__ 
 
     The Committee shall make a continuing study and evaluation of its activities under this chapter to ensure effective and efficient administration of this chapter. The Committee on its own or in cooperation with other public or nonprofit private agencies may study—
 

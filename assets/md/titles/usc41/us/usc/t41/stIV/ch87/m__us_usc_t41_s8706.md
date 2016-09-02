@@ -15,7 +15,7 @@
 
 ## § 8706. Civil actions
 
-    (a) __Amount.—__ 
+    (a)  __Amount__  __.—__ 
 
     The Federal Government in a civil action may recover from a person—
 
@@ -29,7 +29,7 @@
 
         (2) whose employee, subcontractor, or subcontractor employee violates [section 8702 of this title][/us/usc/t41/s8702] by providing, accepting, or charging a kickback a civil penalty equal to the amount of that kickback.
 
-    (b) __Statute of Limitations.—__ 
+    (b)  __Statute of Limitations__  __.—__ 
 
     A civil action under this section must be brought within 6 years after the later of the date on which—
 

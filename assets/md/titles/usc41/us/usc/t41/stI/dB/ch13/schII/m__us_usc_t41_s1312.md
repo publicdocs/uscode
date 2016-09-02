@@ -15,11 +15,11 @@
 
 ## § 1312. Functions
 
-    (a) __Principal Forum.—__ 
+    (a)  __Principal Forum__  __.—__ 
 
     The Chief Acquisition Officers Council is the principal interagency forum for monitoring and improving the Federal acquisition system.
 
-    (b) __Functions.—__ 
+    (b)  __Functions__  __.—__ 
 
     The Council shall perform functions that include the following:
 

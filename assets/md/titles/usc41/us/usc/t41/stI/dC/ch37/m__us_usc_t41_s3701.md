@@ -15,11 +15,11 @@
 
 ## § 3701. Basis of award and rejection
 
-    (a) __Award.—__ 
+    (a)  __Award__  __.—__ 
 
     An executive agency shall evaluate sealed bids and competitive proposals, and award a contract, based solely on the factors specified in the solicitation.
 
-    (b) __Rejection.—__ 
+    (b)  __Rejection__  __.—__ 
 
     All sealed bids or competitive proposals received in response to a solicitation may be rejected if the agency head determines that rejection is in the public interest.
 

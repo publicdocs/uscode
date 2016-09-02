@@ -15,29 +15,29 @@
 
 ## § 3905. Cost contracts
 
-    (a) __Cost-Plus-A-Percentage-Of-Cost Contracts Disallowed.—__ 
+    (a)  __Cost-Plus-A-Percentage-Of-Cost Contracts Disallowed__  __.—__ 
 
     The cost-plus-a-percentage-of-cost system of contracting shall not be used.
 
     (b) __Cost-Plus-A-Fixed-Fee Contracts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraphs (2) and (3), the fee in a cost-plus-a-fixed-fee contract shall not exceed 10 percent of the estimated cost of the contract, not including the fee, as determined by the agency head at the time of entering into the contract.
 
-        (2) __Experimental, developmental, or research work.—__ 
+        (2)  __Experimental, developmental, or research work__  __.—__ 
 
         The fee in a cost-plus-a-fixed-fee contract for experimental, developmental, or research work shall not exceed 15 percent of the estimated cost of the contract, not including the fee.
 
-        (3) __Architectural or engineering services.—__ 
+        (3)  __Architectural or engineering services__  __.—__ 
 
         The fee in a cost-plus-a-fixed-fee contract for architectural or engineering services relating to any public works or utility project may include the contractor’s costs and shall not exceed 6 percent of the estimated cost, not including the fee, as determined by the agency head at the time of entering into the contract, of the project to which the fee applies.
 
-    (c) __Notification.—__ 
+    (c)  __Notification__  __.—__ 
 
     All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amount either the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract.
 
-    (d) __Right To Audit.—__ 
+    (d)  __Right To Audit__  __.—__ 
 
     A procuring agency, through any authorized representative thereof, has the right to inspect the plans and to audit the books and records of a prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
 

@@ -17,7 +17,7 @@
 
     (a) __Covered Policies, Regulations, Procedures, and Forms.—__ 
 
-        (1) __Required comment period.—__ 
+        (1)  __Required comment period__  __.—__ 
 
         Except as provided in subsection (d), a procurement policy, regulation, procedure, or form (including an amendment or modification thereto) may not take effect until 60 days after it is published for public comment in the Federal Register pursuant to subsection (b) if it—
 
@@ -29,15 +29,15 @@
 
                 (ii) has a significant cost or administrative impact on contractors or offerors.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         A policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but the effective date may not be less than 30 days after the publication date.
 
-    (b) __Publication in Federal Register and Comment Period.—__ 
+    (b)  __Publication in Federal Register and Comment Period__  __.—__ 
 
     Subject to subsection (c), the head of the agency shall have published in the Federal Register a notice of the proposed procurement policy, regulation, procedure, or form and provide for a public comment period for receiving and considering the views of all interested parties on the proposal. The length of the comment period may not be less than 30 days.
 
-    (c) __Contents of Notice.—__ 
+    (c)  __Contents of Notice__  __.—__ 
 
     Notice of a proposed procurement policy, regulation, procedure, or form prepared for publication in the Federal Register shall include—
 
@@ -45,13 +45,13 @@
 
         (2) a request for interested parties to submit comments on the proposal and the name and address of the officer or employee of the Federal Government designated to receive the comments.
 
-    (d) __Waiver.—__ 
+    (d)  __Waiver__  __.—__ 
 
     The requirements of subsections (a) and (b) may be waived by the officer authorized to issue a procurement policy, regulation, procedure, or form if urgent and compelling circumstances make compliance with the requirements impracticable.
 
     (e) __Effectiveness of Policy, Regulation, Procedure, or Form.—__ 
 
-        (1) __Temporary basis.—__ 
+        (1)  __Temporary basis__  __.—__ 
 
         A procurement policy, regulation, procedure, or form for which the requirements of subsections (a) and (b) are waived under subsection (d) is effective on a temporary basis if—
 
@@ -59,7 +59,7 @@
 
             (B) provision is made for a public comment period of 30 days beginning on the date on which the notice is published.
 
-        (2) __Final policy, regulation, procedure, or form.—__ 
+        (2)  __Final policy, regulation, procedure, or form__  __.—__ 
 
         After considering the comments received, the head of the agency waiving the requirements of subsections (a) and (b) under subsection (d) may issue the final procurement policy, regulation, procedure, or form.
 

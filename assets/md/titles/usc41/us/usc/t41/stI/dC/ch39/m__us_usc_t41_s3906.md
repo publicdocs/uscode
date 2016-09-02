@@ -15,15 +15,15 @@
 
 ## § 3906. Cost-reimbursement contracts
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “executive agency” has the same meaning given in [section 133 of this title][/us/usc/t41/s133].
 
-    (b) __Regulations on the Use of Cost-Reimbursement Contracts.—__ 
+    (b)  __Regulations on the Use of Cost-Reimbursement Contracts__  __.—__ 
 
     The Federal Acquisition Regulation shall address the use of cost-reimbursement contracts.
 
-    (c) __Content.—__ 
+    (c)  __Content__  __.—__ 
 
     The regulations promulgated under subsection (b) shall include guidance regarding—
 
@@ -35,11 +35,11 @@
 
     (d) __Annual Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director of the Office of Management and Budget shall submit an annual report to Congressional committees identified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         The report shall include—
 
@@ -51,15 +51,15 @@
 
         (3) __Time requirements.—__ 
 
-            (A) __Deadline.—__ 
+            (A)  __Deadline__  __.—__ 
 
             The report shall be submitted no later than March 1 and shall cover the fiscal year ending September 30 of the prior year.
 
-            (B) __Limitation.—__ 
+            (B)  __Limitation__  __.—__ 
 
             The report shall be submitted from March 1, 2009, until March 1, 2014.
 
-    (e) __Congressional Committees.—__ 
+    (e)  __Congressional Committees__  __.—__ 
 
     The report required by subsection (d) shall be submitted to—
 

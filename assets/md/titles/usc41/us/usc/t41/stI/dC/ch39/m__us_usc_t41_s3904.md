@@ -15,15 +15,15 @@
 
 ## § 3904. Contract authority for severable services contracts and multiyear contracts
 
-    (a) __Comptroller General.—__ 
+    (a)  __Comptroller General__  __.—__ 
 
     The Comptroller General may use available funds to enter into contracts for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year and to enter into multiyear contracts for the acquisition of property and nonaudit-related services to the same extent as executive agencies under sections 3902 and 3903 of this title.
 
-    (b) __Library of Congress.—__ 
+    (b)  __Library of Congress__  __.—__ 
 
     The Library of Congress may use available funds to enter into contracts for the lease or procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year and to enter into multiyear contracts for the acquisition of property and services pursuant to sections 3902 and 3903 of this title.
 
-    (c) __Chief Administrative Officer of the House of Representatives.—__ 
+    (c)  __Chief Administrative Officer of the House of Representatives__  __.—__ 
 
     The Chief Administrative Officer of the House of Representatives may enter into—
 
@@ -31,11 +31,11 @@
 
         (2) multiyear contracts for the acquisitions of property and nonaudit-related services to the same extent as executive agencies under the authority of [section 3903 of this title][/us/usc/t41/s3903].
 
-    (d) __Congressional Budget Office.—__ 
+    (d)  __Congressional Budget Office__  __.—__ 
 
     The Congressional Budget Office may use available funds to enter into contracts for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year and may enter into multiyear contracts for the acquisition of property and services to the same extent as executive agencies under the authority of sections 3902 and 3903 of this title.
 
-    (e) __Secretary and Sergeant at Arms and Doorkeeper of the Senate.—__ 
+    (e)  __Secretary and Sergeant at Arms and Doorkeeper of the Senate__  __.—__ 
 
     Subject to regulations prescribed by the Committee on Rules and Administration of the Senate, the Secretary and the Sergeant at Arms and Doorkeeper of the Senate may enter into—
 
@@ -43,7 +43,7 @@
 
         (2) multiyear contracts for the acquisition of property and services to the same extent and under the same conditions as executive agencies under the authority of [section 3903 of this title][/us/usc/t41/s3903].
 
-    (f) __Capitol Police.—__ 
+    (f)  __Capitol Police__  __.—__ 
 
     The United States Capitol Police may enter into—
 
@@ -51,7 +51,7 @@
 
         (2) multiyear contracts for the acquisitions of property and nonaudit-related services to the same extent as executive agencies under the authority of [section 3903 of this title][/us/usc/t41/s3903].
 
-    (g) __Architect of the Capitol.—__ 
+    (g)  __Architect of the Capitol__  __.—__ 
 
     The Architect of the Capitol may enter into—
 
@@ -59,7 +59,7 @@
 
         (2) multiyear contracts for the acquisitions of property and nonaudit-related services to the same extent as executive agencies under the authority of [section 3903 of this title][/us/usc/t41/s3903].
 
-    (h) __Secretary of the Smithsonian Institution.—__ 
+    (h)  __Secretary of the Smithsonian Institution__  __.—__ 
 
     The Secretary of the Smithsonian Institution may enter into—
 

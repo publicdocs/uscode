@@ -15,7 +15,7 @@
 
 ## § 1901. Simplified acquisition procedures
 
-    (a) __When Procedures Are To Be Used.—__ 
+    (a)  __When Procedures Are To Be Used__  __.—__ 
 
     To promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for special simplified procedures for purchases of property and services for amounts—
 
@@ -23,19 +23,19 @@
 
         (2) greater than the simplified acquisition threshold but not greater than $5,000,000 for which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
-    (b) __Prohibition on Dividing Purchases.—__ 
+    (b)  __Prohibition on Dividing Purchases__  __.—__ 
 
     A proposed purchase or contract for an amount above the simplified acquisition threshold may not be divided into several purchases or contracts for lesser amounts to use the simplified acquisition procedures required by subsection (a).
 
-    (c) __Promotion of Competition Required.—__ 
+    (c)  __Promotion of Competition Required__  __.—__ 
 
     When using simplified acquisition procedures, the head of an executive agency shall promote competition to the maximum extent practicable.
 
-    (d) __Consideration of Offers Timely Received.—__ 
+    (d)  __Consideration of Offers Timely Received__  __.—__ 
 
     The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contracting officer consider each responsive offer timely received from an eligible offeror.
 
-    (e) __Special Rules for Commercial Items.—__ 
+    (e)  __Special Rules for Commercial Items__  __.—__ 
 
     The Federal Acquisition Regulation shall provide that an executive agency using special simplified procedures to purchase commercial items—
 

@@ -17,15 +17,15 @@
 
     (a) __Relationship of Provisions of Law to Procurement of Commercial Items.—__ 
 
-        (1) __This division.—__ 
+        (1)  __This division__  __.—__ 
 
         Unless otherwise specifically provided, all other provisions in this division also apply to the procurement of commercial items.
 
-        (2) __Laws listed in federal acquisition regulation.—__ 
+        (2)  __Laws listed in federal acquisition regulation__  __.—__ 
 
         A contract for the procurement of a commercial item entered into by the head of an executive agency is not subject to a law properly listed in the Federal Acquisition Regulation pursuant to [section 1906 of this title][/us/usc/t41/s1906].
 
-    (b) __Preference.—__ 
+    (b)  __Preference__  __.—__ 
 
     The head of each executive agency shall ensure that, to the maximum extent practicable—
 
@@ -43,7 +43,7 @@
 
         (3) offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill those requirements.
 
-    (c) __Implementation.—__ 
+    (c)  __Implementation__  __.—__ 
 
     The head of each executive agency shall ensure that procurement officials in that executive agency, to the maximum extent practicable—
 
@@ -61,7 +61,7 @@
 
     (d) __Market Research.—__ 
 
-        (1) __When to be used.—__ 
+        (1)  __When to be used__  __.—__ 
 
         The head of an executive agency shall conduct market research appropriate to the circumstances—
 
@@ -69,7 +69,7 @@
 
             (B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold.
 
-        (2) __Use of results.—__ 
+        (2)  __Use of results__  __.—__ 
 
         The head of an executive agency shall use the results of market research to determine whether commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items are available that—
 
@@ -79,23 +79,23 @@
 
             (C) could meet the executive agency’s requirements if those requirements were modified to a reasonable extent.
 
-        (3) __Only minimum information required to be submitted.—__ 
+        (3)  __Only minimum information required to be submitted__  __.—__ 
 
         In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
 
     (e) __Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 105, and 110 of this title, and chapter 140 of title 10.
 
         (2) __Contract clauses.—__ 
 
-            (A) __Definition.—__ 
+            (A)  __Definition__  __.—__ 
 
             In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
-            (B) __List of clauses to be included.—__ 
+            (B)  __List of clauses to be included__  __.—__ 
 
             The regulations prescribed under paragraph (1) shall contain a list of contract clauses to be included in contracts for the acquisition of commercial end items. To the maximum extent practicable, the list shall include only those contract clauses that are—
 
@@ -103,7 +103,7 @@
 
                 (ii) determined to be consistent with standard commercial practice.
 
-            (C) __Requirements of prime contractor.—__ 
+            (C)  __Requirements of prime contractor__  __.—__ 
 
             The regulations shall provide that the Federal Government shall not require a prime contractor to apply to any of its divisions, subsidiaries, affiliates, subcontractors, or suppliers that are furnishing commercial items any contract clause except those that are—
 
@@ -111,17 +111,17 @@
 
                 (ii) determined to be consistent with standard commercial practice.
 
-            (D) __Clauses that may be used in a contract.—__ 
+            (D)  __Clauses that may be used in a contract__  __.—__ 
 
             To the maximum extent practicable, only the contract clauses listed pursuant to subparagraph (B) may be used in a contract, and only the contract clauses referred to in subparagraph (C) may be required to be used in a subcontract, for the acquisition of commercial items or commercial components by or for an executive agency.
 
-            (E) __Waiver of contract clauses.—__ 
+            (E)  __Waiver of contract clauses__  __.—__ 
 
             The Federal Acquisition Regulation shall provide standards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
 
         (3) __Market acceptance.—__ 
 
-            (A) __Requirement of offerors.—__ 
+            (A)  __Requirement of offerors__  __.—__ 
 
             The Federal Acquisition Regulation shall provide that under appropriate conditions the head of an executive agency may require offerors to demonstrate that the items offered—
 
@@ -129,7 +129,7 @@
 
                 (ii) otherwise meet the item description, specifications, or other criteria prescribed in the public notice and solicitation relating to the contract.
 
-            (B) __Regulation to provide guidance on criteria.—__ 
+            (B)  __Regulation to provide guidance on criteria__  __.—__ 
 
             The Federal Acquisition Regulation shall provide guidance to ensure that the criteria for determining commercial market acceptance include the consideration of—
 
@@ -139,7 +139,7 @@
 
         (4) __Provisions relating to types of contracts.—__ 
 
-            (A) __Types of contracts that may be used.—__ 
+            (A)  __Types of contracts that may be used__  __.—__ 
 
             The Federal Acquisition Regulation shall include, for acquisitions of commercial items—
 
@@ -149,7 +149,7 @@
 
                 (iii) subject to subparagraph (B), authority for use of a time-and-materials or labor-hour contract for the procurement of commercial services that are commonly sold to the general public through those contracts and are purchased by the procuring agency on a competitive basis.
 
-            (B) __When time-and-materials or labor-hour contract may be used.—__ 
+            (B)  __When time-and-materials or labor-hour contract may be used__  __.—__ 
 
             A time-and-materials or labor-hour contract may be used pursuant to the authority referred to in subparagraph (A)(iii)—
 
@@ -165,7 +165,7 @@
 
                     (III) authorizes a subsequent change in the ceiling price only on a determination, documented in the contract file, that it is in the best interest of the procuring agency to change the ceiling price.
 
-            (C) __Categories of commercial services.—__ 
+            (C)  __Categories of commercial services__  __.—__ 
 
             The categories of commercial services referred to in subparagraph (B) are as follows:
 
@@ -179,7 +179,7 @@
 
                     (II) it would be in the best interests of the Federal Government to authorize use of time-and-materials or labor-hour contracts for purchases of the commercial services in the category.
 
-        (5) __Contract quality requirements.—__ 
+        (5)  __Contract quality requirements__  __.—__ 
 
         Regulations prescribed under paragraph (1) shall include provisions that—
 

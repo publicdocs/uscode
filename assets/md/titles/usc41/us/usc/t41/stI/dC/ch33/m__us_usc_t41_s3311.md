@@ -15,11 +15,11 @@
 
 ## § 3311. Qualification requirement
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “qualification requirement” means a requirement for testing or other quality assurance demonstration that must be completed by an offeror before award of a contract.
 
-    (b) __Actions Before Enforcing Qualification Requirement.—__ 
+    (b)  __Actions Before Enforcing Qualification Requirement__  __.—__ 
 
     Except as provided in subsection (c), the head of an agency, before enforcing any qualification requirement, shall—
 
@@ -57,39 +57,39 @@
 
     (c) __Applicability, Waiver Authority, and Referral of Offers.—__ 
 
-        (1) __Applicability.—__ 
+        (1)  __Applicability__  __.—__ 
 
         Subsection (b) does not apply to a qualification requirement established by statute prior to October 30, 1984.
 
         (2) __Waiver authority.—__ 
 
-            (A) __Submission of determination of unreasonableness.—__ 
+            (A)  __Submission of determination of unreasonableness__  __.—__ 
 
             Except as provided in subparagraph (C), if it is unreasonable to specify the standards for qualification that a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement.
 
-            (B) __Authority to grant waiver.—__ 
+            (B)  __Authority to grant waiver__  __.—__ 
 
             After considering any comments of the advocate for competition reviewing the determination, the head of the procuring activity may waive the requirements of paragraphs (2) to (5) of subsection (b) for up to 2 years with respect to the item subject to the qualification requirement.
 
-            (C) __Nonapplicability to qualified products list.—__ 
+            (C)  __Nonapplicability to qualified products list__  __.—__ 
 
             Waiver authority under this paragraph does not apply with respect to a qualified products list.
 
-        (3) __Submission and consideration of offer not to be denied.—__ 
+        (3)  __Submission and consideration of offer not to be denied__  __.—__ 
 
         A potential offeror may not be denied the opportunity to submit and have considered an offer for a contract solely because the potential offeror has not been identified as meeting a qualification requirement if the potential offeror can demonstrate to the satisfaction of the contracting officer that the potential offeror or its product meets the standards established for qualification or can meet those standards before the date specified for award of the contract.
 
-        (4) __Referral to small business administration not required.—__ 
+        (4)  __Referral to small business administration not required__  __.—__ 
 
         This subsection does not require the referral of an offer to the Small Business Administration pursuant to section 8(b)(7) of the Small Business Act ([15 U.S.C. 637(b)(7)][/us/usc/t15/s637/b/7]) if the basis for the referral is a challenge by the offeror to either the validity of the qualification requirement or the offeror’s compliance with that requirement.
 
-        (5) __Delay of procurement not required.—__ 
+        (5)  __Delay of procurement not required__  __.—__ 
 
         The head of an agency need not delay a proposed procurement to comply with subsection (b) or to provide a potential offeror with an opportunity to demonstrate its ability to meet the standards specified for qualification.
 
-    (d) __Fewer Than 2 Actual Manufacturers.—__ 
+    (d)  __Fewer Than__  __2 Actual Manufacturers.—__ 
 
-        (1) __Solicitation and testing of additional sources or products.—__ 
+        (1)  __Solicitation and testing of additional sources or products__  __.—__ 
 
         If the number of qualified sources or qualified products available to compete actively for an anticipated future requirement is fewer than 2 actual manufacturers or the products of 2 actual manufacturers, respectively, the head of the agency concerned shall—
 
@@ -97,19 +97,19 @@
 
             (B) subject to paragraph (2), bear the cost of conducting the specified testing and evaluation (excluding the cost associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern that has met the standards specified for qualification and that could reasonably be expected to compete for a contract for that requirement.
 
-        (2) __When agency may bear cost.—__ 
+        (2)  __When agency may bear cost__  __.—__ 
 
         The head of the agency concerned may bear the cost under paragraph (1)(B) only if the head of the agency determines that the additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to offset (within a reasonable period of time considering the duration and dollar value of anticipated future requirements) the cost incurred by the agency.
 
-        (3) __Certification required.—__ 
+        (3)  __Certification required__  __.—__ 
 
         The head of the agency shall require a prospective contractor requesting the Federal Government to bear testing and evaluation costs under paragraph (1)(B) to certify its status as a small business concern under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
 
-    (e) __Examination and Revalidation of Qualification Requirement.—__ 
+    (e)  __Examination and Revalidation of Qualification Requirement__  __.—__ 
 
     Within 7 years after the establishment of a qualification requirement, the need for the requirement shall be examined and the standards of the requirement revalidated in accordance with the requirements of subsection (b). This subsection does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 
-    (f) __When Enforcement of Qualification Requirement Not Allowed.—__ 
+    (f)  __When Enforcement of Qualification Requirement Not Allowed__  __.—__ 
 
     Except in an emergency as determined by the head of the agency, after the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not enforce the requirement unless the agency complies with the requirements of subsection (b).
 

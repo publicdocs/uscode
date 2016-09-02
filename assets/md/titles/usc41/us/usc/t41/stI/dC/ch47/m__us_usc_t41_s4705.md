@@ -15,57 +15,57 @@
 
 ## § 4705. Protection of contractor employees from reprisal for disclosure of certain information
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Contract.—__ 
+        (1)  __Contract__  __.—__ 
 
         The term “contract” means a contract awarded by the head of an executive agency.
 
-        (2) __Contractor.—__ 
+        (2)  __Contractor__  __.—__ 
 
         The term “contractor” means a person awarded a contract with an executive agency.
 
-        (3) __Inspector general.—__ 
+        (3)  __Inspector general__  __.—__ 
 
         The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-    (b) __Prohibition of Reprisals.—__ 
+    (b)  __Prohibition of Reprisals__  __.—__ 
 
     An employee of a contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a Member of Congress or an authorized official of an executive agency or the Department of Justice information relating to a substantial violation of law related to a contract (including the competition for, or negotiation of, a contract).
 
-    (c) __Investigation of Complaints.—__ 
+    (c)  __Investigation of Complaints__  __.—__ 
 
     An individual who believes that the individual has been subjected to a reprisal prohibited by subsection (b) may submit a complaint to the Inspector General of the executive agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, on completion of the investigation, submit a report of the findings of the investigation to the individual, the contractor concerned, and the head of the agency. If the executive agency does not have an Inspector General, the duties of the Inspector General under this section shall be performed by an official designated by the head of the executive agency.
 
     (d) __Remedy and Enforcement Authority.—__ 
 
-        (1) __Actions contractor may be ordered to take.—__ 
+        (1)  __Actions contractor may be ordered to take__  __.—__ 
 
         If the head of an executive agency determines that a contractor has subjected an individual to a reprisal prohibited by subsection (b), the head of the executive agency may take one or more of the following actions:
 
-            (A) __Abatement.—__ 
+            (A)  __Abatement__  __.—__ 
 
             Order the contractor to take affirmative action to abate the reprisal.
 
-            (B) __Reinstatement.—__ 
+            (B)  __Reinstatement__  __.—__ 
 
             Order the contractor to reinstate the individual to the position that the individual held before the reprisal, together with the compensation (including back pay), employment benefits, and other terms and conditions of employment that would apply to the individual in that position if the reprisal had not been taken.
 
-            (C) __Payment.—__ 
+            (C)  __Payment__  __.—__ 
 
             Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that the complainant reasonably incurred for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
-        (2) __Enforcement order.—__ 
+        (2)  __Enforcement order__  __.—__ 
 
         When a contractor fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of the order in the United States district court for a district in which the reprisal was found to have occurred. In an action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
 
-        (3) __Review of enforcement order.—__ 
+        (3)  __Review of enforcement order__  __.—__ 
 
         A person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order’s conformance with this subsection, and regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. A petition seeking review must be filed no more than 60 days after the head of the agency issues the order. Review shall conform to chapter 7 of title 5.
 
-    (e) __Scope of Section.—__ 
+    (e)  __Scope of Section__  __.—__ 
 
     This section does not—
 
@@ -73,7 +73,7 @@
 
         (2) modify or derogate from a right or remedy otherwise available to the employee.
 
-    (f) __Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—__ 
+    (f)  __Four-year Suspension of Effectiveness While Pilot Program Is in Effect__  __.—__ 
 
     While [section 4712 of this title][/us/usc/t41/s4712] is in effect, this section shall not be in effect.
 

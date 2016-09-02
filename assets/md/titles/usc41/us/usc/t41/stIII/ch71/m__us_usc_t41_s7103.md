@@ -17,35 +17,35 @@
 
     (a) __Claims Generally.—__ 
 
-        (1) __Submission of contractor’s claims to contracting officer.—__ 
+        (1)  __Submission of contractor’s claims to contracting officer__  __.—__ 
 
         Each claim by a contractor against the Federal Government relating to a contract shall be submitted to the contracting officer for a decision.
 
-        (2) __Contractor’s claims in writing.—__ 
+        (2)  __Contractor’s claims in writing__  __.—__ 
 
         Each claim by a contractor against the Federal Government relating to a contract shall be in writing.
 
-        (3) __Contracting officer to decide federal government’s claims.—__ 
+        (3)  __Contracting officer to decide federal government’s claims__  __.—__ 
 
         Each claim by the Federal Government against a contractor relating to a contract shall be the subject of a written decision by the contracting officer.
 
         (4) __Time for submitting claims.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each claim by a contractor against the Federal Government relating to a contract and each claim by the Federal Government against a contractor relating to a contract shall be submitted within 6 years after the accrual of the claim.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             Subparagraph (A) of this paragraph does not apply to a claim by the Federal Government against a contractor that is based on a claim by the contractor involving fraud.
 
-        (5) __Applicability.—__ 
+        (5)  __Applicability__  __.—__ 
 
         The authority of this subsection and subsections (c)(1), (d), and (e) does not extend to a claim or dispute for penalties or forfeitures prescribed by statute or regulation that another Federal agency is specifically authorized to administer, settle, or determine.
 
     (b) __Certification of Claims.—__ 
 
-        (1) __Requirement generally.—__ 
+        (1)  __Requirement generally__  __.—__ 
 
         For claims of more than $100,000 made by a contractor, the contractor shall certify that—
 
@@ -57,39 +57,39 @@
 
             (D) the certifier is authorized to certify the claim on behalf of the contractor.
 
-        (2) __Who may execute certification.—__ 
+        (2)  __Who may execute certification__  __.—__ 
 
         The certification required by paragraph (1) may be executed by an individual authorized to bind the contractor with respect to the claim.
 
-        (3) __Failure to certify or defective certification.—__ 
+        (3)  __Failure to certify or defective certification__  __.—__ 
 
         A contracting officer is not obligated to render a final decision on a claim of more than $100,000 that is not certified in accordance with paragraph (1) if, within 60 days after receipt of the claim, the contracting officer notifies the contractor in writing of the reasons why any attempted certification was found to be defective. A defect in the certification of a claim does not deprive a court or an agency board of jurisdiction over the claim. Prior to the entry of a final judgment by a court or a decision by an agency board, the court or agency board shall require a defective certification to be corrected.
 
     (c) __Fraudulent Claims.—__ 
 
-        (1) __No authority to settle.—__ 
+        (1)  __No authority to settle__  __.—__ 
 
         This section does not authorize an agency head to settle, compromise, pay, or otherwise adjust any claim involving fraud.
 
-        (2) __Liability of contractor.—__ 
+        (2)  __Liability of contractor__  __.—__ 
 
         If a contractor is unable to support any part of the contractor’s claim and it is determined that the inability is attributable to a misrepresentation of fact or fraud by the contractor, then the contractor is liable to the Federal Government for an amount equal to the unsupported part of the claim plus all of the Federal Government’s costs attributable to reviewing the unsupported part of the claim. Liability under this paragraph shall be determined within 6 years of the commission of the misrepresentation of fact or fraud.
 
-    (d) __Issuance of Decision.—__ 
+    (d)  __Issuance of Decision__  __.—__ 
 
     The contracting officer shall issue a decision in writing and shall mail or otherwise furnish a copy of the decision to the contractor.
 
-    (e) __Contents of Decision.—__ 
+    (e)  __Contents of Decision__  __.—__ 
 
     The contracting officer’s decision shall state the reasons for the decision reached and shall inform the contractor of the contractor’s rights as provided in this chapter. Specific findings of fact are not required. If made, specific findings of fact are not binding in any subsequent proceeding.
 
     (f) __Time for Issuance of Decision.—__ 
 
-        (1) __Claim of $100,000 or less.—__ 
+        (1)  __Claim of $100,000 or less__  __.—__ 
 
         A contracting officer shall issue a decision on any submitted claim of $100,000 or less within 60 days from the contracting officer’s receipt of a written request from the contractor that a decision be rendered within that period.
 
-        (2) __Claim of more than $100,000.—__ 
+        (2)  __Claim of more than $100,000__  __.—__ 
 
         A contracting officer shall, within 60 days of receipt of a submitted certified claim over $100,000—
 
@@ -97,39 +97,39 @@
 
             (B) notify the contractor of the time within which a decision will be issued.
 
-        (3) __General requirement of reasonableness.—__ 
+        (3)  __General requirement of reasonableness__  __.—__ 
 
         The decision of a contracting officer on submitted claims shall be issued within a reasonable time, in accordance with regulations prescribed by the agency, taking into account such factors as the size and complexity of the claim and the adequacy of information in support of the claim provided by the contractor.
 
-        (4) __Requesting tribunal to direct issuance within specified time period.—__ 
+        (4)  __Requesting tribunal to direct issuance within specified time period__  __.—__ 
 
         A contractor may request the tribunal concerned to direct a contracting officer to issue a decision in a specified period of time, as determined by the tribunal concerned, in the event of undue delay on the part of the contracting officer.
 
-        (5) __Failure to issue decision within required time period.—__ 
+        (5)  __Failure to issue decision within required time period__  __.—__ 
 
         Failure by a contracting officer to issue a decision on a claim within the required time period is deemed to be a decision by the contracting officer denying the claim and authorizes an appeal or action on the claim as otherwise provided in this chapter. However, the tribunal concerned may, at its option, stay the proceedings of the appeal or action to obtain a decision by the contracting officer.
 
-    (g) __Finality of Decision Unless Appealed.—__ 
+    (g)  __Finality of Decision Unless Appealed__  __.—__ 
 
     The contracting officer’s decision on a claim is final and conclusive and is not subject to review by any forum, tribunal, or Federal Government agency, unless an appeal or action is timely commenced as authorized by this chapter. This chapter does not prohibit an executive agency from including a clause in a Federal Government contract requiring that, pending final decision of an appeal, action, or final settlement, a contractor shall proceed diligently with performance of the contract in accordance with the contracting officer’s decision.
 
     (h) __Alternative Means of Dispute Resolution.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutually agreeable procedures, for resolving claims. All provisions of subchapter IV of chapter 5 of title 5 apply to alternative means of dispute resolution under this subsection.
 
-        (2) __Certification of claim.—__ 
+        (2)  __Certification of claim__  __.—__ 
 
         The contractor shall certify the claim when required to do so under subsection (b)(1) or other law.
 
         (3) __Rejecting request for alternative dispute resolution.—__ 
 
-            (A) __Contracting officer.—__ 
+            (A)  __Contracting officer__  __.—__ 
 
             A contracting officer who rejects a contractor’s request for alternative dispute resolution proceedings shall provide the contractor with a written explanation, citing one or more of the conditions in [section 572(b) of title 5][/us/usc/t5/s572/b] or other specific reasons that alternative dispute resolution procedures are inappropriate.
 
-            (B) __Contractor.—__ 
+            (B)  __Contractor__  __.—__ 
 
             A contractor that rejects an agency’s request for alternative dispute resolution proceedings shall inform the agency in writing of the contractor’s specific reasons for rejecting the request.
 

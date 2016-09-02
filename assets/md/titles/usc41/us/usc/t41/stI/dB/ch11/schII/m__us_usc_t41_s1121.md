@@ -15,17 +15,17 @@
 
 ## § 1121. General authority
 
-    (a) __Overall Direction and Leadership.—__ 
+    (a)  __Overall Direction and Leadership__  __.—__ 
 
     The Administrator shall provide overall direction of procurement policy and leadership in the development of procurement systems of the executive agencies.
 
-    (b) __Federal Acquisition Regulation.—__ 
+    (b)  __Federal Acquisition Regulation__  __.—__ 
 
     To the extent that the Administrator considers appropriate in carrying out the policies and functions set forth in this division, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. The policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation.
 
     (c) __Policies To Be Followed by Executive Agencies.—__ 
 
-        (1) __Areas of procurement for which policies are to be followed.—__ 
+        (1)  __Areas of procurement for which policies are to be followed__  __.—__ 
 
         The policies implemented in the Federal Acquisition Regulation shall be followed by executive agencies in the procurement of—
 
@@ -35,23 +35,23 @@
 
             (C) construction, alteration, repair, or maintenance of real property.
 
-        (2) __Procedures to ensure compliance.—__ 
+        (2)  __Procedures to ensure compliance__  __.—__ 
 
         The Administrator shall establish procedures to ensure compliance with the Federal Acquisition Regulation by all executive agencies.
 
-        (3) __Application of other laws.—__ 
+        (3)  __Application of other laws__  __.—__ 
 
         The authority of an executive agency under another law to prescribe policies, regulations, procedures, and forms for procurement is subject to the authority conferred in this section and sections 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title.
 
-    (d) __When Certain Agencies Are Unable To Agree or Fail To Act.—__ 
+    (d)  __When Certain Agencies Are Unable To Agree or Fail To Act__  __.—__ 
 
     In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures, and forms in a timely manner, including regulations, procedures, and forms necessary to implement prescribed policy the Administrator initiates under subsection (b), the Administrator, with due regard for applicable laws and the program activities of the executive agencies and consistent with the policies and functions set forth in this division, shall prescribe Government-wide regulations, procedures, and forms which executive agencies shall follow in procuring items listed in subsection (c)(1).
 
-    (e) __Oversight of Procurement Regulations of Other Agencies.—__ 
+    (e)  __Oversight of Procurement Regulations of Other Agencies__  __.—__ 
 
     The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that the rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (b).
 
-    (f) __Limitation on Authority.—__ 
+    (f)  __Limitation on Authority__  __.—__ 
 
     The authority of the Administrator under this division shall not be construed to—
 
@@ -199,15 +199,15 @@ Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 
 [Pub. L. 108–136, div. A, title VIII, § 803][/us/pl/108/136/s803], Nov. 24, 2003, [117 Stat. 1541][/us/stat/117/1541], provided that:
 
->     “(a) __Procurements of Anti-Terrorism Technologies and Services by State and Local Governments.—__ 
+>     “(a)  __Procurements of Anti-Terrorism Technologies and Services by State and Local Governments__  __.—__ 
 
 >     The Administrator for Federal Procurement Policy shall establish a program under which States and units of local government may procure through contracts entered into by the Department of Defense or the Department of Homeland Security anti-terrorism technologies or anti-terrorism services for the purpose of preventing, detecting, identifying, deterring, or recovering from acts of terrorism.
 
->     “(b) __Authorities.—__ 
+>     “(b)  __Authorities__  __.—__ 
 
 >     Under the program, the Secretary of Defense and the Secretary of Homeland Security may, but shall not be required to, award contracts using the procedures established by the Administrator of General Services for the multiple awards schedule program of the General Services Administration.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘State or local government’ has the meaning provided in [section 502(c)(3) of title 40][/us/usc/t40/s502/c/3], United States Code.”
 
@@ -215,11 +215,11 @@ Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 
 [Pub. L. 100–679, § 7][/us/pl/100/679/s7], Nov. 17, 1988, [102 Stat. 4068][/us/stat/102/4068], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator shall conduct a study to develop a consistent methodology which executive agencies should use for measuring the profits earned by government contractors on procurements, other than procurements where the price is based on adequate price competition or on established catalog or market prices of commercial items sold in substantial quantities to the general public.
 
->     “(b) __Contractors’ Financial Data.—__ 
+>     “(b)  __Contractors’ Financial Data__  __.—__ 
 
 >     The methodology developed under subsection (a) shall include adequate procedures for verifying and maintaining the confidentiality of contractors’ financial data.”
 

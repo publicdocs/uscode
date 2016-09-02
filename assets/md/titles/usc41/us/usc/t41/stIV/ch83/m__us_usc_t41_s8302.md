@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1) __Allowable materials.—__ 
+        (1)  __Allowable materials__  __.—__ 
 
         Only unmanufactured articles, materials, and supplies that have been mined or produced in the United States, and only manufactured articles, materials, and supplies that have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States, shall be acquired for public use unless the head of the department or independent establishment concerned determines their acquisition to be inconsistent with the public interest or their cost to be unreasonable.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         This section does not apply—
 
@@ -33,11 +33,11 @@
 
     (b) __Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 180 days after the end of each of fiscal years 2009 through 2011, the head of each Federal agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the amount of the acquisitions made by the agency in that fiscal year of articles, materials, or supplies purchased from entities that manufacture the articles, materials, or supplies outside of the United States.
 
-        (2) __Contents of report.—__ 
+        (2)  __Contents of report__  __.—__ 
 
         The report required by paragraph (1) shall separately include, for the fiscal year covered by the report—
 
@@ -55,11 +55,11 @@
 
                 (ii) the total procurement funds expended on articles, materials, and supplies manufactured outside the United States.
 
-        (3) __Public availability.—__ 
+        (3)  __Public availability__  __.—__ 
 
         The head of each Federal agency submitting a report under paragraph (1) shall make the report publicly available to the maximum extent practicable.
 
-        (4) __Exception for intelligence community.—__ 
+        (4)  __Exception for intelligence community__  __.—__ 
 
         This subsection shall not apply to acquisitions made by an agency, or component of an agency, that is an element of the intelligence community as specified in, or designated under, section 3 of the National Security Act of 1947 ([50 U.S.C. 401a][/us/usc/t50/s401a]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 

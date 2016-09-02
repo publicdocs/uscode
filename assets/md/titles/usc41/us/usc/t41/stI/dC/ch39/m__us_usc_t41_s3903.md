@@ -15,11 +15,11 @@
 
 ## § 3903. Multiyear contracts
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than 5, program years.
 
-    (b) __Authority To Enter Into Contract.—__ 
+    (b)  __Authority To Enter Into Contract__  __.—__ 
 
     An executive agency may enter into a multiyear contract for the acquisition of property or services if—
 
@@ -33,19 +33,19 @@
 
             (B) a multiyear contract will serve the best interests of the Federal Government by encouraging full and open competition or promoting economy in administration, performance, and operation of the agency’s programs.
 
-    (c) __Termination Clause.—__ 
+    (c)  __Termination Clause__  __.—__ 
 
     A multiyear contract entered into under the authority of this section shall include a clause that provides that the contract shall be terminated if funds are not made available for the continuation of the contract in a fiscal year covered by the contract. Funds available for paying termination costs shall remain available for that purpose until the costs associated with termination of the contract are paid.
 
-    (d) __Cancellation Ceiling Notice.—__ 
+    (d)  __Cancellation Ceiling Notice__  __.—__ 
 
     Before a contract described in subsection (b) that contains a clause setting forth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to Congress. The contract may not be awarded until the end of the 30-day period beginning on the date of the notification.
 
-    (e) __Contingency Clause for Appropriation of Funds.—__ 
+    (e)  __Contingency Clause for Appropriation of Funds__  __.—__ 
 
     A multiyear contract may provide that performance under the contract after the first year of the contract is contingent on the appropriation of funds and (if the contract does so provide) that a cancellation payment shall be made to the contractor if the funds are not appropriated.
 
-    (f) __Other Law Not Affected.—__ 
+    (f)  __Other Law Not Affected__  __.—__ 
 
     This section does not modify or affect any other provision of law that authorizes multiyear contracts.
 

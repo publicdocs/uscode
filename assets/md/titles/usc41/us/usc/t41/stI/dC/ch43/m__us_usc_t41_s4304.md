@@ -15,7 +15,7 @@
 
 ## § 4304. Specific costs not allowable
 
-    (a) __Specific Costs.—__ 
+    (a)  __Specific Costs__  __.—__ 
 
     The following costs are not allowable under a covered contract:
 
@@ -59,7 +59,7 @@
 
     (b) __Waiver of Severance Pay Restrictions for Foreign Nationals.—__ 
 
-        (1) __Executive agency determination.—__ 
+        (1)  __Executive agency determination__  __.—__ 
 
         Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, an executive agency, in awarding a covered contract, may waive the application of paragraphs (13) and (14) of subsection (a) to that contract if the executive agency determines that—
 
@@ -69,7 +69,7 @@
 
             (C) the payment of severance pay is necessary to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract or is necessary to comply with a collective bargaining agreement.
 
-        (2) __Solicitation to include statement about waiver.—__ 
+        (2)  __Solicitation to include statement about waiver__  __.—__ 
 
         An executive agency shall include in the solicitation for a covered contract a statement indicating—
 
@@ -77,15 +77,15 @@
 
             (B) whether the executive agency will consider granting a waiver and, if the executive agency will consider granting a waiver, the criteria to be used in granting the waiver.
 
-        (3) __Determination to be made before contract awarded.—__ 
+        (3)  __Determination to be made before contract awarded__  __.—__ 
 
         An executive agency shall make the final determination whether to grant a waiver under paragraph (1) with respect to a covered contract before award of the contract.
 
-    (c) __Establishment of Definitions, Exclusions, Limitations, and Qualifications.—__ 
+    (c)  __Establishment of Definitions, Exclusions, Limitations, and Qualifications__  __.—__ 
 
     The provisions of the Federal Acquisition Regulation implementing this chapter may establish appropriate definitions, exclusions, limitations, and qualifications. A submission by a contractor of costs that are incurred by the contractor and that are claimed to be allowable under Department of Energy management and operating contracts shall be considered a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3785][/us/stat/124/3785].)
+([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3785][/us/stat/124/3785]; [Pub. L. 113–66, div. A, title VIII, § 811(b)][/us/pl/113/66/s811/b], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(1)][/us/pl/113/67/s702/a/1], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
 
 <table>
 
@@ -133,11 +133,57 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
 
 </table>
 
+ __Amendment of Subsection (a)(16)__ 
+
+[Pub. L. 113–67, div. A, title VII, § 702(a)(1)][/us/pl/113/67/s702/a/1], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:
+
+>     “(16) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
+
+[Pub. L. 113–66, div. A, title VIII, § 811(b)][/us/pl/113/66/s811/b], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:
+
+>     “(16) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–67][/us/pl/113/67] applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see [section 702(c) of Pub. L. 113–67][/us/pl/113/67/s702/c], set out as a note under [section 2324 of Title 10][/us/usc/t10/s2324], Armed Forces.
+
+    Amendment by [Pub. L. 113–66][/us/pl/113/66] applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see [section 811(d) of Pub. L. 113–66][/us/pl/113/66/s811/d], set out as a note under [section 2324 of Title 10][/us/usc/t10/s2324], Armed Forces.
+
+ __Reports__ 
+
+[Pub. L. 113–67, div. A, title VII, § 702(d)][/us/pl/113/67/s702/d], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Not later than 60 days after the end of each fiscal year, the Director of the Office of Management and Budget shall submit a report on contractor compensation to—
+
+>         “(A) the Committee on Armed Services of the Senate;
+
+>         “(B) the Committee on Armed Services of the House of Representatives;
+
+>         “(C) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+>         “(D) the Committee on Oversight and Government Reform of the House of Representatives;
+
+>         “(E) the Committee on Appropriations of the Senate; and
+
+>         “(F) the Committee on Appropriations of the House of Representatives.
+
+>     “(2)  __Elements__  __.—__ 
+
+>     The report required under paragraph (1) shall include—
+
+>         “(A) the total number of contractor employees, by executive agency, in the narrowly targeted exception positions described under subsection (a) during the preceding fiscal year;
+
+>         “(B) the taxpayer-funded compensation amounts received by each contractor employee in a narrowly targeted exception position during such fiscal year; and
+
+>         “(C) the duties and services performed by contractor employees in the narrowly targeted exception positions during such fiscal year.”
+
  __Revision of Cost Principle Relating to Entertainment, Gift, and Recreation Costs for Contractor Employees__ 
 
 [Pub. L. 103–355, title II, § 2192][/us/pl/103/355/s2192], Oct. 13, 1994, [108 Stat. 3315][/us/stat/108/3315], provided that:
 
->     “(a) __Costs Not Allowable.—__ 
+>     “(a)  __Costs Not Allowable__  __.—__ 
 
 >         (1) The costs of gifts or recreation for employees of a contractor or members of their families that are provided by the contractor to improve employee morale or performance or for any other purpose are not allowable under a covered contract unless, within 120 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Federal Acquisition Regulatory Council prescribes amendments to the Federal Acquisition Regulation specifying circumstances under which such costs are allowable under a covered contract.
 
@@ -149,7 +195,7 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
 
 >             “(B) by striking out ‘(but see 31.205–1 and 31.205–13)’.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -157,7 +203,7 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
 
 >         “(2) The term ‘covered contract’ has the meaning given such term in section 2324(l) of title 10, United States Code (as amended by section 2101(c) \[2101(d)\]), and section 306(l) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see [41 U.S.C. 4301(2)][/us/usc/t41/s4301/2]\].
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001 \[set out as an Effective Date of 1994 Amendment note under [section 2302 of Title 10][/us/usc/t10/s2302], Armed Forces\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
 
@@ -206,6 +252,22 @@ Sec. 4. Examples of costs unallowable under section 2 of this order include the 
 [/us/usc/t41/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1127
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3785
+[/us/pl/113/66/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fb
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/pl/113/67/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F1
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/67/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F1
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/66/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fb
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fc
+[/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fd
+[/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
+[/us/pl/113/67/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fd
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
 [/us/pl/103/355/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2192
 [/us/stat/108/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3315
 [/us/usc/t41/s4301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4301%2F2

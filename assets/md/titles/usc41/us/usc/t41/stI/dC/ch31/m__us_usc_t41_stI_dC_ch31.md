@@ -77,7 +77,7 @@
 
 [Pub. L. 112–239, div. A, title VIII, § 862][/us/pl/112/239/s862], Jan. 2, 2013, [126 Stat. 1859][/us/stat/126/1859], provided that:
 
->     “(a) __Uniform Standards and Controls Required.—__ 
+>     “(a)  __Uniform Standards and Controls Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the officials specified in subsection (b) shall—
 
@@ -87,7 +87,7 @@
 
 >         “(3) require the use of electronic contract writing systems approved in accordance with paragraph (2) for all contracts entered into by the Department of Defense or other executive agencies, as applicable.
 
->     “(b) __Covered Officials.—__ 
+>     “(b)  __Covered Officials__  __.—__ 
 
 >     The officials specified in this subsection are the following:
 
@@ -95,15 +95,15 @@
 
 >         “(2) The Administrator for Federal Procurement Policy, with respect to the executive agencies other than the Department of Defense and the military departments.
 
->     “(c) __Electronic Writing Systems for Department of State and USAID.—__ 
+>     “(c)  __Electronic Writing Systems for Department of State and USAID__  __.—__ 
 
 >     Notwithstanding subsection (b)(2), the Secretary of State and the Administrator of the United States Agency for International Development may meet the requirements of subsection (a)(2) with respect to approved electronic contract writing systems for the Department of State and the United States Agency for International Development, respectively, if the Secretary and the Administrator, as the case may be, demonstrate to the Administrator for Federal Procurement Policy that prior investment of resources in existing contract writing systems will result in the most cost effective and efficient means to satisfy such requirements.
 
->     “(d) __Phase-in of Implementation of Requirement for Approved Systems.—__ 
+>     “(d)  __Phase-in of Implementation of Requirement for Approved Systems__  __.—__ 
 
 >     The officials specified in subsection (b) may phase in the implementation of the requirement to use approved electronic contract writing systems in accordance with subsection (a)(3) over a period of up to five years beginning with the date of the enactment of this Act \[Jan. 2, 2013\].
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the officials specified in subsection (b) shall each submit to the appropriate committees of Congress a report on the implementation of the requirements of this section. Each report shall, at a minimum—
 
@@ -113,7 +113,7 @@
 
 >         “(3) provide the schedule for phasing in the use of approved electronic contract writing systems in accordance with subsections (a)(3) and (d).
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 

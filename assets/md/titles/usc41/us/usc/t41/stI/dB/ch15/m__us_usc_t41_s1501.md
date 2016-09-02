@@ -15,13 +15,13 @@
 
 ## § 1501. Cost Accounting Standards Board
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     The Cost Accounting Standards Board is an independent board in the Office of Federal Procurement Policy.
 
     (b) __Membership.—__ 
 
-        (1) __Number of members, chairman, and appointment.—__ 
+        (1)  __Number of members, chairman, and appointment__  __.—__ 
 
         The Board consists of 5 members. One member is the Administrator, who serves as Chairman. The other 4 members, all of whom shall have experience in Federal Government contract cost accounting, are as follows:
 
@@ -43,19 +43,19 @@
 
         (2) __Term of office.—__ 
 
-            (A) __Length of term.—__ 
+            (A)  __Length of term__  __.—__ 
 
             The term of office of each member, other than the Administrator, is 4 years. The terms are staggered, with the terms of 2 members expiring in the same year, the term of another member expiring the next year, and the term of the last member expiring the year after that.
 
-            (B) __Individual required to remain with appointing agency.—__ 
+            (B)  __Individual required to remain with appointing agency__  __.—__ 
 
             A member appointed under paragraph (1)(A) may not continue to serve after ceasing to be an officer or employee of the agency from which that member was appointed.
 
-        (3) __Vacancy.—__ 
+        (3)  __Vacancy__  __.—__ 
 
         A vacancy on the Board shall be filled in the same manner in which the original appointment was made. A member appointed to fill a vacancy serves for the remainder of the term for which that member’s predecessor was appointed.
 
-    (c) __Senior Staff.—__ 
+    (c)  __Senior Staff__  __.—__ 
 
     The Administrator, after consultation with the Board, may—
 
@@ -63,11 +63,11 @@
 
         (2) pay those employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that those employees may not receive pay in excess of the maximum rate of basic pay payable for level IV of the Executive Schedule.
 
-    (d) __Other Staff.—__ 
+    (d)  __Other Staff__  __.—__ 
 
     The Administrator may appoint, fix the compensation of, and remove additional employees of the Board under the applicable provisions of title 5.
 
-    (e) __Detailed and Temporary Personnel.—__ 
+    (e)  __Detailed and Temporary Personnel__  __.—__ 
 
     For service on advisory committees and task forces to assist the Board in carrying out its functions and responsibilities—
 
@@ -77,19 +77,19 @@
 
     (f) __Compensation.—__ 
 
-        (1) __Officers and employees of the government.—__ 
+        (1)  __Officers and employees of the government__  __.—__ 
 
         Members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (e)(1), shall not receive additional compensation for services but shall continue to be compensated by the employing department or agency of the officer or employee.
 
-        (2) __Appointees from private sector.—__ 
+        (2)  __Appointees from private sector__  __.—__ 
 
         Each member of the Board appointed from the private sector shall receive compensation at a rate not to exceed the daily equivalent of the rate for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board.
 
-        (3) __Temporary and intermittent personnel.—__ 
+        (3)  __Temporary and intermittent personnel__  __.—__ 
 
         An individual hired under subsection (e)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed the daily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
 
-        (4) __Travel expenses.—__ 
+        (4)  __Travel expenses__  __.—__ 
 
         While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis under this chapter shall be allowed travel expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703].
 

@@ -15,7 +15,7 @@
 
 ## § 8105. Waiver
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The head of an agency may waive a suspension of payments, termination of the contract or grant, or suspension or debarment of a contractor or grantee under this chapter with respect to a particular contract or grant if—
 
@@ -23,7 +23,7 @@
 
         (2) in the case of a grant, the head of the agency determines that suspension of payments, termination of the grant, or suspension or debarment of the grantee would not be in the public interest.
 
-    (b) __Waiver Authority May Not Be Delegated.—__ 
+    (b)  __Waiver Authority May Not Be Delegated__  __.—__ 
 
     The authority of the head of an agency under this section to waive a suspension, termination, or debarment shall not be delegated.
 

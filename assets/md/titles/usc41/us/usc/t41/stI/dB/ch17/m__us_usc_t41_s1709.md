@@ -15,7 +15,7 @@
 
 ## § 1709. Contracting functions performed by Federal personnel
 
-    (a) __Covered Personnel.—__ 
+    (a)  __Covered Personnel__  __.—__ 
 
     Personnel referred to in subsection (b) are—
 
@@ -25,7 +25,7 @@
 
         (3) an individual assigned to a Federal agency pursuant to subchapter VI of chapter 33 of title 5.
 
-    (b) __Limitation on Payment for Advisory and Assistance Services.—__ 
+    (b)  __Limitation on Payment for Advisory and Assistance Services__  __.—__ 
 
     No individual who is not an individual described in subsection (a) may be paid by an executive agency for services to conduct evaluations or analyses of any aspect of a proposal submitted for an acquisition unless personnel described in subsection (a) with adequate training and capabilities to perform the evaluations and analyses are not readily available in the agency or another Federal agency. When administering this subsection, the head of each executive agency shall determine in accordance with standards and procedures prescribed in the Federal Acquisition Regulation whether—
 
@@ -33,7 +33,7 @@
 
         (2) the readily available personnel have the training and capabilities necessary to perform the evaluation or analysis.
 
-    (c) __Certain Relationship Not Affected.—__ 
+    (c)  __Certain Relationship Not Affected__  __.—__ 
 
     This section does not affect the relationship between the Federal Government and a Federally funded research and development center.
 

@@ -15,15 +15,15 @@
 
 ## § 3704. Post-award debriefings
 
-    (a) __Request for Debriefing.—__ 
+    (a)  __Request for Debriefing__  __.—__ 
 
     When a contract is awarded by the head of an executive agency on the basis of competitive proposals, an unsuccessful offeror, on written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award.
 
-    (b) __When Debriefing To Be Conducted.—__ 
+    (b)  __When Debriefing To Be Conducted__  __.—__ 
 
     The executive agency shall debrief the offeror within, to the maximum extent practicable, 5 days after receipt of the request by the executive agency.
 
-    (c) __Information To Be Provided.—__ 
+    (c)  __Information To Be Provided__  __.—__ 
 
     The debriefing shall include, at a minimum—
 
@@ -39,15 +39,15 @@
 
         (6) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 
-    (d) __Information Not To Be Included.—__ 
+    (d)  __Information Not To Be Included__  __.—__ 
 
     The debriefing may not include point-by-point comparisons of the debriefed offeror’s offer with other offers and may not disclose any information that is exempt from disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b].
 
-    (e) __Inclusion of Statement in Solicitation.—__ 
+    (e)  __Inclusion of Statement in Solicitation__  __.—__ 
 
     Each solicitation for competitive proposals shall include a statement that information described in subsection (c) may be disclosed in post-award debriefings.
 
-    (f) __After Successful Protest.—__ 
+    (f)  __After Successful Protest__  __.—__ 
 
     If, within one year after the date of the contract award and as a result of a successful procurement protest, the executive agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of the executive agency shall make available to all offerors—
 
@@ -55,7 +55,7 @@
 
         (2) the same information that would have been provided to the original offerors.
 
-    (g) __Summary To Be Included in File.—__ 
+    (g)  __Summary To Be Included in File__  __.—__ 
 
     The contracting officer shall include a summary of the debriefing in the contract file.
 

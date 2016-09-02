@@ -15,7 +15,7 @@
 
 ## § 3507. Interest and penalties for certain overpayments
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If the Federal Government makes an overpayment to a contractor under a contract with an executive agency subject to this chapter and the overpayment was due to the submission by the contractor of defective cost or pricing data, the contractor shall be liable to the Federal Government—
 
@@ -29,7 +29,7 @@
 
         (2) if the submission of the defective data was a knowing submission, for an additional amount equal to the amount of the overpayment.
 
-    (b) __Liability Not Affected by Refusal To Submit Certification.—__ 
+    (b)  __Liability Not Affected by Refusal To Submit Certification__  __.—__ 
 
     Any liability under this section of a contractor that submits cost or pricing data but refuses to submit the certification required by [section 3502(b) of this title][/us/usc/t41/s3502/b] with respect to the cost or pricing data is not affected by the refusal to submit the certification.
 

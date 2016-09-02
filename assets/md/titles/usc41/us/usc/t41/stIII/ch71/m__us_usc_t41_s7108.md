@@ -15,25 +15,25 @@
 
 ## § 7108. Payment of claims
 
-    (a) __Judgments.—__ 
+    (a)  __Judgments__  __.—__ 
 
     Any judgment against the Federal Government on a claim under this chapter shall be paid promptly in accordance with the procedures provided by [section 1304 of title 31][/us/usc/t31/s1304].
 
-    (b) __Monetary Awards.—__ 
+    (b)  __Monetary Awards__  __.—__ 
 
     Any monetary award to a contractor by an agency board shall be paid promptly in accordance with the procedures contained in subsection (a).
 
-    (c) __Reimbursement.—__ 
+    (c)  __Reimbursement__  __.—__ 
 
     Payments made pursuant to subsections (a) and (b) shall be reimbursed to the fund provided by [section 1304 of title 31][/us/usc/t31/s1304] by the agency whose appropriations were used for the contract out of available amounts or by obtaining additional appropriations for purposes of reimbursement.
 
     (d) __Tennessee Valley Authority.—__ 
 
-        (1) __Judgments.—__ 
+        (1)  __Judgments__  __.—__ 
 
         Notwithstanding subsections (a) to (c), any judgment against the Tennessee Valley Authority on a claim under this chapter shall be paid promptly in accordance with section 9(b) of the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831h(b)][/us/usc/t16/s831h/b]).
 
-        (2) __Monetary awards.—__ 
+        (2)  __Monetary awards__  __.—__ 
 
         Notwithstanding subsections (a) to (c), any monetary award to a contractor by the board of contract appeals of the Tennessee Valley Authority shall be paid in accordance with section 9(b) of the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831h(b)][/us/usc/t16/s831h/b]).
 

@@ -15,11 +15,11 @@
 
 ## § 8504. Procurement requirements for the Federal Government
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An entity of the Federal Government intending to procure a product or service on the procurement list referred to in [section 8503 of this title][/us/usc/t41/s8503] shall procure the product or service from a qualified nonprofit agency for the blind or a qualified nonprofit agency for other severely disabled in accordance with regulations of the Committee and at the price the Committee establishes if the product or service is available within the period required by the entity.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     This section does not apply to the procurement of a product that is available from an industry established under chapter 307 of title 18 and that is required under [section 4124 of title 18][/us/usc/t18/s4124] to be procured from that industry.
 

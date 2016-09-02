@@ -15,27 +15,27 @@
 
 ## § 6507. Hearing authority and procedures
 
-    (a) __Record and Hearing Requirements for Wage Determinations.—__ 
+    (a)  __Record and Hearing Requirements for Wage Determinations__  __.—__ 
 
     A wage determination under [section 6502(1) of this title][/us/usc/t41/s6502/1] shall be made on the record after opportunity for a hearing.
 
-    (b) __Authority To Hold Hearings.—__ 
+    (b)  __Authority To Hold Hearings__  __.—__ 
 
     The Secretary or an impartial representative designated by the Secretary may hold hearings when there is a complaint of breach or violation of a representation or stipulation included in a contract under [section 6502 of this title][/us/usc/t41/s6502]. The Secretary may initiate hearings on the Secretary’s own motion or on the application of a person affected by the ruling of an agency of the United States relating to a proposal or contract under this chapter.
 
-    (c) __Orders To Compel Testimony.—__ 
+    (c)  __Orders To Compel Testimony__  __.—__ 
 
     The Secretary or an impartial representative designated by the Secretary may issue orders requiring witnesses to attend hearings held under this section and to produce evidence and testify under oath. Witnesses shall be paid fees and mileage at the same rates as witnesses in courts of the United States.
 
-    (d) __Enforcement of Orders.—__ 
+    (d)  __Enforcement of Orders__  __.—__ 
 
     If a person refuses or fails to obey an order issued under subsection (c), the Secretary or an impartial representative designated by the Secretary may bring an action to enforce the order in a district court of the United States or in the district court of a territory or possession of the United States. A court has jurisdiction to enforce the order if the inquiry is being carried out within the court’s judicial district or if the person is found or resides or transacts business within the court’s judicial district. The court may issue an order requiring the person to obey the order issued under subsection (c), and the court may punish any further refusal or failure as contempt of court.
 
-    (e) __Findings of Fact.—__ 
+    (e)  __Findings of Fact__  __.—__ 
 
     After notice and a hearing, the Secretary or an impartial representative designated by the Secretary shall make findings of fact. The findings are conclusive for agencies of the United States. If supported by a preponderance of the evidence, the findings are conclusive in any court of the United States.
 
-    (f) __Decisions.—__ 
+    (f)  __Decisions__  __.—__ 
 
     The Secretary or an impartial representative designated by the Secretary may make decisions, based on findings of fact, that are considered necessary to enforce this chapter.
 

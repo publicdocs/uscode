@@ -17,15 +17,15 @@
 
     (a) __Period.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Interest on an amount found due a contractor on a claim shall be paid to the contractor for the period beginning with the date the contracting officer receives the contractor’s claim, pursuant to [section 7103(a) of this title][/us/usc/t41/s7103/a], until the date of payment of the claim.
 
-        (2) __Defective certification.—__ 
+        (2)  __Defective certification__  __.—__ 
 
         On a claim for which the certification under [section 7103(b)(1) of this title][/us/usc/t41/s7103/b/1] is found to be defective, any interest due under this section shall be paid for the period beginning with the date the contracting officer initially receives the contractor’s claim until the date of payment of the claim.
 
-    (b) __Rate.—__ 
+    (b)  __Rate__  __.—__ 
 
     Interest shall accrue and be paid at a rate which the Secretary of the Treasury shall specify as applicable for each successive 6-month period. The rate shall be determined by the Secretary of the Treasury taking into consideration current private commercial rates of interest for new loans maturing in approximately 5 years.
 

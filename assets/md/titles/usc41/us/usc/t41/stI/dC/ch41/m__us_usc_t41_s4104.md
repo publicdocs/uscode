@@ -15,11 +15,11 @@
 
 ## § 4104. Guidance on use of task and delivery order contracts
 
-    (a) __Guidance in Federal Acquisition Regulation.—__ 
+    (a)  __Guidance in Federal Acquisition Regulation__  __.—__ 
 
     The Federal Acquisition Regulation issued in accordance with sections 1121(b) and 1303(a)(1) of this title shall provide guidance to agencies on the appropriate use of task and delivery order contracts in accordance with this chapter and sections 2304a to 2304d of title 10.
 
-    (b) __Content of Regulations.—__ 
+    (b)  __Content of Regulations__  __.—__ 
 
     The regulations issued pursuant to subsection (a) at a minimum shall provide specific guidance on—
 
@@ -35,7 +35,7 @@
 
             (C) [section 4106(e) of this title][/us/usc/t41/s4106/e] and [section 2304c(c) of title 10][/us/usc/t10/s2304c/c] for a statement of work in each task or delivery order issued that clearly specifies all tasks to be performed or property to be delivered under the order.
 
-    (c) __Federal Supply Schedules Program.—__ 
+    (c)  __Federal Supply Schedules Program__  __.—__ 
 
     The Administrator for Federal Procurement Policy shall consult with the Administrator of General Services to assess the effectiveness of the multiple awards schedule program of the General Services Administration referred to in [section 152(3) of this title][/us/usc/t41/s152/3] that is administered as the Federal Supply Schedules program. The assessment shall include examination of—
 

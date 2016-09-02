@@ -15,7 +15,7 @@
 
 ## § 3703. Competitive proposals
 
-    (a) __Evaluation and Award.—__ 
+    (a)  __Evaluation and Award__  __.—__ 
 
     An executive agency shall evaluate competitive proposals in accordance with [section 3701(a) of this title][/us/usc/t41/s3701/a] and may award a contract—
 
@@ -23,15 +23,15 @@
 
         (2) based on the proposals received and without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), if, as required by [section 3306(b)(2)(B)(i) of this title][/us/usc/t41/s3306/b/2/B/i], the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions unless discussions are determined to be necessary.
 
-    (b) __Limit on Number of Proposals.—__ 
+    (b)  __Limit on Number of Proposals__  __.—__ 
 
     If the contracting officer determines that the number of offerors that would otherwise be included in the competitive range under subsection (a)(1) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with those criteria.
 
-    (c) __Criteria for Awarding Contract.—__ 
+    (c)  __Criteria for Awarding Contract__  __.—__ 
 
     Except as otherwise provided in [section 3701(b) of this title][/us/usc/t41/s3701/b], the executive agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the Federal Government, considering only cost or price and the other factors included in the solicitation.
 
-    (d) __Notice of Award.—__ 
+    (d)  __Notice of Award__  __.—__ 
 
     The executive agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to that source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
 

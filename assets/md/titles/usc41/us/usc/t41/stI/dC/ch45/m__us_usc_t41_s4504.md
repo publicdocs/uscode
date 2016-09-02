@@ -15,15 +15,15 @@
 
 ## § 4504. Conditions for progress payments
 
-    (a) __Payment Commensurate With Work.—__ 
+    (a)  __Payment Commensurate With Work__  __.—__ 
 
     The executive agency shall ensure that a payment for work in progress (including materials, labor, and other items) under a contract of an executive agency that provides for those payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide information and evidence the executive agency determines is necessary to permit the executive agency to carry out this subsection.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     The executive agency shall ensure that progress payments referred to in subsection (a) are not made for more than 80 percent of the work accomplished under the contract as long as the executive agency has not made the contractual terms, specifications, and price definite.
 
-    (c) __Application.—__ 
+    (c)  __Application__  __.—__ 
 
     This section applies to a contract in an amount greater than $25,000.
 

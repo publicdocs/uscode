@@ -17,15 +17,15 @@
 
     (a) __Prohibition on Disclosing Procurement Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided by law, a person described in paragraph (3) shall not knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
 
-        (2) __Employee of private sector organization.—__ 
+        (2)  __Employee of private sector organization__  __.—__ 
 
         In addition to the restriction in paragraph (1), an employee of a private sector organization assigned to an agency under chapter 37 of title 5 shall not knowingly disclose contractor bid or proposal information or source selection information during the 3-year period after the employee’s assignment ends, except as provided by law.
 
-        (3) __Application.—__ 
+        (3)  __Application__  __.—__ 
 
         Paragraph (1) applies to a person that—
 
@@ -37,7 +37,7 @@
 
             (B) by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
 
-    (b) __Prohibition on Obtaining Procurement Information.—__ 
+    (b)  __Prohibition on Obtaining Procurement Information__  __.—__ 
 
     Except as provided by law, a person shall not knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
 

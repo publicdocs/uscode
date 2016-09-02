@@ -17,7 +17,7 @@
 
     (a) __Planning and Specifications.—__ 
 
-        (1) __Preparing for procurement.—__ 
+        (1)  __Preparing for procurement__  __.—__ 
 
         In preparing for the procurement of property or services, an executive agency shall—
 
@@ -27,7 +27,7 @@
 
             (C) develop specifications in the manner necessary to obtain full and open competition with due regard to the nature of the property or services to be acquired.
 
-        (2) __Requirements of specifications.—__ 
+        (2)  __Requirements of specifications__  __.—__ 
 
         Each solicitation under this division shall include specifications that—
 
@@ -35,7 +35,7 @@
 
             (B) include restrictive provisions or conditions only to the extent necessary to satisfy the needs of the executive agency or as authorized by law.
 
-        (3) __Types of specifications.—__ 
+        (3)  __Types of specifications__  __.—__ 
 
         For the purposes of paragraphs (1) and (2), the type of specification included in a solicitation shall depend on the nature of the needs of the executive agency and the market available to satisfy those needs. Subject to those needs, specifications may be stated in terms of—
 
@@ -45,7 +45,7 @@
 
             (C) design requirements.
 
-    (b) __Contents of Solicitation.—__ 
+    (b)  __Contents of Solicitation__  __.—__ 
 
     In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
@@ -77,7 +77,7 @@
 
     (c) __Evaluation Factors.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In prescribing the evaluation factors to be included in each solicitation for competitive proposals, an executive agency shall—
 
@@ -95,11 +95,11 @@
 
                 (iii) significantly less important than cost or price.
 
-        (2) __Restriction on implementing regulations.—__ 
+        (2)  __Restriction on implementing regulations__  __.—__ 
 
         Regulations implementing paragraph (1)(C) may not define the terms “significantly more important” and “significantly less important” as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
 
-    (d) __Additional Information in Solicitation.—__ 
+    (d)  __Additional Information in Solicitation__  __.—__ 
 
     This section does not prohibit an executive agency from—
 
@@ -107,21 +107,21 @@
 
         (2) stating in a solicitation that award will be made to the offeror that meets the solicitation’s mandatory requirements at the lowest cost or price.
 
-    (e) __Limitation on Evaluation of Purchase Options.—__ 
+    (e)  __Limitation on Evaluation of Purchase Options__  __.—__ 
 
     An executive agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in the solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unless the executive agency has determined that there is a reasonable likelihood that the options will be exercised.
 
     (f) __Authorization of Telecommuting for Federal Contractors.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “executive agency” has the meaning given that term in [section 133 of this title][/us/usc/t41/s133].
 
-        (2) __Federal acquisition regulation to allow telecommuting.—__ 
+        (2)  __Federal acquisition regulation to allow telecommuting__  __.—__ 
 
         The Federal Acquisition Regulation issued in accordance with sections 1121(b) and 1303(a)(1) of this title shall permit telecommuting by employees of Federal Government contractors in the performance of contracts entered into with executive agencies.
 
-        (3) __Scope of allowance.—__ 
+        (3)  __Scope of allowance__  __.—__ 
 
         The Federal Acquisition Regulation at a minimum shall provide that a solicitation for the acquisition of property or services may not set forth any requirement or evaluation criteria that would—
 

@@ -15,7 +15,7 @@
 
 ## § 4502. Payment
 
-    (a) __Basis for Payment.—__ 
+    (a)  __Basis for Payment__  __.—__ 
 
     When practicable, payments under [section 4501 of this title][/us/usc/t41/s4501] shall be made on any of the following bases:
 
@@ -25,7 +25,7 @@
 
         (3) Other quantifiable measures of results.
 
-    (b) __Payment Amount.—__ 
+    (b)  __Payment Amount__  __.—__ 
 
     Payments made under [section 4501 of this title][/us/usc/t41/s4501] may not exceed the unpaid contract price.
 

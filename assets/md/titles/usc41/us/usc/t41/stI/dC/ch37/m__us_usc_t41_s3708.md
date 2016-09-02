@@ -17,15 +17,15 @@
 
     (a) __Protest File.—__ 
 
-        (1) __Establishment and access.—__ 
+        (1)  __Establishment and access__  __.—__ 
 
         If, in the case of a solicitation for a contract issued by, or an award or proposed award of a contract by, the head of an executive agency, a protest is filed pursuant to the procedures in subchapter V of chapter 35 of title 31, and an actual or prospective offeror requests, a file of the protest shall be established by the procuring activity and reasonable access shall be provided to actual or prospective offerors.
 
-        (2) __Redacted information.—__ 
+        (2)  __Redacted information__  __.—__ 
 
         Information exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552] may be redacted in a file established pursuant to paragraph (1) unless an applicable protective order provides otherwise.
 
-    (b) __Agency Actions on Protests.—__ 
+    (b)  __Agency Actions on Protests__  __.—__ 
 
     If, in connection with a protest, the head of an executive agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the executive agency may—
 

@@ -17,7 +17,7 @@
 
     In this chapter:
 
-    (1) __Delivery order contract.—__ 
+    (1)  __Delivery order contract__  __.—__ 
 
     The term “delivery order contract” means a contract for property that—
 
@@ -25,7 +25,7 @@
 
         (B) provides for the issuance of orders for the delivery of property during the period of the contract.
 
-    (2) __Task order contract.—__ 
+    (2)  __Task order contract__  __.—__ 
 
     The term “task order contract” means a contract for services that—
 

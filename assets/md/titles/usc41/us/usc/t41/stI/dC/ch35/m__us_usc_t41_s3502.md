@@ -15,11 +15,11 @@
 
 ## § 3502. Required cost or pricing data and certification
 
-    (a) __When Required.—__ 
+    (a)  __When Required__  __.—__ 
 
     The head of an executive agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
 
-        (1) __Offeror for prime contract.—__ 
+        (1)  __Offeror for prime contract__  __.—__ 
 
         An offeror for a prime contract under this division to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
 
@@ -27,7 +27,7 @@
 
             (B) in the case of a prime contract entered into on or before October 13, 1994, the price of the contract to the Federal Government is expected to exceed $100,000.
 
-        (2) __Contractor.—__ 
+        (2)  __Contractor__  __.—__ 
 
         The contractor for a prime contract under this division shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
 
@@ -37,7 +37,7 @@
 
             (C) in the case of a change or modification not covered by subparagraph (A) or (B), the price adjustment is expected to exceed $100,000.
 
-        (3) __Offeror for subcontract.—__ 
+        (3)  __Offeror for subcontract__  __.—__ 
 
         An offeror for a subcontract (at any tier) of a contract under this division shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and—
 
@@ -47,7 +47,7 @@
 
             (C) in the case of a subcontract not covered by subparagraph (A) or (B), the price of the subcontract is expected to exceed $100,000.
 
-        (4) __Subcontractor.—__ 
+        (4)  __Subcontractor__  __.—__ 
 
         The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
 
@@ -55,11 +55,11 @@
 
             (B) in the case of a change or modification to a subcontract referred to in paragraph (3)(C), the price adjustment is expected to exceed $100,000.
 
-    (b) __Certification.—__ 
+    (b)  __Certification__  __.—__ 
 
     A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under subsection (a) (or required by the head of the procuring activity concerned to submit the data under [section 3504 of this title][/us/usc/t41/s3504]) shall be required to certify that, to the best of the person’s knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
-    (c) __To Whom Submitted.—__ 
+    (c)  __To Whom Submitted__  __.—__ 
 
     Cost or pricing data required to be submitted under subsection (a) (or under [section 3504 of this title][/us/usc/t41/s3504]), and a certification required to be submitted under subsection (b), shall be submitted—
 
@@ -67,19 +67,19 @@
 
         (2) in the case of a submission by a subcontractor (or an offeror for a subcontract), to the prime contractor.
 
-    (d) __Application of Chapter.—__ 
+    (d)  __Application of Chapter__  __.—__ 
 
     Except as provided under [section 3503 of this title][/us/usc/t41/s3503], this chapter applies to contracts entered into by the head of an executive agency on behalf of a foreign government.
 
-    (e) __Subcontracts Not Affected by Waiver.—__ 
+    (e)  __Subcontracts Not Affected by Waiver__  __.—__ 
 
     A waiver of requirements for submission of certified cost or pricing data that is granted under [section 3503(a)(3) of this title][/us/usc/t41/s3503/a/3] in the case of a contract or subcontract does not waive the requirement under subsection (a)(3) of this section for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under subsection (a)(3) of this section should be waived in the case of those subcontracts and justifies in writing the reason for the determination.
 
-    (f) __Modifications to Prior Contracts.—__ 
+    (f)  __Modifications to Prior Contracts__  __.—__ 
 
     On the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into the contract shall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All those modifications shall be made without requiring consideration.
 
-    (g) __Adjustment of Amounts.—__ 
+    (g)  __Adjustment of Amounts__  __.—__ 
 
     Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 

@@ -15,29 +15,29 @@
 
 ## § 3501. General
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter:
 
-        (1) __Commercial item.—__ 
+        (1)  __Commercial item__  __.—__ 
 
         The term “commercial item” has the meaning provided the term by [section 103 of this title][/us/usc/t41/s103].
 
-        (2) __Cost or pricing data.—__ 
+        (2)  __Cost or pricing data__  __.—__ 
 
         The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with [section 3506(a)(2) of this title][/us/usc/t41/s3506/a/2], another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
 
-        (3) __Subcontract.—__ 
+        (3)  __Subcontract__  __.—__ 
 
         The term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
     (b) __Regulations.—__ 
 
-        (1) __Minimizing abuse of commercial services item authority.—__ 
+        (1)  __Minimizing abuse of commercial services item authority__  __.—__ 
 
         The Federal Acquisition Regulation shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of this chapter only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for the services.
 
-        (2) __Information to submit.—__ 
+        (2)  __Information to submit__  __.—__ 
 
         To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
 

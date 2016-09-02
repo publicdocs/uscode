@@ -15,7 +15,7 @@
 
 ## § 2103. Actions required of procurement officers when contacted regarding non-Federal employment
 
-    (a) __Actions Required.—__ 
+    (a)  __Actions Required__  __.—__ 
 
     An agency official participating personally and substantially in a Federal agency procurement for a contract in excess of the simplified acquisition threshold who contacts or is contacted by a person that is a bidder or offeror in that Federal agency procurement regarding possible non-Federal employment for that official shall—
 
@@ -33,11 +33,11 @@
 
                 (ii) all discussions with the bidder or offeror regarding possible non-Federal employment have terminated without an agreement or arrangement for employment.
 
-    (b) __Retention of Reports.—__ 
+    (b)  __Retention of Reports__  __.—__ 
 
     The agency shall retain each report required by this section for not less than 2 years following the submission of the report. The reports shall be made available to the public on request, except that any part of a report that is exempt from the disclosure requirements of [section 552 of title 5][/us/usc/t5/s552] under subsection (b)(1) of that section may be withheld from disclosure to the public.
 
-    (c) __Persons Subject to Penalties.—__ 
+    (c)  __Persons Subject to Penalties__  __.—__ 
 
     The following are subject to the penalties and administrative actions set forth in [section 2105 of this title][/us/usc/t41/s2105]:
 

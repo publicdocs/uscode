@@ -15,11 +15,11 @@
 
 ## § 4709. Implementation of electronic commerce capability
 
-    (a) __Role of Head of Executive Agency.—__ 
+    (a)  __Role of Head of Executive Agency__  __.—__ 
 
     The head of each executive agency shall implement the electronic commerce capability required by [section 2301 of this title][/us/usc/t41/s2301]. In implementing the capability, the head of an executive agency shall consult with the Administrator.
 
-    (b) __Program Manager.—__ 
+    (b)  __Program Manager__  __.—__ 
 
     The head of each executive agency shall designate a program manager to implement the electronic commerce capability for the agency. The program manager reports directly to an official at a level not lower than the senior procurement executive designated for the agency under [section 1702(c) of this title][/us/usc/t41/s1702/c].
 

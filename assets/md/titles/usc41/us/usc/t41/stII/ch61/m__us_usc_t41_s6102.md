@@ -15,35 +15,35 @@
 
 ## § 6102. Exceptions from advertising requirement
 
-    (a) __American Battle Monuments Commission.—__ 
+    (a)  __American Battle Monuments Commission__  __.—__ 
 
     [Section 6101 of this title][/us/usc/t41/s6101] does not apply to the American Battle Monuments Commission with respect to leases in foreign countries for office or garage space.
 
-    (b) __Bureau of Interparliamentary Union for Promotion of International Arbitration.—__ 
+    (b)  __Bureau of Interparliamentary Union for Promotion of International Arbitration__  __.—__ 
 
     [Section 6101 of this title][/us/usc/t41/s6101] does not apply to the Bureau of Interparliamentary Union for Promotion of International Arbitration with respect to necessary stenographic reporting services by contract.
 
-    (c) __Department of State.—__ 
+    (c)  __Department of State__  __.—__ 
 
     [Section 6101 of this title][/us/usc/t41/s6101] does not apply to the Department of State when the purchase or service relates to the packing of personal and household effects of Diplomatic, Consular, and Foreign Service officers and clerks for foreign shipment.
 
-    (d) __International Committee of Aerial Legal Experts.—__ 
+    (d)  __International Committee of Aerial Legal Experts__  __.—__ 
 
     [Section 6101 of this title][/us/usc/t41/s6101] does not apply to the International Committee of Aerial Legal Experts with respect to necessary stenographic and other services by contract.
 
-    (e) __Architect of the Capitol.—__ 
+    (e)  __Architect of the Capitol__  __.—__ 
 
     The purchase of supplies and equipment and the procurement of services for all branches under the Architect of the Capitol may be made in the open market according to common business practice, without compliance with [section 6101 of this title][/us/usc/t41/s6101], when the aggregate amount of the purchase or the service does not exceed $25,000 in any instance.
 
-    (f) __Forest Products From Indian Reservations.—__ 
+    (f)  __Forest Products From Indian Reservations__  __.—__ 
 
     Lumber and other forest products produced by Indian enterprises from forests on Indian reservations may be sold under regulations the Secretary of the Interior prescribes, without compliance with [section 6101 of this title][/us/usc/t41/s6101].
 
-    (g) __House of Representatives.—__ 
+    (g)  __House of Representatives__  __.—__ 
 
     [Section 6101 of this title][/us/usc/t41/s6101] does not apply to purchases and contracts for supplies or services for any office of the House of Representatives.
 
-    (h) __Congressional Budget Office.—__ 
+    (h)  __Congressional Budget Office__  __.—__ 
 
     The Director of the Congressional Budget Office may enter into agreements or contracts without regard to [section 6101 of this title][/us/usc/t41/s6101].
 

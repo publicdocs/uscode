@@ -15,23 +15,23 @@
 
 ## § 3505. Submission of other information
 
-    (a) __Authority To Require Submission.—__ 
+    (a)  __Authority To Require Submission__  __.—__ 
 
     When certified cost or pricing data are not required to be submitted under this chapter for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in [section 3503(a)(1) of this title][/us/usc/t41/s3503/a/1], the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
-    (b) __Limitations on Authority.—__ 
+    (b)  __Limitations on Authority__  __.—__ 
 
     The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under subsection (a):
 
-        (1) __Reasonable limitations.—__ 
+        (1)  __Reasonable limitations__  __.—__ 
 
         Reasonable limitations on requests for sales data relating to commercial items.
 
-        (2) __Limitation on scope of request.—__ 
+        (2)  __Limitation on scope of request__  __.—__ 
 
         A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
-        (3) __Information not to be disclosed.—__ 
+        (3)  __Information not to be disclosed__  __.—__ 
 
         A statement that any information received relating to commercial items that is exempt from disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b] shall not be disclosed by the Federal Government.
 

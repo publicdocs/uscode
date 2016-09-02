@@ -15,7 +15,7 @@
 
 ## § 1201. Federal Acquisition Institute
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is established a Federal Acquisition Institute (FAI) in order to—
 
@@ -45,25 +45,25 @@
 
     (b) __Budget Resources and Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator shall recommend to the Administrator of General Services sufficient budget resources and authority for the Federal Acquisition Institute to support Government-wide training standards and certification requirements necessary to enhance the mobility and career opportunities of the Federal acquisition workforce.
 
-        (2) __Acquisition workforce training fund.—__ 
+        (2)  __Acquisition workforce training fund__  __.—__ 
 
         Subject to the availability of funds, the Administrator of General Services shall provide the Federal Acquisition Institute with amounts from the acquisition workforce training fund established under [section 1703(i) of this title][/us/usc/t41/s1703/i] sufficient to meet the annual budget for the Federal Acquisition Institute requested by the Administrator under paragraph (1).
 
     (c) __Federal Acquisition Institute Board of Directors.—__ 
 
-        (1) __Reporting to administrator.—__ 
+        (1)  __Reporting to administrator__  __.—__ 
 
         The Federal Acquisition Institute shall report through its Board of Directors directly to the Administrator.
 
-        (2) __Composition.—__ 
+        (2)  __Composition__  __.—__ 
 
         The Board shall be composed of not more than 8 individuals from the Federal Government representing a mix of acquisition functional areas, all of whom shall be appointed by the Administrator.
 
-        (3) __Duties.—__ 
+        (3)  __Duties__  __.—__ 
 
         The Board shall provide general direction to the Federal Acquisition Institute to ensure that the Institute—
 
@@ -79,15 +79,15 @@
 
             (F) works closely with the Defense Acquisition University.
 
-        (4) __Recommendations.—__ 
+        (4)  __Recommendations__  __.—__ 
 
         The Board shall make recommendations to the Administrator regarding the development and execution of the annual budget of the Federal Acquisition Institute.
 
-    (d) __Director.—__ 
+    (d)  __Director__  __.—__ 
 
     The Director of the Federal Acquisition Institute shall be appointed by, be subject to the direction and control of, and report directly to the Administrator.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     The Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives an annual report on the projected budget needs and expense plans of the Federal Acquisition Institute to fulfill its mandate.
 

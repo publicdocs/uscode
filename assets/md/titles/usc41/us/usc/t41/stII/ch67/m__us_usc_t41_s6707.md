@@ -15,33 +15,33 @@
 
 ## § 6707. Enforcement and administration of chapter
 
-    (a) __Enforcement of Chapter.—__ 
+    (a)  __Enforcement of Chapter__  __.—__ 
 
     Sections 6506 and 6507 of this title govern the Secretary’s authority to enforce this chapter, including the Secretary’s authority to prescribe regulations, issue orders, hold hearings, make decisions based on findings of fact, and take other appropriate action under this chapter.
 
-    (b) __Limitations and Regulations for Variations, Tolerances, and Exemptions.—__ 
+    (b)  __Limitations and Regulations for Variations, Tolerances, and Exemptions__  __.—__ 
 
     The Secretary may provide reasonable limitations and may prescribe regulations allowing reasonable variation, tolerances, and exemptions with respect to this chapter (other than subsection (f)), but only in special circumstances where the Secretary determines that the limitation, variation, tolerance, or exemption is necessary and proper in the public interest or to avoid the serious impairment of Federal Government business, and is in accord with the remedial purpose of this chapter to protect prevailing labor standards.
 
     (c) __Preservation of Wages and Benefits Due Under Predecessor Contracts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Under a contract which succeeds a contract subject to this chapter, and under which substantially the same services are furnished, a contractor or subcontractor may not pay a service employee less than the wages and fringe benefits the service employee would have received under the predecessor contract, including accrued wages and fringe benefits and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm’s-length negotiations.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         This subsection does not apply if the Secretary finds after a hearing in accordance with regulations adopted by the Secretary that wages and fringe benefits under the predecessor contract are substantially at variance with wages and fringe benefits prevailing in the same locality for services of a similar character.
 
-    (d) __Duration of Contracts.—__ 
+    (d)  __Duration of Contracts__  __.—__ 
 
     Subject to limitations in annual appropriation acts but notwithstanding any other law, a contract to which this chapter applies may, if authorized by the Secretary, be for any term of years not exceeding 5, if the contract provides for periodic adjustment of wages and fringe benefits pursuant to future determinations, issued in the manner prescribed in [section 6703 of this title][/us/usc/t41/s6703] at least once every 2 years during the term of the contract, covering each class of service employee.
 
-    (e) __Exclusion of Fringe Benefit Payments in Determining Overtime Pay.—__ 
+    (e)  __Exclusion of Fringe Benefit Payments in Determining Overtime Pay__  __.—__ 
 
     In determining any overtime pay to which a service employee is entitled under Federal law, the regular or basic hourly rate of pay of the service employee does not include any fringe benefit payments computed under this chapter which are excluded from the definition of “regular rate” under section 7(e) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207(e)][/us/usc/t29/s207/e]).
 
-    (f) __Timeliness of Wage and Fringe Benefit Determinations.—__ 
+    (f)  __Timeliness of Wage and Fringe Benefit Determinations__  __.—__ 
 
     It is the intent of Congress that determinations of minimum wages and fringe benefits under section 6703(1) and (2) of this title should be made as soon as administratively feasible for all contracts subject to this chapter. In any event, the Secretary shall at least make the determinations for contracts under which more than 5 service employees are to be employed.
 

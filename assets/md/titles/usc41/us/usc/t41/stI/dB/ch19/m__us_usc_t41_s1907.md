@@ -17,15 +17,15 @@
 
     (a) __Inclusion in Federal Acquisition Regulation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts for the procurement of commercially available off-the-shelf items. A provision of law properly included on the list pursuant to paragraph (2) does not apply to contracts for the procurement of commercially available off-the-shelf items. This section does not render a provision of law not included on the list inapplicable to contracts for the procurement of commercially available off-the-shelf items.
 
-        (2) __Laws to be included.—__ 
+        (2)  __Laws to be included__  __.—__ 
 
         A provision of law described in subsection (b) shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Administrator makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts for the procurement of commercially available off-the-shelf items from the applicability of the provision.
 
-        (3) __Other authorities or responsibilities not affected.—__ 
+        (3)  __Other authorities or responsibilities not affected__  __.—__ 
 
         This section does not modify, supersede, impair, or restrict authorities or responsibilities under—
 
@@ -41,7 +41,7 @@
 
                 (iii) sections 3706 and 3707 of this title.
 
-    (b) __Covered Law.—__ 
+    (b)  __Covered Law__  __.—__ 
 
     Except as provided in subsection (a)(3), a provision of law referred to in subsection (a)(1) is a provision of law that the Administrator determines imposes Federal Government-unique policies, procedures, requirements, or restrictions for the procurement of property or services on persons whom the Federal Government has awarded contracts for the procurement of commercially available off-the-shelf items, except for a provision of law that—
 

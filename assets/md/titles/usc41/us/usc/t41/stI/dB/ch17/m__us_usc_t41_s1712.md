@@ -15,11 +15,11 @@
 
 ## § 1712. Record requirements
 
-    (a) __Maintaining Records on Computer.—__ 
+    (a)  __Maintaining Records on Computer__  __.—__ 
 
     Each executive agency shall establish and maintain for 5 years a computer file, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in that fiscal year.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     The record established under subsection (a) shall include, with respect to each procurement carried out using—
 
@@ -45,11 +45,11 @@
 
             (C) the identity of the organization or activity that conducted the procurement.
 
-    (c) __Separate Record Category for Procurements Resulting in One Bid or Proposal.—__ 
+    (c)  __Separate Record Category for Procurements Resulting in One Bid or Proposal__  __.—__ 
 
     Information included in a record pursuant to subsection (b)(1) that relates to procurements resulting in the submission of a bid or proposal by only one responsible source shall be separately categorized from the information relating to other procurements included in the record. The record of that information shall be designated “noncompetitive procurements using competitive procedures”.
 
-    (d) __Transmission and Data Entry of Information.—__ 
+    (d)  __Transmission and Data Entry of Information__  __.—__ 
 
     The head of each executive agency shall—
 

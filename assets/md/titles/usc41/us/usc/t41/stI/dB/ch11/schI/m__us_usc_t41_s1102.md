@@ -15,11 +15,11 @@
 
 ## § 1102. Administrator
 
-    (a) __Head of Office.—__ 
+    (a)  __Head of Office__  __.—__ 
 
     The head of the Office of Federal Procurement Policy is the Administrator for Federal Procurement Policy.
 
-    (b) __Appointment.—__ 
+    (b)  __Appointment__  __.—__ 
 
     The Administrator is appointed by the President, by and with the advice and consent of the Senate.
 

@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677]
 
-Current through 113-65
+Current through 113–75!66
 
 <table>
 
@@ -3959,11 +3959,11 @@ Rep.  </td>
 
 [Pub. L. 111–350, § 2][/us/pl/111/350/s2], Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Tables for classification\] is to enact certain laws relating to public contracts as title 41, United States Code, ‘Public Contracts’.
 
->     “(b) __Conformity With Original Intent.—__ 
+>     “(b)  __Conformity With Original Intent__  __.—__ 
 
 >     In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by [Public Law 93–554][/us/pl/93/554] ([2 U.S.C. 285b(1)][/us/usc/t2/s285b/1]).”
 
@@ -3971,23 +3971,23 @@ Rep.  </td>
 
 [Pub. L. 111–350, § 6(a)][/us/pl/111/350/s6/a]–(e), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], provided that:
 
->     “(a) __Cutoff Date.—__ 
+>     “(a)  __Cutoff Date__  __.—__ 
 
 >     This Act \[see Tables for classification\] replaces certain provisions of law enacted on or before December 31, 2008. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
 
->     “(b) __Original Date of Enactment Unchanged.—__ 
+>     “(b)  __Original Date of Enactment Unchanged__  __.—__ 
 
 >     For purposes of determining whether one provision of law supersedes another based on enactment later in time, the date of enactment of a provision enacted by this Act is deemed to be the date of enactment of the provision it replaced.
 
->     “(c) __References to Provisions Replaced.—__ 
+>     “(c)  __References to Provisions Replaced__  __.—__ 
 
 >     A reference to a provision of law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
->     “(d) __Regulations, Orders, and Other Administrative Actions.—__ 
+>     “(d)  __Regulations, Orders, and Other Administrative Actions__  __.—__ 
 
 >     A regulation, order, or other administrative action in effect under a provision of law replaced by this Act continues in effect under the corresponding provision enacted by this Act.
 
->     “(e) __Actions Taken and Offenses Committed.—__ 
+>     “(e)  __Actions Taken and Offenses Committed__  __.—__ 
 
 >     An action taken or an offense committed under a provision of law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
 

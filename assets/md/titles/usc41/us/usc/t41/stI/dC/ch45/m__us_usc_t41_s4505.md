@@ -15,19 +15,19 @@
 
 ## § 4505. Payments for commercial items
 
-    (a) __Terms and Conditions for Payments.—__ 
+    (a)  __Terms and Conditions for Payments__  __.—__ 
 
     Payments under [section 4501 of this title][/us/usc/t41/s4501] for commercial items may be made under terms and conditions that the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the Federal Government.
 
-    (b) __Security for Payments.—__ 
+    (b)  __Security for Payments__  __.—__ 
 
     The head of the executive agency shall obtain adequate security for the payments. If the security is in the form of a lien in favor of the Federal Government, the lien is paramount to all other liens and is effective immediately on the first payment, without filing, notice, or other action by the Federal Government.
 
-    (c) __Limitation on Advance Payments.—__ 
+    (c)  __Limitation on Advance Payments__  __.—__ 
 
     Advance payments made under [section 4501 of this title][/us/usc/t41/s4501] for commercial items may include payments, in a total amount not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
-    (d) __Nonapplication of Certain Conditions.—__ 
+    (d)  __Nonapplication of Certain Conditions__  __.—__ 
 
     The conditions of sections 4503 and 4504 of this title need not be applied if they would be inconsistent, as determined by the head of the executive agency, with commercial terms and conditions pursuant to this section.
 

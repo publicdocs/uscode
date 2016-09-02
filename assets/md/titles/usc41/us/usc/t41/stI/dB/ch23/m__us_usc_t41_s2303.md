@@ -15,17 +15,17 @@
 
 ## § 2303. Ethics safeguards related to contractor conflicts of interest
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “relevant acquisition function” means an acquisition function closely associated with inherently governmental functions.
 
     (b) __Policy on Personal Conflicts of Interest by Contractor Employees.—__ 
 
-        (1) __Development and issuance of policy.—__ 
+        (1)  __Development and issuance of policy__  __.—__ 
 
         The Administrator shall develop and issue a standard policy to prevent personal conflicts of interest by contractor employees performing relevant acquisition functions (including the development, award, and administration of Federal Government contracts) for or on behalf of a Federal agency or department.
 
-        (2) __Elements of policy.—__ 
+        (2)  __Elements of policy__  __.—__ 
 
         The policy shall—
 
@@ -49,7 +49,7 @@
 
         (3) __Contract clause.—__ 
 
-            (A) __Contents.—__ 
+            (A)  __Contents__  __.—__ 
 
             The Administrator shall develop a personal conflicts-of-interest clause or a set of clauses for inclusion in solicitations and contracts (and task or delivery orders) for the performance of relevant acquisition functions that sets forth—
 
@@ -57,7 +57,7 @@
 
                 (ii) the contractor’s responsibilities under the policy.
 
-            (B) __Effective date.—__ 
+            (B)  __Effective date__  __.—__ 
 
             Subparagraph (A) shall take effect 300 days after October 14, 2008, and shall apply to—
 
@@ -67,15 +67,15 @@
 
         (4) __Applicability.—__ 
 
-            (A) __Contracts in excess of the simplified acquisition threshold.—__ 
+            (A)  __Contracts in excess of the simplified acquisition threshold__  __.—__ 
 
             This subsection shall apply to any contract for an amount in excess of the simplified acquisition threshold (as defined in [section 134 of this title][/us/usc/t41/s134]) if the contract is for the performance of relevant acquisition functions.
 
-            (B) __Partial applicability.—__ 
+            (B)  __Partial applicability__  __.—__ 
 
             If only a portion of a contract described in subparagraph (A) is for the performance of relevant acquisition functions, then this subsection applies only to that portion of the contract.
 
-    (c) __Best Practices.—__ 
+    (c)  __Best Practices__  __.—__ 
 
     The Administrator shall, in consultation with the Director of the Office of Government Ethics, develop and maintain a repository of best practices relating to the prevention and mitigation of organizational and personal conflicts of interest in Federal contracting.
 
@@ -157,7 +157,7 @@ Pub. L. 110–417, [div. A], title VIII, § 841(a), (c), Oct. 14, 2008, 122 St
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 841(b), Oct. 14, 2008, [122 Stat. 4539][/us/stat/122/4539], provided that:
 
->     “(1) __Review.—__ 
+>     “(1)  __Review__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Oct. 14, 2008\], the Administrator for Federal Procurement Policy, in consultation with the Director of the Office of Government Ethics, shall review the Federal Acquisition Regulation to—
 
@@ -171,11 +171,11 @@ Pub. L. 110–417, [div. A], title VIII, § 841(a), (c), Oct. 14, 2008, 122 St
 
 >             “(ii) achieve sufficiently rigorous, comprehensive, and uniform government-wide policies to prevent and mitigate organizational conflicts of interest in Federal contracting.
 
->     “(2) __Regulatory revisions.—__ 
+>     “(2)  __Regulatory revisions__  __.—__ 
 
 >     If the Administrator determines pursuant to the review under paragraph (1)(B) that revisions to the Federal Acquisition Regulation are necessary, the Administrator shall work with the Federal Acquisition Regulatory Council to prescribe appropriate revisions to the regulations, including the development of appropriate contract clauses.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary.”
 

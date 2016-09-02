@@ -15,25 +15,25 @@
 
 ## § 6101. Advertising requirement for Federal Government purchases and sales
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Appropriation.—__ 
+        (1)  __Appropriation__  __.—__ 
 
         The term “appropriation” includes amounts made available by legislation under [section 9104 of title 31][/us/usc/t31/s9104].
 
-        (2) __Federal government.—__ 
+        (2)  __Federal government__  __.—__ 
 
         The term “Federal Government” includes the government of the District of Columbia.
 
     (b) __Purchases.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Unless otherwise provided in the appropriation concerned or other law, purchases and contracts for supplies or services for the Federal Government may be made or entered into only after advertising for proposals for a sufficient time.
 
-        (2) __Limitations on applicability.—__ 
+        (2)  __Limitations on applicability__  __.—__ 
 
         Paragraph (1) does not apply when—
 
@@ -51,11 +51,11 @@
 
                 (ii) under Federal Government supervision and paid for on a time basis.
 
-    (c) __Sales.—__ 
+    (c)  __Sales__  __.—__ 
 
     Except when otherwise authorized by law or when the reasonable value involved in any one case does not exceed $500, sales and contracts of sale by the Federal Government are governed by the requirements of this section for advertising.
 
-    (d) __Application to Wholly Owned Government Corporations.—__ 
+    (d)  __Application to Wholly Owned Government Corporations__  __.—__ 
 
     For wholly owned Government corporations, this section applies only to administrative transactions.
 

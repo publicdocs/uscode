@@ -15,23 +15,23 @@
 
 ## § 2302. Rights in technical data
 
-    (a) __Where Defined.—__ 
+    (a)  __Where Defined__  __.—__ 
 
     The legitimate proprietary interest of the Federal Government and of a contractor in technical or other data shall be defined in regulations prescribed as part of the Federal Acquisition Regulation.
 
     (b) __General Extent of Regulations.—__ 
 
-        (1) __Other rights not impaired.—__ 
+        (1)  __Other rights not impaired__  __.—__ 
 
         Regulations prescribed under subsection (a) may not impair a right of the Federal Government or of a contractor with respect to a patent or copyright or another right in technical data otherwise established by law.
 
-        (2) __Limitation on requiring data be provided to the government.—__ 
+        (2)  __Limitation on requiring data be provided to the government__  __.—__ 
 
         With respect to executive agencies subject to division C, regulations prescribed under subsection (a) shall provide that the Federal Government may not require a person that has developed a product (or process offered or to be offered for sale to the public) to provide to the Federal Government technical data relating to the design (or development or manufacture of the product or process) as a condition of procurement by the Federal Government of the product or process. This paragraph does not apply to data that may be necessary for the Federal Government to operate and maintain the product or use the process if the Federal Government obtains it as an element of performance under the contract.
 
     (c) __Technical Data Developed With Federal Funds.—__ 
 
-        (1) __Use by government and agencies.—__ 
+        (1)  __Use by government and agencies__  __.—__ 
 
         Except as otherwise expressly provided by Federal statute, with respect to executive agencies subject to division C, regulations prescribed under subsection (a) shall provide that—
 
@@ -45,11 +45,11 @@
 
             (B) the Federal Government and each agency of the Federal Government has an unrestricted, royalty-free right to use, or to have its contractors use, for governmental purposes (excluding publication outside the Federal Government) technical data developed exclusively with Federal funds.
 
-        (2) __Requirements in addition to other rights of the government.—__ 
+        (2)  __Requirements in addition to other rights of the government__  __.—__ 
 
         The requirements of paragraph (1) are in addition to and not in lieu of any other rights the Federal Government may have pursuant to law.
 
-    (d) __Factors To Be Considered in Prescribing Regulations.—__ 
+    (d)  __Factors To Be Considered in Prescribing Regulations__  __.—__ 
 
     The following factors shall be considered in prescribing regulations under subsection (a):
 
@@ -67,7 +67,7 @@
 
         (3) The interest of the Federal Government in increasing competition and lowering costs by developing and locating alternative sources of supply and manufacture.
 
-    (e) __Provisions Required in Contracts.—__ 
+    (e)  __Provisions Required in Contracts__  __.—__ 
 
     Regulations prescribed under subsection (a) shall require that a contract for property or services entered into by an executive agency contain appropriate provisions relating to technical data, including provisions—
 

@@ -15,11 +15,11 @@
 
 ## § 4305. Required regulations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Those provisions shall define in detail and in specific terms the costs that are unallowable, in whole or in part, under covered contracts.
 
-    (b) __Specific Items.—__ 
+    (b)  __Specific Items__  __.—__ 
 
     The regulations shall, at a minimum, clarify the cost principles applicable to contractor costs of the following:
 
@@ -59,7 +59,7 @@
 
     (c) __Additional Requirements.—__ 
 
-        (1) __When questioned costs may be resolved.—__ 
+        (1)  __When questioned costs may be resolved__  __.—__ 
 
         The Federal Acquisition Regulation shall require that a contracting officer not resolve any questioned costs until the contracting officer has obtained—
 
@@ -67,11 +67,11 @@
 
             (B) the opinion of the contract auditor on the allowability of those costs.
 
-        (2) __Presence of contract auditor.—__ 
+        (2)  __Presence of contract auditor__  __.—__ 
 
         The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, a contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
 
-        (3) __Settlement to reflect amount of individual questioned costs.—__ 
+        (3)  __Settlement to reflect amount of individual questioned costs__  __.—__ 
 
         The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in a manner so that the amount of the individual questioned costs that are paid will be reflected in the settlement.
 

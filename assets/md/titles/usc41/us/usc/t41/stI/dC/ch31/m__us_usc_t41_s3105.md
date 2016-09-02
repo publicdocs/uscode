@@ -15,7 +15,7 @@
 
 ## § 3105. New contracts and grants and merit-based selection procedures
 
-    (a) __Congressional Policy.—__ 
+    (a)  __Congressional Policy__  __.—__ 
 
     It is the policy of Congress that—
 
@@ -29,7 +29,7 @@
 
         (2) a program, project, or technology identified in legislation be procured or awarded through merit-based selection procedures.
 
-    (b) __New Contract and New Grant Described.—__ 
+    (b)  __New Contract and New Grant Described__  __.—__ 
 
     For purposes of this section—
 
@@ -37,7 +37,7 @@
 
         (2) a grant is a new grant unless the work provided for in the grant is a continuation of the work performed by the specified entity under a prior grant.
 
-    (c) __Requirements for Awarding New Contract or New Grant.—__ 
+    (c)  __Requirements for Awarding New Contract or New Grant__  __.—__ 
 
     A provision of law may not be construed as requiring a new contract or a new grant to be awarded to a specified non-Federal Government entity unless the provision of law specifically—
 
@@ -47,7 +47,7 @@
 
         (3) states that the award to that entity is required by the provision of law in contravention of the policy set forth in subsection (a).
 
-    (d) __Exception.—__ 
+    (d)  __Exception__  __.—__ 
 
     This section does not apply to a contract or grant that calls on the National Academy of Sciences to investigate, examine, or experiment on a subject of science or art of significance to an executive agency and to report on those matters to Congress or an agency of the Federal Government.
 

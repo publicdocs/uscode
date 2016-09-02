@@ -15,21 +15,21 @@
 
 ## § 1702. Chief Acquisition Officers and senior procurement executives
 
-    (a) __Appointment or Designation of Chief Acquisition Officer.—__ 
+    (a)  __Appointment or Designation of Chief Acquisition Officer__  __.—__ 
 
     The head of each executive agency described in section 901(b)(1) (other than the Department of Defense) or 901(b)(2)(C) of title 31 with a Chief Financial Officer appointed or designated under [section 901(a) of title 31][/us/usc/t31/s901/a] shall appoint or designate a non-career employee as Chief Acquisition Officer for the agency.
 
     (b) __Authority and Functions of Chief Acquisition Officer.—__ 
 
-        (1) __Primary duty.—__ 
+        (1)  __Primary duty__  __.—__ 
 
         The primary duty of a Chief Acquisition Officer is acquisition management.
 
-        (2) __Advice and assistance.—__ 
+        (2)  __Advice and assistance__  __.—__ 
 
         A Chief Acquisition Officer shall advise and assist the head of the executive agency and other agency officials to ensure that the mission of the executive agency is achieved through the management of the agency’s acquisition activities.
 
-        (3) __Other functions.—__ 
+        (3)  __Other functions__  __.—__ 
 
         The functions of each Chief Acquisition Officer include—
 
@@ -59,15 +59,15 @@
 
     (c) __Senior Procurement Executive.—__ 
 
-        (1) __Designation.—__ 
+        (1)  __Designation__  __.—__ 
 
         The head of each executive agency shall designate a senior procurement executive.
 
-        (2) __Responsibility.—__ 
+        (2)  __Responsibility__  __.—__ 
 
         The senior procurement executive is responsible for management direction of the procurement system of the executive agency, including implementation of the unique procurement policies, regulations, and standards of the executive agency.
 
-        (3) __When chief acquisition officer appointed or designated.—__ 
+        (3)  __When chief acquisition officer appointed or designated__  __.—__ 
 
         For an executive agency for which a Chief Acquisition Officer has been appointed or designated under subsection (a), the head of the executive agency shall—
 
@@ -75,7 +75,7 @@
 
             (B) ensure that the senior procurement executive designated under paragraph (1) reports directly to the Chief Acquisition Officer without intervening authority.
 
-    (d) __Overseas Contingency Operations Defined.—__ 
+    (d)  __Overseas Contingency Operations Defined__  __.—__ 
 
     In this section, the term “overseas contingency operations” means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13]).
 

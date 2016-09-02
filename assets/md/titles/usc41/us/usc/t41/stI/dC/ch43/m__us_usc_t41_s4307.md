@@ -15,11 +15,11 @@
 
 ## § 4307. Contractor certification
 
-    (a) __Content and Form.—__ 
+    (a)  __Content and Form__  __.—__ 
 
     A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official’s knowledge and belief, all indirect costs included in the proposal are allowable. The certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     An executive agency may, in an exceptional case, waive the requirement for certification under subsection (a) in the case of a contract if the agency—
 

@@ -15,11 +15,11 @@
 
 ## § 3309. Design-build selection procedures
 
-    (a) __Authorization.—__ 
+    (a)  __Authorization__  __.—__ 
 
     Unless the traditional acquisition approach of design-bid-build established under sections 1101 to 1104 of title 40 or another acquisition procedure authorized by law is used, the head of an executive agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
 
-    (b) __Criteria for Use.—__ 
+    (b)  __Criteria for Use__  __.—__ 
 
     A contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when—
 
@@ -45,15 +45,15 @@
 
             (F) Other criteria established by the agency.
 
-    (c) __Procedures Described.—__ 
+    (c)  __Procedures Described__  __.—__ 
 
     Two-phase selection procedures consist of the following:
 
-        (1) __Development of scope of work statement.—__ 
+        (1)  __Development of scope of work statement__  __.—__ 
 
         The agency develops, either in-house or by contract, a scope of work statement for inclusion in the solicitation that defines the project and provides prospective offerors with sufficient information regarding the Federal Government’s requirements (which may include criteria and preliminary design, budget parameters, and schedule or delivery requirements) to enable the offerors to submit proposals that meet the Federal Government’s needs. If the agency contracts for development of the scope of work statement, the agency shall contract for architectural and engineering services as defined by and in accordance with sections 1101 to 1104 of title 40.
 
-        (2) __Solicitation of phase-one proposals.—__ 
+        (2)  __Solicitation of phase-one proposals__  __.—__ 
 
         The contracting officer solicits phase-one proposals that—
 
@@ -73,13 +73,13 @@
 
                 (ii) cost or price information.
 
-        (3) __Evaluation factors.—__ 
+        (3)  __Evaluation factors__  __.—__ 
 
         The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror’s team (including the architect-engineer and construction members of the team), and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
 
         (4) __Selection by contracting officer.—__ 
 
-            (A) __Number of offerors selected and what is to be evaluated.—__ 
+            (A)  __Number of offerors selected and what is to be evaluated__  __.—__ 
 
             The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
@@ -87,19 +87,19 @@
 
                 (ii) the evaluation factors and subfactors, including cost or price, that must be considered in the evaluations of proposals in accordance with subsections (b) to (d) of [section 3306 of this title][/us/usc/t41/s3306].
 
-            (B) __Separate evaluations.—__ 
+            (B)  __Separate evaluations__  __.—__ 
 
             The contracting officer separately evaluates the submissions described in clauses (i) and (ii) of subparagraph (A).
 
-        (5) __Awarding of contract.—__ 
+        (5)  __Awarding of contract__  __.—__ 
 
         The agency awards the contract in accordance with chapter 37 of this title.
 
-    (d) __Solicitation To State Number of Offerors To Be Selected for Phase-Two Requests for Competitive Proposals.—__ 
+    (d)  __Solicitation To State Number of Offerors To Be Selected for Phase-Two Requests for Competitive Proposals__  __.—__ 
 
     A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Federal Government’s interest and is consistent with the purposes and objectives of the two-phase selection process.
 
-    (e) __Requirement for Guidance and Regulations.—__ 
+    (e)  __Requirement for Guidance and Regulations__  __.—__ 
 
     The Federal Acquisition Regulation shall include guidance—
 
