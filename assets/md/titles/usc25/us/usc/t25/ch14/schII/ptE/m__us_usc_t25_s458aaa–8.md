@@ -59,8 +59,6 @@
 
     The National Historic Preservation Act, referred to in subsec. (a), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
 
-    This subchapter, referred to in subsec. (g), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
-
     Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Codification__ 
@@ -89,9 +87,6 @@
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
 [/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
-[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
-[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/stat/46/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1494
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2

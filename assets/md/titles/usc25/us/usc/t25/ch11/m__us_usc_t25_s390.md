@@ -27,7 +27,7 @@
 
 [Pub. L. 102–575, title XXXVII, § 3711][/us/pl/102/575/s3711], Oct. 30, 1992, [106 Stat. 4751][/us/stat/106/4751], as amended by [Pub. L. 103–435, § 13][/us/pl/103/435/s13], Nov. 2, 1994, [108 Stat. 4572][/us/stat/108/4572]; [Pub. L. 104–91, title II, § 202(a)][/us/pl/104/91/s202/a], Jan. 6, 1996, [110 Stat. 14][/us/stat/110/14]; [Pub. L. 104–261, § 3][/us/pl/104/261/s3], Oct. 9, 1996, [110 Stat. 3176][/us/stat/110/3176]; [Pub. L. 105–18, title II, § 5003(a)][/us/pl/105/18/s5003/a], (b), June 12, 1997, [111 Stat. 181][/us/stat/111/181], provided that:
 
->     “(a)  __Effective Date of Authorization__  __.—__ 
+>     “(a) __Effective Date of Authorization.—__ 
 
 >     The authorization contained in [section 3708(b) of this title][/us/usc/t25/s3708/b] \[[106 Stat. 4748][/us/stat/106/4748]\] shall become effective as of the date the Secretary causes to be published in the Federal Register a statement of findings \[The statement was published in the Federal Register on Dec. 28, 1999, 64 F.R. 72674.\] that—
 
@@ -45,13 +45,13 @@
 
 >         “(7) the Agreement has been modified, to the extent it is in conflict with this title \[amending this section and [section 1524 of Title 43][/us/usc/t43/s1524], Public Lands, and enacting provisions set out as a note under [section 1524 of Title 43][/us/usc/t43/s1524]\], and has been executed by the Secretary.
 
->     “(b)  __Conditions__  __.—__ 
+>     “(b) __Conditions.—__ 
 
 >         (1) If the actions described in paragraphs (1), (2), (3), (4), (5), (6), and (7) of subsection (a) of this section have not occurred by March 31, 1999, subsections (c) and (d) of section 3704 \[[106 Stat. 4743][/us/stat/106/4743]\], subsections (a) and (b) of section 3705 \[[106 Stat. 4744][/us/stat/106/4744]\], section 3706 \[[106 Stat. 4745][/us/stat/106/4745]\], subsections (a)(2), (c), (d), and (f) of section 3707 \[[106 Stat. 4747][/us/stat/106/4747]\], subsections (b) and (c) of section 3708 \[[106 Stat. 4748][/us/stat/106/4748]\], and subsections (a), (b), (c), (d), (e), (g), (h), (j), and (l) of [section 3710 of this title][/us/usc/t25/s3710] \[[106 Stat. 4750][/us/stat/106/4750], subsec. (e) amends this section\], together with any contracts entered into pursuant to any such section or subsection, shall not be effective on and after the date of enactment of this title \[Oct. 30, 1992\], and any funds appropriated pursuant to section 3707(c) \[[106 Stat. 4748][/us/stat/106/4748]\], and remaining unobligated and unexpended on the date of the enactment of this title, shall immediately revert to the Treasury, as general revenues, and any funds appropriated by the State of Arizona pursuant to the Agreement, and remaining unobligated and unexpended on the date of the enactment of this title, shall immediately revert to the State of Arizona.
 
 >         “(2) Notwithstanding the provisions of paragraph (1) of this subsection, if the provisions of subsections (a) and (b) of [section 3705 of this title][/us/usc/t25/s3705] have been otherwise accomplished pursuant to provisions of the Act of October 20, 1988 \[[Pub. L. 100–512][/us/pl/100/512], [102 Stat. 2549][/us/stat/102/2549]\], the provisions of paragraph (1) of this subsection shall not be construed as affecting such subsections.
 
->     “(c)  __Extension for River System General Adjudication__  __.—__ 
+>     “(c) __Extension for River System General Adjudication.—__ 
 
 >     If, at any time prior to March 31, 1999, the Secretary notifies the Committee on Indian Affairs of the United States Senate or the Committee on Resources in the United States House of Representatives that the Settlement Agreement, as executed by the Secretary, has been submitted to the Superior Court of the State of Arizona in and for Maricopa County for consideration and approval as part of the General Adjudication of the Gila River System and Source, the \[sic\] March 31, 1999, referred to in subsection (b)(1) shall be deemed to be changed to December 31, 1999. \[The Secretary notified the Committees on Mar. 30, 1999.\]”
 

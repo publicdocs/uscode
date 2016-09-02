@@ -127,7 +127,7 @@
 
         If adequate administrative and inholder access is provided over the Santa Clara Indian Reservation under paragraph (2), the Secretary of the Interior—
 
-            (A) shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 1780e(e)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be a reference to section 1780e(d)(5). </sup></sup>  of this title; but
+            (A) shall vacate the inholder access over that portion of Forest Development Road 416 referenced in [section 1780e(e)(5) of this title][/us/usc/t25/s1780e/e/5]; but
 
             (B) shall not vacate the reservations over the Northern Tier Land for administrative access under subsection (c)(2).
 
@@ -140,6 +140,7 @@
 ----------
 ----------
 
+[/us/usc/t25/s1780e/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780e%2Fe%2F5
 [/us/pl/109/286/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs12
 [/us/stat/120/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1225
 

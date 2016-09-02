@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s488a.md) | [Next](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s490.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs489)
+[Previous](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s488.md) | [Next](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s490.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs489)
 
 ## § 489. Title in trust to United States
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s488a.md) | [Next](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s490.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs489)
+[Previous](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s488.md) | [Next](./../../../../..//us/usc/t25/ch14/schV/m__us_usc_t25_s490.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs489)
 
 ----------
 ----------

@@ -29,10 +29,6 @@
 
 ([Pub. L. 100–497, § 17][/us/pl/100/497/s17], Oct. 17, 1988, [102 Stat. 2484][/us/stat/102/2484].)
 
- __References in Text__ 
-
-    This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning [Pub. L. 100–497][/us/pl/100/497], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467], known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t25/s2701] and Tables.
-
 ----------
 
 [Previous](./../../../..//us/usc/t25/ch29/m__us_usc_t25_s2715.md) | [Next](./../../../..//us/usc/t25/ch29/m__us_usc_t25_s2717.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2716)
@@ -43,8 +39,5 @@
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/pl/100/497/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs17
 [/us/stat/102/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2484
-[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
-[/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
-[/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 
 

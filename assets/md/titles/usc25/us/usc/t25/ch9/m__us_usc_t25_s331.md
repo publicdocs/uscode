@@ -229,17 +229,17 @@
 
 > “Sec. 7.
 
->      (a)  __General Rule__  __.—__ 
+>      (a) __General Rule.—__ 
 
 >     No person who is not an Osage Indian may, on or after October 21, 1978, receive any interest in any headright, other than a life estate in accordance with subsection (b), whether such interest would be received by such person (but for this subsection) under a will, a testamentary or inter vivos trust, or the Oklahoma laws of intestate succession.
 
->     “(b)  __Exception for Life Estates__  __.—__ 
+>     “(b) __Exception for Life Estates.—__ 
 
 >     Notwithstanding subsection (a) and subject to section 5(d)(2) \[set out above\], an individual who is not an Osage Indian may receive a life estate in any headright held by a testator, settlor, or decedent who is or was an Osage Indian under a will, or under a testamentary trust established by a will, of such testator, an inter vivos trust established by such settlor, or the Oklahoma laws of intestate succession relating to the administration of the estate of such decedent.
 
 >     “(c) __Special Rules Governing Interests in Osage Headright Upon Death of Individual Who Held Life Estate in Such Headright.—__ 
 
->         “(1)  __Designated osage remaindermen__  __.—__ 
+>         “(1) __Designated osage remaindermen.—__ 
 
 >         Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of a testator or settlor described in subsection (b), all remaining interests in such headright shall vest in any remaindermen who—
 
@@ -247,7 +247,7 @@
 
 >             “(B) are Osage Indians.
 
->         “(2)  __No designated osage remaindermen__  __.—__ 
+>         “(2) __No designated osage remaindermen.—__ 
 
 >         Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of a testator, settlor, or decedent described in subsection (b) who—
 
@@ -257,7 +257,7 @@
 
 >             all remaining interests in such headright shall vest in any heirs, as determined under the Oklahoma laws of intestate succession, of such testator, settlor, or decedent who are Osage Indians.
 
->         “(3)  __No heir who is an osage indian__  __.—__ 
+>         “(3) __No heir who is an osage indian.—__ 
 
 >         Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of an Osage testator, settlor, or decedent described in subsection (b) who—
 
@@ -461,19 +461,19 @@
 
 > “SEC. 20. __CRIMINAL JURISDICTION.__ 
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as otherwise provided by Congress, jurisdiction over offenses committed anywhere within the exterior boundaries of any grant from a prior sovereign, as confirmed by Congress or the Court of Private Land Claims to a Pueblo Indian tribe of New Mexico, shall be as provided in this section.
 
->     “(b)  __Jurisdiction of the Pueblo__  __.—__ 
+>     “(b) __Jurisdiction of the Pueblo.—__ 
 
 >     The Pueblo has jurisdiction, as an act of the Pueblos’ inherent power as an Indian tribe, over any offense committed by a member of the Pueblo or an Indian as defined in title 25 \[United States Code\], sections 1301(2) and 1301(4), or by any other Indian-owned entity.
 
->     “(c)  __Jurisdiction of the United States__  __.—__ 
+>     “(c) __Jurisdiction of the United States.—__ 
 
 >     The United States has jurisdiction over any offense described in chapter 53 of title 18, United States Code, committed by or against an Indian as defined in title 25 \[United States Code\], sections 1301(2) and 1301(4) or any Indian-owned entity, or that involves any Indian property or interest.
 
->     “(d)  __Jurisdiction of the State of New Mexico__  __.—__ 
+>     “(d) __Jurisdiction of the State of New Mexico.—__ 
 
 >     The State of New Mexico shall have jurisdiction over any offense committed by a person who is not a member of a Pueblo or an Indian as defined in title 25 \[United States Code\], sections 1301(2) and 1301(4), which offense is not subject to the jurisdiction of the United States.”
 

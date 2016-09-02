@@ -41,14 +41,6 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2502a" data-uslm-ref="/us/usc/t25/s2502a">2502a.</a>  </td>
-
-    <td> Retrocession or re-assumption of Indian education funds.  </td>
-
-  </tr>
-
-  <tr>
-
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs2503" data-uslm-ref="/us/usc/t25/s2503">2503.</a>  </td>
 
     <td> Composition of grants.  </td>

@@ -81,14 +81,6 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs443d" data-uslm-ref="/us/usc/t25/s443d">443d.</a>  </td>
-
-    <td> Service of traditional foods in public facilities.  </td>
-
-  </tr>
-
-  <tr>
-
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs444" data-uslm-ref="/us/usc/t25/s444">444</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs449" data-uslm-ref="/us/usc/t25/s449">449.</a>  </td>
 
     <td> Repealed.  </td>
@@ -1180,14 +1172,6 @@ SUBCHAPTER V—PROTECTION OF INDIANS AND CONSERVATION OF RESOURCES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs488" data-uslm-ref="/us/usc/t25/s488">488.</a>  </td>
 
     <td> Loans to purchasers of highly fractioned land.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft25%2Fs488a" data-uslm-ref="/us/usc/t25/s488a">488a.</a>  </td>
-
-    <td> Removal of duplicative appraisals.  </td>
 
   </tr>
 

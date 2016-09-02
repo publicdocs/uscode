@@ -131,11 +131,11 @@
 
 [Pub. L. 105–244, title IX, § 901(c)][/us/pl/105/244/s901/c], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], provided that:
 
->     “(1)  __Recommended legislation__  __.—__ 
+>     “(1) __Recommended legislation.—__ 
 
 >     The Secretary of Education shall prepare and submit to Congress recommended legislation containing technical and conforming amendments to reflect the changes made by subsection (b) \[see Tables for classification\].
 
->     “(2)  __Submission to congress__  __.—__ 
+>     “(2) __Submission to congress.—__ 
 
 >     Not later than 6 months after the effective date of this title \[see [section 3 of Pub. L. 105–244][/us/pl/105/244/s3], set out as an Effective Date of 1998 Amendment note under [section 1001 of Title 20][/us/usc/t20/s1001], Education\], the Secretary of Education shall submit the recommended legislation referred to under paragraph (1).”
 

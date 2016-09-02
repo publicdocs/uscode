@@ -69,8 +69,6 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (b)(4), (10) and (d)(1), was in the original “this Act”, meaning [Pub. L. 100–497][/us/pl/100/497], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467], known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t25/s2701] and Tables.
-
     The Government Performance and Results Act of 1993, referred to in subsec. (d), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
 
  __Codification__ 
@@ -101,9 +99,6 @@
 [/us/stat/102/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2470
 [/us/pl/109/221/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs301%2Fa
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
-[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
-[/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
-[/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306

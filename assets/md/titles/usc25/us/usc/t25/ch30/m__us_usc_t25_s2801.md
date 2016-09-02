@@ -73,7 +73,7 @@
 
 [Pub. L. 111–211, title II, § 202][/us/pl/111/211/s202], July 29, 2010, [124 Stat. 2262][/us/stat/124/2262], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     Congress finds that—
 
@@ -111,7 +111,7 @@
 
 >         “(7) crime data is a fundamental tool of law enforcement, but for decades the Bureau of Indian Affairs and the Department of Justice have not been able to coordinate or consistently report crime and prosecution rates in tribal communities.
 
->     “(b)  __Purposes__  __.—__ 
+>     “(b) __Purposes.—__ 
 
 >     The purposes of this title \[see Short Title of 2010 Amendment note above\] are—
 
@@ -145,19 +145,19 @@
 
 > “In this title \[see Short Title of 2010 Amendment note above\]:
 
->     “(1)  __Indian country__  __.—__ 
+>     “(1) __Indian country.—__ 
 
 >     The term ‘Indian country’ has the meaning given the term in [section 1151 of title 18][/us/usc/t18/s1151], United States Code.
 
->     “(2)  __Indian tribe__  __.—__ 
+>     “(2) __Indian tribe.—__ 
 
 >     The term ‘Indian tribe’ has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a][/us/usc/t25/s479a]).
 
->     “(3)  __Secretary__  __.—__ 
+>     “(3) __Secretary.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(4)  __Tribal government__  __.—__ 
+>     “(4) __Tribal government.—__ 
 
 >     The term ‘tribal government’ means the governing body of a federally recognized Indian tribe.”
 

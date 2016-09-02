@@ -93,10 +93,6 @@
 
 ([Pub. L. 100–497, § 4][/us/pl/100/497/s4], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467]; [Pub. L. 102–238, § 2(a)][/us/pl/102/238/s2/a], Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908]; [Pub. L. 102–497, § 16][/us/pl/102/497/s16], Oct. 24, 1992, [106 Stat. 3261][/us/stat/106/3261].)
 
- __References in Text__ 
-
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 100–497][/us/pl/100/497], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467], known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t25/s2701] and Tables.
-
  __Amendments__ 
 
     1992—Par. (7)(E). [Pub. L. 102–497][/us/pl/102/497] struck out “or Montana” after “Wisconsin”.
@@ -131,9 +127,6 @@
 [/us/stat/105/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1908
 [/us/pl/102/497/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497%2Fs16
 [/us/stat/106/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3261
-[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
-[/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
-[/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 [/us/pl/102/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F497
 [/us/pl/102/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F238
 [/us/pl/101/301/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F301%2Fs6

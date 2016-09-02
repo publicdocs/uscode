@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2502a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2502)
+[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2503.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2502)
 
 ## § 2502. Grants authorized
 
@@ -127,7 +127,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2502a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2502)
+[Previous](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2501.md) | [Next](./../../../..//us/usc/t25/ch27/m__us_usc_t25_s2503.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2502)
 
 ----------
 ----------

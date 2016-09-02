@@ -227,8 +227,6 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
-
     [Section 9(c) of the Act of Aug. 2, 1946][/us/act/1946-08-02/s9/c], referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of [act Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], [60 Stat. 809][/us/stat/60/809], which amended section 5 of former Title 41, Public Contracts, and was repealed by [Pub. L. 111–350, § 7(b)][/us/pl/111/350/s7/b], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], which Act enacted Title 41, Public Contracts.
 
     The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
@@ -358,9 +356,6 @@
 [/us/stat/110/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F764
 [/us/pl/106/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F260
 [/us/stat/114/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F732
-[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
-[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
-[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/act/1946-08-02/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs9%2Fc
 [/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809

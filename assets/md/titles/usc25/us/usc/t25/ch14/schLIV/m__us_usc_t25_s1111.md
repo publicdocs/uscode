@@ -19,10 +19,6 @@
 
 ([Pub. L. 89–659, § 1][/us/pl/89/659/s1], Oct. 14, 1966, [80 Stat. 909][/us/stat/80/909].)
 
- __References in Text__ 
-
-    The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t25/ch14/schLIV/m__us_usc_t25_ch14_schLIV.md) | [Next](./../../../../..//us/usc/t25/ch14/schLIV/m__us_usc_t25_s1112.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1111)

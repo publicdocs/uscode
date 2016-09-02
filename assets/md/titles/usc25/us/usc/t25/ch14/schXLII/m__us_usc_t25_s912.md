@@ -23,8 +23,6 @@
 
     Act of August 26, 1954, referred to in text, is [act Aug. 26, 1954, ch. 935][/us/act/1954-08-26/ch935], [68 Stat. 801][/us/stat/68/801], known as the Supplemental Appropriation Act, 1955. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
-    The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t25/ch14/schXLII/m__us_usc_t25_s911.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLII/m__us_usc_t25_s913.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs912)

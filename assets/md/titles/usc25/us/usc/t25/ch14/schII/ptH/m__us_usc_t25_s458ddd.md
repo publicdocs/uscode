@@ -131,7 +131,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+    This subchapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
  __Amendments__ 
 

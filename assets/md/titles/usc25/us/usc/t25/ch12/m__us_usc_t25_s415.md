@@ -437,7 +437,7 @@
 
 [Pub. L. 106–568, title XII, § 1202][/us/pl/106/568/s1202], Dec. 27, 2000, [114 Stat. 2933][/us/stat/114/2933], provided that:
 
->     “(a)  __Findings__  __.—__ 
+>     “(a) __Findings.—__ 
 
 >     Recognizing the special relationship between the United States and the Navajo Nation and its members, and the Federal responsibility to the Navajo people, Congress finds that—
 
@@ -455,7 +455,7 @@
 
 >         “(7) in the global economy of the 21st Century, it is crucial that individual leases of Navajo trust lands not be subject to Secretarial approval and that the Navajo Nation be able to make immediate decisions over the use of Navajo trust lands.
 
->     “(b)  __Purposes__  __.—__ 
+>     “(b) __Purposes.—__ 
 
 >     The purposes of this title \[see Short Title of 2000 Amendment note above\] are as follows:
 

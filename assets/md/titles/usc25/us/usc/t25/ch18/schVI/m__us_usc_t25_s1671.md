@@ -75,13 +75,13 @@
 
 [Pub. L. 106–310, div. B, title XXXIII, § 3307][/us/pl/106/310/s3307], Oct. 17, 2000, [114 Stat. 1216][/us/stat/114/1216], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     There is established a commission to be known as the Commission on Indian and Native Alaskan Health Care that shall examine the health concerns of Indians and Native Alaskans who reside on reservations and tribal lands (hereafter in this section referred to as the ‘Commission’).
 
 >     “(b) __Membership.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Commission established under subsection (a) shall consist of—
 
@@ -91,7 +91,7 @@
 
 >             “(C) the Director of the Indian Health Service and the Commissioner of Indian Affairs, who shall be nonvoting members.
 
->         “(2)  __Appointing authority__  __.—__ 
+>         “(2) __Appointing authority.—__ 
 
 >         Of the 15 members of the Commission described in paragraph (1)(B)—
 
@@ -105,23 +105,23 @@
 
 >             “(E) seven shall be appointed by the Secretary.
 
->         “(3)  __Limitation__  __.—__ 
+>         “(3) __Limitation.—__ 
 
 >         Not fewer than 10 of the members appointed to the Commission shall be Indians or Native Alaskans.
 
->         “(4)  __Chairperson__  __.—__ 
+>         “(4) __Chairperson.—__ 
 
 >         The Secretary shall serve as the Chairperson of the Commission.
 
->         “(5)  __Experts__  __.—__ 
+>         “(5) __Experts.—__ 
 
 >         The Commission may seek the expertise of any expert in the health care field to carry out its duties.
 
->     “(c)  __Period of Appointment__  __.—__ 
+>     “(c) __Period of Appointment.—__ 
 
 >     Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filed \[sic\] in the same manner as the original appointment.
 
->     “(d)  __Duties of the Commission__  __.—__ 
+>     “(d) __Duties of the Commission.—__ 
 
 >     The Commission shall—
 
@@ -131,49 +131,49 @@
 
 >     “(e) __Powers of the Commission.—__ 
 
->         “(1)  __Hearings__  __.—__ 
+>         “(1) __Hearings.—__ 
 
 >         The Commission may hold such hearings, including hearings on reservations, sit and act at such times and places, take such testimony, and receive such information as the Commission considers advisable to carry out the purpose for which the Commission was established.
 
->         “(2)  __Information from federal agencies__  __.—__ 
+>         “(2) __Information from federal agencies.—__ 
 
 >         The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the purpose for which the Commission was established. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
 
 >     “(f) __Compensation of Members.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Except as provided in subparagraph (B), each member of the Commission may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time), during which that member is engaged in the actual performance of the duties of the Commission.
 
->         “(2)  __Limitation__  __.—__ 
+>         “(2) __Limitation.—__ 
 
 >         Members of the Commission who are officers or employees of the United States shall receive no additional pay on account of their service on the Commission.
 
->     “(g)  __Travel Expenses of Members__  __.—__ 
+>     “(g) __Travel Expenses of Members.—__ 
 
 >     The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under [section 5703 of title 5][/us/usc/t5/s5703], United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 >     “(h) __Commission Personnel Matters.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         The Secretary, in accordance with rules established by the Commission, may select and appoint a staff director and other personnel necessary to enable the Commission to carry out its duties.
 
->         “(2)  __Compensation of personnel__  __.—__ 
+>         “(2) __Compensation of personnel.—__ 
 
 >         The Secretary, in accordance with rules established by the Commission, may set the amount of compensation to be paid to the staff director and any other personnel that serve the Commission.
 
->         “(3)  __Detail of government employees__  __.—__ 
+>         “(3) __Detail of government employees.—__ 
 
 >         Any Federal Government employee may be detailed to the Commission without reimbursement, and the detail shall be without interruption or loss of civil service status or privilege.
 
->         “(4)  __Consultant services__  __.—__ 
+>         “(4) __Consultant services.—__ 
 
 >         The Chairperson of the Commission is authorized to procure the temporary and intermittent services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109], United States Code, at rates not to exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of such title.
 
 >     “(i) __Report.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __In general.—__ 
 
 >         Not later than 3 years after the date of the enactment of the Youth Drug and Mental Health Services Act \[Oct. 17, 2000\], the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report that shall—
 
@@ -189,15 +189,15 @@
 
 >             “(F) make recommendations for improvements in the health care services provided for Indians and Native Alaskans who reside on reservations, including recommendations for legislative change.
 
->         “(2)  __Exception__  __.—__ 
+>         “(2) __Exception.—__ 
 
 >         In addition to the report required under paragraph (1), not later than 2 years after the date of the enactment of the Youth Drug and Mental Health Services Act \[Oct. 17, 2000\], the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes any alcohol and drug abuse among Indians and Native Alaskans who reside on reservations.
 
->     “(j)  __Permanent Commission__  __.—__ 
+>     “(j) __Permanent Commission.—__ 
 
 >     Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
->     “(k)  __Authorization of Appropriations__  __.—__ 
+>     “(k) __Authorization of Appropriations.—__ 
 
 >     There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.”
 

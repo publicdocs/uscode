@@ -969,11 +969,11 @@
 
 [Pub. L. 110–453, title II, § 207(f)][/us/pl/110/453/s207/f], Dec. 2, 2008, [122 Stat. 5033][/us/stat/122/5033], provided that:
 
->     “(1)  __Testamentary disposition__  __.—__ 
+>     “(1) __Testamentary disposition.—__ 
 
 >     The amendments made by subsection (c)(2) of this section to section 207(b) of the Indian Land Consolidation Act ([25 U.S.C. 2206(b)][/us/usc/t25/s2206/b]) shall not apply to any will executed before the date that is 1 year after the date of enactment of this Act \[Dec. 2, 2008\].
 
->     “(2)  __Small undivided interests in indian lands__  __.—__ 
+>     “(2) __Small undivided interests in indian lands.—__ 
 
 >     The amendments made by subsection (c)(7)(C) of this section to subsection (o)(5) of section 207 of the Indian Land Consolidation Act ([25 U.S.C. 2206][/us/usc/t25/s2206]) shall not apply to or affect any sale of an interest under subsection (o)(5) of that section that was completed before the date of enactment of this Act.”
 

@@ -37,11 +37,11 @@
 
 [Pub. L. 100–95, § 11][/us/pl/100/95/s11], Aug. 18, 1987, [101 Stat. 710][/us/stat/101/710], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as provided in subsection (b), this Act \[enacting this subchapter\] shall take effect upon the date of enactment \[Aug. 18, 1987\].
 
->     “(b)  __Exception__  __.—__ 
+>     “(b) __Exception.—__ 
 
 >     Section 4 \[[25 U.S.C. 1771b][/us/usc/t25/s1771b]\] shall take effect upon the date on which the title of all of the private settlement lands provided for in this Act to the Wampanoag Tribal Council of Gay Head, Inc. is transferred. The fact of such transfer, and the date thereof, shall be certified and recorded by the Secretary of the Commonwealth of Massachusetts.”
 

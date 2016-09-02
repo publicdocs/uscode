@@ -23,8 +23,6 @@
 
     Act of May 19, 1956, referred to in text, is [act May 19, 1956, ch. 313][/us/act/1956-05-19/ch313], [70 Stat. 161][/us/stat/70/161], 176, known as the Second Supplemental Appropriation Act, 1956. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
-    The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t25/ch14/schXXXVIII/m__us_usc_t25_s871.md) | [Next](./../../../../..//us/usc/t25/ch14/schXXXVIII/m__us_usc_t25_s873.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs872)

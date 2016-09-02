@@ -59,10 +59,6 @@
 
 ([Pub. L. 101–601, § 5][/us/pl/101/601/s5], Nov. 16, 1990, [104 Stat. 3052][/us/stat/104/3052].)
 
- __References in Text__ 
-
-    This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning [Pub. L. 101–601][/us/pl/101/601], Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048], known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t25/s3001] and Tables.
-
 ----------
 
 [Previous](./../../../..//us/usc/t25/ch32/m__us_usc_t25_s3002.md) | [Next](./../../../..//us/usc/t25/ch32/m__us_usc_t25_s3004.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3003)
@@ -73,8 +69,5 @@
 [/us/usc/t25/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3006
 [/us/pl/101/601/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs5
 [/us/stat/104/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3052
-[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
-[/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048
-[/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 
 

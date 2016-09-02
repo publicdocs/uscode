@@ -35,11 +35,11 @@
 
 [Pub. L. 107–153, § 1][/us/pl/107/153/s1], Mar. 19, 2002, [116 Stat. 79][/us/stat/116/79], as amended by [Pub. L. 109–158, § 1][/us/pl/109/158/s1], Dec. 30, 2005, [119 Stat. 2954][/us/stat/119/2954], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Notwithstanding any other provision of law, for purposes of determining the date on which an Indian tribe received a reconciliation report for purposes of applying a statute of limitations, any such report provided to or received by an Indian tribe in response to section 304 of the American Indian Trust Fund Management Reform Act of 1994 ([25 U.S.C. 4044][/us/usc/t25/s4044]) shall be deemed to have been received by the Indian tribe on December 31, 2000.
 
->     “(b)  __Statement of Purpose__  __.—__ 
+>     “(b) __Statement of Purpose.—__ 
 
 >     Subsection (a) is solely intended to provide recipients of reconciliation reports with the opportunity to postpone the filing of claims, or to facilitate the voluntary dismissal of claims, to encourage settlement negotiations with the United States.”
 
