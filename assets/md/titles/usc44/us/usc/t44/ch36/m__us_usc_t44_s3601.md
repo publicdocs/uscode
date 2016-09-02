@@ -97,7 +97,7 @@
 
 >         “(1)  __Administrator__  __.—__ 
 
->         The term ‘Administrato’ means the Administrator of the Office of Electronic Government established under [section 3602 of title 44][/us/usc/t44/s3602], United States Code (and also known as the Office of E-Government and Information Technology), within the Office of Management and Budget.
+>         The term ‘Administrator’ means the Administrator of the Office of Electronic Government established under [section 3602 of title 44][/us/usc/t44/s3602], United States Code (and also known as the Office of E-Government and Information Technology), within the Office of Management and Budget.
 
 >         “(2)  __Covered agency__  __.—__ 
 

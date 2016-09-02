@@ -51,7 +51,7 @@
 
          Any such record which does not contain information within a category restricted by the President under subsection (a), or contains information within such a category for which the duration of restricted access has expired, shall be exempt from the provisions of subsection (c) until the earlier of—
 
-            (A) the date which is 5 years after the date on which the Archivist obtains custody of such record pursuant to section 2203(d)(1); <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “2203(g)(1);”. </sup></sup>  or
+            (A) the date which is 5 years after the date on which the Archivist obtains custody of such record pursuant to section 2203(d)(1);  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “2203(g)(1);”. </sup></sup>  or
 
             (B) the date on which the Archivist completes the processing and organization of such records or integral file segment thereof.
 

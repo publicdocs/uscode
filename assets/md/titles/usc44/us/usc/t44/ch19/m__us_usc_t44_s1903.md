@@ -39,7 +39,7 @@
 
  __Change of Name__ 
 
-    “Government Publishing Office” substituted for “Government Printing Office” in text on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
+    “Government Publishing Office” substituted for “Government Printing Office” in second par. on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
 ----------
 
