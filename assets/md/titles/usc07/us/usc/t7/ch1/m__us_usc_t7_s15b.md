@@ -29,7 +29,11 @@
 
         (1) __Cotton futures contract__ 
 
-            The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
+        The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that—
+
+            (A) any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section; and
+
+            (B) any cotton futures contract that permits tender of cotton grown outside of the United States is excluded from the coverage of this paragraph and section to the extent that the cotton grown outside of the United States is tendered for delivery under the cotton futures contract.
 
         (2) __Future delivery__ 
 
@@ -179,7 +183,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 94–455, title XIX, § 1952(a)][/us/pl/94/455/s1952/a]–(m), Oct. 4, 1976, [90 Stat. 1841–1846][/us/stat/90/1841-1846]; [Pub. L. 97–35, title I, § 156(c)][/us/pl/97/35/s156/c], Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374]; [Pub. L. 102–237, title I, § 123][/us/pl/102/237/s123], Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844]; [Pub. L. 106–472, title III, § 311][/us/pl/106/472/s311], Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076].)
+([Pub. L. 94–455, title XIX, § 1952(a)][/us/pl/94/455/s1952/a]–(m), Oct. 4, 1976, [90 Stat. 1841–1846][/us/stat/90/1841-1846]; [Pub. L. 97–35, title I, § 156(c)][/us/pl/97/35/s156/c], Aug. 13, 1981, [95 Stat. 374][/us/stat/95/374]; [Pub. L. 102–237, title I, § 123][/us/pl/102/237/s123], Dec. 13, 1991, [105 Stat. 1844][/us/stat/105/1844]; [Pub. L. 106–472, title III, § 311][/us/pl/106/472/s311], Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076]; [Pub. L. 114–36, § 1(a)][/us/pl/114/36/s1/a], July 20, 2015, [129 Stat. 435][/us/stat/129/435].)
 
  __References in Text__ 
 
@@ -199,11 +203,19 @@
 
  __Amendments__ 
 
+    2015—Subsec. (c)(1). [Pub. L. 114–36][/us/pl/114/36] inserted a dash after “except that”, designated “any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.” as subpar. (A), and added subpar. (B).
+
     2000—Subsec. (d)(2). [Pub. L. 106–472][/us/pl/106/472] inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
 
     1991—Subsec. (c)(1). [Pub. L. 102–237][/us/pl/102/237] inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
 
     1981—Subsec. (f)(1)(G). [Pub. L. 97–35][/us/pl/97/35] inserted provisions relating to crediting to account referred to in [section 55 of this title][/us/usc/t7/s55] and provisions respecting cotton samples submitted or used becoming the property of the United States.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–36, § 1(b)][/us/pl/114/36/s1/b], July 20, 2015, [129 Stat. 435][/us/stat/129/435], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to cotton futures contracts entered into on or after the date of the enactment of this Act \[July 20, 2015\].”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -233,6 +245,8 @@
 [/us/stat/105/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1844
 [/us/pl/106/472/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs311
 [/us/stat/114/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2076
+[/us/pl/114/36/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36%2Fs1%2Fa
+[/us/stat/129/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F435
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
@@ -246,10 +260,13 @@
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/114/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t7/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs55
+[/us/pl/114/36/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F36%2Fs1%2Fb
+[/us/stat/129/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F435
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s156/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs156%2Fe
 [/us/usc/t7/s61a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs61a
