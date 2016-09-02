@@ -793,6 +793,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2714a" data-uslm-ref="/us/usc/t22/s2714a">2714a.</a>  </td>
+
+    <td> Revocation or denial of passport in case of certain unpaid taxes.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2715" data-uslm-ref="/us/usc/t22/s2715">2715.</a>  </td>
 
     <td> Procedures regarding major disasters and incidents abroad affecting United States citizens.  </td>

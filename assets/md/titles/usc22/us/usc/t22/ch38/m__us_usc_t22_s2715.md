@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2714.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2715a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2714a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2715a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715)
 
 ## § 2715. Procedures regarding major disasters and incidents abroad affecting United States citizens
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2714.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2715a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2714a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2715a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715)
 
 ----------
 ----------
