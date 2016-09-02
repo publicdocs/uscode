@@ -23,7 +23,7 @@
 
         The term “comprehensive information technology network architecture” means an integrated framework for evolving or maintaining existing information technology and acquiring new information technology to achieve the strategic management and information resources management goals of the Office of Intelligence and Analysis.
 
-([Pub. L. 107–296, title II, § 205][/us/pl/107/296/s205], as added [Pub. L. 110–53, title V, § 501(a)(1)][/us/pl/110/53/s501/a/1], Aug. 3, 2007, [121 Stat. 308][/us/stat/121/308].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 205, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 501(a)(1), Aug. 3, 2007, [121 Stat. 308][/us/stat/121/308].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
-[/us/pl/107/296/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs205
-[/us/pl/110/53/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F1
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F308
 
 

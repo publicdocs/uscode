@@ -31,7 +31,7 @@
 
         (4) develop a process for receiving meaningful input from State and local government to assist the development of the national strategy for combating terrorism and other homeland security activities.
 
-([Pub. L. 107–296, title VIII, § 801][/us/pl/107/296/s801], Nov. 25, 2002, [116 Stat. 2220][/us/stat/116/2220].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 801, Nov. 25, 2002, [116 Stat. 2220][/us/stat/116/2220].)
 
  __Ex. Ord. No. 13629. Establishing the White House Homeland Security Partnership Council__ 
 
@@ -146,7 +146,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs801
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2220
 [/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 

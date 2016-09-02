@@ -91,7 +91,7 @@
 
     (18) The term “voluntary preparedness standards” means a common set of criteria for preparedness, disaster management, emergency management, and business continuity programs, such as the American National Standards Institute’s National Fire Protection Association Standard on Disaster/Emergency Management and Business Continuity Programs (ANSI/NFPA 1600).
 
-([Pub. L. 107–296, § 2][/us/pl/107/296/s2], Nov. 25, 2002, [116 Stat. 2140][/us/stat/116/2140]; [Pub. L. 109–295, title VI, § 612(d)][/us/pl/109/295/s612/d], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 109–347, title VI, § 613][/us/pl/109/347/s613], Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943]; [Pub. L. 110–53, title V, § 502(a)][/us/pl/110/53/s502/a], title IX, § 901(d), Aug. 3, 2007, [121 Stat. 310][/us/stat/121/310], 371.)
+([Pub. L. 107–296][/us/pl/107/296], § 2, Nov. 25, 2002, [116 Stat. 2140][/us/stat/116/2140]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(d), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 613, Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 502(a), title IX, § 901(d), Aug. 3, 2007, [121 Stat. 310][/us/stat/121/310], 371.)
 
  __References in Text__ 
 
@@ -101,9 +101,9 @@
 
  __Amendments__ 
 
-    2007—Pars. (9) to (17). [Pub. L. 110–53, § 502(a)][/us/pl/110/53/s502/a], added par. (9) and redesignated former pars. (9) to (16) as (10) to (17), respectively.
+    2007—Pars. (9) to (17). [Pub. L. 110–53][/us/pl/110/53], § 502(a), added par. (9) and redesignated former pars. (9) to (16) as (10) to (17), respectively.
 
-    Par. (18). [Pub. L. 110–53, § 901(d)][/us/pl/110/53/s901/d], added par. (18).
+    Par. (18). [Pub. L. 110–53][/us/pl/110/53], § 901(d), added par. (18).
 
     2006—Par. (6). [Pub. L. 109–347][/us/pl/109/347] inserted “governmental and nongovernmental” after “local”.
 
@@ -111,137 +111,137 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–296, § 4][/us/pl/107/296/s4], Nov. 25, 2002, [116 Stat. 2142][/us/stat/116/2142], provided that: 
+[Pub. L. 107–296][/us/pl/107/296], § 4, Nov. 25, 2002, [116 Stat. 2142][/us/stat/116/2142], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. N, title II, § 201][/us/pl/114/113/s201], Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
+[Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 201, Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
 
 > “This subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], amending sections 131, 148, and 149 of this title and enacting provisions set out as notes under [section 131 of this title][/us/usc/t6/s131]\] may be cited as the ‘National Cybersecurity Protection Advancement Act of 2015’.”
 
-[Pub. L. 114–80, § 1][/us/pl/114/80/s1], Nov. 5, 2015, [129 Stat. 646][/us/stat/129/646], provided that: 
+[Pub. L. 114–80][/us/pl/114/80], § 1, Nov. 5, 2015, [129 Stat. 646][/us/stat/129/646], provided that: 
 
 > “This Act \[enacting [section 195d of this title][/us/usc/t6/s195d]\] may be cited as the ‘DHS Social Media Improvement Act of 2015’.”
 
-[Pub. L. 114–22, title III, § 301][/us/pl/114/22/s301], May 29, 2015, [129 Stat. 251][/us/stat/129/251], provided that: 
+[Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 301, May 29, 2015, [129 Stat. 251][/us/stat/129/251], provided that: 
 
 > “This title \[enacting [section 473 of this title][/us/usc/t6/s473] and [section 2421 of Title 18][/us/usc/t18/s2421], Crimes and Criminal Procedure, amending [section 187 of this title][/us/usc/t6/s187], repealing former [section 2421 of Title 18][/us/usc/t18/s2421], and enacting provisions set out as a note under [section 473 of this title][/us/usc/t6/s473]\] may be cited as the ‘Human Exploitation Rescue Operations Act of 2015’ or the ‘HERO Act of 2015’.”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–284, § 1][/us/pl/113/284/s1], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that: 
+[Pub. L. 113–284][/us/pl/113/284], § 1, Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that: 
 
 > “This Act \[amending sections 468 and 612 of this title, enacting provisions set out as a note under [section 612 of this title][/us/usc/t6/s612], and amending provisions set out as a note under [section 70101 of Title 46][/us/usc/t46/s70101], Shipping\] may be cited as the ‘DHS OIG Mandates Revision Act of 2014’.”
 
-[Pub. L. 113–282, § 1][/us/pl/113/282/s1], Dec. 18, 2014, [128 Stat. 3066][/us/stat/128/3066], provided that: 
+[Pub. L. 113–282][/us/pl/113/282], § 1, Dec. 18, 2014, [128 Stat. 3066][/us/stat/128/3066], provided that: 
 
 > “This Act \[enacting sections 148 to 150 of this title and provisions set out as notes under sections 148 and 149 of this title and formerly set out as a note under [section 3543 of Title 44][/us/usc/t44/s3543], Public Printing and Documents\] may be cited as the ‘National Cybersecurity Protection Act of 2014’.”
 
-[Pub. L. 113–254, § 1][/us/pl/113/254/s1], Dec. 18, 2014, [128 Stat. 2898][/us/stat/128/2898], provided that: 
+[Pub. L. 113–254][/us/pl/113/254], § 1, Dec. 18, 2014, [128 Stat. 2898][/us/stat/128/2898], provided that: 
 
 > “This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under [section 121 of this title][/us/usc/t6/s121]\] may be cited as the ‘Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014’.”
 
-[Pub. L. 113–246, § 1][/us/pl/113/246/s1], Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880], provided that: 
+[Pub. L. 113–246][/us/pl/113/246], § 1, Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880], provided that: 
 
 > “This Act \[enacting [section 146 of this title][/us/usc/t6/s146] and provisions set out as a note under [section 146 of this title][/us/usc/t6/s146]\] may be cited as the ‘Cybersecurity Workforce Assessment Act’.”
 
-[Pub. L. 113–245, § 1][/us/pl/113/245/s1], Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871], provided that: 
+[Pub. L. 113–245][/us/pl/113/245], § 1, Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871], provided that: 
 
 > “This Act \[enacting subchapter XII–A of this chapter and provisions set out as notes under [section 561 of this title][/us/usc/t6/s561]\] may be cited as the ‘Transportation Security Acquisition Reform Act’.”
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 112–265, § 1][/us/pl/112/265/s1], Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435], provided that: 
+[Pub. L. 112–265][/us/pl/112/265], § 1, Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435], provided that: 
 
 > “This Act \[amending [section 455 of this title][/us/usc/t6/s455] and [section 530C of Title 28][/us/usc/t28/s530C], Judiciary and Judicial Procedure\] may be cited as the ‘Investigative Assistance for Violent Crimes Act of 2012’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–205, § 1][/us/pl/112/205/s1], Dec. 7, 2012, [126 Stat. 1487][/us/stat/126/1487], provided that: 
+[Pub. L. 112–205][/us/pl/112/205], § 1, Dec. 7, 2012, [126 Stat. 1487][/us/stat/126/1487], provided that: 
 
 > “This Act \[enacting [section 240 of this title][/us/usc/t6/s240] and provisions set out as a note under [section 240 of this title][/us/usc/t6/s240]\] may be cited as the ‘Jaime Zapata Border Enforcement Security Task Force Act’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 111–376, § 1][/us/pl/111/376/s1], Jan. 4, 2011, [124 Stat. 4104][/us/stat/124/4104], provided that: 
+[Pub. L. 111–376][/us/pl/111/376], § 1, Jan. 4, 2011, [124 Stat. 4104][/us/stat/124/4104], provided that: 
 
 > “This Act \[enacting [section 221 of this title][/us/usc/t6/s221] and provisions set out as a note under [section 221 of this title][/us/usc/t6/s221]\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–271, § 1][/us/pl/111/271/s1], Oct. 12, 2010, [124 Stat. 2852][/us/stat/124/2852], provided that: 
+[Pub. L. 111–271][/us/pl/111/271], § 1, Oct. 12, 2010, [124 Stat. 2852][/us/stat/124/2852], provided that: 
 
 > “This Act \[enacting [section 613 of this title][/us/usc/t6/s613]\] may be cited as the ‘Redundancy Elimination and Enhanced Performance for Preparedness Grants Act’.”
 
-[Pub. L. 111–258, § 1][/us/pl/111/258/s1], Oct. 7, 2010, [124 Stat. 2648][/us/stat/124/2648], provided that: 
+[Pub. L. 111–258][/us/pl/111/258], § 1, Oct. 7, 2010, [124 Stat. 2648][/us/stat/124/2648], provided that: 
 
 > “This Act \[enacting [section 124m of this title][/us/usc/t6/s124m] and [section 435d of Title 50][/us/usc/t50/s435d], War and National Defense, amending sections 121 and 124k of this title and [section 403–1 of Title 50][/us/usc/t50/s403–1], and enacting provisions set out as notes under [section 124m of this title][/us/usc/t6/s124m] and sections 435 and 435d of Title 50\] may be cited as the ‘Reducing Over-Classification Act’.”
 
-[Pub. L. 111–245, § 1][/us/pl/111/245/s1], Sept. 30, 2010, [124 Stat. 2620][/us/stat/124/2620], provided that: 
+[Pub. L. 111–245][/us/pl/111/245], § 1, Sept. 30, 2010, [124 Stat. 2620][/us/stat/124/2620], provided that: 
 
 > “This Act \[enacting [section 321n of this title][/us/usc/t6/s321n], amending sections 453 and 464 of this title, and repealing [section 464a of this title][/us/usc/t6/s464a]\] may be cited as the ‘First Responder Anti-Terrorism Training Resources Act’.”
 
-[Pub. L. 111–140, § 1][/us/pl/111/140/s1], Feb. 16, 2010, [124 Stat. 31][/us/stat/124/31], provided that: 
+[Pub. L. 111–140][/us/pl/111/140], § 1, Feb. 16, 2010, [124 Stat. 31][/us/stat/124/31], provided that: 
 
 > “This Act \[amending sections 592 and 596a of this title and enacting provisions set out as a note under [section 592 of this title][/us/usc/t6/s592]\] may be cited as the ‘Nuclear Forensics and Attribution Act’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–412, § 1][/us/pl/110/412/s1], Oct. 14, 2008, [122 Stat. 4336][/us/stat/122/4336], provided that: 
+[Pub. L. 110–412][/us/pl/110/412], § 1, Oct. 14, 2008, [122 Stat. 4336][/us/stat/122/4336], provided that: 
 
 > “This Act \[amending [section 609 of this title][/us/usc/t6/s609]\] may be cited as the ‘Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008’ or the ‘PRICE of Homeland Security Act’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–53, § 1(a)][/us/pl/110/53/s1/a], Aug. 3, 2007, [121 Stat. 266][/us/stat/121/266], provided that: 
+[Pub. L. 110–53][/us/pl/110/53], § 1(a), Aug. 3, 2007, [121 Stat. 266][/us/stat/121/266], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Implementing Recommendations of the 9/11 Commission Act of 2007’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–295, title VI, § 671(a)][/us/pl/109/295/s671/a], Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 671(a), Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433], provided that: 
 
 > “This section \[enacting subchapter XIII of this chapter\] may be cited as the ‘21st Century Emergency Communications Act of 2006’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VII, § 7001][/us/pl/108/458/s7001], Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7001, Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘9/11 Commission Implementation Act of 2004’.”
 
-[Pub. L. 108–458, title VIII, § 8301][/us/pl/108/458/s8301], Dec. 17, 2004, [118 Stat. 3867][/us/stat/118/3867], provided that: 
+[Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8301, Dec. 17, 2004, [118 Stat. 3867][/us/stat/118/3867], provided that: 
 
 > “This subtitle \[subtitle C (§§ 8301–8306) of title VIII of [Pub. L. 108–458][/us/pl/108/458], amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under [section 112 of this title][/us/usc/t6/s112]\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
 
-[Pub. L. 108–330, § 1][/us/pl/108/330/s1], Oct. 16, 2004, [118 Stat. 1275][/us/stat/118/1275], provided that: 
+[Pub. L. 108–330][/us/pl/108/330], § 1, Oct. 16, 2004, [118 Stat. 1275][/us/stat/118/1275], provided that: 
 
 > “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31, Money and Finance, and enacting provisions set out as notes under [section 342 of this title][/us/usc/t6/s342] and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. L][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 532][/us/stat/117/532], provided in part that: 
+[Pub. L. 108–7, div. L][/us/pl/108/7/dL], Feb. 20, 2003, [117 Stat. 532][/us/stat/117/532], provided in part that: 
 
 > “This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and [section 300aa–33 of Title 42][/us/usc/t42/s300aa–33], The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing [section 371 of this title][/us/usc/t6/s371] and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under [section 521 of this title][/us/usc/t6/s521], [section 1356 of Title 8][/us/usc/t8/s1356], and [section 300aa–33 of Title 42][/us/usc/t42/s300aa–33], and repealing provisions set out as a note under [section 300aa–33 of Title 42][/us/usc/t42/s300aa–33]\] may be cited as the ‘Homeland Security Act Amendments of 2003’.”
 
  __Short Title__ 
 
-[Pub. L. 107–296, § 1(a)][/us/pl/107/296/s1/a], Nov. 25, 2002, [116 Stat. 2135][/us/stat/116/2135], provided that: 
+[Pub. L. 107–296][/us/pl/107/296], § 1(a), Nov. 25, 2002, [116 Stat. 2135][/us/stat/116/2135], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Homeland Security Act of 2002’.”
 
-[Pub. L. 107–296, title II, § 211][/us/pl/107/296/s211], Nov. 25, 2002, [116 Stat. 2150][/us/stat/116/2150], provided that: 
+[Pub. L. 107–296, title II][/us/pl/107/296/tII], § 211, Nov. 25, 2002, [116 Stat. 2150][/us/stat/116/2150], provided that: 
 
 > “This subtitle \[subtitle B (§§ 211–215) of title II of [Pub. L. 107–296][/us/pl/107/296], enacting part B of subchapter II of this chapter\] may be cited as the ‘Critical Infrastructure Information Act of 2002’.”
 
-[Pub. L. 107–296, title VIII, § 861][/us/pl/107/296/s861], Nov. 25, 2002, [116 Stat. 2238][/us/stat/116/2238], provided that: 
+[Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 861, Nov. 25, 2002, [116 Stat. 2238][/us/stat/116/2238], provided that: 
 
 > “This subtitle \[subtitle G (§§ 861–865) of title VIII of [Pub. L. 107–296][/us/pl/107/296], enacting part G of subchapter VIII of this chapter\] may be cited as the ‘Support Anti-terrorism by Fostering Effective Technologies Act of 2002’ or the ‘SAFETY Act’.”
 
     For short title of part I of subchapter VIII of this chapter as the “Homeland Security Information Sharing Act”, see [section 481(a) of this title][/us/usc/t6/s481/a].
 
-[Pub. L. 107–296, title X, § 1001(a)][/us/pl/107/296/s1001/a], Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259], provided that: 
+[Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1001(a), Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259], provided that: 
 
 > “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending [section 2224 of Title 10][/us/usc/t10/s2224], Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, [section 11331 of Title 40][/us/usc/t40/s11331], Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing [section 11332 of Title 40][/us/usc/t40/s11332] and provisions set out as notes under [section 3531 of Title 44][/us/usc/t44/s3531]\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
 
@@ -249,7 +249,7 @@
 
  __National Commission on Terrorist Attacks Upon the United States__ 
 
-[Pub. L. 107–306, title VI][/us/pl/107/306], Nov. 27, 2002, [116 Stat. 2408][/us/stat/116/2408], as amended by [Pub. L. 108–207, § 1][/us/pl/108/207/s1], Mar. 16, 2004, [118 Stat. 556][/us/stat/118/556], provided that:
+[Pub. L. 107–306, title VI][/us/pl/107/306/tVI], Nov. 27, 2002, [116 Stat. 2408][/us/stat/116/2408], as amended by [Pub. L. 108–207][/us/pl/108/207], § 1, Mar. 16, 2004, [118 Stat. 556][/us/stat/118/556], provided that:
 
 > “SEC. 601. __ESTABLISHMENT OF COMMISSION.__ 
 
@@ -546,102 +546,102 @@
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t42/s5122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122%2F2
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/107/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2140
-[/us/pl/109/295/s612/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fd
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/109/347/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs613
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1943
-[/us/pl/110/53/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs502%2Fa
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F310
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/110/53/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs502%2Fa
-[/us/pl/110/53/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs901%2Fd
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
-[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t6/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs131
-[/us/pl/114/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F80%2Fs1
+[/us/pl/114/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F80
 [/us/stat/129/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F646
 [/us/usc/t6/s195d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195d
-[/us/pl/114/22/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs301
+[/us/pl/114/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIII
 [/us/stat/129/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F251
 [/us/usc/t6/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs473
 [/us/usc/t18/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2421
 [/us/usc/t6/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs187
 [/us/usc/t18/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2421
 [/us/usc/t6/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs473
-[/us/pl/113/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs1
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/usc/t6/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
-[/us/pl/113/282/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282%2Fs1
+[/us/pl/113/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282
 [/us/stat/128/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3066
 [/us/usc/t44/s3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3543
-[/us/pl/113/254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs1
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2898
 [/us/usc/t6/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121
-[/us/pl/113/246/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246%2Fs1
+[/us/pl/113/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246
 [/us/stat/128/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2880
 [/us/usc/t6/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146
 [/us/usc/t6/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146
-[/us/pl/113/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs1
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2871
 [/us/usc/t6/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs561
-[/us/pl/112/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs1
+[/us/pl/112/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265
 [/us/stat/126/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2435
 [/us/usc/t6/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs455
 [/us/usc/t28/s530C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530C
-[/us/pl/112/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F205%2Fs1
+[/us/pl/112/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F205
 [/us/stat/126/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1487
 [/us/usc/t6/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs240
 [/us/usc/t6/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs240
-[/us/pl/111/376/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F376%2Fs1
+[/us/pl/111/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F376
 [/us/stat/124/4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4104
 [/us/usc/t6/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs221
 [/us/usc/t6/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs221
-[/us/pl/111/271/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F271%2Fs1
+[/us/pl/111/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F271
 [/us/stat/124/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2852
 [/us/usc/t6/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs613
-[/us/pl/111/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs1
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2648
 [/us/usc/t6/s124m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124m
 [/us/usc/t50/s435d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435d
 [/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 [/us/usc/t6/s124m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124m
-[/us/pl/111/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245%2Fs1
+[/us/pl/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245
 [/us/stat/124/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2620
 [/us/usc/t6/s321n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321n
 [/us/usc/t6/s464a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs464a
-[/us/pl/111/140/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140%2Fs1
+[/us/pl/111/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140
 [/us/stat/124/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F31
 [/us/usc/t6/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs592
-[/us/pl/110/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412%2Fs1
+[/us/pl/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412
 [/us/stat/122/4336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4336
 [/us/usc/t6/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs609
-[/us/pl/110/53/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1%2Fa
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F266
-[/us/pl/109/295/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs671%2Fa
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1433
-[/us/pl/108/458/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7001
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3775
-[/us/pl/108/458/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8301
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3867
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t6/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs112
-[/us/pl/108/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs1
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1275
 [/us/usc/t6/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs342
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F532
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/usc/t42/s300aa–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9333
@@ -650,16 +650,16 @@
 [/us/usc/t8/s1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356
 [/us/usc/t42/s300aa–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9333
 [/us/usc/t42/s300aa–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%9333
-[/us/pl/107/296/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1%2Fa
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
-[/us/pl/107/296/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs211
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2150
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/296/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs861
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2238
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t6/s481/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs481%2Fa
-[/us/pl/107/296/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fa
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2259
 [/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
@@ -668,9 +668,9 @@
 [/us/pl/107/347/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fa
 [/us/stat/116/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2946
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
-[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVI
 [/us/stat/116/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2408
-[/us/pl/108/207/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F207%2Fs1
+[/us/pl/108/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F207
 [/us/stat/118/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F556
 [/us/usc/t2/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs192
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316

@@ -93,7 +93,7 @@
 
             (B) ensure that the number of Information Sharing Fellows selected does not impede the activities of the Office of Intelligence and Analysis.
 
-([Pub. L. 107–296, title II, § 210B][/us/pl/107/296/s210B], as added [Pub. L. 110–53, title V, § 512(a)][/us/pl/110/53/s512/a], Aug. 3, 2007, [121 Stat. 324][/us/stat/121/324].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210B, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 512(a), Aug. 3, 2007, [121 Stat. 324][/us/stat/121/324].)
 
 ----------
 
@@ -103,8 +103,8 @@
 ----------
 
 [/us/usc/t42/s2000ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee
-[/us/pl/107/296/s210B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210B
-[/us/pl/110/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs512%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F324
 
 

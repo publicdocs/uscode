@@ -91,13 +91,13 @@
 
         (5) $22,800,000 for fiscal year 2011.
 
-([Pub. L. 110–53, title XIII, § 1304][/us/pl/110/53/s1304], Aug. 3, 2007, [121 Stat. 393][/us/stat/121/393].)
+([Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1304, Aug. 3, 2007, [121 Stat. 393][/us/stat/121/393].)
 
  __References in Text__ 
 
     This Act, referred to in subsecs. (e)(3) and (g), is [Pub. L. 110–53][/us/pl/110/53], Aug. 3, 2007, [121 Stat. 266][/us/stat/121/266], known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 101 of this title][/us/usc/t6/s101] and Tables.
 
-    [Section 114(t) of title 49][/us/usc/t49/s114/t], referred to in subsec. (g), was redesignated [section 114(s) of title 49][/us/usc/t49/s114/s] by [Pub. L. 110–161, div. E, title V, § 568(a)][/us/pl/110/161/s568/a], Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
+    [Section 114(t) of title 49][/us/usc/t49/s114/t], referred to in subsec. (g), was redesignated [section 114(s) of title 49][/us/usc/t49/s114/s] by [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 568(a), Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
 
 ----------
 
@@ -107,14 +107,14 @@
 ----------
 
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/110/53/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1304
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F393
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F266
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t49/s114/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Ft
 [/us/usc/t49/s114/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fs
-[/us/pl/110/161/s568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs568%2Fa
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2092
 
 

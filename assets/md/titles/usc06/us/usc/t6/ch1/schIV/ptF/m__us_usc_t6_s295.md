@@ -29,7 +29,7 @@
 
         (3) forms management.
 
-([Pub. L. 107–296, title IV, § 475][/us/pl/107/296/s475], Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 475, Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
 
  __Change of Name__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs475
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2209
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

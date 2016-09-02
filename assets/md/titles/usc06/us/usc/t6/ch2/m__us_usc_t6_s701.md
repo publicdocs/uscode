@@ -55,13 +55,13 @@
 
     (16) the term “tribal government” means the government of an Indian tribe or authorized tribal organization, or in Alaska a Native village or Alaska Regional Native Corporation.
 
-([Pub. L. 109–295, title VI, § 602][/us/pl/109/295/s602], Oct. 4, 2006, [120 Stat. 1394][/us/stat/120/1394].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 602, Oct. 4, 2006, [120 Stat. 1394][/us/stat/120/1394].)
 
  __References in Text__ 
 
     This title, referred to in text, is title VI of [Pub. L. 109–295][/us/pl/109/295], Oct. 4, 2006, [120 Stat. 1355][/us/stat/120/1355], known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
 
-    [Section 314(a)(6) of this title][/us/usc/t6/s314/a/6], referred to in par. (13), was in the original “section 502(a)(6) of the Homeland Security Act 2002” and was translated as meaning [section 502 of Pub. L. 107–296][/us/pl/107/296/s502] prior to its redesignation as section 504 by [Pub. L. 109–295, § 611(8)][/us/pl/109/295/s611/8], and not [section 506 of Pub. L. 107–296][/us/pl/107/296/s506] which was redesignated section 502 by [Pub. L. 109–295, § 611(9)][/us/pl/109/295/s611/9], and is classified to [section 312 of this title][/us/usc/t6/s312], to reflect the probable intent of Congress.
+    [Section 314(a)(6) of this title][/us/usc/t6/s314/a/6], referred to in par. (13), was in the original “section 502(a)(6) of the Homeland Security Act 2002” and was translated as meaning [section 502 of Pub. L. 107–296][/us/pl/107/296/s502] prior to its redesignation as section 504 by [Pub. L. 109–295][/us/pl/109/295], § 611(8), and not [section 506 of Pub. L. 107–296][/us/pl/107/296/s506] which was redesignated section 502 by [Pub. L. 109–295][/us/pl/109/295], § 611(9), and is classified to [section 312 of this title][/us/usc/t6/s312], to reflect the probable intent of Congress.
 
  __Change of Name__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–295, title VI, § 614][/us/pl/109/295/s614], Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that:
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 614, Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -91,25 +91,25 @@
 
  __Short Title__ 
 
-[Pub. L. 109–295, title VI, § 601][/us/pl/109/295/s601], Oct. 4, 2006, [120 Stat. 1394][/us/stat/120/1394], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 601, Oct. 4, 2006, [120 Stat. 1394][/us/stat/120/1394], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Post-Katrina Emergency Management Reform Act of 2006’.”
 
  __Clarification of Congressional Intent__ 
 
-[Pub. L. 110–53, title XXII, § 2202][/us/pl/110/53/s2202], Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that: 
+[Pub. L. 110–53, title XXII][/us/pl/110/53/tXXII], § 2202, Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that: 
 
 > “The Federal departments and agencies (including independent agencies) identified under the provisions of this title \[enacting provisions set out as notes under [section 194 of this title][/us/usc/t6/s194] and [section 247d–3a of Title 42][/us/usc/t42/s247d–3a], The Public Health and Welfare, and amending provisions set out as a note under [section 309 of Title 47][/us/usc/t47/s309], Telecommunications\] and title III of this Act \[enacting sections 579 and 580 of this title and amending sections 194 and 572 of this title\] and title VI of [Public Law 109–295][/us/pl/109/295] \[see Short Title note set out above\] shall carry out their respective duties and responsibilities in a manner that does not impede the implementation of requirements specified under this title and title III of this Act and title VI of [Public Law 109–295][/us/pl/109/295]. Notwithstanding the obligations under [section 1806 of Public Law 109–295][/us/pl/109/295/s1806] \[probably means [Pub. L. 107–296][/us/pl/107/296]; [6 U.S.C. 576][/us/usc/t6/s576]\], the provisions of this title and title III of this Act and title VI of [Public Law 109–295][/us/pl/109/295] shall not preclude or obstruct any such department or agency from exercising its other authorities related to emergency communications matters.”
 
  __National Weather Service__ 
 
-[Pub. L. 109–295, title VI, § 613][/us/pl/109/295/s613], Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 613, Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that: 
 
 > “Nothing in this title \[see Tables for classification\] shall alter or otherwise affect the authorities and activities of the National Weather Service to protect life and property, including under the Act of October 1, 1890 ([26 Stat. 653][/us/stat/26/653]-55) \[[15 U.S.C. 312][/us/usc/t15/s312] et seq.\].”
 
  __References in__  __[__  __Pub. L. 109–295__  __][/us/pl/109/295]__ 
 
-[Pub. L. 109–295, title VI, § 699A][/us/pl/109/295/s699A], Oct. 4, 2006, [120 Stat. 1463][/us/stat/120/1463], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 699A, Oct. 4, 2006, [120 Stat. 1463][/us/stat/120/1463], provided that: 
 
 > “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this title \[see Tables for classification\] shall be treated as referring only to the provisions of this title.”
 
@@ -126,26 +126,26 @@
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s314/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2Fa%2F6
-[/us/pl/109/295/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs602
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1394
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/stat/120/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1355
 [/us/usc/t6/s314/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2Fa%2F6
 [/us/pl/107/296/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs502
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs506
-[/us/pl/109/295/s611/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F9
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t6/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs312
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/109/295/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs614
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1411
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t6/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314
-[/us/pl/109/295/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs601
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1394
-[/us/pl/110/53/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2202
+[/us/pl/110/53/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXII
 [/us/stat/121/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F541
 [/us/usc/t6/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194
 [/us/usc/t42/s247d–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a
@@ -156,12 +156,12 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t6/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs576
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/109/295/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs613
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1411
 [/us/stat/26/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F653
 [/us/usc/t15/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs312
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/109/295/s699A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs699A
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1463
 
 

@@ -93,7 +93,7 @@
 
         (9) coordinating industry efforts, with respect to functions of the Department of Homeland Security, to identify private sector resources and capabilities that could be effective in supplementing Federal, State, and local government agency efforts to prevent or respond to a terrorist attack;
 
-        (10) coordinating with the Directorate of Border and Transportation Security and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
+        (10) coordinating with the Commissioner of U.S. Customs and Border Protection and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
 
         (11) consulting with the Office of State and Local Government Coordination and Preparedness on all matters of concern to the private sector, including the tourism industry.
 
@@ -101,7 +101,7 @@
 
         All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 ([15 U.S.C. 272][/us/usc/t15/s272] note) and Office of Management and Budget Circular A–119.
 
-([Pub. L. 107–296, title I, § 102][/us/pl/107/296/s102], Nov. 25, 2002, [116 Stat. 2142][/us/stat/116/2142]; [Pub. L. 108–458, title VII, § 7402][/us/pl/108/458/s7402], Dec. 17, 2004, [118 Stat. 3850][/us/stat/118/3850]; [Pub. L. 110–53, title IX, § 902][/us/pl/110/53/s902], Aug. 3, 2007, [121 Stat. 371][/us/stat/121/371].)
+([Pub. L. 107–296, title I][/us/pl/107/296/tI], § 102, Nov. 25, 2002, [116 Stat. 2142][/us/stat/116/2142]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7402, Dec. 17, 2004, [118 Stat. 3850][/us/stat/118/3850]; [Pub. L. 110–53, title IX][/us/pl/110/53/tIX], § 902, Aug. 3, 2007, [121 Stat. 371][/us/stat/121/371]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(A)(i), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -111,21 +111,23 @@
 
  __Amendments__ 
 
-    2007—Subsec. (f)(4)(C). [Pub. L. 110–53, § 902(b)][/us/pl/110/53/s902/b], added subpar. (C).
+    2016—Subsec. (f)(10). [Pub. L. 114–125][/us/pl/114/125] substituted “the Commissioner of U.S. Customs and Border Protection” for “the Directorate of Border and Transportation Security”.
 
-    Subsec. (f)(8) to (11). [Pub. L. 110–53, § 902(a)][/us/pl/110/53/s902/a], added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+    2007—Subsec. (f)(4)(C). [Pub. L. 110–53][/us/pl/110/53], § 902(b), added subpar. (C).
+
+    Subsec. (f)(8) to (11). [Pub. L. 110–53][/us/pl/110/53], § 902(a), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
     2004—Subsec. (f)(8) to (10). [Pub. L. 108–458][/us/pl/108/458] added pars. (8) to (10).
 
  __Required Coordination__ 
 
-[Pub. L. 108–458, title VII, § 7405][/us/pl/108/458/s7405], Dec. 17, 2004, [118 Stat. 3851][/us/stat/118/3851], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7405, Dec. 17, 2004, [118 Stat. 3851][/us/stat/118/3851], provided that: 
 
 > “The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for, and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness.”
 
  __Protections for Human Research Subjects of the Department of Homeland Security__ 
 
-[Pub. L. 108–458, title VIII, § 8306][/us/pl/108/458/s8306], Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869], provided that: 
+[Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8306, Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869], provided that: 
 
 > “The Secretary of Homeland Security shall ensure that the Department of Homeland Security complies with the protections for human research subjects, as described in part 46 of title 45, Code of Federal Regulations, or in equivalent regulations as promulgated by such Secretary, with respect to research that is conducted or supported by the Department.”
 
@@ -138,23 +140,26 @@
 
 [/us/usc/t6/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs361
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/107/296/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs102
+[/us/pl/107/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtI
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
-[/us/pl/108/458/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7402
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3850
-[/us/pl/110/53/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs902
+[/us/pl/110/53/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIX
 [/us/stat/121/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F371
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/110/53/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs902%2Fb
-[/us/pl/110/53/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs902%2Fa
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/458/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7405
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3851
-[/us/pl/108/458/s8306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8306
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3869
 
 

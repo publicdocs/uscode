@@ -29,7 +29,7 @@
 
         The term “Secretary” means the Secretary of Homeland Security.
 
-([Pub. L. 114–22, title IX, § 901][/us/pl/114/22/s901], May 29, 2015, [129 Stat. 264][/us/stat/129/264].)
+([Pub. L. 114–22, title IX][/us/pl/114/22/tIX], § 901, May 29, 2015, [129 Stat. 264][/us/stat/129/264].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
-[/us/pl/114/22/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs901
+[/us/pl/114/22/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIX
 [/us/stat/129/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F264
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 

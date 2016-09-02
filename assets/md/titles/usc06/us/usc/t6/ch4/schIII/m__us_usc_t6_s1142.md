@@ -199,7 +199,7 @@
 
             The Secretary shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-([Pub. L. 110–53, title XIV, § 1413][/us/pl/110/53/s1413], Aug. 3, 2007, [121 Stat. 414][/us/stat/121/414].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1413, Aug. 3, 2007, [121 Stat. 414][/us/stat/121/414].)
 
  __References in Text__ 
 
@@ -213,7 +213,7 @@
 ----------
 
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/110/53/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1413
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F414
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

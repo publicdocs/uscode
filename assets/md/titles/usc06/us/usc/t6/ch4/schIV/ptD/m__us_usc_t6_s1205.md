@@ -23,7 +23,7 @@
 
         Within 1 year after August 3, 2007, the Secretary of Transportation, in conjunction with the Secretary, shall study to what extent the insurance, security, and safety costs borne by railroad carriers, motor carriers, pipeline carriers, air carriers, and maritime carriers associated with the transportation of hazardous materials are reflected in the rates paid by offerors of such commodities as compared to the costs and rates, respectively, for the transportation of nonhazardous materials.
 
-([Pub. L. 110–53, title XV, § 1555][/us/pl/110/53/s1555], Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1555, Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1555
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F475
 
 

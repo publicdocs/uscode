@@ -27,7 +27,7 @@
 
         (2) publicizing information sharing accomplishments by individual employees and, where appropriate, the tangible end benefits that resulted.
 
-([Pub. L. 107–296, title II, § 210][/us/pl/107/296/s210], as added [Pub. L. 110–53, title V, § 503(a)][/us/pl/110/53/s503/a], Aug. 3, 2007, [121 Stat. 313][/us/stat/121/313].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 503(a), Aug. 3, 2007, [121 Stat. 313][/us/stat/121/313].)
 
 ----------
 
@@ -40,8 +40,8 @@
 [/us/usc/t50/s3003/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F5
 [/us/usc/t6/s485/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485%2Fi
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
-[/us/pl/107/296/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210
-[/us/pl/110/53/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs503%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F313
 
 

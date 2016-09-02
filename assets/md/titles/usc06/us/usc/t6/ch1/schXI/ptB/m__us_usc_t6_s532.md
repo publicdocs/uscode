@@ -41,7 +41,7 @@
 
             Any amounts appropriated pursuant to paragraph (1) shall remain available until expended.
 
-([Pub. L. 107–296, title XI, § 1114][/us/pl/107/296/s1114], Nov. 25, 2002, [116 Stat. 2280][/us/stat/116/2280].)
+([Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1114, Nov. 25, 2002, [116 Stat. 2280][/us/stat/116/2280].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1114
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2280
 
 

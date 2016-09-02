@@ -17,7 +17,7 @@
 
     Any provision of this chapter held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this chapter and shall not affect the remainder thereof, or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances.
 
-([Pub. L. 107–296, § 3][/us/pl/107/296/s3], Nov. 25, 2002, [116 Stat. 2141][/us/stat/116/2141].)
+([Pub. L. 107–296][/us/pl/107/296], § 3, Nov. 25, 2002, [116 Stat. 2141][/us/stat/116/2141].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs3
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2141
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

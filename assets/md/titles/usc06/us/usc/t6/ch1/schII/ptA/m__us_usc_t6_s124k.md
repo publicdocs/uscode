@@ -143,7 +143,7 @@
 
         There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
 
-([Pub. L. 107–296, title II, § 210D][/us/pl/107/296/s210D], as added [Pub. L. 110–53, title V, § 521(a)][/us/pl/110/53/s521/a], Aug. 3, 2007, [121 Stat. 328][/us/stat/121/328]; amended [Pub. L. 111–258, § 5(b)(2)][/us/pl/111/258/s5/b/2], (c), Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650], 2651.)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210D, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 521(a), Aug. 3, 2007, [121 Stat. 328][/us/stat/121/328]; amended [Pub. L. 111–258][/us/pl/111/258], § 5(b)(2), (c), Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650], 2651.)
 
  __References in Text__ 
 
@@ -151,13 +151,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c). [Pub. L. 111–258, § 5(c)(1)][/us/pl/111/258/s5/c/1], struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
+    2010—Subsec. (c). [Pub. L. 111–258][/us/pl/111/258], § 5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 111–258, § 5(c)(2)][/us/pl/111/258/s5/c/2]–(4), added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–258][/us/pl/111/258], § 5(c)(2)–(4), added par. (3).
 
-    Subsec. (d)(5)(E), (F). [Pub. L. 111–258, § 5(b)(2)(A)][/us/pl/111/258/s5/b/2/A], added subpar. (E) and redesignated former subpar. (E) as (F).
+    Subsec. (d)(5)(E), (F). [Pub. L. 111–258][/us/pl/111/258], § 5(b)(2)(A), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    Subsec. (d)(8), (9). [Pub. L. 111–258, § 5(b)(2)(B)][/us/pl/111/258/s5/b/2/B]–(D), added pars. (8) and (9).
+    Subsec. (d)(8), (9). [Pub. L. 111–258][/us/pl/111/258], § 5(b)(2)(B)–(D), added pars. (8) and (9).
 
 ----------
 
@@ -169,16 +169,16 @@
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
 [/us/usc/t6/s485/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485%2Ff
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
-[/us/pl/107/296/s210D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210D
-[/us/pl/110/53/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs521%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F328
-[/us/pl/111/258/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fb%2F2
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2650
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/258/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fc%2F1
-[/us/pl/111/258/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fc%2F2
-[/us/pl/111/258/s5/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fb%2F2%2FA
-[/us/pl/111/258/s5/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fb%2F2%2FB
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 
 

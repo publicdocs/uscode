@@ -17,7 +17,7 @@
 
     The Secretary shall provide training and guidance for employees, officials, and senior executives of the intelligence components of the Department to develop knowledge of laws, regulations, operations, policies, procedures, and programs that are related to the functions of the Department relating to the collection, processing, analysis, and dissemination of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence (as defined in [section 3003(5) of title 50][/us/usc/t50/s3003/5]).
 
-([Pub. L. 107–296, title II, § 208][/us/pl/107/296/s208], as added [Pub. L. 110–53, title V, § 503(a)][/us/pl/110/53/s503/a], Aug. 3, 2007, [121 Stat. 312][/us/stat/121/312].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 208, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 503(a), Aug. 3, 2007, [121 Stat. 312][/us/stat/121/312].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t50/s3003/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F5
-[/us/pl/107/296/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs208
-[/us/pl/110/53/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs503%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F312
 
 

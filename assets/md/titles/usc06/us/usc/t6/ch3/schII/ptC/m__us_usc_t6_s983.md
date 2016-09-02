@@ -27,7 +27,7 @@
 
         (B) provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.
 
-([Pub. L. 109–347, title II, § 233(a)][/us/pl/109/347/s233/a], Oct. 13, 2006, [120 Stat. 1917][/us/stat/120/1917].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 233(a), Oct. 13, 2006, [120 Stat. 1917][/us/stat/120/1917].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs233%2Fa
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1917
 
 

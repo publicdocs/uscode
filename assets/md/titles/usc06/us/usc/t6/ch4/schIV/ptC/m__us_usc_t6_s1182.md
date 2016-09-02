@@ -113,7 +113,7 @@
 
             Sums appropriated to carry out this section shall remain available until expended.
 
-([Pub. L. 110–53, title XV, § 1532][/us/pl/110/53/s1532], Aug. 3, 2007, [121 Stat. 457][/us/stat/121/457].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1532, Aug. 3, 2007, [121 Stat. 457][/us/stat/121/457].)
 
 ----------
 
@@ -131,7 +131,7 @@
 [/us/usc/t6/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1181
 [/us/usc/t49/s5311/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5311%2Ff
 [/us/usc/t49/s114/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fw
-[/us/pl/110/53/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1532
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F457
 
 

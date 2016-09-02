@@ -41,7 +41,7 @@
 
         The term “United States” means the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
 
-([Pub. L. 110–53, title XIII, § 1301][/us/pl/110/53/s1301], Aug. 3, 2007, [121 Stat. 389][/us/stat/121/389].)
+([Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1301, Aug. 3, 2007, [121 Stat. 389][/us/stat/121/389].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/110/53/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1301
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F389
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F389

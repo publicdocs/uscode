@@ -79,15 +79,15 @@
 
             Any content of a review and evaluation described in the reports required in this subsection that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Secretary, would be detrimental to the law enforcement or national security activities of the Department or any other Federal, State, or local agency, shall be presented to Congress separately from the rest of the review and evaluation.
 
-([Pub. L. 107–296, title VIII, § 878][/us/pl/107/296/s878], Nov. 25, 2002, [116 Stat. 2245][/us/stat/116/2245]; [Pub. L. 108–458, title VII, § 7407(a)][/us/pl/108/458/s7407/a], Dec. 17, 2004, [118 Stat. 3851][/us/stat/118/3851]; [Pub. L. 109–469, title I, § 103(f)(2)][/us/pl/109/469/s103/f/2], Dec. 29, 2006, [120 Stat. 3510][/us/stat/120/3510]; [Pub. L. 112–166, § 2(f)(3)][/us/pl/112/166/s2/f/3], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 878, Nov. 25, 2002, [116 Stat. 2245][/us/stat/116/2245]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7407(a), Dec. 17, 2004, [118 Stat. 3851][/us/stat/118/3851]; [Pub. L. 109–469, title I][/us/pl/109/469/tI], § 103(f)(2), Dec. 29, 2006, [120 Stat. 3510][/us/stat/120/3510]; [Pub. L. 112–166][/us/pl/112/166], § 2(f)(3), Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284].)
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate” before period at end.
 
-    2006—Subsec. (c). [Pub. L. 109–469, § 103(f)(2)(A)][/us/pl/109/469/s103/f/2/A], substituted “The” for “Except as provided in subsection (d) of this section, the”.
+    2006—Subsec. (c). [Pub. L. 109–469][/us/pl/109/469], § 103(f)(2)(A), substituted “The” for “Except as provided in subsection (d) of this section, the”.
 
-    Subsecs. (d) to (g). [Pub. L. 109–469, § 103(f)(2)(B)][/us/pl/109/469/s103/f/2/B], redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed.”
+    Subsecs. (d) to (g). [Pub. L. 109–469][/us/pl/109/469], § 103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed.”
 
     2004—[Pub. L. 108–458][/us/pl/108/458] amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
 
@@ -106,17 +106,17 @@
 ----------
 ----------
 
-[/us/pl/107/296/s878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs878
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2245
-[/us/pl/108/458/s7407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7407%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3851
-[/us/pl/109/469/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Ff%2F2
+[/us/pl/109/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2FtI
 [/us/stat/120/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3510
-[/us/pl/112/166/s2/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Ff%2F3
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/109/469/s103/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Ff%2F2%2FA
-[/us/pl/109/469/s103/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs103%2Ff%2F2%2FB
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
+[/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa

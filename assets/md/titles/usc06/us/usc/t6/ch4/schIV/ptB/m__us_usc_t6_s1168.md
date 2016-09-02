@@ -111,7 +111,7 @@
 
             Such sums shall remain available until expended.
 
-([Pub. L. 110–53, title XV, § 1518][/us/pl/110/53/s1518], Aug. 3, 2007, [121 Stat. 441][/us/stat/121/441].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1518, Aug. 3, 2007, [121 Stat. 441][/us/stat/121/441].)
 
  __References in Text__ 
 
@@ -128,7 +128,7 @@
 [/us/usc/t6/s1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1163
 [/us/usc/t6/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs142
 [/us/usc/t49/s114/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fw
-[/us/pl/110/53/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1518
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F441
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F266

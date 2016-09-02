@@ -115,11 +115,11 @@
 
         Out of funds appropriated pursuant to [section 114(w) of title 49][/us/usc/t49/s114/w], there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
 
-([Pub. L. 110–53, title XV, § 1511][/us/pl/110/53/s1511], Aug. 3, 2007, [121 Stat. 426][/us/stat/121/426].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1511, Aug. 3, 2007, [121 Stat. 426][/us/stat/121/426].)
 
  __References in Text__ 
 
-    [Section 114(t) of title 49][/us/usc/t49/s114/t], referred to in subsecs. (b)(1), (d), and (f), was redesignated [section 114(s) of title 49][/us/usc/t49/s114/s] by [Pub. L. 110–161, div. E, title V, § 568(a)][/us/pl/110/161/s568/a], Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
+    [Section 114(t) of title 49][/us/usc/t49/s114/t], referred to in subsecs. (b)(1), (d), and (f), was redesignated [section 114(s) of title 49][/us/usc/t49/s114/s] by [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 568(a), Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
 
     Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a note under [section 1101 of this title][/us/usc/t6/s1101].
 
@@ -134,11 +134,11 @@
 [/us/usc/t6/s1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1167
 [/us/usc/t6/s1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1168
 [/us/usc/t49/s114/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fw
-[/us/pl/110/53/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1511
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F426
 [/us/usc/t49/s114/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Ft
 [/us/usc/t49/s114/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fs
-[/us/pl/110/161/s568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs568%2Fa
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2092
 [/us/usc/t6/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1101
 

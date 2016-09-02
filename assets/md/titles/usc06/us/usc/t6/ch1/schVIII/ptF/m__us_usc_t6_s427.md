@@ -43,7 +43,7 @@
 
         In preparing for the review under subsection (a)(1), the Comptroller shall consult with the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives on the specific issues and topics to be reviewed. The extent of coverage needed in areas such as technology integration, employee training, and human capital management, as well as the data requirements of the study, shall be included as part of the consultation.
 
-([Pub. L. 107–296, title VIII, § 857][/us/pl/107/296/s857], Nov. 25, 2002, [116 Stat. 2237][/us/stat/116/2237].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 857, Nov. 25, 2002, [116 Stat. 2237][/us/stat/116/2237].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs857
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2237
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452

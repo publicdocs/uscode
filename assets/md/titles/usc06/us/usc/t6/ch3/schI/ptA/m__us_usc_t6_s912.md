@@ -61,7 +61,7 @@
 
         (4) conduct remedial action tracking and long-term trend analysis.
 
-([Pub. L. 109–347, title I, § 114][/us/pl/109/347/s114], Oct. 13, 2006, [120 Stat. 1896][/us/stat/120/1896].)
+([Pub. L. 109–347, title I][/us/pl/109/347/tI], § 114, Oct. 13, 2006, [120 Stat. 1896][/us/stat/120/1896].)
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t46/s70103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103%2Fc
-[/us/pl/109/347/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs114
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1896
 
 

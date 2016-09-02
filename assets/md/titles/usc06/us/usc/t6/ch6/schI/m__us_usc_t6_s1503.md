@@ -155,9 +155,9 @@
 
     (f) __No right or benefit__ 
 
-        The sharing of a cyber threat indicator or defensive measure with a non-Federal entity under this suchapter shall not create a right or benefit to similar information by such non-Federal entity or any other non-Federal entity.
+        The sharing of a cyber threat indicator or defensive measure with a non-Federal entity under this subchapter shall not create a right or benefit to similar information by such non-Federal entity or any other non-Federal entity.
 
-([Pub. L. 114–113, div. N, title I, § 104][/us/pl/114/113/s104], Dec. 18, 2015, [129 Stat. 2940][/us/stat/129/2940].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 104, Dec. 18, 2015, [129 Stat. 2940][/us/stat/129/2940].)
 
 ----------
 
@@ -168,7 +168,7 @@
 
 [/us/usc/t6/s1504/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fd%2F5%2FA
 [/us/usc/t6/s1507/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1507%2Fe
-[/us/pl/114/113/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs104
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2940
 
 

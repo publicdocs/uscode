@@ -147,7 +147,7 @@
 
         Nothing in this section shall be construed to limit the antitrust exemption under [section 1503(e) of this title][/us/usc/t6/s1503/e] or the protection from liability under [section 1505 of this title][/us/usc/t6/s1505].
 
-([Pub. L. 114–113, div. N, title IV, § 405][/us/pl/114/113/s405], Dec. 18, 2015, [129 Stat. 2981][/us/stat/129/2981].)
+([Pub. L. 114–113, div. N, title IV][/us/pl/114/113/dN/tIV], § 405, Dec. 18, 2015, [129 Stat. 2981][/us/stat/129/2981].)
 
  __References in Text__ 
 
@@ -168,7 +168,7 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t6/s1503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1503%2Fe
 [/us/usc/t6/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1505
-[/us/pl/114/113/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405
+[/us/pl/114/113/dN/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtIV
 [/us/stat/129/2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2981
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

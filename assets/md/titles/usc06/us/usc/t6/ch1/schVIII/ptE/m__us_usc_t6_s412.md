@@ -65,7 +65,7 @@
 
         Nothing in [section 9701(e) of title 5][/us/usc/t5/s9701/e] shall be considered to apply with respect to any agency or subdivision of any agency, which is excluded from the coverage of chapter 71 of title 5 by virtue of an order issued in accordance with section 7103(b) of such title 5 and the preceding provisions of this section (as applicable), or to any employees of any such agency or subdivision or to any individual or entity representing any such employees or any representatives thereof.
 
-([Pub. L. 107–296, title VIII, § 842][/us/pl/107/296/s842], Nov. 25, 2002, [116 Stat. 2234][/us/stat/116/2234].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 842, Nov. 25, 2002, [116 Stat. 2234][/us/stat/116/2234].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t5/s9701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9701%2Fe
-[/us/pl/107/296/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs842
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2234
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

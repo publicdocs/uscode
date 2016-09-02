@@ -53,7 +53,7 @@
 
             This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development, and to any funds provided to the Coast Guard from the Sport Fish Restoration and Boating Trust Fund for boating safety programs.
 
-([Pub. L. 107–296, title XV, § 1511][/us/pl/107/296/s1511], Nov. 25, 2002, [116 Stat. 2309][/us/stat/116/2309]; [Pub. L. 108–7, div. L, § 103(4)][/us/pl/108/7/s103/4], Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529]; [Pub. L. 109–59, title XI, § 11115(b)(2)(F)][/us/pl/109/59/s11115/b/2/F], Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950].)
+([Pub. L. 107–296, title XV][/us/pl/107/296/tXV], § 1511, Nov. 25, 2002, [116 Stat. 2309][/us/stat/116/2309]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 103(4), Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11115(b)(2)(F), Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–59, title XI, § 11115(d)][/us/pl/109/59/s11115/d], Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950], provided that: 
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11115(d), Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 9503 and 9504 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2005.”
 
@@ -81,11 +81,11 @@
 ----------
 
 [/us/usc/t31/s1531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531%2Fa%2F2
-[/us/pl/107/296/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1511
+[/us/pl/107/296/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXV
 [/us/stat/116/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2309
-[/us/pl/108/7/s103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs103%2F4
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F529
-[/us/pl/109/59/s11115/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11115%2Fb%2F2%2FF
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1950
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
@@ -94,7 +94,7 @@
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/109/59/s11115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11115%2Fd
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1950
 
 

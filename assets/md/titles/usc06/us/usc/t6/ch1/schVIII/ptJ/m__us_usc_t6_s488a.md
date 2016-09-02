@@ -191,7 +191,7 @@
 
                 The Secretary shall, as appropriate, provide prior notice to a person whose registration number is revoked under this section and such person shall have an opportunity to appeal, as provided in paragraph (4).
 
-([Pub. L. 107–296, title VIII, § 899B][/us/pl/107/296/s899B], as added [Pub. L. 110–161, div. E, title V, § 563(a)][/us/pl/110/161/s563/a], Dec. 26, 2007, [121 Stat. 2084][/us/stat/121/2084].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 899B, as added [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 563(a), Dec. 26, 2007, [121 Stat. 2084][/us/stat/121/2084].)
 
  __References in Text__ 
 
@@ -210,8 +210,8 @@
 [/us/usc/t6/s488c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488c
 [/us/usc/t6/s488e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488e%2Fe
 [/us/usc/t6/s488e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488e%2Fe
-[/us/pl/107/296/s899B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs899B
-[/us/pl/110/161/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs563%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2084
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/stat/115/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F272

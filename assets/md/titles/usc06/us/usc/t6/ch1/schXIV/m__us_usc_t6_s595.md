@@ -17,7 +17,7 @@
 
     The authority of the Director under this subchapter shall not affect the authorities or responsibilities of any officer of the Department or of any officer of any other department or agency of the United States with respect to the command, control, or direction of the functions, personnel, funds, assets, and liabilities of any entity within the Department or any Federal department or agency.
 
-([Pub. L. 107–296, title XIX, § 1905][/us/pl/107/296/s1905], formerly title XVIII, § 1805, as added [Pub. L. 109–347, title V, § 501(a)][/us/pl/109/347/s501/a], Oct. 13, 2006, [120 Stat. 1934][/us/stat/120/1934]; renumbered title XIX, § 1905, [Pub. L. 110–53, title I, § 104(a)(1)][/us/pl/110/53/s104/a/1], (2), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
+([Pub. L. 107–296, title XIX][/us/pl/107/296/tXIX], § 1905, formerly title XVIII, § 1805, as added [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(a), Oct. 13, 2006, [120 Stat. 1934][/us/stat/120/1934]; renumbered title XIX, § 1905, [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 104(a)(1), (2), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1905
-[/us/pl/109/347/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fa
+[/us/pl/107/296/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIX
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1934
-[/us/pl/110/53/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs104%2Fa%2F1
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F294
 
 

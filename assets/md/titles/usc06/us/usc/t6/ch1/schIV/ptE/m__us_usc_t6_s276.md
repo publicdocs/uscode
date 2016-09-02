@@ -33,7 +33,7 @@
 
         In carrying out subsection (a), the Secretary shall consult with the Secretary of State, the Secretary of Labor, the Assistant Secretary of the Bureau of Border Security of the Department, and the Director of the Executive Office for Immigration Review to determine how to streamline and improve the process for applying for and making adjudications described in [section 271(b) of this title][/us/usc/t6/s271/b] and related processes.
 
-([Pub. L. 107–296, title IV, § 459][/us/pl/107/296/s459], Nov. 25, 2002, [116 Stat. 2201][/us/stat/116/2201].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 459, Nov. 25, 2002, [116 Stat. 2201][/us/stat/116/2201].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t6/s271/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs271%2Fb
 [/us/usc/t6/s271/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs271%2Fb
-[/us/pl/107/296/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs459
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2201
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

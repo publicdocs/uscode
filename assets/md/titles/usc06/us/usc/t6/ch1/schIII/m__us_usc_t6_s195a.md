@@ -47,7 +47,7 @@
 
         For purposes of this section, the term “interoperable”, with respect to emergency communications, has the meaning given the term in [section 578 of this title][/us/usc/t6/s578].
 
-([Pub. L. 107–296, title III, § 315][/us/pl/107/296/s315], as added [Pub. L. 109–295, title VI, § 673(a)][/us/pl/109/295/s673/a], Oct. 4, 2006, [120 Stat. 1443][/us/stat/120/1443].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 315, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 673(a), Oct. 4, 2006, [120 Stat. 1443][/us/stat/120/1443].)
 
 ----------
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t6/s578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs578
-[/us/pl/107/296/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs315
-[/us/pl/109/295/s673/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs673%2Fa
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1443
 
 

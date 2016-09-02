@@ -543,7 +543,7 @@
 
             (F) any other information that the Secretary determines will be helpful to Congress in evaluating the performance of the Chemical Facility Anti-Terrorism Standards Program.
 
-([Pub. L. 107–296, title XXI, § 2102][/us/pl/107/296/s2102], as added [Pub. L. 113–254, § 2(a)][/us/pl/113/254/s2/a], Dec. 18, 2014, [128 Stat. 2900][/us/stat/128/2900].)
+([Pub. L. 107–296, title XXI][/us/pl/107/296/tXXI], § 2102, as added [Pub. L. 113–254][/us/pl/113/254], § 2(a), Dec. 18, 2014, [128 Stat. 2900][/us/stat/128/2900].)
 
  __Termination of Section__ 
 
@@ -568,8 +568,8 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t6/s627/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs627%2Fb
 [/us/usc/t6/s621/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs621%2F3
-[/us/pl/107/296/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2102
-[/us/pl/113/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs2%2Fa
+[/us/pl/107/296/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXXI
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2900
 [/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
 [/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254

@@ -91,15 +91,15 @@
 
         Not later than 1 year after December 18, 2015, the Privacy Officer appointed under [section 142 of this title][/us/usc/t6/s142], in consultation with the Attorney General, shall review the policies and guidelines for the program carried out under this section to ensure that the policies and guidelines are consistent with applicable privacy laws, including those governing the acquisition, interception, retention, use, and disclosure of communications.
 
-([Pub. L. 107–296, title II, § 230][/us/pl/107/296/s230], as added [Pub. L. 114–113, div. N, title II, § 223(a)(6)][/us/pl/114/113/s223/a/6], Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 230, as added [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 223(a)(6), Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964].)
 
  __References in Text__ 
 
-    Section 208(b) of the E-Government Act of 2002, referred to in subsec. (c)(6), is [section 208(b) of title II of Pub. L. 107–347][/us/pl/107/347/s208/b], which is set out as a note under [section 3501 of Title 44][/us/usc/t44/s3501], Printing and Public Documents.
+    Section 208(b) of the E-Government Act of 2002, referred to in subsec. (c)(6), is [section 208(b) of title II of Pub. L. 107–347][/us/pl/107/347/tII/s208/b], which is set out as a note under [section 3501 of Title 44][/us/usc/t44/s3501], Printing and Public Documents.
 
  __Agency Responsibilities__ 
 
-[Pub. L. 114–113, div. N, title II, § 223(b)][/us/pl/114/113/s223/b], Dec. 18, 2015, [129 Stat. 2966][/us/stat/129/2966], provided that:
+[Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 223(b), Dec. 18, 2015, [129 Stat. 2966][/us/stat/129/2966], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -133,12 +133,12 @@
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t6/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs142
-[/us/pl/107/296/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs230
-[/us/pl/114/113/s223/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F6
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2964
-[/us/pl/107/347/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs208%2Fb
+[/us/pl/107/347/tII/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII%2Fs208%2Fb
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
-[/us/pl/114/113/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fb
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2966
 [/us/usc/t6/s151/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151%2Fb%2F1
 [/us/usc/t6/s151/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151%2Fb%2F2

@@ -23,7 +23,7 @@
 
     (3) perform such other functions as the President may direct.
 
-([Pub. L. 107–296, title IX, § 904][/us/pl/107/296/s904], Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259].)
+([Pub. L. 107–296, title IX][/us/pl/107/296/tIX], § 904, Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs904
+[/us/pl/107/296/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIX
 [/us/stat/116/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2259
 
 

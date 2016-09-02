@@ -31,7 +31,7 @@
 
         Not later than 60 days before effecting any transfer of Department of Energy life sciences activities pursuant to [section 183(1)(D) of this title][/us/usc/t6/s183/1/D], the President shall notify the appropriate congressional committees of the proposed transfer and shall include the reasons for the transfer and a description of the effect of the transfer on the activities of the Department of Energy.
 
-([Pub. L. 107–296, title III, § 306][/us/pl/107/296/s306], Nov. 25, 2002, [116 Stat. 2168][/us/stat/116/2168].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 306, Nov. 25, 2002, [116 Stat. 2168][/us/stat/116/2168].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t6/s183/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs183%2F1%2FD
-[/us/pl/107/296/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs306
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2168
 
 

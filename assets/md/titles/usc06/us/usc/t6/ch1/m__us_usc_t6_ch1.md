@@ -241,7 +241,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124" data-uslm-ref="/us/usc/t6/s124">124</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124l" data-uslm-ref="/us/usc/t6/s124l">124l.</a>  </td>
 
     <td> National asset database.  </td>
 
@@ -611,7 +611,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
     <td> 
 
-SUBCHAPTER IV—DIRECTORATE OF BORDER AND TRANSPORTATION SECURITY  </td>
+SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY  </td>
 
   </tr>
 
@@ -619,7 +619,7 @@ SUBCHAPTER IV—DIRECTORATE OF BORDER AND TRANSPORTATION SECURITY  </td>
 
     <td> 
 
-Part A—Under Secretary for Border and Transportation Security  </td>
+Part A—Border, Maritime, and Transportation Security Responsibilities and Functions  </td>
 
   </tr>
 
@@ -627,7 +627,7 @@ Part A—Under Secretary for Border and Transportation Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs201" data-uslm-ref="/us/usc/t6/s201">201.</a>  </td>
 
-    <td> Under Secretary for Border and Transportation Security.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -635,7 +635,7 @@ Part A—Under Secretary for Border and Transportation Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs202" data-uslm-ref="/us/usc/t6/s202">202.</a>  </td>
 
-    <td> Responsibilities.  </td>
+    <td> Border, maritime, and transportation responsibilities.  </td>
 
   </tr>
 
@@ -651,7 +651,7 @@ Part A—Under Secretary for Border and Transportation Security  </td>
 
     <td> 
 
-Part B—United States Customs Service  </td>
+Part B—U.S. Customs and Border Protection  </td>
 
   </tr>
 
@@ -659,7 +659,7 @@ Part B—United States Customs Service  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs211" data-uslm-ref="/us/usc/t6/s211">211.</a>  </td>
 
-    <td> Establishment; Commissioner of Customs.  </td>
+    <td> Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices.  </td>
 
   </tr>
 
@@ -699,7 +699,7 @@ Part B—United States Customs Service  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs216" data-uslm-ref="/us/usc/t6/s216">216.</a>  </td>
 
-    <td> GAO report to Congress.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -715,7 +715,7 @@ Part B—United States Customs Service  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs218" data-uslm-ref="/us/usc/t6/s218">218.</a>  </td>
 
-    <td> Reports to Congress.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -851,7 +851,7 @@ Part D—Immigration Enforcement Functions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs251" data-uslm-ref="/us/usc/t6/s251">251.</a>  </td>
 
-    <td> Transfer of functions to Under Secretary for Border and Transportation Security.  </td>
+    <td> Transfer of functions.  </td>
 
   </tr>
 
@@ -1249,7 +1249,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321" data-uslm-ref="/us/usc/t6/s321">321</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321l" data-uslm-ref="/us/usc/t6/s321l">321l.</a>  </td>
 
     <td> Guidance and recommendations.  </td>
 

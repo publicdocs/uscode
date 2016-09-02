@@ -65,7 +65,7 @@
 
         (5) for fiscal year 2012, $950,000,000.
 
-([Pub. L. 109–295, title VI, § 662][/us/pl/109/295/s662], Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433]; [Pub. L. 110–53, title II, § 201][/us/pl/110/53/s201], Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 662, Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433]; [Pub. L. 110–53, title II][/us/pl/110/53/tII], § 201, Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
 
  __References in Text__ 
 
@@ -85,9 +85,9 @@
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/109/295/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs662
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1433
-[/us/pl/110/53/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs201
+[/us/pl/110/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtII
 [/us/stat/121/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F294
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

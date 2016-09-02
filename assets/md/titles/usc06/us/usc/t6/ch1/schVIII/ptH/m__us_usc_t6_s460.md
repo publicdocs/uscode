@@ -17,7 +17,7 @@
 
     Any and all activities of the Federal Government to implement the proposed component program of the Citizen Corps known as Operation TIPS (Terrorism Information and Prevention System) are hereby prohibited.
 
-([Pub. L. 107–296, title VIII, § 880][/us/pl/107/296/s880], Nov. 25, 2002, [116 Stat. 2245][/us/stat/116/2245].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 880, Nov. 25, 2002, [116 Stat. 2245][/us/stat/116/2245].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs880
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2245
 
 

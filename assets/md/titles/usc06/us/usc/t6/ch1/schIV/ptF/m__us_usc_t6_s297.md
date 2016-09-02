@@ -85,7 +85,7 @@
 
             Not later than 1 year after November 25, 2002, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report examining whether the Bureau of Citizenship and Immigration Services is likely to derive sufficient funds from fees to carry out its functions in the absence of appropriated funds.
 
-([Pub. L. 107–296, title IV, § 477][/us/pl/107/296/s477], Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 477, Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
 
  __References in Text__ 
 
@@ -111,7 +111,7 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
-[/us/pl/107/296/s477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs477
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2209
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

@@ -27,7 +27,7 @@
 
         (2) contains technical and cost information for evaluation and overall scientific, technical or socioeconomic merit, or cost-related or price-related factors.
 
-([Pub. L. 107–296, title VIII, § 834][/us/pl/107/296/s834], Nov. 25, 2002, [116 Stat. 2227][/us/stat/116/2227].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 834, Nov. 25, 2002, [116 Stat. 2227][/us/stat/116/2227].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs834
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2227
 
 

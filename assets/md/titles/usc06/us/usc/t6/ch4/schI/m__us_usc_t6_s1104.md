@@ -89,7 +89,7 @@
 
         This section shall take effect on October 1, 2006, and shall apply to all activities and claims occurring on or after such date.
 
-([Pub. L. 110–53, title XII, § 1206][/us/pl/110/53/s1206], Aug. 3, 2007, [121 Stat. 388][/us/stat/121/388].)
+([Pub. L. 110–53, title XII][/us/pl/110/53/tXII], § 1206, Aug. 3, 2007, [121 Stat. 388][/us/stat/121/388].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
 [/us/usc/t46/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/110/53/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1206
+[/us/pl/110/53/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXII
 [/us/stat/121/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F388
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F422

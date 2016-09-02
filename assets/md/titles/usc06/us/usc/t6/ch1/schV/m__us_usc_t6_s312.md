@@ -21,7 +21,7 @@
 
     (2) those entities of the Environmental Protection Agency that perform such support functions (including radiological emergency response functions) and related functions.
 
-([Pub. L. 107–296, title V, § 502][/us/pl/107/296/s502], formerly § 506, Nov. 25, 2002, [116 Stat. 2214][/us/stat/116/2214]; renumbered § 502, [Pub. L. 109–295, title VI, § 611(9)][/us/pl/109/295/s611/9], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 502, formerly § 506, Nov. 25, 2002, [116 Stat. 2214][/us/stat/116/2214]; renumbered § 502, [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(9), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs502
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
 [/us/stat/116/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2214
-[/us/pl/109/295/s611/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F9
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 [/us/usc/t6/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs316
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295

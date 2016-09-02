@@ -31,7 +31,7 @@
 
         (4) provide educational, technical, and analytical assistance to Federal agencies with responsibilities for maritime domain awareness, including the Coast Guard, to focus on the need for interoperability, information sharing, and common information technology standards and architecture.
 
-([Pub. L. 109–347, title I, § 128][/us/pl/109/347/s128], Oct. 13, 2006, [120 Stat. 1900][/us/stat/120/1900].)
+([Pub. L. 109–347, title I][/us/pl/109/347/tI], § 128, Oct. 13, 2006, [120 Stat. 1900][/us/stat/120/1900].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs128
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1900
 
 

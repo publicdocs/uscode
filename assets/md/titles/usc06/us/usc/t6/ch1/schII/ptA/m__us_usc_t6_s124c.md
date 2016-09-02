@@ -31,7 +31,7 @@
 
         In carrying out the duties and responsibilities under this part, the Under Secretary for Intelligence and Analysis shall take into account the views of the heads of the intelligence components of the Department.
 
-([Pub. L. 107–296, title II, § 206][/us/pl/107/296/s206], as added [Pub. L. 110–53, title V, § 501(a)(1)][/us/pl/110/53/s501/a/1], Aug. 3, 2007, [121 Stat. 309][/us/stat/121/309].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 206, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 501(a)(1), Aug. 3, 2007, [121 Stat. 309][/us/stat/121/309].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
-[/us/pl/107/296/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs206
-[/us/pl/110/53/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F1
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F309
 
 

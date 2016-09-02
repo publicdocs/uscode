@@ -17,7 +17,7 @@
 
     A person who has completed a security awareness training course approved by or operated under a cooperative agreement with the Department of Homeland Security using funds made available in fiscal year 2006 and thereafter or in any prior appropriations Acts, who is enrolled in a program recognized or acknowledged by an Information Sharing and Analysis Center, and who reports a situation, activity or incident pursuant to that program to an appropriate authority, shall not be liable for damages in any action brought in a Federal or State court which result from any act or omission unless such person is guilty of gross negligence or willful misconduct.
 
-([Pub. L. 109–90, title V, § 541][/us/pl/109/90/s541], Oct. 18, 2005, [119 Stat. 2089][/us/stat/119/2089].)
+([Pub. L. 109–90, title V][/us/pl/109/90/tV], § 541, Oct. 18, 2005, [119 Stat. 2089][/us/stat/119/2089].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/90/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2Fs541
+[/us/pl/109/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2FtV
 [/us/stat/119/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2089
 
 

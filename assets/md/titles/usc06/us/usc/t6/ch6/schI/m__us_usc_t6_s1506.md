@@ -63,7 +63,7 @@
 
                 (ii) An assessment of any information not directly related to a cybersecurity threat that is personal information of a specific individual or information identifying a specific individual and was shared by a non-Federal government entity with the Federal government in contravention of this subchapter, or was shared within the Federal Government in contravention of the guidelines required by this subchapter, including a description of any significant violation of this subchapter.
 
-                (iii) The number of times, according to the Attorney General, that information shared under this title was used by a Federal entity to prosecute an offense listed in [section 1504(d)(5)(A) of this title][/us/usc/t6/s1504/d/5/A].
+                (iii) The number of times, according to the Attorney General, that information shared under this subchapter was used by a Federal entity to prosecute an offense listed in [section 1504(d)(5)(A) of this title][/us/usc/t6/s1504/d/5/A].
 
                 (iv) A quantitative and qualitative assessment of the effect of the sharing of cyber threat indicators or defensive measures with the Federal Government on privacy and civil liberties of specific individuals, including the number of notices that were issued with respect to a failure to remove information not directly related to a cybersecurity threat that was personal information of a specific individual or information that identified a specific individual in accordance with the procedures required by [section 1504(b)(3)(E) of this title][/us/usc/t6/s1504/b/3/E].
 
@@ -87,7 +87,7 @@
 
         The unclassified portions of the reports required under this section shall be made available to the public.
 
-([Pub. L. 114–113, div. N, title I, § 107][/us/pl/114/113/s107], Dec. 18, 2015, [129 Stat. 2951][/us/stat/129/2951].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 107, Dec. 18, 2015, [129 Stat. 2951][/us/stat/129/2951].)
 
 ----------
 
@@ -101,7 +101,7 @@
 [/us/usc/t6/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fc
 [/us/usc/t6/s1504/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fd%2F5%2FA
 [/us/usc/t6/s1504/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fb%2F3%2FE
-[/us/pl/114/113/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs107
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2951
 
 

@@ -187,11 +187,11 @@
 
             It is the sense of Congress that interoperable emergency communications systems and radios should continue to be deployed as soon as practicable for use by the first responder community, and that upgraded and new digital communications systems and new digital radios must meet prevailing national, voluntary consensus standards for interoperability.
 
-([Pub. L. 108–458, title VII, § 7303][/us/pl/108/458/s7303], Dec. 17, 2004, [118 Stat. 3843][/us/stat/118/3843]; [Pub. L. 110–53, title III, § 301(c)][/us/pl/110/53/s301/c], Aug. 3, 2007, [121 Stat. 299][/us/stat/121/299].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7303, Dec. 17, 2004, [118 Stat. 3843][/us/stat/118/3843]; [Pub. L. 110–53, title III][/us/pl/110/53/tIII], § 301(c), Aug. 3, 2007, [121 Stat. 299][/us/stat/121/299].)
 
  __References in Text__ 
 
-    [Section 321 of this title][/us/usc/t6/s321], referred to in subsec. (a)(2)(B)(ii), was in the original a reference to section 510 of the Homeland Security Act of 2002, as added by [section 7303(d) of Pub. L. 108–458][/us/pl/108/458/s7303/d], which was repealed by [Pub. L. 109–295, title VI, § 611(5)][/us/pl/109/295/s611/5], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
+    [Section 321 of this title][/us/usc/t6/s321], referred to in subsec. (a)(2)(B)(ii), was in the original a reference to section 510 of the Homeland Security Act of 2002, as added by [section 7303(d) of Pub. L. 108–458][/us/pl/108/458/s7303/d], which was repealed by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(5), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
 
  __Codification__ 
 
@@ -203,13 +203,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (f)(6), (7). [Pub. L. 110–53, § 301(c)(1)][/us/pl/110/53/s301/c/1], added pars. (6) and (7). See Codification note above.
+    2007—Subsec. (f)(6), (7). [Pub. L. 110–53][/us/pl/110/53], § 301(c)(1), added pars. (6) and (7). See Codification note above.
 
-    Subsec. (g)(1). [Pub. L. 110–53, § 301(c)(2)][/us/pl/110/53/s301/c/2], substituted “and video” for “or video”. See Codification note above.
+    Subsec. (g)(1). [Pub. L. 110–53][/us/pl/110/53], § 301(c)(2), substituted “and video” for “or video”. See Codification note above.
 
  __Effective Date__ 
 
-[Pub. L. 108–458, title VII, § 7308][/us/pl/108/458/s7308], Dec. 17, 2004, [118 Stat. 3849][/us/stat/118/3849], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7308, Dec. 17, 2004, [118 Stat. 3849][/us/stat/118/3849], provided that: 
 
 > “Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle C (§§ 7301–7308) of title VII of [Pub. L. 108–458][/us/pl/108/458], enacting this section and [section 321 of this title][/us/usc/t6/s321], amending sections 238 and 312 of this title, and enacting provisions set out as notes under this section and [section 5196 of Title 42][/us/usc/t42/s5196], The Public Health and Welfare\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
 
@@ -218,6 +218,36 @@
     For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see [section 571(d)(1) of this title][/us/usc/t6/s571/d/1].
 
  __Department of Homeland Security Interoperable Communications__ 
+
+[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 212, Feb. 8, 2016, [130 Stat. 42][/us/stat/130/42], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     If the Secretary of Homeland Security determines that there are at least two communications systems described under paragraph (1)(B) and certified under paragraph (2), the Secretary shall establish and carry out a pilot program across not less than three components of the Department of Homeland Security to assess the effectiveness of a communications system that—
+
+>         “(1)
+
+>          provides for—
+
+>             “(A) multiagency collaboration and interoperability; and
+
+>             “(B) wide-area, secure, and peer-invitation- and-acceptance-based multimedia communications;
+
+>         “(2) is certified by the Department of Defense Joint Interoperability Test Center; and
+
+>         “(3) is composed of commercially available, off-the-shelf technology.
+
+>     “(b)  __Assessment__  __.—__ 
+
+>     Not later than 6 months after the date on which the pilot program is completed, the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee Homeland Security and Governmental Affairs of the Senate an assessment of the pilot program, including the impacts of the program with respect to interagency and Coast Guard response capabilities.
+
+>     “(c)  __Strategy__  __.—__ 
+
+>     The pilot program shall be consistent with the strategy required by the Department of Homeland Security Interoperable Communications Act ([Public Law 114–29][/us/pl/114/29]) \[set out below\].
+
+>     “(d)  __Timing__  __.—__ 
+
+>     The pilot program shall commence within 90 days after the date of the enactment of this Act \[Feb. 8, 2016\] or within 60 days after the completion of the strategy required by the Department of Homeland Security Interoperable Communications Act ([Public Law 114–29][/us/pl/114/29]), whichever is later.”
 
 [Pub. L. 114–29][/us/pl/114/29], July 6, 2015, [129 Stat. 421][/us/stat/129/421], provided that:
 
@@ -248,27 +278,31 @@
 
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/108/458/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3843
-[/us/pl/110/53/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs301%2Fc
+[/us/pl/110/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIII
 [/us/stat/121/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F299
 [/us/usc/t6/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321
 [/us/pl/108/458/s7303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303%2Fd
-[/us/pl/109/295/s611/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F5
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 [/us/pl/108/458/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303
 [/us/pl/108/458/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303
 [/us/usc/t6/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321
 [/us/pl/108/458/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303
 [/us/pl/110/53/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs301%2Fc
-[/us/pl/110/53/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs301%2Fc%2F1
-[/us/pl/110/53/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs301%2Fc%2F2
-[/us/pl/108/458/s7308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7308
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3849
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t6/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321
 [/us/usc/t42/s5196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196
 [/us/usc/t6/s571/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs571%2Fd%2F1
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F42
+[/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
+[/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
 [/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
 [/us/stat/129/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F421
 [/us/usc/t6/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs341%2Fd

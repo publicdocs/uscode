@@ -71,7 +71,7 @@
 
         The Secretary shall ensure that the exercise program developed under subsection (c) is a component of the National Exercise Program established under [section 748 of this title][/us/usc/t6/s748].
 
-([Pub. L. 110–53, title XV, § 1516][/us/pl/110/53/s1516], Aug. 3, 2007, [121 Stat. 438][/us/stat/121/438].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1516, Aug. 3, 2007, [121 Stat. 438][/us/stat/121/438].)
 
 ----------
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t6/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs748
-[/us/pl/110/53/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1516
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F438
 
 

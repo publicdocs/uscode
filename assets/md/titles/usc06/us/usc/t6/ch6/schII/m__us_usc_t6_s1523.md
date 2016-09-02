@@ -65,7 +65,7 @@
 
         The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
 
-([Pub. L. 114–113, div. N, title II, § 225][/us/pl/114/113/s225], Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967].)
+([Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 225, Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967].)
 
 ----------
 
@@ -79,7 +79,7 @@
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t44/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3505
 [/us/usc/t15/s7464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7464
-[/us/pl/114/113/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs225
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2967
 
 

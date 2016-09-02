@@ -73,7 +73,7 @@
 
             (A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(5)”. </sup></sup>  an evaluation of the feasibility and desirability of the Department developing, on its own or in conjunction with the Department of Defense, a mobile communications capability, modeled on the Army Signal Corps, that could be deployed to support emergency communications at the site of natural disasters, acts of terrorism, or other man-made disasters.
 
-([Pub. L. 107–296, title XVIII, § 1803][/us/pl/107/296/s1803], as added [Pub. L. 109–295, title VI, § 671(b)][/us/pl/109/295/s671/b], Oct. 4, 2006, [120 Stat. 1437][/us/stat/120/1437].)
+([Pub. L. 107–296, title XVIII][/us/pl/107/296/tXVIII], § 1803, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 671(b), Oct. 4, 2006, [120 Stat. 1437][/us/stat/120/1437].)
 
  __Codification__ 
 
@@ -86,8 +86,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1803
-[/us/pl/109/295/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs671%2Fb
+[/us/pl/107/296/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1437
 [/us/pl/107/296/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1803
 [/us/usc/t6/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs593

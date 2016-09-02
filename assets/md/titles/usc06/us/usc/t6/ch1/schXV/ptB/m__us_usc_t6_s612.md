@@ -169,7 +169,7 @@
 
             At the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress a report setting forth the amount of funding provided during that fiscal year to Indian tribes under any grant program administered by the Department, whether provided directly or through a subgrant from a State or high-risk urban area.
 
-([Pub. L. 107–296, title XX, § 2022][/us/pl/107/296/s2022], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 287][/us/stat/121/287]; amended [Pub. L. 111–204, § 2(h)(6)(B)(iii)][/us/pl/111/204/s2/h/6/B/iii], July 22, 2010, [124 Stat. 2231][/us/stat/124/2231]; [Pub. L. 113–284, § 2(c)(1)][/us/pl/113/284/s2/c/1], (2), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2022, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 287][/us/stat/121/287]; amended [Pub. L. 111–204][/us/pl/111/204], § 2(h)(6)(B)(iii), July 22, 2010, [124 Stat. 2231][/us/stat/124/2231]; [Pub. L. 113–284][/us/pl/113/284], § 2(c)(1), (2), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].)
 
  __References in Text__ 
 
@@ -187,7 +187,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–284, § 2(c)(3)][/us/pl/113/284/s2/c/3], Dec. 18, 2014, [128 Stat. 3090][/us/stat/128/3090], provided that: 
+[Pub. L. 113–284][/us/pl/113/284], § 2(c)(3), Dec. 18, 2014, [128 Stat. 3090][/us/stat/128/3090], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on January 1, 2015.”
 
@@ -210,12 +210,12 @@
 [/us/usc/t6/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs605
 [/us/usc/t6/s752/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs752%2Fc
 [/us/usc/t6/s752/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs752%2Fa
-[/us/pl/107/296/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2022
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F287
-[/us/pl/111/204/s2/h/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh%2F6%2FB%2Fiii
+[/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/stat/124/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2231
-[/us/pl/113/284/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F1
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/pl/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F300
 [/us/stat/116/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2350
@@ -230,7 +230,7 @@
 [/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/usc/t31/s3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3561
-[/us/pl/113/284/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F3
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3090
 
 

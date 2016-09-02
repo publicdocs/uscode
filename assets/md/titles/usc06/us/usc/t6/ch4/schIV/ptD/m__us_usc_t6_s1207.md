@@ -41,7 +41,7 @@
 
         (3) $2,000,000 for fiscal year 2010.
 
-([Pub. L. 110–53, title XV, § 1557][/us/pl/110/53/s1557], Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1557, Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t49/s114/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fw
-[/us/pl/110/53/s1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1557
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F475
 
 

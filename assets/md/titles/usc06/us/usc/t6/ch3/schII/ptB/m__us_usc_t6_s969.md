@@ -31,7 +31,7 @@
 
         (C) the number of participants that will be revalidated during the following year.
 
-([Pub. L. 109–347, title II, § 219][/us/pl/109/347/s219], Oct. 13, 2006, [120 Stat. 1913][/us/stat/120/1913].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 219, Oct. 13, 2006, [120 Stat. 1913][/us/stat/120/1913].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs219
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1913
 
 

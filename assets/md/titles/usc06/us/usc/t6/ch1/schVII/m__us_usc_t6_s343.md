@@ -101,7 +101,7 @@
 
             There are authorized to be appropriated such sums as may be necessary to carry out this subsection for each fiscal year.
 
-([Pub. L. 107–296, title VII, § 703][/us/pl/107/296/s703], Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219]; [Pub. L. 108–458, title VIII, § 8201(b)][/us/pl/108/458/s8201/b], Dec. 17, 2004, [118 Stat. 3865][/us/stat/118/3865].)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 703, Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8201(b), Dec. 17, 2004, [118 Stat. 3865][/us/stat/118/3865].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–458, title VIII, § 8201(a)][/us/pl/108/458/s8201/a], Dec. 17, 2004, [118 Stat. 3865][/us/stat/118/3865], provided that: 
+[Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8201(a), Dec. 17, 2004, [118 Stat. 3865][/us/stat/118/3865], provided that: 
 
 > “Congress makes the following findings:
 
@@ -141,15 +141,15 @@
 ----------
 
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
-[/us/pl/107/296/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs703
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
 [/us/stat/116/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2219
-[/us/pl/108/458/s8201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8201%2Fb
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3865
 [/us/pl/107/347/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs216
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/458/s8201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8201%2Fa
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3865
 
 

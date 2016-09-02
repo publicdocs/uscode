@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This subchapter is comprised of title XVIII of [Pub. L. 107–296][/us/pl/107/296], as added by [Pub. L. 109–295, title VI, § 671(b)][/us/pl/109/295/s671/b], Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433]. Another title XVIII of [Pub. L. 107–296][/us/pl/107/296] was renumbered title XIX and is classified to subchapter XIV (§ 591 et seq.) of this chapter.
+    This subchapter is comprised of title XVIII of [Pub. L. 107–296][/us/pl/107/296], as added by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 671(b), Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433]. Another title XVIII of [Pub. L. 107–296][/us/pl/107/296] was renumbered title XIX and is classified to subchapter XIV (§ 591 et seq.) of this chapter.
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/109/295/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs671%2Fb
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1433
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 

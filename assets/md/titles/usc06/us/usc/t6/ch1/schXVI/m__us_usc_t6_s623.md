@@ -45,7 +45,7 @@
 
         Nothing in this section shall prohibit the Secretary from disclosing information developed under this subchapter to a Member of Congress in response to a request by a Member of Congress.
 
-([Pub. L. 107–296, title XXI, § 2103][/us/pl/107/296/s2103], as added [Pub. L. 113–254, § 2(a)][/us/pl/113/254/s2/a], Dec. 18, 2014, [128 Stat. 2911][/us/stat/128/2911].)
+([Pub. L. 107–296, title XXI][/us/pl/107/296/tXXI], § 2103, as added [Pub. L. 113–254][/us/pl/113/254], § 2(a), Dec. 18, 2014, [128 Stat. 2911][/us/stat/128/2911].)
 
  __Termination of Section__ 
 
@@ -66,8 +66,8 @@
 [/us/usc/t6/s124h/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124h%2Fj%2F1
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/107/296/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2103
-[/us/pl/113/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs2%2Fa
+[/us/pl/107/296/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXXI
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2911
 [/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
 [/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254

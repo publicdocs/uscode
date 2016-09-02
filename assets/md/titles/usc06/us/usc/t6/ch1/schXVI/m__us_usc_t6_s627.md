@@ -39,7 +39,7 @@
 
         (3) determining security risk associated with a chemical facility.
 
-([Pub. L. 107–296, title XXI, § 2107][/us/pl/107/296/s2107], as added [Pub. L. 113–254, § 2(a)][/us/pl/113/254/s2/a], Dec. 18, 2014, [128 Stat. 2916][/us/stat/128/2916].)
+([Pub. L. 107–296, title XXI][/us/pl/107/296/tXXI], § 2107, as added [Pub. L. 113–254][/us/pl/113/254], § 2(a), Dec. 18, 2014, [128 Stat. 2916][/us/stat/128/2916].)
 
  __Termination of Section__ 
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2107
-[/us/pl/113/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs2%2Fa
+[/us/pl/107/296/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXXI
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2916
 [/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
 [/us/pl/113/254/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fb

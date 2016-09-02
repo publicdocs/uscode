@@ -227,11 +227,11 @@
 
         (2) exempting any private sector entity seeking certification or meeting certification requirements under subsection (b) from compliance with all applicable statutes, regulations, directives, policies, and industry codes of practice.
 
-([Pub. L. 107–296, title V, § 524][/us/pl/107/296/s524], as added [Pub. L. 110–53, title IX, § 901(a)][/us/pl/110/53/s901/a], Aug. 3, 2007, [121 Stat. 365][/us/stat/121/365].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 524, as added [Pub. L. 110–53, title IX][/us/pl/110/53/tIX], § 901(a), Aug. 3, 2007, [121 Stat. 365][/us/stat/121/365].)
 
  __Deadline for Designation of Officer__ 
 
-[Pub. L. 110–53, title IX, § 901(c)][/us/pl/110/53/s901/c], Aug. 3, 2007, [121 Stat. 371][/us/stat/121/371], provided that: 
+[Pub. L. 110–53, title IX][/us/pl/110/53/tIX], § 901(c), Aug. 3, 2007, [121 Stat. 371][/us/stat/121/371], provided that: 
 
 > “The Secretary of Homeland Security shall designate the officer as described in section 524 of the Homeland Security Act of 2002 \[[6 U.S.C. 321m][/us/usc/t6/s321m]\], as added by subsection (a), by not later than 30 days after the date of the enactment of this Act \[Aug. 3, 2007\].”
 
@@ -247,10 +247,10 @@
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t13/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs124
 [/us/usc/t6/s112/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs112%2Ff%2F4
-[/us/pl/107/296/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs524
-[/us/pl/110/53/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs901%2Fa
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/110/53/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIX
 [/us/stat/121/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F365
-[/us/pl/110/53/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs901%2Fc
+[/us/pl/110/53/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIX
 [/us/stat/121/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F371
 [/us/usc/t6/s321m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321m
 

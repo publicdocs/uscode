@@ -21,7 +21,7 @@
 
     (2) devices used in connection with disaster operations, including first aid stations, mass feeding areas, portable payphone stations, portable toilets, and temporary housing.
 
-([Pub. L. 109–295, title VI, § 689(a)][/us/pl/109/295/s689/a], Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689(a), Oct. 4, 2006, [120 Stat. 1448][/us/stat/120/1448].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t6/s321b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321b
-[/us/pl/109/295/s689/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689%2Fa
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1448
 [/us/usc/t6/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314
 

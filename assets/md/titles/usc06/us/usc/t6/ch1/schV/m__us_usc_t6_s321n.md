@@ -43,7 +43,7 @@
 
             Each report required under paragraph (1) shall be made publically  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “publicly”. </sup></sup>  available.
 
-([Pub. L. 107–296, title V, § 525][/us/pl/107/296/s525], as added [Pub. L. 111–245, § 2(a)(1)][/us/pl/111/245/s2/a/1], Sept. 30, 2010, [124 Stat. 2620][/us/stat/124/2620].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 525, as added [Pub. L. 111–245][/us/pl/111/245], § 2(a)(1), Sept. 30, 2010, [124 Stat. 2620][/us/stat/124/2620].)
 
 ----------
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs525
-[/us/pl/111/245/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245%2Fs2%2Fa%2F1
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245
 [/us/stat/124/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2620
 
 

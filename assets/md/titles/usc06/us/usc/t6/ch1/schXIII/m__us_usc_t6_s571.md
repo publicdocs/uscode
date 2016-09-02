@@ -85,7 +85,7 @@
 
             The Comptroller General shall review the validity of the report submitted by the Secretary under paragraph (1). Not later than 60 days after the date on which such report is submitted, the Comptroller General shall submit to Congress a report containing the findings of such review.
 
-([Pub. L. 107–296, title XVIII, § 1801][/us/pl/107/296/s1801], as added [Pub. L. 109–295, title VI, § 671(b)][/us/pl/109/295/s671/b], Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433].)
+([Pub. L. 107–296, title XVIII][/us/pl/107/296/tXVIII], § 1801, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 671(b), Oct. 4, 2006, [120 Stat. 1433][/us/stat/120/1433].)
 
  __Codification__ 
 
@@ -97,7 +97,7 @@
 
  __Savings Clause__ 
 
-[Pub. L. 109–295, title VI, § 675][/us/pl/109/295/s675], Oct. 4, 2006, [120 Stat. 1444][/us/stat/120/1444], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 675, Oct. 4, 2006, [120 Stat. 1444][/us/stat/120/1444], provided that: 
 
 > “Nothing in this subtitle \[subtitle D (§§ 671–675) of title VI of [Pub. L. 109–295][/us/pl/109/295], enacting this subchapter and sections 195 and 195a of this title and provisions set out as a note under [section 101 of this title][/us/usc/t6/s101]\] shall be construed to transfer to the Office of Emergency Communications any function, personnel, asset, component, authority, grant program, or liability of the Federal Emergency Management Agency as constituted on June 1, 2006.”
 
@@ -113,15 +113,15 @@
 [/us/usc/t6/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs575
 [/us/usc/t6/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs572
 [/us/usc/t6/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195
-[/us/pl/107/296/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1801
-[/us/pl/109/295/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs671%2Fb
+[/us/pl/107/296/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1433
 [/us/pl/107/296/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1801
 [/us/usc/t6/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs591
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/109/295/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs675
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1444
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

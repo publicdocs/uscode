@@ -53,7 +53,7 @@
 
         The Secretary shall provide the Office for Interoperability and Compatibility the resources and staff necessary to carry out the responsibilities under this section.
 
-([Pub. L. 107–296, title III, § 314][/us/pl/107/296/s314], as added [Pub. L. 109–295, title VI, § 672(a)][/us/pl/109/295/s672/a], Oct. 4, 2006, [120 Stat. 1441][/us/stat/120/1441].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 314, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 672(a), Oct. 4, 2006, [120 Stat. 1441][/us/stat/120/1441].)
 
 ----------
 
@@ -63,8 +63,8 @@
 ----------
 
 [/us/usc/t6/s194/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Fa%2F1
-[/us/pl/107/296/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs314
-[/us/pl/109/295/s672/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs672%2Fa
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1441
 
 

@@ -23,7 +23,7 @@
 
         Nothing in this chapter, including any amendment made by this chapter, shall be construed as preventing the Under Secretary of Transportation for Security from implementing and training Federal air marshals.
 
-([Pub. L. 107–296, title XIV, § 1402(c)][/us/pl/107/296/s1402/c], Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305].)
+([Pub. L. 107–296, title XIV][/us/pl/107/296/tXIV], § 1402(c), Nov. 25, 2002, [116 Stat. 2305][/us/stat/116/2305].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1402%2Fc
+[/us/pl/107/296/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIV
 [/us/stat/116/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2305
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

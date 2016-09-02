@@ -85,7 +85,7 @@
 
         The Department of Homeland Security Science and Technology Advisory Committee shall terminate on December 31, 2008.
 
-([Pub. L. 107–296, title III, § 311][/us/pl/107/296/s311], Nov. 25, 2002, [116 Stat. 2174][/us/stat/116/2174]; [Pub. L. 108–334, title V, § 520][/us/pl/108/334/s520], Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318]; [Pub. L. 109–347, title III, § 302(a)][/us/pl/109/347/s302/a], Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 311, Nov. 25, 2002, [116 Stat. 2174][/us/stat/116/2174]; [Pub. L. 108–334, title V][/us/pl/108/334/tV], § 520, Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318]; [Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 302(a), Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–347, title III, § 302(b)][/us/pl/109/347/s302/b], Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921], provided that: 
+[Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 302(b), Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as if enacted on the date of the enactment of the Homeland Security Act of 2002 ([6 U.S.C. 101][/us/usc/t6/s101] et seq.) \[Nov. 25, 2002\].”
 
@@ -110,16 +110,16 @@
 ----------
 ----------
 
-[/us/pl/107/296/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs311
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2174
-[/us/pl/108/334/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs520
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1318
-[/us/pl/109/347/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs302%2Fa
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1920
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
-[/us/pl/109/347/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs302%2Fb
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1921
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–295, title VI, § 611(1)][/us/pl/109/295/s611/1], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395], substituted “NATIONAL EMERGENCY MANAGEMENT” for “EMERGENCY PREPAREDNESS AND RESPONSE” in subchapter heading.
+    2006—[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(1), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395], substituted “NATIONAL EMERGENCY MANAGEMENT” for “EMERGENCY PREPAREDNESS AND RESPONSE” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F1
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 
 

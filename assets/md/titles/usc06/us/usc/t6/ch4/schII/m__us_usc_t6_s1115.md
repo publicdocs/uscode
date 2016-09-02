@@ -17,7 +17,7 @@
 
     Any statutory limitation on the number of employees in the Transportation Security Administration does not apply to employees carrying out this chapter.
 
-([Pub. L. 110–53, title XIII, § 1306][/us/pl/110/53/s1306], Aug. 3, 2007, [121 Stat. 395][/us/stat/121/395].)
+([Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1306, Aug. 3, 2007, [121 Stat. 395][/us/stat/121/395].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1306
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F395
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t18/s1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1992

@@ -29,17 +29,17 @@
 
         (1) __Maintenance of functions__ 
 
-            Notwithstanding any other provision of this chapter, the Secretary may not consolidate, discontinue, or diminish those functions described in paragraph (2) performed by the United States Customs Service (as established under [section 211 of this title][/us/usc/t6/s211]) on or after the effective date of this chapter, reduce the staffing level, or reduce the resources attributable to such functions, and the Secretary shall ensure that an appropriate management structure is implemented to carry out such functions.
+            Notwithstanding any other provision of this chapter, the Secretary may not consolidate, discontinue, or diminish those functions described in paragraph (2) performed by U.S. Customs and Border Protection (as established under [section 211 of this title][/us/usc/t6/s211]) on or after the effective date of this chapter, reduce the staffing level, or reduce the resources attributable to such functions, and the Secretary shall ensure that an appropriate management structure is implemented to carry out such functions.
 
         (2) __Functions__ 
 
-            The functions referred to in paragraph (1) are those functions performed by the following personnel, and associated support staff, of the United States Customs Service on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
+            The functions referred to in paragraph (1) are those functions performed by the following personnel, and associated support staff, of U.S. Customs and Border Protection on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
 
     (c) __New personnel__ 
 
         The Secretary of the Treasury is authorized to appoint up to 20 new personnel to work with personnel of the Department in performing customs revenue functions.
 
-([Pub. L. 107–296, title IV, § 412][/us/pl/107/296/s412], Nov. 25, 2002, [116 Stat. 2179][/us/stat/116/2179].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 412, Nov. 25, 2002, [116 Stat. 2179][/us/stat/116/2179]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(iii)(II), Feb. 24, 2016, [130 Stat. 211][/us/stat/130/211].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 
     The African Growth and Opportunity Act, referred to in subsec. (a)(2), is title I of [Pub. L. 106–200][/us/pl/106/200], May 18, 2000, [114 Stat. 252][/us/stat/114/252], as amended, which is classified principally to chapter 23 (§ 3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 19][/us/usc/t19/s3701] and Tables.
 
- __Change of Name__ 
+ __Amendments__ 
 
-    Customs Service, referred to in subsec. (b), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title][/us/usc/t6/s542].
+    2016—Subsec. (b). [Pub. L. 114–125][/us/pl/114/125] substituted “U.S. Customs and Border Protection” for “the United States Customs Service” in pars. (1) and (2).
 
 ----------
 
@@ -92,8 +92,10 @@
 [/us/usc/t19/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3201
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
-[/us/pl/107/296/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs412
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2179
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F211
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -125,6 +127,6 @@
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 
 

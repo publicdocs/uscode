@@ -43,7 +43,7 @@
 
             (B) to oversee activities designed to prevent or resolve international child abduction cases relating to active duty military service members.
 
-([Pub. L. 107–296, title IV, § 433][/us/pl/107/296/s433], as added [Pub. L. 113–150, title III, § 301(a)][/us/pl/113/150/s301/a], Aug. 8, 2014, [128 Stat. 1822][/us/stat/128/1822].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 433, as added [Pub. L. 113–150, title III][/us/pl/113/150/tIII], § 301(a), Aug. 8, 2014, [128 Stat. 1822][/us/stat/128/1822].)
 
 ----------
 
@@ -53,8 +53,8 @@
 ----------
 
 [/us/usc/t18/s1204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1204%2Fb%2F1
-[/us/pl/107/296/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs433
-[/us/pl/113/150/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs301%2Fa
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
+[/us/pl/113/150/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtIII
 [/us/stat/128/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1822
 
 

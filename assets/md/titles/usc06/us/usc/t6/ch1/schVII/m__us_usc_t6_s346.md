@@ -21,7 +21,7 @@
 
     (2) portions of regional and field offices of other Federal agencies, to the extent such offices perform functions that are transferred to the Secretary under this chapter.
 
-([Pub. L. 107–296, title VII, § 706][/us/pl/107/296/s706], Nov. 25, 2002, [116 Stat. 2220][/us/stat/116/2220].)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 706, Nov. 25, 2002, [116 Stat. 2220][/us/stat/116/2220].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs706
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
 [/us/stat/116/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2220
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

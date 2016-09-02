@@ -17,7 +17,7 @@
 
     There is established within the Department of Homeland Security a Homeland Security Intelligence Program. The Homeland Security Intelligence Program constitutes the intelligence activities of the Office of Intelligence and Analysis of the Department that serve predominantly departmental missions.
 
-([Pub. L. 112–277, title V, § 501][/us/pl/112/277/s501], Jan. 14, 2013, [126 Stat. 2476][/us/stat/126/2476].)
+([Pub. L. 112–277, title V][/us/pl/112/277/tV], § 501, Jan. 14, 2013, [126 Stat. 2476][/us/stat/126/2476].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/277/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs501
+[/us/pl/112/277/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2FtV
 [/us/stat/126/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2476
 
 

@@ -23,7 +23,7 @@
 
         Not later than 1 year after May 29, 2015, and annually thereafter, the Secretary shall report to Congress with respect to the overall effectiveness of the program required by this subchapter, the number of cases reported by Department personnel in which human trafficking was suspected, and, of those cases, the number of cases that were confirmed cases of human trafficking.
 
-([Pub. L. 114–22, title IX, § 903][/us/pl/114/22/s903], May 29, 2015, [129 Stat. 265][/us/stat/129/265].)
+([Pub. L. 114–22, title IX][/us/pl/114/22/tIX], § 903, May 29, 2015, [129 Stat. 265][/us/stat/129/265].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs903
+[/us/pl/114/22/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIX
 [/us/stat/129/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F265
 [/us/pl/114/22/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs902%2Fa
 [/us/usc/t6/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs642%2Fa

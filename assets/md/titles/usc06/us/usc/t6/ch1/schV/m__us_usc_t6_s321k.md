@@ -23,7 +23,7 @@
 
         The Administrator shall provide the standards developed under subsection (a), including detailed written guidance, to State, local, and tribal governments, and provide expertise and technical assistance to aid such governments with credentialing critical infrastructure workers that may respond to a natural disaster, act of terrorism, or other manmade disaster.
 
-([Pub. L. 107–296, title V, § 522][/us/pl/107/296/s522], as added [Pub. L. 110–53, title IV, § 409(a)][/us/pl/110/53/s409/a], Aug. 3, 2007, [121 Stat. 305][/us/stat/121/305].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 522, as added [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], § 409(a), Aug. 3, 2007, [121 Stat. 305][/us/stat/121/305].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs522
-[/us/pl/110/53/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs409%2Fa
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F305
 
 

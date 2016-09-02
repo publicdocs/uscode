@@ -43,7 +43,7 @@
 
         (2) information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.
 
-([Pub. L. 109–347, title II, § 236][/us/pl/109/347/s236], Oct. 13, 2006, [120 Stat. 1919][/us/stat/120/1919].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 236, Oct. 13, 2006, [120 Stat. 1919][/us/stat/120/1919].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs236
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1919
 
 

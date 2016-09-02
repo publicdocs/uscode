@@ -51,7 +51,7 @@
 
         The Secretary shall require motor carriers that have a hazardous material safety permit under part 385 of title 49, Code of Federal Regulations, to maintain, follow, and carry a route plan, in written or electronic format, that meets the requirements of section 397.101 of that title when transporting the type and quantity of hazardous materials described in section 385.403 if the Secretary determines, under the assessment required in subsection (b), that such a requirement would enhance security and safety without imposing unreasonable costs or burdens upon motor carriers.
 
-([Pub. L. 110–53, title XV, § 1553][/us/pl/110/53/s1553], Aug. 3, 2007, [121 Stat. 472][/us/stat/121/472].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1553, Aug. 3, 2007, [121 Stat. 472][/us/stat/121/472].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1553
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F472
 
 

@@ -59,7 +59,7 @@
 
         The Homeland Security Institute shall terminate 5 years after its establishment.
 
-([Pub. L. 107–296, title III, § 312][/us/pl/107/296/s312], Nov. 25, 2002, [116 Stat. 2176][/us/stat/116/2176]; [Pub. L. 108–334, title V, § 519][/us/pl/108/334/s519], Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 312, Nov. 25, 2002, [116 Stat. 2176][/us/stat/116/2176]; [Pub. L. 108–334, title V][/us/pl/108/334/tV], § 519, Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs312
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2176
-[/us/pl/108/334/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs519
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1318
 [/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
 

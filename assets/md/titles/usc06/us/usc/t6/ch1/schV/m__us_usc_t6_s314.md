@@ -101,7 +101,7 @@
 
         In carrying out the responsibilities under this section, the Administrator shall coordinate the implementation of a risk-based, all-hazards strategy that builds those common capabilities necessary to prepare for, protect against, respond to, recover from, or mitigate against natural disasters, acts of terrorism, and other man-made disasters, while also building the unique capabilities necessary to prepare for, protect against, respond to, recover from, or mitigate against the risks of specific types of incidents that pose the greatest risk to the Nation.
 
-([Pub. L. 107–296, title V, § 504][/us/pl/107/296/s504], formerly § 502, Nov. 25, 2002, [116 Stat. 2212][/us/stat/116/2212]; [Pub. L. 108–276, § 3(b)(1)][/us/pl/108/276/s3/b/1], July 21, 2004, [118 Stat. 852][/us/stat/118/852]; [Pub. L. 108–458, title VII, § 7303(h)(1)][/us/pl/108/458/s7303/h/1], Dec. 17, 2004, [118 Stat. 3846][/us/stat/118/3846]; renumbered § 504 and amended [Pub. L. 109–295, title VI, § 611(8)][/us/pl/109/295/s611/8], (12), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395], 1398; [Pub. L. 109–417, title III, § 301(c)(1)][/us/pl/109/417/s301/c/1], Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 504, formerly § 502, Nov. 25, 2002, [116 Stat. 2212][/us/stat/116/2212]; [Pub. L. 108–276][/us/pl/108/276], § 3(b)(1), July 21, 2004, [118 Stat. 852][/us/stat/118/852]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7303(h)(1), Dec. 17, 2004, [118 Stat. 3846][/us/stat/118/3846]; renumbered § 504 and amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(8), (12), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395], 1398; [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 301(c)(1), Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854].)
 
  __References in Text__ 
 
@@ -117,23 +117,23 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–295, § 611(12)(A)][/us/pl/109/295/s611/12/A], (B), inserted “Authority and” before “responsibilities” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “The Administrator shall provide Federal leadership necessary to prepare for, protect against, respond to, recover from, or mitigate against a natural disaster, act of terrorism, or other man-made disaster, including—” for “The Secretary, acting through the Under Secretary for Emergency Preparedness and Response, shall include—” in introductory provisions.
+    2006—[Pub. L. 109–295][/us/pl/109/295], § 611(12)(A), (B), inserted “Authority and” before “responsibilities” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “The Administrator shall provide Federal leadership necessary to prepare for, protect against, respond to, recover from, or mitigate against a natural disaster, act of terrorism, or other man-made disaster, including—” for “The Secretary, acting through the Under Secretary for Emergency Preparedness and Response, shall include—” in introductory provisions.
 
-    Subsec. (a)(3)(B). [Pub. L. 109–417][/us/pl/109/417], which directed that [section 502(3)(B) of Pub. L. 107–296][/us/pl/107/296/s502/3/B] be amended by striking “, the National Disaster Medical System,”, was executed by striking those words after “Domestic Emergency Support Team” in subsec. (a)(3)(B) of this section, to reflect the probable intent of Congress and the redesignation of section 502(3)(B) as 504(a)(3)(B) by [Pub. L. 109–295, § 611(8)][/us/pl/109/295/s611/8], (12)(B). See credits and Amendment note above.
+    Subsec. (a)(3)(B). [Pub. L. 109–417][/us/pl/109/417], which directed that [section 502(3)(B) of Pub. L. 107–296][/us/pl/107/296/s502/3/B] be amended by striking “, the National Disaster Medical System,”, was executed by striking those words after “Domestic Emergency Support Team” in subsec. (a)(3)(B) of this section, to reflect the probable intent of Congress and the redesignation of section 502(3)(B) as 504(a)(3)(B) by [Pub. L. 109–295][/us/pl/109/295], § 611(8), (12)(B). See credits and Amendment note above.
 
-    Subsec. (a)(7) to (21). [Pub. L. 109–295, § 611(12)(C)][/us/pl/109/295/s611/12/C], (D), added pars. (7) to (21) and struck out former par. (7) which read as follows: “helping to ensure that emergency response providers acquire interoperable communications technology.”
+    Subsec. (a)(7) to (21). [Pub. L. 109–295][/us/pl/109/295], § 611(12)(C), (D), added pars. (7) to (21) and struck out former par. (7) which read as follows: “helping to ensure that emergency response providers acquire interoperable communications technology.”
 
-    Subsec. (b). [Pub. L. 109–295, § 611(12)(D)][/us/pl/109/295/s611/12/D], added subsec. (b).
+    Subsec. (b). [Pub. L. 109–295][/us/pl/109/295], § 611(12)(D), added subsec. (b).
 
-    2004—Par. (3)(B). [Pub. L. 108–276, § 3(b)(1)(A)][/us/pl/108/276/s3/b/1/A], struck out “the Strategic National Stockpile,” after “Domestic Emergency Support Team,”.
+    2004—Par. (3)(B). [Pub. L. 108–276][/us/pl/108/276], § 3(b)(1)(A), struck out “the Strategic National Stockpile,” after “Domestic Emergency Support Team,”.
 
-    Par. (3)(D). [Pub. L. 108–276, § 3(b)(1)(B)][/us/pl/108/276/s3/b/1/B], inserted “, including requiring deployment of the Strategic National Stockpile,” after “resources”.
+    Par. (3)(D). [Pub. L. 108–276][/us/pl/108/276], § 3(b)(1)(B), inserted “, including requiring deployment of the Strategic National Stockpile,” after “resources”.
 
     Par. (7). [Pub. L. 108–458][/us/pl/108/458] struck out “developing comprehensive programs for developing interoperative communications technology, and” before “helping” and substituted “acquire interoperable communications technology” for “acquire such technology”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–417, title III, § 301(f)][/us/pl/109/417/s301/f], Dec. 19, 2006, [120 Stat. 2855][/us/stat/120/2855], provided that: 
+[Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 301(f), Dec. 19, 2006, [120 Stat. 2855][/us/stat/120/2855], provided that: 
 
 > “The amendments made by subsections (b) and (c) \[amending this section and former [section 313 of this title][/us/usc/t6/s313] and enacting provisions set out as a note under [section 300hh–11 of Title 42][/us/usc/t42/s300hh–11], The Public Health and Welfare\] shall take effect on January 1, 2007.”
 
@@ -202,15 +202,15 @@ Section 1. Policy. To ensure that the Federal Government appropriately supports 
 [/us/usc/t6/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs318
 [/us/usc/t6/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315
 [/us/usc/t6/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313%2Fb
-[/us/pl/107/296/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs504
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
 [/us/stat/116/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2212
-[/us/pl/108/276/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fb%2F1
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F852
-[/us/pl/108/458/s7303/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303%2Fh%2F1
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3846
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
-[/us/pl/109/417/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fc%2F1
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2854
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -219,16 +219,16 @@ Section 1. Policy. To ensure that the Federal Government appropriately supports 
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs504
 [/us/usc/t6/s321f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321f
-[/us/pl/109/295/s611/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F12%2FA
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/pl/107/296/s502/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs502%2F3%2FB
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
-[/us/pl/109/295/s611/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F12%2FC
-[/us/pl/109/295/s611/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F12%2FD
-[/us/pl/108/276/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fb%2F1%2FA
-[/us/pl/108/276/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fb%2F1%2FB
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/109/417/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Ff
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2855
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311

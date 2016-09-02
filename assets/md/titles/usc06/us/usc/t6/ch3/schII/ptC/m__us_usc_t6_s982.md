@@ -95,7 +95,7 @@
 
         Not later than 6 months after the submission of a report under [section 981(d) of this title][/us/usc/t6/s981/d], and every 6 months thereafter, the Secretary shall submit a report to the appropriate congressional committees describing the status of full-scale deployment under subsection (b) and the cost of deploying the system at each foreign port at which the integrated scanning systems are deployed.
 
-([Pub. L. 109–347, title II, § 232][/us/pl/109/347/s232], Oct. 13, 2006, [120 Stat. 1916][/us/stat/120/1916]; [Pub. L. 110–53, title XVII, § 1701(a)][/us/pl/110/53/s1701/a], Aug. 3, 2007, [121 Stat. 489][/us/stat/121/489].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 232, Oct. 13, 2006, [120 Stat. 1916][/us/stat/120/1916]; [Pub. L. 110–53, title XVII][/us/pl/110/53/tXVII], § 1701(a), Aug. 3, 2007, [121 Stat. 489][/us/stat/121/489].)
 
  __References in Text__ 
 
@@ -116,9 +116,9 @@
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s981/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs981%2Fd
-[/us/pl/109/347/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs232
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1916
-[/us/pl/110/53/s1701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1701%2Fa
+[/us/pl/110/53/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVII
 [/us/stat/121/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F489
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

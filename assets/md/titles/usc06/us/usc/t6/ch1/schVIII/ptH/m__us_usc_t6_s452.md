@@ -33,7 +33,7 @@
 
             Authority under subsection (a)(2) does not extend to the abolition of any agency, entity, organizational unit, program, or function established or required to be maintained by statute.
 
-([Pub. L. 107–296, title VIII, § 872][/us/pl/107/296/s872], Nov. 25, 2002, [116 Stat. 2243][/us/stat/116/2243].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 872, Nov. 25, 2002, [116 Stat. 2243][/us/stat/116/2243].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t6/s542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542%2Fb
-[/us/pl/107/296/s872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs872
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2243
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

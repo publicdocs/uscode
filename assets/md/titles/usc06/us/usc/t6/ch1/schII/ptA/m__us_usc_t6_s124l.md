@@ -105,11 +105,11 @@
 
         (2) provide input to the Secretary on any request pertaining to the contents of such database or such list.
 
-([Pub. L. 107–296, title II, § 210E][/us/pl/107/296/s210E], as added [Pub. L. 110–53, title X, § 1001(a)][/us/pl/110/53/s1001/a], Aug. 3, 2007, [121 Stat. 372][/us/stat/121/372].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210E, as added [Pub. L. 110–53, title X][/us/pl/110/53/tX], § 1001(a), Aug. 3, 2007, [121 Stat. 372][/us/stat/121/372].)
 
  __Deadlines for Implementation and Notification of Congress__ 
 
-[Pub. L. 110–53, title X, § 1001(b)][/us/pl/110/53/s1001/b], Aug. 3, 2007, [121 Stat. 374][/us/stat/121/374], provided that: 
+[Pub. L. 110–53, title X][/us/pl/110/53/tX], § 1001(b), Aug. 3, 2007, [121 Stat. 374][/us/stat/121/374], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 \[[6 U.S.C. 124][/us/usc/t6/s124]l(d)\], as added by subsection (a).”
 
@@ -120,10 +120,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s210E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210E
-[/us/pl/110/53/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1001%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtX
 [/us/stat/121/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F372
-[/us/pl/110/53/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1001%2Fb
+[/us/pl/110/53/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtX
 [/us/stat/121/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F374
 [/us/usc/t6/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124
 

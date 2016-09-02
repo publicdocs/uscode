@@ -23,7 +23,7 @@
 
         Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under [section 151(d)(2) of this title][/us/usc/t6/s151/d/2], if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
 
-([Pub. L. 114–113, div. N, title II, § 227][/us/pl/114/113/s227], Dec. 18, 2015, [129 Stat. 2971][/us/stat/129/2971].)
+([Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 227, Dec. 18, 2015, [129 Stat. 2971][/us/stat/129/2971].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t6/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151
 [/us/usc/t6/s1524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1524%2Fc
 [/us/usc/t6/s151/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151%2Fd%2F2
-[/us/pl/114/113/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs227
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2971
 
 

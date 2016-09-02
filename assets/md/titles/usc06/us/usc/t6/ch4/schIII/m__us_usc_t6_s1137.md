@@ -93,7 +93,7 @@
 
         Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of the training program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.
 
-([Pub. L. 110–53, title XIV, § 1408][/us/pl/110/53/s1408], Aug. 3, 2007, [121 Stat. 409][/us/stat/121/409].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1408, Aug. 3, 2007, [121 Stat. 409][/us/stat/121/409].)
 
 ----------
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t6/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs748
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
-[/us/pl/110/53/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1408
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F409
 
 

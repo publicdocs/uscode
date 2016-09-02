@@ -17,7 +17,7 @@
 
     The Secretary of the Department in which the Coast Guard is operating shall require each high risk facility to conduct live or full-scale exercises described in section 105.220(c) of title 33, Code of Federal Regulations, not less frequently than once every 2 years, in accordance with the facility security plan required under [section 70103(c) of title 46][/us/usc/t46/s70103/c].
 
-([Pub. L. 109–347, title I, § 115][/us/pl/109/347/s115], Oct. 13, 2006, [120 Stat. 1897][/us/stat/120/1897].)
+([Pub. L. 109–347, title I][/us/pl/109/347/tI], § 115, Oct. 13, 2006, [120 Stat. 1897][/us/stat/120/1897].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t46/s70103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103%2Fc
-[/us/pl/109/347/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs115
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1897
 
 

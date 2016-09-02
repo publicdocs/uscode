@@ -17,7 +17,7 @@
 
     Not later than 30 days after November 25, 2002, the Attorney General shall submit to Congress a report on changes in law, including changes in authorizations of appropriations and in appropriations, that are needed to permit the Immigration and Naturalization Service, and, after the transfer of functions specified in this part takes effect, the Bureau of Citizenship and Immigration Services of the Department, to ensure a prompt and timely response to emergent, unforeseen, or impending changes in the number of applications for immigration benefits, and otherwise to ensure the accommodation of changing immigration service needs.
 
-([Pub. L. 107–296, title IV, § 460][/us/pl/107/296/s460], Nov. 25, 2002, [116 Stat. 2201][/us/stat/116/2201].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 460, Nov. 25, 2002, [116 Stat. 2201][/us/stat/116/2201].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs460
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2201
 
 

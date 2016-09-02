@@ -339,7 +339,7 @@
 
         There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
 
-([Pub. L. 108–458, title I, § 1016][/us/pl/108/458/s1016], Dec. 17, 2004, [118 Stat. 3664][/us/stat/118/3664]; [Pub. L. 110–53, title V, § 504][/us/pl/110/53/s504], Aug. 3, 2007, [121 Stat. 313][/us/stat/121/313]; [Pub. L. 111–259, title VIII, § 806(a)(1)][/us/pl/111/259/s806/a/1], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1016, Dec. 17, 2004, [118 Stat. 3664][/us/stat/118/3664]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 504, Aug. 3, 2007, [121 Stat. 313][/us/stat/121/313]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(a)(1), Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
 
  __References in Text__ 
 
@@ -357,15 +357,15 @@
 
     2010—Subsec. (e)(10)(B). [Pub. L. 111–259][/us/pl/111/259] substituted “Department of Justice” for “Attorney General”.
 
-    2007—Subsec. (a)(1), (2). [Pub. L. 110–53, § 504(1)(A)][/us/pl/110/53/s504/1/A], (B), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+    2007—Subsec. (a)(1), (2). [Pub. L. 110–53][/us/pl/110/53], § 504(1)(A), (B), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 110–53, § 504(1)(C)][/us/pl/110/53/s504/1/C], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The terms ‘information sharing environment’ and ‘ISE’ mean an approach that facilitates the sharing of terrorism information, which approach may include any methods determined necessary and appropriate for carrying out this section.”
+    Subsec. (a)(3). [Pub. L. 110–53][/us/pl/110/53], § 504(1)(C), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The terms ‘information sharing environment’ and ‘ISE’ mean an approach that facilitates the sharing of terrorism information, which approach may include any methods determined necessary and appropriate for carrying out this section.”
 
-    [Pub. L. 110–53, § 504(1)(A)][/us/pl/110/53/s504/1/A], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    [Pub. L. 110–53][/us/pl/110/53], § 504(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 110–53, § 504(1)(A)][/us/pl/110/53/s504/1/A], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 110–53][/us/pl/110/53], § 504(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 110–53, § 504(1)(D)][/us/pl/110/53/s504/1/D], added par. (5) and struck out heading and text of former par (5). Text read as follows: “The term ‘terrorism information’ means all information, whether collected, produced, or distributed by intelligence, law enforcement, military, homeland security, or other activities relating to—
+    Subsec. (a)(5). [Pub. L. 110–53][/us/pl/110/53], § 504(1)(D), added par. (5) and struck out heading and text of former par (5). Text read as follows: “The term ‘terrorism information’ means all information, whether collected, produced, or distributed by intelligence, law enforcement, military, homeland security, or other activities relating to—
 
     “(A) the existence, organization, capabilities, plans, intentions, vulnerabilities, means of finance or material support, or activities of foreign or international terrorist groups or individuals, or of domestic groups or individuals involved in transnational terrorism;
 
@@ -375,27 +375,27 @@
 
     “(D) groups or individuals reasonably believed to be assisting or associated with such groups or individuals.”
 
-    [Pub. L. 110–53, § 504(1)(A)][/us/pl/110/53/s504/1/A], redesignated par. (4) as (5).
+    [Pub. L. 110–53][/us/pl/110/53], § 504(1)(A), redesignated par. (4) as (5).
 
-    Subsec. (a)(6). [Pub. L. 110–53, § 504(1)(E)][/us/pl/110/53/s504/1/E], added par. (6).
+    Subsec. (a)(6). [Pub. L. 110–53][/us/pl/110/53], § 504(1)(E), added par. (6).
 
-    Subsec. (b)(2)(J) to (O). [Pub. L. 110–53, § 504(2)][/us/pl/110/53/s504/2], added subpars. (J) to (O).
+    Subsec. (b)(2)(J) to (O). [Pub. L. 110–53][/us/pl/110/53], § 504(2), added subpars. (J) to (O).
 
-    Subsec. (f)(1). [Pub. L. 110–53, § 504(3)(A)][/us/pl/110/53/s504/3/A], substituted “until removed from service or replaced” for “during the two-year period beginning on the date of designation under this paragraph unless sooner removed from service and replaced” and “The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law” for “The program manager shall have and exercise governmentwide authority”.
+    Subsec. (f)(1). [Pub. L. 110–53][/us/pl/110/53], § 504(3)(A), substituted “until removed from service or replaced” for “during the two-year period beginning on the date of designation under this paragraph unless sooner removed from service and replaced” and “The program manager, in consultation with the head of any affected department or agency, shall have and exercise governmentwide authority over the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, by all Federal departments, agencies, and components, irrespective of the Federal department, agency, or component in which the program manager may be administratively located, except as otherwise expressly provided by law” for “The program manager shall have and exercise governmentwide authority”.
 
-    Subsec. (f)(2)(A)(ii) to (v). [Pub. L. 110–53, § 504(3)(B)][/us/pl/110/53/s504/3/B], added cls. (ii) to (iv), redesignated former cl. (iii) as (v), and struck out former cl. (ii) which read as follows: “assist in the development of policies, procedures, guidelines, rules, and standards as appropriate to foster the development and proper operation of the ISE; and”.
+    Subsec. (f)(2)(A)(ii) to (v). [Pub. L. 110–53][/us/pl/110/53], § 504(3)(B), added cls. (ii) to (iv), redesignated former cl. (iii) as (v), and struck out former cl. (ii) which read as follows: “assist in the development of policies, procedures, guidelines, rules, and standards as appropriate to foster the development and proper operation of the ISE; and”.
 
-    Subsec. (g)(1). [Pub. L. 110–53, § 504(4)(A)][/us/pl/110/53/s504/4/A], substituted “until removed from service or replaced” for “during the two-year period beginning on the date of the initial designation of the program manager by the President under subsection (f)(1) of this section, unless sooner removed from service and replaced”.
+    Subsec. (g)(1). [Pub. L. 110–53][/us/pl/110/53], § 504(4)(A), substituted “until removed from service or replaced” for “during the two-year period beginning on the date of the initial designation of the program manager by the President under subsection (f)(1) of this section, unless sooner removed from service and replaced”.
 
-    Subsec. (g)(2)(G) to (I). [Pub. L. 110–53, § 504(4)(B)][/us/pl/110/53/s504/4/B], added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
+    Subsec. (g)(2)(G) to (I). [Pub. L. 110–53][/us/pl/110/53], § 504(4)(B), added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
 
-    Subsec. (g)(4). [Pub. L. 110–53, § 504(4)(C)][/us/pl/110/53/s504/4/C], inserted “(including any subsidiary group of the Information Sharing Council)” before “shall not be subject”.
+    Subsec. (g)(4). [Pub. L. 110–53][/us/pl/110/53], § 504(4)(C), inserted “(including any subsidiary group of the Information Sharing Council)” before “shall not be subject”.
 
-    Subsec. (g)(5). [Pub. L. 110–53, § 504(4)(D)][/us/pl/110/53/s504/4/D], added par. (5).
+    Subsec. (g)(5). [Pub. L. 110–53][/us/pl/110/53], § 504(4)(D), added par. (5).
 
-    Subsec. (h)(1). [Pub. L. 110–53, § 504(5)][/us/pl/110/53/s504/5], substituted “and not later than June 30 of each year thereafter” for “and annually thereafter”.
+    Subsec. (h)(1). [Pub. L. 110–53][/us/pl/110/53], § 504(5), substituted “and not later than June 30 of each year thereafter” for “and annually thereafter”.
 
-    Subsecs. (j) to (l). [Pub. L. 110–53, § 504(6)][/us/pl/110/53/s504/6], added subsecs. (j) to (l) and struck out heading and text of former subsec. (j). Text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006.”
+    Subsecs. (j) to (l). [Pub. L. 110–53][/us/pl/110/53], § 504(6), added subsecs. (j) to (l) and struck out heading and text of former subsec. (j). Text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2005 and 2006.”
 
  __Effective Date__ 
 
@@ -405,7 +405,7 @@
 
  __Procedures To Clear Individuals From Terrorist Database Lists__ 
 
-[Pub. L. 109–295, title V, § 556][/us/pl/109/295/s556], Oct. 4, 2006, [120 Stat. 1391][/us/stat/120/1391], provided that: 
+[Pub. L. 109–295, title V][/us/pl/109/295/tV], § 556, Oct. 4, 2006, [120 Stat. 1391][/us/stat/120/1391], provided that: 
 
 > “Not later than six months after the date of enactment of this Act \[Oct. 4, 2006\], the Secretary of Homeland Security shall establish revised procedures for expeditiously clearing individuals whose names have been mistakenly placed on a terrorist database list or who have names identical or similar to individuals on a terrorist database list. The Secretary shall advise Congress of the procedures established.”
 
@@ -521,37 +521,37 @@ Sec. 5. Establishment and Functions of Information Sharing Council. (a) Consiste
 [/us/usc/t6/s482/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482%2Ff
 [/us/usc/t42/s2000ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee
 [/us/usc/t42/s2000ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee
-[/us/pl/108/458/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1016
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3664
-[/us/pl/110/53/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F313
-[/us/pl/111/259/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F1
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/stat/118/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3643
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
-[/us/pl/110/53/s504/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FA
-[/us/pl/110/53/s504/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FC
-[/us/pl/110/53/s504/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FA
-[/us/pl/110/53/s504/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FA
-[/us/pl/110/53/s504/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FD
-[/us/pl/110/53/s504/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FA
-[/us/pl/110/53/s504/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F1%2FE
-[/us/pl/110/53/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F2
-[/us/pl/110/53/s504/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F3%2FA
-[/us/pl/110/53/s504/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F3%2FB
-[/us/pl/110/53/s504/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F4%2FA
-[/us/pl/110/53/s504/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F4%2FB
-[/us/pl/110/53/s504/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F4%2FC
-[/us/pl/110/53/s504/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F4%2FD
-[/us/pl/110/53/s504/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F5
-[/us/pl/110/53/s504/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs504%2F6
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/109/295/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs556
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1391
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485

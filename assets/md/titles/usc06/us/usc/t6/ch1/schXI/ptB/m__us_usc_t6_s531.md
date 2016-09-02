@@ -41,7 +41,7 @@
 
             The authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms that are not transferred to the Department of Justice under this section shall be retained and administered by the Tax and Trade Bureau.
 
-([Pub. L. 107–296, title XI, § 1111][/us/pl/107/296/s1111], Nov. 25, 2002, [116 Stat. 2274][/us/stat/116/2274]; [Pub. L. 109–162, title XI, § 1187(b)][/us/pl/109/162/s1187/b], Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127].)
+([Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1111, Nov. 25, 2002, [116 Stat. 2274][/us/stat/116/2274]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1187(b), Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1111
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2274
-[/us/pl/109/162/s1187/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3127
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t28/s599A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599A

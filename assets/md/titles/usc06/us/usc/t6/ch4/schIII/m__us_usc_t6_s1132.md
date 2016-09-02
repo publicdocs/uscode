@@ -29,7 +29,7 @@
 
     (6) greater Federal investment in transit security improvements per passenger boarding is necessary to better protect the American people, given transit’s vital importance in creating mobility and promoting our Nation’s economy.
 
-([Pub. L. 110–53, title XIV, § 1403][/us/pl/110/53/s1403], Aug. 3, 2007, [121 Stat. 401][/us/stat/121/401].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1403, Aug. 3, 2007, [121 Stat. 401][/us/stat/121/401].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1403
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F401
 
 

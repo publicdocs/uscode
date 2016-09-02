@@ -43,7 +43,7 @@
 
         (2) the term “performance appraisal system” means a system under which periodic appraisals of job performance of employees are made, whether under chapter 43 of title 5, or otherwise.
 
-([Pub. L. 107–296, title VIII, § 843][/us/pl/107/296/s843], as added [Pub. L. 108–458, title VII, § 7408(a)][/us/pl/108/458/s7408/a], Dec. 17, 2004, [118 Stat. 3854][/us/stat/118/3854].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 843, as added [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7408(a), Dec. 17, 2004, [118 Stat. 3854][/us/stat/118/3854].)
 
  __References in Text__ 
 
@@ -58,8 +58,8 @@
 
 [/us/usc/t21/s1701/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701%2F7
 [/us/usc/t6/s458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs458
-[/us/pl/107/296/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs843
-[/us/pl/108/458/s7408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7408%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3854
 [/us/usc/t21/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1701
 [/us/usc/t21/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1712

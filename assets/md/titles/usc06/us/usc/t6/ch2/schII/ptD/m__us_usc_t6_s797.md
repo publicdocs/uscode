@@ -17,7 +17,7 @@
 
     The Administrator shall develop and implement a program to provide training on the prevention of waste, fraud, and abuse of Federal disaster relief assistance relating to the response to or recovery from natural disasters and acts of terrorism or other man-made disasters and ways to identify such potential waste, fraud, and abuse.
 
-([Pub. L. 109–295, title VI, § 698][/us/pl/109/295/s698], Oct. 4, 2006, [120 Stat. 1462][/us/stat/120/1462].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 698, Oct. 4, 2006, [120 Stat. 1462][/us/stat/120/1462].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs698
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1462
 
 

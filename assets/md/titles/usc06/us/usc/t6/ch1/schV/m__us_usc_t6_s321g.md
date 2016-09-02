@@ -23,7 +23,7 @@
 
         In carrying out subsection (a), the Secretary of Health and Human Services shall collaborate with the Secretary in developing specific benchmarks and outcome measurements for evaluating progress toward achieving the priorities and goals described in such subsection.
 
-([Pub. L. 107–296, title V, § 518][/us/pl/107/296/s518], formerly § 505, Nov. 25, 2002, [116 Stat. 2213][/us/stat/116/2213]; renumbered § 518, [Pub. L. 109–295, title VI, § 611(6)][/us/pl/109/295/s611/6], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 518, formerly § 505, Nov. 25, 2002, [116 Stat. 2213][/us/stat/116/2213]; renumbered § 518, [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(6), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs518
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
 [/us/stat/116/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2213
-[/us/pl/109/295/s611/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F6
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 [/us/usc/t6/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295

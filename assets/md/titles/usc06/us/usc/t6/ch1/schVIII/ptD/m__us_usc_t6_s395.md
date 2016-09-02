@@ -85,17 +85,17 @@
 
         The Secretary shall waive subsection (a) with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
 
-([Pub. L. 107–296, title VIII, § 835][/us/pl/107/296/s835], Nov. 25, 2002, [116 Stat. 2227][/us/stat/116/2227]; [Pub. L. 108–7, div. L, § 101(2)][/us/pl/108/7/s101/2], Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528]; [Pub. L. 108–334, title V, § 523][/us/pl/108/334/s523], Oct. 18, 2004, [118 Stat. 1320][/us/stat/118/1320].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 835, Nov. 25, 2002, [116 Stat. 2227][/us/stat/116/2227]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 101(2), Feb. 20, 2003, [117 Stat. 528][/us/stat/117/528]; [Pub. L. 108–334, title V][/us/pl/108/334/tV], § 523, Oct. 18, 2004, [118 Stat. 1320][/us/stat/118/1320].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–334, § 523(1)][/us/pl/108/334/s523/1], inserted before period at end “, or any subsidiary of such an entity”.
+    2004—Subsec. (a). [Pub. L. 108–334][/us/pl/108/334], § 523(1), inserted before period at end “, or any subsidiary of such an entity”.
 
-    Subsec. (b)(1). [Pub. L. 108–334, § 523(2)][/us/pl/108/334/s523/2], inserted “before, on, or” after “completes”.
+    Subsec. (b)(1). [Pub. L. 108–334][/us/pl/108/334], § 523(2), inserted “before, on, or” after “completes”.
 
-    Subsec. (c)(1)(B). [Pub. L. 108–334, § 523(3)][/us/pl/108/334/s523/3], struck out “which is after November 25, 2002, and” after “beginning on the date”.
+    Subsec. (c)(1)(B). [Pub. L. 108–334][/us/pl/108/334], § 523(3), struck out “which is after November 25, 2002, and” after “beginning on the date”.
 
-    Subsec. (d). [Pub. L. 108–334, § 523(4)][/us/pl/108/334/s523/4], substituted “national” for “homeland”.
+    Subsec. (d). [Pub. L. 108–334][/us/pl/108/334], § 523(4), substituted “national” for “homeland”.
 
     2003—Subsec. (d). [Pub. L. 108–7][/us/pl/108/7] struck out “, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur” before period at end.
 
@@ -109,16 +109,16 @@
 [/us/usc/t26/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs482
 [/us/usc/t26/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1504%2Fa
 [/us/usc/t26/s7701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701%2Fa
-[/us/pl/107/296/s835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs835
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2227
-[/us/pl/108/7/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs101%2F2
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F528
-[/us/pl/108/334/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs523
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1320
-[/us/pl/108/334/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs523%2F1
-[/us/pl/108/334/s523/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs523%2F2
-[/us/pl/108/334/s523/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs523%2F3
-[/us/pl/108/334/s523/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs523%2F4
+[/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
+[/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
+[/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
+[/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 
 

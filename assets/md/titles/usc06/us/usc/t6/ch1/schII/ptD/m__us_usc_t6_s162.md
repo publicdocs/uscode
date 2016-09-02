@@ -111,7 +111,7 @@
 
         (2) For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent to which those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
 
-([Pub. L. 107–296, title II, § 232][/us/pl/107/296/s232], Nov. 25, 2002, [116 Stat. 2159][/us/stat/116/2159]; [Pub. L. 108–7, div. L, § 103(1)][/us/pl/108/7/s103/1], Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 232, Nov. 25, 2002, [116 Stat. 2159][/us/stat/116/2159]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 103(1), Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529].)
 
  __References in Text__ 
 
@@ -136,9 +136,9 @@
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/pl/107/77/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs605
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/107/296/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs232
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2159
-[/us/pl/108/7/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs103%2F1
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F529
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

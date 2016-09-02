@@ -49,7 +49,7 @@
 
         (2) the Secretary should undertake efforts to guarantee that concerns regarding the quality and efficiency of immigration services are addressed after such effective date.
 
-([Pub. L. 107–296, title IV, § 478][/us/pl/107/296/s478], Nov. 25, 2002, [116 Stat. 2211][/us/stat/116/2211].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 478, Nov. 25, 2002, [116 Stat. 2211][/us/stat/116/2211].)
 
  __Change of Name__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs478
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2211
 
 

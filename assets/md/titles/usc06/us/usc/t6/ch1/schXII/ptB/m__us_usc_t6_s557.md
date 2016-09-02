@@ -17,7 +17,7 @@
 
     With respect to any function transferred by or under this chapter (including under a reorganization plan that becomes effective under [section 542 of this title][/us/usc/t6/s542]) and exercised on or after the effective date of this chapter, reference in any other Federal law to any department, commission, or agency or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary, other official, or component of the Department to which such function is so transferred.
 
-([Pub. L. 107–296, title XV, § 1517][/us/pl/107/296/s1517], Nov. 25, 2002, [116 Stat. 2311][/us/stat/116/2311].)
+([Pub. L. 107–296, title XV][/us/pl/107/296/tXV], § 1517, Nov. 25, 2002, [116 Stat. 2311][/us/stat/116/2311].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/296/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1517
+[/us/pl/107/296/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXV
 [/us/stat/116/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2311
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

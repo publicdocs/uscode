@@ -123,11 +123,11 @@
 
             A covered entity may redeploy or use the full-time equivalent positions vacated by voluntary separations under this section to make other positions available to more critical locations or more critical occupations.
 
-([Pub. L. 107–296, title IV, § 472][/us/pl/107/296/s472], Nov. 25, 2002, [116 Stat. 2205][/us/stat/116/2205].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 472, Nov. 25, 2002, [116 Stat. 2205][/us/stat/116/2205].)
 
  __References in Text__ 
 
-    [Section 663 of Public Law 104–208][/us/pl/104/208/s663], referred to in subsecs. (a)(1) and (b)(3), probably means [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 663\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–383, which is classified as a note under [section 5597 of Title 5][/us/usc/t5/s5597], Government Organization and Employees.
+    [Section 663 of Public Law 104–208][/us/pl/104/208/s663], referred to in subsecs. (a)(1) and (b)(3), probably means [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 663\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–383, which is classified as a note under [section 5597 of Title 5][/us/usc/t5/s5597], Government Organization and Employees.
 
     This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2135][/us/stat/116/2135], known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title][/us/usc/t6/s101] and Tables.
 
@@ -154,10 +154,10 @@
 [/us/usc/t5/s5597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5597
 [/us/usc/t5/s5595/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595%2Fc
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
-[/us/pl/107/296/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs472
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2205
 [/us/pl/104/208/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs663
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t5/s5597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5597
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

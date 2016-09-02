@@ -31,7 +31,7 @@
 
         In carrying out the duties described in subsection (a), the Under Secretary for Intelligence and Analysis shall consult with the Director of the Federal Law Enforcement Training Center, the Attorney General, the Director of National Intelligence, the Administrator of the Federal Emergency Management Agency, and other appropriate parties, such as private industry, institutions of higher education, nonprofit institutions, and other intelligence agencies of the Federal Government.
 
-([Pub. L. 107–296, title II, § 209][/us/pl/107/296/s209], as added [Pub. L. 110–53, title V, § 503(a)][/us/pl/110/53/s503/a], Aug. 3, 2007, [121 Stat. 312][/us/stat/121/312].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 209, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 503(a), Aug. 3, 2007, [121 Stat. 312][/us/stat/121/312].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs209
-[/us/pl/110/53/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs503%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F312
 
 

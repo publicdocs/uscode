@@ -31,7 +31,7 @@
 
         The Administrator shall ensure that any database or similar application processing system for Federal disaster relief assistance programs administered by the Agency undergoes a review by the Inspector General of the Agency to determine the existence and implementation of such internal controls required under this section and the amendments made by this section.
 
-([Pub. L. 109–295, title VI, § 696][/us/pl/109/295/s696], Oct. 4, 2006, [120 Stat. 1460][/us/stat/120/1460].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 696, Oct. 4, 2006, [120 Stat. 1460][/us/stat/120/1460].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs696
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1460
 [/us/pl/109/295/s696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs696
 [/us/pl/109/295/s696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs696

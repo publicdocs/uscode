@@ -67,13 +67,13 @@
 
         (1) __Business community consultations__ 
 
-            The Secretary shall consult with representatives of the business community involved in international trade, including seeking the advice and recommendations of the Commercial Operations Advisory Committee, on Department policies and actions that have a significant impact on international trade and customs revenue functions.
+            The Secretary shall consult with representatives of the business community involved in international trade, including seeking the advice and recommendations of the Commercial Operations Advisory Committee, not later than 30 days after proposing, and not later than 30 days before finalizing, any Department policies, initiatives, or actions that will have a significant impact on international trade and customs revenue functions.
 
         (2) __Congressional consultation and notification__ 
 
             (A) __In general__ 
 
-                Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 30 days prior to the finalization of any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
+                Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days before finalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
 
             (B) __Exception__ 
 
@@ -103,11 +103,17 @@
 
             Not later than 1 year after any reorganization referred to in paragraph (1) takes place, the Secretary, in consultation with the Commercial Operations Advisory Committee, shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
 
-([Pub. L. 109–347, title IV, § 401][/us/pl/109/347/s401], Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921].)
+([Pub. L. 109–347, title IV][/us/pl/109/347/tIV], § 401, Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 902, Feb. 24, 2016, [130 Stat. 223][/us/stat/130/223].)
 
  __Codification__ 
 
     Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+ __Amendments__ 
+
+    2016—Subsec. (c)(1). [Pub. L. 114–125][/us/pl/114/125], § 902(1), substituted “not later than 30 days after proposing, and not later than 30 days before finalizing, any Department policies, initiatives, or actions that will have” for “on Department policies and actions that have”.
+
+    Subsec. (c)(2)(A). [Pub. L. 114–125][/us/pl/114/125], § 902(2), substituted “not later than 60 days before proposing, and not later than 60 days before finalizing,” for “not later than 30 days prior to the finalization of”.
 
  __Definitions__ 
 
@@ -124,8 +130,12 @@
 [/us/usc/t6/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs212%2Fb
 [/us/usc/t6/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs212%2Fb%2F2
 [/us/usc/t6/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs212%2Fb
-[/us/pl/109/347/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs401
+[/us/pl/109/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIV
 [/us/stat/120/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1921
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F223
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/usc/t6/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs901
 
 

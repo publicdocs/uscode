@@ -79,11 +79,11 @@
 
         Not later than 180 days after the date on which BEST is established under this section, and annually thereafter for the following 5 years, the Secretary shall submit a report to Congress that describes the effectiveness of BEST in enhancing border security and reducing the drug trafficking, arms smuggling, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States, as measured by crime statistics, including violent deaths, incidents of violence, and drug-related arrests.
 
-([Pub. L. 107–296, title IV, § 432][/us/pl/107/296/s432], as added [Pub. L. 112–205, § 3(a)][/us/pl/112/205/s3/a], Dec. 7, 2012, [126 Stat. 1488][/us/stat/126/1488].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 432, as added [Pub. L. 112–205][/us/pl/112/205], § 3(a), Dec. 7, 2012, [126 Stat. 1488][/us/stat/126/1488].)
 
  __Findings and Declaration of Purposes__ 
 
-[Pub. L. 112–205, § 2][/us/pl/112/205/s2], Dec. 7, 2012, [126 Stat. 1487][/us/stat/126/1487], provided that: 
+[Pub. L. 112–205][/us/pl/112/205], § 2, Dec. 7, 2012, [126 Stat. 1487][/us/stat/126/1487], provided that: 
 
 > “Congress finds the following:
 
@@ -106,10 +106,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs432
-[/us/pl/112/205/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F205%2Fs3%2Fa
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
+[/us/pl/112/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F205
 [/us/stat/126/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1488
-[/us/pl/112/205/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F205%2Fs2
+[/us/pl/112/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F205
 [/us/stat/126/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1487
 
 

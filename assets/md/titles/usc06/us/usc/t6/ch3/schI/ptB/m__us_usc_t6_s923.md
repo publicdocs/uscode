@@ -17,7 +17,7 @@
 
     Not later than 1 year after October 13, 2006, the Secretary, acting through the Commissioner, shall develop and implement a plan, utilizing best practices for empirical scientific research design and random sampling, to conduct random searches of containers in addition to any targeted or preshipment inspection of such containers required by law or regulation or conducted under any other program conducted by the Secretary. Nothing in this section shall be construed to mean that implementation of the random sampling plan precludes additional searches of containers not inspected pursuant to the plan.
 
-([Pub. L. 109–347, title I, § 123][/us/pl/109/347/s123], Oct. 13, 2006, [120 Stat. 1899][/us/stat/120/1899].)
+([Pub. L. 109–347, title I][/us/pl/109/347/tI], § 123, Oct. 13, 2006, [120 Stat. 1899][/us/stat/120/1899].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs123
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1899
 
 

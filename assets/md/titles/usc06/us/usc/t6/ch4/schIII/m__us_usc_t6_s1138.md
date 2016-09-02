@@ -83,7 +83,7 @@
 
         (5) $25,000,000 for fiscal year 2011.
 
-([Pub. L. 110–53, title XIV, § 1409][/us/pl/110/53/s1409], Aug. 3, 2007, [121 Stat. 411][/us/stat/121/411].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1409, Aug. 3, 2007, [121 Stat. 411][/us/stat/121/411].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t6/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs142
-[/us/pl/110/53/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1409
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F411
 
 

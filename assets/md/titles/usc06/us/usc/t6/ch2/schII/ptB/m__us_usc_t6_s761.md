@@ -41,7 +41,7 @@
 
         There is authorized to be appropriated to carry out this section $4,000,000 for fiscal year 2008. Such sums shall remain available until expended.
 
-([Pub. L. 109–295, title VI, § 661][/us/pl/109/295/s661], Oct. 4, 2006, [120 Stat. 1432][/us/stat/120/1432].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 661, Oct. 4, 2006, [120 Stat. 1432][/us/stat/120/1432].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/pl/104/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F321
 [/us/stat/110/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3877
-[/us/pl/109/295/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs661
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1432
 [/us/pl/104/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F321
 [/us/stat/110/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3877

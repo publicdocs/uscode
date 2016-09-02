@@ -17,7 +17,7 @@
 
     In order to prepare the Nation for all hazards, including natural disasters, acts of terrorism, and other man-made disasters, the President, consistent with the declaration of policy under [section 5195 of title 42][/us/usc/t42/s5195] and title V of the Homeland Security Act of 2002 ([6 U.S.C. 311][/us/usc/t6/s311] et seq.), as amended by this Act, shall develop a national preparedness goal and a national preparedness system.
 
-([Pub. L. 109–295, title VI, § 642][/us/pl/109/295/s642], Oct. 4, 2006, [120 Stat. 1425][/us/stat/120/1425].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 642, Oct. 4, 2006, [120 Stat. 1425][/us/stat/120/1425].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t6/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs311
-[/us/pl/109/295/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs642
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1425
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

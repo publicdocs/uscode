@@ -17,7 +17,7 @@
 
     For fiscal year 2012 and thereafter, U.S. Customs and Border Protection’s Advanced Training Center is authorized to charge fees for any service and/or thing of value it provides to Federal Government or non-government entities or individuals, so long as the fees charged do not exceed the full costs associated with the service or thing of value provided: Provided, That notwithstanding [section 3302(b) of title 31][/us/usc/t31/s3302/b], fees collected by the Advanced Training Center are to be deposited into a separate account entitled “Advanced Training Center Revolving Fund”, and be available, without further appropriations, for necessary expenses of the Advanced Training Center program, and are to remain available until expended.
 
-([Pub. L. 112–74, div. D, title V, § 557][/us/pl/112/74/s557], Dec. 23, 2011, [125 Stat. 979][/us/stat/125/979].)
+([Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 557, Dec. 23, 2011, [125 Stat. 979][/us/stat/125/979].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
-[/us/pl/112/74/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs557
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F979
 
 

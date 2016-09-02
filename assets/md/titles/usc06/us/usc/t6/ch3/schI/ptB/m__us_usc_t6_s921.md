@@ -99,7 +99,7 @@
 
             The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
 
-([Pub. L. 109–347, title I, § 121][/us/pl/109/347/s121], Oct. 13, 2006, [120 Stat. 1898][/us/stat/120/1898].)
+([Pub. L. 109–347, title I][/us/pl/109/347/tI], § 121, Oct. 13, 2006, [120 Stat. 1898][/us/stat/120/1898].)
 
 ----------
 
@@ -109,7 +109,7 @@
 ----------
 
 [/us/usc/t19/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1318
-[/us/pl/109/347/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs121
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1898
 
 

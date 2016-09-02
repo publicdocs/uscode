@@ -21,7 +21,7 @@
 
     (2) the functions transferred under this part should not, after such transfers take effect, operate at levels below those in effect prior to November 25, 2002.
 
-([Pub. L. 107–296, title IV, § 474][/us/pl/107/296/s474], Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 474, Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
 
  __Change of Name__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs474
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2209
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

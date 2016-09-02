@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schIV/ptA/m__us_usc_t6_s201.md) | [Next](./../../../../../..//us/usc/t6/ch1/schIV/ptA/m__us_usc_t6_s203.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs202)
 
-## § 202. Responsibilities
+## § 202. Border, maritime, and transportation responsibilities
 
-    The Secretary, acting through the Under Secretary for Border and Transportation Security, shall be responsible for the following:
+    The Secretary shall be responsible for the following:
 
     (1) Preventing the entry of terrorists and the instruments of terrorism into the United States.
 
@@ -33,13 +33,17 @@
 
     (8) In carrying out the foregoing responsibilities, ensuring the speedy, orderly, and efficient flow of lawful traffic and commerce.
 
-([Pub. L. 107–296, title IV, § 402][/us/pl/107/296/s402], Nov. 25, 2002, [116 Stat. 2177][/us/stat/116/2177].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 402, Nov. 25, 2002, [116 Stat. 2177][/us/stat/116/2177]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(ii)(II), Feb. 24, 2016, [130 Stat. 211][/us/stat/130/211].)
 
  __References in Text__ 
 
     Part C of this subchapter, referred to in par. (6), was in the original “subtitle C”, meaning subtitle C (§ 421 et seq.) of title IV of [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182], which enacted part C (§ 231 et seq.) of this subchapter and amended sections 2279e and 2279f of Title 7, Agriculture, and sections 115, 44901, and 47106 of Title 49, Transportation. For complete classification of subtitle C to the Code, see Tables.
 
     The customs laws of the United States, referred to in par. (6), are classified generally to Title 19, Customs Duties.
+
+ __Amendments__ 
+
+    2016—[Pub. L. 114–125][/us/pl/114/125] substituted “Border, maritime, and transportation responsibilities” for “Responsibilities” in section catchline and struck out “, acting through the Under Secretary for Border and Transportation Security,” after “The Secretary” in introductory provisions.
 
 ----------
 
@@ -51,9 +55,12 @@
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs236
 [/us/usc/t6/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs231
-[/us/pl/107/296/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs402
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2177
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F211
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2182
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 
 

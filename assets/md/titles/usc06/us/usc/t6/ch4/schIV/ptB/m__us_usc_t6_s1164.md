@@ -81,7 +81,7 @@
 
             Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
 
-([Pub. L. 110–53, title XV, § 1514][/us/pl/110/53/s1514], Aug. 3, 2007, [121 Stat. 435][/us/stat/121/435].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1514, Aug. 3, 2007, [121 Stat. 435][/us/stat/121/435].)
 
 ----------
 
@@ -96,7 +96,7 @@
 [/us/usc/t6/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1161
 [/us/usc/t6/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1162
 [/us/usc/t49/s114/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fw
-[/us/pl/110/53/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1514
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F435
 
 

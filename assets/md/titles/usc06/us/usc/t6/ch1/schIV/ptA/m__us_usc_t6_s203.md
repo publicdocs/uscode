@@ -27,7 +27,7 @@
 
     (5) the Office for Domestic Preparedness of the Office of Justice Programs, including the functions of the Attorney General relating thereto.
 
-([Pub. L. 107–296, title IV, § 403][/us/pl/107/296/s403], Nov. 25, 2002, [116 Stat. 2178][/us/stat/116/2178].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 403, Nov. 25, 2002, [116 Stat. 2178][/us/stat/116/2178].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs403
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178
 
 

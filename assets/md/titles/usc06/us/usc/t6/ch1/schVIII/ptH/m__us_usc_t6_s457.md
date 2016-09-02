@@ -23,7 +23,7 @@
 
         Except as otherwise provided in this chapter, this chapter preempts no State or local law, except that any authority to preempt State or local law vested in any Federal agency or official transferred to the Department pursuant to this chapter shall be transferred to the Department effective on the date of the transfer to the Department of that Federal agency or official.
 
-([Pub. L. 107–296, title VIII, § 877][/us/pl/107/296/s877], Nov. 25, 2002, [116 Stat. 2244][/us/stat/116/2244].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 877, Nov. 25, 2002, [116 Stat. 2244][/us/stat/116/2244].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t40/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315
-[/us/pl/107/296/s877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs877
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2244
 [/us/usc/t40/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1315
 [/us/pl/107/296/s1706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1706%2Fb

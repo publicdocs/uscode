@@ -23,7 +23,7 @@
 
         Subject to [section 488f of this title][/us/usc/t6/s488f], this part preempts the laws of any State to the extent that such laws are inconsistent with this part, except that this part shall not preempt any State law that provides additional protection against the acquisition of ammonium nitrate by terrorists or the use of ammonium nitrate in explosives in acts of terrorism or for other illicit purposes, as determined by the Secretary.
 
-([Pub. L. 107–296, title VIII, § 899H][/us/pl/107/296/s899H], as added [Pub. L. 110–161, div. E, title V, § 563(a)][/us/pl/110/161/s563/a], Dec. 26, 2007, [121 Stat. 2089][/us/stat/121/2089].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 899H, as added [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 563(a), Dec. 26, 2007, [121 Stat. 2089][/us/stat/121/2089].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t6/s488f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488f
 [/us/usc/t6/s488f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488f
-[/us/pl/107/296/s899H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs899H
-[/us/pl/110/161/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs563%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2089
 
 

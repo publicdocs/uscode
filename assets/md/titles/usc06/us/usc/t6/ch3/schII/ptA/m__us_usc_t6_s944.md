@@ -55,13 +55,13 @@
 
         In carrying out this section, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders and ensure that actions under this section do not violate international trade obligations or other international obligations of the United States.
 
-([Pub. L. 109–347, title II, § 204][/us/pl/109/347/s204], Oct. 13, 2006, [120 Stat. 1905][/us/stat/120/1905]; [Pub. L. 110–53, title XVII, § 1701(b)][/us/pl/110/53/s1701/b], Aug. 3, 2007, [121 Stat. 491][/us/stat/121/491].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 204, Oct. 13, 2006, [120 Stat. 1905][/us/stat/120/1905]; [Pub. L. 110–53, title XVII][/us/pl/110/53/tXVII], § 1701(b), Aug. 3, 2007, [121 Stat. 491][/us/stat/121/491].)
 
  __Amendments__ 
 
     2007—Subsec. (a)(4). [Pub. L. 110–53][/us/pl/110/53], which directed amendment of par. (4) by substituting “(1) Deadline for enforcement” and subpar. (A) designation and heading for “(1) Deadline for enforcement”, was executed by inserting the subpar. (A) designation and heading before “Not later than” and making no change in the par. designation or heading, to reflect the probable intent of Congress.
 
-    Subsec. (a)(4)(B). [Pub. L. 110–53, § 1701(b)(2)][/us/pl/110/53/s1701/b/2], added subpar. (B).
+    Subsec. (a)(4)(B). [Pub. L. 110–53][/us/pl/110/53], § 1701(b)(2), added subpar. (B).
 
 ----------
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/pl/109/347/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs204
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1905
-[/us/pl/110/53/s1701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1701%2Fb
+[/us/pl/110/53/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVII
 [/us/stat/121/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F491
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/110/53/s1701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1701%2Fb%2F2
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 
 

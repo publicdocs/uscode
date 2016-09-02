@@ -17,7 +17,7 @@
 
     In establishing the national preparedness goal and national preparedness system, the Administrator shall use existing preparedness documents, planning tools, and guidelines to the extent practicable and consistent with this Act.
 
-([Pub. L. 109–295, title VI, § 654][/us/pl/109/295/s654], Oct. 4, 2006, [120 Stat. 1432][/us/stat/120/1432].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 654, Oct. 4, 2006, [120 Stat. 1432][/us/stat/120/1432].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs654
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1432
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/stat/120/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1394

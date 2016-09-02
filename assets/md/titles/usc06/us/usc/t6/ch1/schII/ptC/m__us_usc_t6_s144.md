@@ -17,7 +17,7 @@
 
     The Assistant Secretary for Infrastructure Protection may establish a national technology guard, to be known as “NET Guard”, comprised of local teams of volunteers with expertise in relevant areas of science and technology, to assist local communities to respond and recover from attacks on information systems and communications networks.
 
-([Pub. L. 107–296, title II, § 224][/us/pl/107/296/s224], Nov. 25, 2002, [116 Stat. 2156][/us/stat/116/2156]; [Pub. L. 110–53, title V, § 531(b)(1)(B)][/us/pl/110/53/s531/b/1/B], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 224, Nov. 25, 2002, [116 Stat. 2156][/us/stat/116/2156]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(b)(1)(B), Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs224
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2156
-[/us/pl/110/53/s531/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F1%2FB
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F334
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 

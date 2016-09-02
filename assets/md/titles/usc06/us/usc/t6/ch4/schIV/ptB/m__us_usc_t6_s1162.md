@@ -205,7 +205,7 @@
 
         In carrying out this section, the Secretary shall consult with railroad carriers, nonprofit employee labor organizations representation railroad employees, and public safety and law enforcement officials.
 
-([Pub. L. 110–53, title XV, § 1512][/us/pl/110/53/s1512], Aug. 3, 2007, [121 Stat. 429][/us/stat/121/429].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1512, Aug. 3, 2007, [121 Stat. 429][/us/stat/121/429].)
 
 ----------
 
@@ -218,7 +218,7 @@
 [/us/usc/t6/s1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1167
 [/us/usc/t6/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1161
 [/us/usc/t6/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1161
-[/us/pl/110/53/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1512
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F429
 
 

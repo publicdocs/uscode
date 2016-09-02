@@ -45,11 +45,11 @@
 
         (2) The Secretary of Homeland Security shall annually submit to the Committees on Appropriations of the Senate and House of Representatives, at the time that the President’s budget is submitted under [section 1105(a) of title 31][/us/usc/t31/s1105/a], a summary of such audits.
 
-([Pub. L. 109–295, title V, § 532][/us/pl/109/295/s532], Oct. 4, 2006, [120 Stat. 1384][/us/stat/120/1384]; [Pub. L. 110–161, div. E, title V, § 527][/us/pl/110/161/s527], Dec. 26, 2007, [121 Stat. 2074][/us/stat/121/2074]; [Pub. L. 110–329, div. D, title V, § 520][/us/pl/110/329/s520], Sept. 30, 2008, [122 Stat. 3684][/us/stat/122/3684]; [Pub. L. 111–83, title V, § 519][/us/pl/111/83/s519], Oct. 28, 2009, [123 Stat. 2171][/us/stat/123/2171]; [Pub. L. 112–10, div. B, title VI, § 1652][/us/pl/112/10/s1652], Apr. 15, 2011, [125 Stat. 147][/us/stat/125/147]; [Pub. L. 112–74, div. D, title V, § 518][/us/pl/112/74/s518], Dec. 23, 2011, [125 Stat. 972][/us/stat/125/972]; [Pub. L. 113–6, div. D, title V, § 518][/us/pl/113/6/s518], Mar. 26, 2013, [127 Stat. 369][/us/stat/127/369]; [Pub. L. 113–76, div. F, title V, § 518][/us/pl/113/76/s518], Jan. 17, 2014, [128 Stat. 272][/us/stat/128/272].)
+([Pub. L. 109–295, title V][/us/pl/109/295/tV], § 532, Oct. 4, 2006, [120 Stat. 1384][/us/stat/120/1384]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 527, Dec. 26, 2007, [121 Stat. 2074][/us/stat/121/2074]; [Pub. L. 110–329, div. D, title V][/us/pl/110/329/dD/tV], § 520, Sept. 30, 2008, [122 Stat. 3684][/us/stat/122/3684]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 519, Oct. 28, 2009, [123 Stat. 2171][/us/stat/123/2171]; [Pub. L. 112–10, div. B, title VI][/us/pl/112/10/dB/tVI], § 1652, Apr. 15, 2011, [125 Stat. 147][/us/stat/125/147]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 518, Dec. 23, 2011, [125 Stat. 972][/us/stat/125/972]; [Pub. L. 113–6, div. D, title V][/us/pl/113/6/dD/tV], § 518, Mar. 26, 2013, [127 Stat. 369][/us/stat/127/369]; [Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 518, Jan. 17, 2014, [128 Stat. 272][/us/stat/128/272].)
 
  __Codification__ 
 
-    In subsec. (a)(1), “sections 6301(a), (b)(1) to (3) and 6306(a) of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States ([41 U.S.C. 11(a)][/us/usc/t41/s11/a] and 22),” and “section 3901 and chapter 45 of title 41” substituted for “sections 304(a) and 305 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C 254(a) and 255)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1), “sections 6301(a), (b)(1) to (3) and 6306(a) of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States ([41 U.S.C. 11(a)][/us/usc/t41/s11/a] and 22),” and “section 3901 and chapter 45 of title 41” substituted for “sections 304(a) and 305 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C 254(a) and 255)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was enacted as part of the appropriation act cited in the credit to this section, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
@@ -81,24 +81,24 @@
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/109/295/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs532
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1384
-[/us/pl/110/161/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs527
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2074
-[/us/pl/110/329/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs520
+[/us/pl/110/329/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdD%2FtV
 [/us/stat/122/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3684
-[/us/pl/111/83/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs519
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2171
-[/us/pl/112/10/s1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1652
+[/us/pl/112/10/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVI
 [/us/stat/125/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F147
-[/us/pl/112/74/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs518
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F972
-[/us/pl/113/6/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs518
+[/us/pl/113/6/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtV
 [/us/stat/127/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F369
-[/us/pl/113/76/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs518
+[/us/pl/113/76/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtV
 [/us/stat/128/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F272
 [/us/usc/t41/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs11%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6

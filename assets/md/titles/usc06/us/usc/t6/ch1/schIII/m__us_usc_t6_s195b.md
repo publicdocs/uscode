@@ -155,11 +155,11 @@
 
         (5) The term “Privacy Officer” means the Privacy Officer appointed under [section 142 of this title][/us/usc/t6/s142].
 
-([Pub. L. 107–296, title III, § 316][/us/pl/107/296/s316], as added [Pub. L. 110–53, title XI, § 1101(a)][/us/pl/110/53/s1101/a], Aug. 3, 2007, [121 Stat. 375][/us/stat/121/375].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 316, as added [Pub. L. 110–53, title XI][/us/pl/110/53/tXI], § 1101(a), Aug. 3, 2007, [121 Stat. 375][/us/stat/121/375].)
 
  __Deadline for Implementation__ 
 
-[Pub. L. 110–53, title XI, § 1101(c)][/us/pl/110/53/s1101/c], Aug. 3, 2007, [121 Stat. 378][/us/stat/121/378], provided that: 
+[Pub. L. 110–53, title XI][/us/pl/110/53/tXI], § 1101(c), Aug. 3, 2007, [121 Stat. 378][/us/stat/121/378], provided that: 
 
 > “The National Biosurveillance Integration Center under section 316 of the Homeland Security Act \[of 2002, [6 U.S.C. 195b][/us/usc/t6/s195b]\], as added by subsection (a), shall be fully operational by not later than September 30, 2008.”
 
@@ -175,10 +175,10 @@
 [/us/usc/t18/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs178
 [/us/usc/t6/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482
 [/us/usc/t6/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs142
-[/us/pl/107/296/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs316
-[/us/pl/110/53/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1101%2Fa
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
+[/us/pl/110/53/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXI
 [/us/stat/121/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F375
-[/us/pl/110/53/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1101%2Fc
+[/us/pl/110/53/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXI
 [/us/stat/121/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F378
 [/us/usc/t6/s195b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195b
 

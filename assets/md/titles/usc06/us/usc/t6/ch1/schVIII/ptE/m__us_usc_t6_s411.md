@@ -45,7 +45,7 @@
 
             Any exercise of authority under chapter 97 of title 5, including under any system established under such chapter, shall be in conformance with the requirements of this subsection.
 
-([Pub. L. 107–296, title VIII, § 841][/us/pl/107/296/s841], Nov. 25, 2002, [116 Stat. 2229][/us/stat/116/2229].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 841, Nov. 25, 2002, [116 Stat. 2229][/us/stat/116/2229].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs841
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2229
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

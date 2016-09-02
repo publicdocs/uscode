@@ -119,15 +119,15 @@
 
         Each report required under this section shall be submitted in unclassified form, but may include a classified annex.
 
-([Pub. L. 114–113, div. N, title II, § 226][/us/pl/114/113/s226], Dec. 18, 2015, [129 Stat. 2969][/us/stat/129/2969].)
+([Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 226, Dec. 18, 2015, [129 Stat. 2969][/us/stat/129/2969].)
 
  __References in Text__ 
 
-    Section 230 of the Homeland Security Act of 2002, as added by section 223(a)(6) of this division, referred to in subsecs. (a)(1), (5) and (c)(1)(A)(vi), is [section 230 of title II of Pub. L. 107–296][/us/pl/107/296/s230], as added by [Pub. L. 114–113, div. N, title II, § 223(a)(6)][/us/pl/114/113/s223/a/6], Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964], which is classified to [section 151 of this title][/us/usc/t6/s151].
+    Section 230 of the Homeland Security Act of 2002, as added by section 223(a)(6) of this division, referred to in subsecs. (a)(1), (5) and (c)(1)(A)(vi), is [section 230 of title II of Pub. L. 107–296][/us/pl/107/296/tII/s230], as added by [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 223(a)(6), Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964], which is classified to [section 151 of this title][/us/usc/t6/s151].
 
-    Section 228(b)(1) of the Homeland Security Act of 2002, as added by section 223(a)(4) of this division, referred to in subsec. (a)(4), is [section 228 of title II of Pub. L. 107–296][/us/pl/107/296/s228], as added by [Pub. L. 114–113, div. N, title II, § 223(a)(4)][/us/pl/114/113/s223/a/4], Dec. 18, 2015, [129 Stat. 2963][/us/stat/129/2963], which is classified to [section 149(b)(1) of this title][/us/usc/t6/s149/b/1].
+    Section 228(b)(1) of the Homeland Security Act of 2002, as added by section 223(a)(4) of this division, referred to in subsec. (a)(4), is [section 228 of title II of Pub. L. 107–296][/us/pl/107/296/tII/s228], as added by [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 223(a)(4), Dec. 18, 2015, [129 Stat. 2963][/us/stat/129/2963], which is classified to [section 149(b)(1) of this title][/us/usc/t6/s149/b/1].
 
-    Subtitle D of title II of the Homeland Security Act of 2002”, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2159][/us/stat/116/2159], which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 3712 and 3722 of Title 42, The Public Health and Welfare. For complete classification of subtitle D to the Code, see Tables.
+    Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2159][/us/stat/116/2159], which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 3712 and 3722 of Title 42, The Public Health and Welfare. For complete classification of subtitle D to the Code, see Tables.
 
 ----------
 
@@ -149,14 +149,14 @@
 [/us/usc/t6/s1523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1523%2Fb
 [/us/usc/t6/s1522/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1522%2Fa%2F2
 [/us/usc/t6/s1522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1522%2Fc
-[/us/pl/114/113/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs226
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2969
-[/us/pl/107/296/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs230
-[/us/pl/114/113/s223/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F6
+[/us/pl/107/296/tII/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII%2Fs230
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2964
 [/us/usc/t6/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151
-[/us/pl/107/296/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs228
-[/us/pl/114/113/s223/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F4
+[/us/pl/107/296/tII/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII%2Fs228
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2963
 [/us/usc/t6/s149/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs149%2Fb%2F1
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

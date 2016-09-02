@@ -81,7 +81,7 @@
 
         There shall be a principal legal advisor to the Assistant Secretary of the Bureau of Border Security. The legal advisor shall provide specialized legal advice to the Assistant Secretary of the Bureau of Border Security and shall represent the bureau in all exclusion, deportation, and removal proceedings before the Executive Office for Immigration Review.
 
-([Pub. L. 107–296, title IV, § 442][/us/pl/107/296/s442], Nov. 25, 2002, [116 Stat. 2193][/us/stat/116/2193].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 442, Nov. 25, 2002, [116 Stat. 2193][/us/stat/116/2193].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t8/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1372
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
-[/us/pl/107/296/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs442
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2193
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2195

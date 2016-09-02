@@ -17,7 +17,7 @@
 
     The Administrator, in coordination with the heads of other appropriate Federal agencies, shall provide evacuation preparedness technical assistance to State, local, and tribal governments, including the preparation of hurricane evacuation studies and technical assistance in developing evacuation plans, assessing storm surge estimates, evacuation zones, evacuation clearance times, transportation capacity, and shelter capacity.
 
-([Pub. L. 109–295, title VI, § 632][/us/pl/109/295/s632], Oct. 4, 2006, [120 Stat. 1421][/us/stat/120/1421].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 632, Oct. 4, 2006, [120 Stat. 1421][/us/stat/120/1421].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs632
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1421
 
 

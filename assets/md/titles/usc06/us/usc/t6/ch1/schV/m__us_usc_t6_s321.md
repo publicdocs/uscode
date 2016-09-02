@@ -49,11 +49,11 @@
 
                     Modeling, simulation, and analysis provided under this subsection shall be provided to relevant Federal agencies and departments, including Federal agencies and departments with critical infrastructure responsibilities under Homeland Security Presidential Directive 7, or any successor to such directive.
 
-([Pub. L. 107–296, title V, § 511][/us/pl/107/296/s511], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1406][/us/stat/120/1406].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 511, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1406][/us/stat/120/1406].)
 
  __Prior Provisions__ 
 
-    A prior section 321, [Pub. L. 107–296, title V, § 510][/us/pl/107/296/s510], as added [Pub. L. 108–458, title VII, § 7303(d)][/us/pl/108/458/s7303/d], Dec. 17, 2004, [118 Stat. 3844][/us/stat/118/3844], related to urban and other high risk area communications capabilities, prior to repeal by [Pub. L. 109–295, title VI, § 611(5)][/us/pl/109/295/s611/5], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
+    A prior section 321, [Pub. L. 107–296, title V][/us/pl/107/296/tV], § 510, as added [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7303(d), Dec. 17, 2004, [118 Stat. 3844][/us/stat/118/3844], related to urban and other high risk area communications capabilities, prior to repeal by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(5), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
 
 ----------
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t42/s5195c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195c%2Fd
-[/us/pl/107/296/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs511
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1406
-[/us/pl/107/296/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs510
-[/us/pl/108/458/s7303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303%2Fd
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3844
-[/us/pl/109/295/s611/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F5
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 
 

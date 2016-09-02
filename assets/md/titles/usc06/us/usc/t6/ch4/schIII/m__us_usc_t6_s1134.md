@@ -145,7 +145,7 @@
 
         In response to a petition by a public transportation agency or at the discretion of the Secretary, the Secretary may recognize existing procedures, protocols, and standards of a public transportation agency that the Secretary determines meet all or part of the requirements of this section regarding security assessments or security plans.
 
-([Pub. L. 110–53, title XIV, § 1405][/us/pl/110/53/s1405], Aug. 3, 2007, [121 Stat. 402][/us/stat/121/402].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1405, Aug. 3, 2007, [121 Stat. 402][/us/stat/121/402].)
 
 ----------
 
@@ -160,7 +160,7 @@
 [/us/usc/t6/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1135
 [/us/usc/t6/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1133
 [/us/usc/t6/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1135
-[/us/pl/110/53/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1405
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F402
 
 

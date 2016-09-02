@@ -17,7 +17,7 @@
 
     The Administrator shall execute the responsibilities set forth in this part in a manner consistent with, and not duplicative of, the Federal Acquisition Regulation and the Department’s policies and directives.
 
-([Pub. L. 107–296, title XVI, § 1616][/us/pl/107/296/s1616], as added [Pub. L. 113–245, § 3(a)][/us/pl/113/245/s3/a], Dec. 18, 2014, [128 Stat. 2877][/us/stat/128/2877].)
+([Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1616, as added [Pub. L. 113–245][/us/pl/113/245], § 3(a), Dec. 18, 2014, [128 Stat. 2877][/us/stat/128/2877].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1616
-[/us/pl/113/245/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fa
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2877
 
 

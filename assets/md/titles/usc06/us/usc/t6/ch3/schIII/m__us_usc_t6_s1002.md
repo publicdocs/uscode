@@ -17,7 +17,7 @@
 
     The Under Secretary for Science and Technology shall utilize the Homeland Security Science and Technology Advisory Committee, as appropriate, to provide outside expertise in advancing cargo security technology.
 
-([Pub. L. 109–347, title III, § 302(c)][/us/pl/109/347/s302/c], Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921].)
+([Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 302(c), Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs302%2Fc
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1921
 
 

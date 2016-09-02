@@ -15,13 +15,13 @@
 
 ## § 238. Office for Domestic Preparedness
 
-    (a) __In general__ 
+    (a) __Establishment__ 
 
-        The Office for Domestic Preparedness shall be within the Directorate of Border and Transportation Security.
+        There is established in the Department an Office for Domestic Preparedness.
 
     (b) __Director__ 
 
-        There shall be a Director of the Office for Domestic Preparedness, who shall be appointed by the President. The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security.
+        There shall be a Director of the Office for Domestic Preparedness, who shall be appointed by the President.
 
     (c) __Responsibilities__ 
 
@@ -39,7 +39,7 @@
 
         (6) as the lead executive branch agency for preparedness of the United States for acts of terrorism, cooperating closely with the Federal Emergency Management Agency, which shall have the primary responsibility within the executive branch to prepare for and mitigate the effects of nonterrorist-related disasters in the United States;
 
-        (7) assisting and supporting the Secretary, in coordination with other Directorates and entities outside the Department, in conducting appropriate risk analysis and risk management activities of State, local, and tribal governments consistent with the mission and functions of the Directorate;
+        (7) assisting and supporting the Secretary, in coordination with other Directorates and entities outside the Department, in conducting appropriate risk analysis and risk management activities of State, local, and tribal governments consistent with the mission and functions of the Department;
 
         (8) those elements of the Office of National Preparedness of the Federal Emergency Management Agency which relate to terrorism, which shall be consolidated within the Department in the Office for Domestic Preparedness established under this section; and
 
@@ -49,9 +49,15 @@
 
         During fiscal year 2003 and fiscal year 2004, the Director of the Office for Domestic Preparedness established under this section shall manage and carry out those functions of the Office for Domestic Preparedness of the Department of Justice (transferred under this section) before September 11, 2001, under the same terms, conditions, policies, and authorities, and with the required level of personnel, assets, and budget before September 11, 2001.
 
-([Pub. L. 107–296, title IV, § 430][/us/pl/107/296/s430], Nov. 25, 2002, [116 Stat. 2191][/us/stat/116/2191]; [Pub. L. 108–458, title VII, § 7303(h)(2)][/us/pl/108/458/s7303/h/2], Dec. 17, 2004, [118 Stat. 3847][/us/stat/118/3847]; [Pub. L. 112–166, § 2(f)(1)][/us/pl/112/166/s2/f/1], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 430, Nov. 25, 2002, [116 Stat. 2191][/us/stat/116/2191]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7303(h)(2), Dec. 17, 2004, [118 Stat. 3847][/us/stat/118/3847]; [Pub. L. 112–166][/us/pl/112/166], § 2(f)(1), Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(iv)(II), Feb. 24, 2016, [130 Stat. 212][/us/stat/130/212].)
 
  __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–125][/us/pl/114/125], § 802(g)(1)(B)(iv)(II)(aa), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Office for Domestic Preparedness shall be within the Directorate of Border and Transportation Security.”
+
+    Subsec. (b). [Pub. L. 114–125][/us/pl/114/125], § 802(g)(1)(B)(iv)(II)(bb), struck out at end “The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security.”
+
+    Subsec. (c)(7). [Pub. L. 114–125][/us/pl/114/125], § 802(g)(1)(B)(iv)(II)(cc), substituted “functions of the Department” for “functions of the Directorate”.
 
     2012—Subsec. (b). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
@@ -68,12 +74,17 @@
 ----------
 ----------
 
-[/us/pl/107/296/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs430
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2191
-[/us/pl/108/458/s7303/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7303%2Fh%2F2
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3847
-[/us/pl/112/166/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Ff%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F212
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166

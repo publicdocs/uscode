@@ -43,11 +43,11 @@
 
         (2) submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a written notification of the designation.
 
-([Pub. L. 107–296, title II, § 210F][/us/pl/107/296/s210F], as added [Pub. L. 111–258, § 4(a)][/us/pl/111/258/s4/a], Oct. 7, 2010, [124 Stat. 2649][/us/stat/124/2649].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210F, as added [Pub. L. 111–258][/us/pl/111/258], § 4(a), Oct. 7, 2010, [124 Stat. 2649][/us/stat/124/2649].)
 
  __Findings__ 
 
-[Pub. L. 111–258, § 2][/us/pl/111/258/s2], Oct. 7, 2010, [124 Stat. 2648][/us/stat/124/2648], provided that: 
+[Pub. L. 111–258][/us/pl/111/258], § 2, Oct. 7, 2010, [124 Stat. 2648][/us/stat/124/2648], provided that: 
 
 > “Congress finds the following:
 
@@ -68,10 +68,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s210F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210F
-[/us/pl/111/258/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs4%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2649
-[/us/pl/111/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs2
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2648
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
 

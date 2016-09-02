@@ -103,7 +103,7 @@
 
     (14) the term “vulnerability assessment” means the identification of weaknesses in the security of a chemical facility of interest.
 
-([Pub. L. 107–296, title XXI, § 2101][/us/pl/107/296/s2101], as added [Pub. L. 113–254, § 2(a)][/us/pl/113/254/s2/a], Dec. 18, 2014, [128 Stat. 2898][/us/stat/128/2898].)
+([Pub. L. 107–296, title XXI][/us/pl/107/296/tXXI], § 2101, as added [Pub. L. 113–254][/us/pl/113/254], § 2(a), Dec. 18, 2014, [128 Stat. 2898][/us/stat/128/2898].)
 
  __Termination of Section__ 
 
@@ -113,15 +113,15 @@
 
     The Maritime Transportation Security Act of 2002, referred to in par. (4)(A), is [Pub. L. 107–295][/us/pl/107/295], Nov. 25, 2002, [116 Stat. 2064][/us/stat/116/2064]. For complete classification of this Act to the Code, see Tables.
 
-    Section 550 of the Department of Homeland Security Appropriations Act, 2007, referred to in par. (5), is [section 550 of Pub. L. 109–295][/us/pl/109/295/s550], title V, Oct. 4, 2006, [120 Stat. 1388][/us/stat/120/1388], which was set out as a note under [section 121 of this title][/us/usc/t6/s121] and was repealed by [Pub. L. 113–254, § 4(b)][/us/pl/113/254/s4/b], Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919].
+    Section 550 of the Department of Homeland Security Appropriations Act, 2007, referred to in par. (5), is [section 550 of Pub. L. 109–295][/us/pl/109/295/s550], title V, Oct. 4, 2006, [120 Stat. 1388][/us/stat/120/1388], which was set out as a note under [section 121 of this title][/us/usc/t6/s121] and was repealed by [Pub. L. 113–254][/us/pl/113/254], § 4(b), Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919].
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 113–254, § 4(a)][/us/pl/113/254/s4/a], Dec. 18, 2014, [128 Stat. 2918][/us/stat/128/2918], provided that: 
+[Pub. L. 113–254][/us/pl/113/254], § 4(a), Dec. 18, 2014, [128 Stat. 2918][/us/stat/128/2918], provided that: 
 
 > “This Act \[see Short Title of 2014 Amendment note set out under [section 101 of this title][/us/usc/t6/s101]\], and the amendments made by this Act, shall take effect on the date that is 30 days after the date of enactment of this Act \[Dec. 18, 2014\].”
 
-[Pub. L. 113–254, § 5][/us/pl/113/254/s5], Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919], provided that: 
+[Pub. L. 113–254][/us/pl/113/254], § 5, Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919], provided that: 
 
 > “The authority provided under title XXI of the Homeland Security Act of 2002 \[[6 U.S.C. 621][/us/usc/t6/s621] et seq.\], as added by section 2(a), shall terminate on the date that is 4 years after the effective date of this Act \[see [section 4(a) of Pub. L. 113–254][/us/pl/113/254/s4/a], set out above\].”
 
@@ -250,8 +250,8 @@
 [/us/usc/t6/s622/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs622%2Fc%2F4
 [/us/usc/t6/s622/c/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs622%2Fc%2F4%2FB%2Fi
 [/us/usc/t6/s622/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs622%2Fe%2F2%2FB
-[/us/pl/107/296/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2101
-[/us/pl/113/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs2%2Fa
+[/us/pl/107/296/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXXI
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2898
 [/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
@@ -259,12 +259,12 @@
 [/us/pl/109/295/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs550
 [/us/stat/120/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1388
 [/us/usc/t6/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121
-[/us/pl/113/254/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fb
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2919
-[/us/pl/113/254/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fa
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2918
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2919
 [/us/usc/t6/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs621
 [/us/pl/113/254/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fa

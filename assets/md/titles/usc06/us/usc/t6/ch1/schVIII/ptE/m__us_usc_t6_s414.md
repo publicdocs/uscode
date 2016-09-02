@@ -73,7 +73,7 @@
 
             Not later than 180 days after the date of the establishment of the Rotation Program, the Secretary shall submit a report on the status of the Rotation Program, including a description of the Rotation Program, the number of employees participating, and how the Rotation Program is used in succession planning and leadership development to the appropriate committees of Congress.
 
-([Pub. L. 107–296, title VIII, § 844][/us/pl/107/296/s844], as added [Pub. L. 109–295, title VI, § 622(a)][/us/pl/109/295/s622/a], Oct. 4, 2006, [120 Stat. 1416][/us/stat/120/1416].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 844, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 622(a), Oct. 4, 2006, [120 Stat. 1416][/us/stat/120/1416].)
 
 ----------
 
@@ -82,8 +82,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs844
-[/us/pl/109/295/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs622%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1416
 
 

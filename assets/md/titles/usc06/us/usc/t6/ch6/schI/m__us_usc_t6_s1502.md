@@ -61,7 +61,7 @@
 
         Not later than 60 days after December 18, 2015, the Director of National Intelligence, in consultation with the heads of the appropriate Federal entities, shall submit to Congress the procedures required by subsection (a).
 
-([Pub. L. 114–113, div. N, title I, § 103][/us/pl/114/113/s103], Dec. 18, 2015, [129 Stat. 2939][/us/stat/129/2939].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 103, Dec. 18, 2015, [129 Stat. 2939][/us/stat/129/2939].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
-[/us/pl/114/113/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs103
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2939
 
 

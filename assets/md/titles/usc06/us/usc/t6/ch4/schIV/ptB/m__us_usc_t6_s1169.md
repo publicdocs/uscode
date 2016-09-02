@@ -73,7 +73,7 @@
 
             Not later than 30 days after completion of all dispersion analyses under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report detailing the Secretary’s conclusions and findings in an appropriate format.
 
-([Pub. L. 110–53, title XV, § 1519][/us/pl/110/53/s1519], Aug. 3, 2007, [121 Stat. 443][/us/stat/121/443].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1519, Aug. 3, 2007, [121 Stat. 443][/us/stat/121/443].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1519
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F443
 
 

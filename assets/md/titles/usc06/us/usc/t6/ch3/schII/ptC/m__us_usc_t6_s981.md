@@ -75,7 +75,7 @@
 
             (H) an assessment of the reliability of currently available technology to implement an integrated scanning system.
 
-([Pub. L. 109–347, title II, § 231][/us/pl/109/347/s231], Oct. 13, 2006, [120 Stat. 1915][/us/stat/120/1915].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 231, Oct. 13, 2006, [120 Stat. 1915][/us/stat/120/1915].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs231
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1915
 
 

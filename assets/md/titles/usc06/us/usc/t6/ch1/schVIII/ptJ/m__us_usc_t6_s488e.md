@@ -57,7 +57,7 @@
 
         Paragraphs (1) and (2) of subsection (a) shall apply on and after the date that is 6 months after the date that the Secretary issues a final rule implementing this part.
 
-([Pub. L. 107–296, title VIII, § 899F][/us/pl/107/296/s899F], as added [Pub. L. 110–161, div. E, title V, § 563(a)][/us/pl/110/161/s563/a], Dec. 26, 2007, [121 Stat. 2088][/us/stat/121/2088].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 899F, as added [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 563(a), Dec. 26, 2007, [121 Stat. 2088][/us/stat/121/2088].)
 
 ----------
 
@@ -71,8 +71,8 @@
 [/us/usc/t6/s488a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488a
 [/us/usc/t6/s488a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488a
 [/us/usc/t6/s488a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488a%2Fc
-[/us/pl/107/296/s899F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs899F
-[/us/pl/110/161/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs563%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2088
 
 

@@ -25,7 +25,7 @@
 
     (4) $70,000,000 for fiscal year 2011.
 
-([Pub. L. 110–53, title XV, § 1503(b)][/us/pl/110/53/s1503/b], Aug. 3, 2007, [121 Stat. 425][/us/stat/121/425].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1503(b), Aug. 3, 2007, [121 Stat. 425][/us/stat/121/425].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t6/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1165
-[/us/pl/110/53/s1503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1503%2Fb
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F425
 
 

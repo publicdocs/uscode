@@ -157,7 +157,7 @@
 
         (2) the Subcommittee on Homeland Security of the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives.
 
-([Pub. L. 107–296, title II, § 226][/us/pl/107/296/s226], as added [Pub. L. 113–277, § 3(a)][/us/pl/113/277/s3/a], Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 226, as added [Pub. L. 113–277][/us/pl/113/277], § 3(a), Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005].)
 
 ----------
 
@@ -174,8 +174,8 @@
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/usc/t10/s2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2674
-[/us/pl/107/296/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs226
-[/us/pl/113/277/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs3%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/stat/128/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3005
 
 

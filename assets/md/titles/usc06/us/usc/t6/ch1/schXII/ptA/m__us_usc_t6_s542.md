@@ -61,7 +61,7 @@
 
             Paragraph (1) shall apply notwithstanding [section 905(b) of title 5][/us/usc/t5/s905/b].
 
-([Pub. L. 107–296, title XV, § 1502][/us/pl/107/296/s1502], Nov. 25, 2002, [116 Stat. 2308][/us/stat/116/2308].)
+([Pub. L. 107–296, title XV][/us/pl/107/296/tXV], § 1502, Nov. 25, 2002, [116 Stat. 2308][/us/stat/116/2308].)
 
  __References in Text__ 
 
@@ -561,7 +561,7 @@ Under Secretary for EP&R: Will be responsible for all of those functions include
 ----------
 
 [/us/usc/t5/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs905%2Fb
-[/us/pl/107/296/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1502
+[/us/pl/107/296/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXV
 [/us/stat/116/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2308
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

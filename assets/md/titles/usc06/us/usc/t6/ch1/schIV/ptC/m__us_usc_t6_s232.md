@@ -33,7 +33,7 @@
 
             Any amounts transferred by the Administrator of General Services to the Secretary out of rents and fees collected by the Administrator shall be used by the Secretary solely for the protection of buildings or grounds owned or occupied by the Federal Government.
 
-([Pub. L. 107–296, title IV, § 422][/us/pl/107/296/s422], Nov. 25, 2002, [116 Stat. 2184][/us/stat/116/2184].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 422, Nov. 25, 2002, [116 Stat. 2184][/us/stat/116/2184].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    “Chapter 1, except section 121(e)(2)(A), and chapters 5 to 11 of title 40” substituted in subsec. (a) for “chapter 10 of title 40” and “[section 592 of title 40][/us/usc/t40/s592]” substituted in subsec. (b)(1)(B) for “[section 490(f) of title 40][/us/usc/t40/s490/f]” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Chapter 1, except section 121(e)(2)(A), and chapters 5 to 11 of title 40” substituted in subsec. (a) for “chapter 10 of title 40” and “[section 592 of title 40][/us/usc/t40/s592]” substituted in subsec. (b)(1)(B) for “[section 490(f) of title 40][/us/usc/t40/s490/f]” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -52,14 +52,14 @@
 
 [/us/usc/t6/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs203%2F3
 [/us/usc/t40/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs592
-[/us/pl/107/296/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs422
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2184
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t40/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs592
 [/us/usc/t40/s490/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490%2Ff
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

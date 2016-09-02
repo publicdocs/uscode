@@ -27,7 +27,7 @@
 
         (2) The Select Committee on Intelligence and the Committee on the Judiciary of the Senate.
 
-([Pub. L. 107–296, title VIII, § 893][/us/pl/107/296/s893], Nov. 25, 2002, [116 Stat. 2255][/us/stat/116/2255].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 893, Nov. 25, 2002, [116 Stat. 2255][/us/stat/116/2255].)
 
  __Delegation of Functions__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t6/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482
 [/us/usc/t6/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482
-[/us/pl/107/296/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs893
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2255
 [/us/usc/t6/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482
 

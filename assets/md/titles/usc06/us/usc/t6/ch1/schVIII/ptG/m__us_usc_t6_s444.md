@@ -61,7 +61,7 @@
 
         The term “non-Federal Government customers” means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under [Public Law 85–804][/us/pl/85/804] \[[50 U.S.C. 1431][/us/usc/t50/s1431] et seq.\] to provide for indemnification under certain circumstances for third-party claims against its contractors, including but not limited to State and local authorities and commercial entities.
 
-([Pub. L. 107–296, title VIII, § 865][/us/pl/107/296/s865], Nov. 25, 2002, [116 Stat. 2241][/us/stat/116/2241].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 865, Nov. 25, 2002, [116 Stat. 2241][/us/stat/116/2241].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
 [/us/usc/t50/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1431
-[/us/pl/107/296/s865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs865
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2241
 [/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804
 [/us/pl/85/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F804

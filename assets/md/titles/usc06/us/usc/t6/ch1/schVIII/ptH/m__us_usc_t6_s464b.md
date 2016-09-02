@@ -17,7 +17,7 @@
 
     In fiscal year 2004 and thereafter, the Center is authorized to accept detailees from other Federal agencies, on a non-reimbursable basis, to staff the accreditation function.
 
-([Pub. L. 108–90, title IV][/us/pl/108/90], Oct. 1, 2003, [117 Stat. 1150][/us/stat/117/1150].)
+([Pub. L. 108–90, title IV][/us/pl/108/90/tIV], Oct. 1, 2003, [117 Stat. 1150][/us/stat/117/1150].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 108–7, div. J, title I][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 431][/us/stat/117/431].
+    [Pub. L. 108–7, div. J, title I][/us/pl/108/7/dJ/tI], Feb. 20, 2003, [117 Stat. 431][/us/stat/117/431].
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/108/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90
+[/us/pl/108/90/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2FtIV
 [/us/stat/117/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1150
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtI
 [/us/stat/117/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F431
 
 

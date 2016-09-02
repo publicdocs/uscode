@@ -47,7 +47,7 @@
 
             The allocation of grants authorized under section 604 or 605 of this title shall be governed by the terms of this part and not by any other provision of law.
 
-([Pub. L. 107–296, title XX, § 2002][/us/pl/107/296/s2002], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 273][/us/stat/121/273].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2002, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 273][/us/stat/121/273].)
 
  __References in Text__ 
 
@@ -70,8 +70,8 @@
 [/us/usc/t6/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1131
 [/us/usc/t6/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs723
 [/us/usc/t42/s3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3714
-[/us/pl/107/296/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2002
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F273
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535

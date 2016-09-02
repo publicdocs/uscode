@@ -35,7 +35,7 @@
 
         (4) performance of training, exercises, and operations.
 
-([Pub. L. 109–295, title VI, § 649][/us/pl/109/295/s649], Oct. 4, 2006, [120 Stat. 1428][/us/stat/120/1428].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 649, Oct. 4, 2006, [120 Stat. 1428][/us/stat/120/1428].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t6/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs752
 [/us/usc/t6/s746/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs746%2Fa
 [/us/usc/t6/s746/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs746%2Fa
-[/us/pl/109/295/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs649
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1428
 
 

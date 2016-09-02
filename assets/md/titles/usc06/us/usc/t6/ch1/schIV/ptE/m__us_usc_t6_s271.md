@@ -135,7 +135,7 @@
 
             The Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services shall be responsible for promoting instruction and training on citizenship responsibilities for aliens interested in becoming naturalized citizens of the United States, including the development of educational materials.
 
-([Pub. L. 107–296, title IV, § 451][/us/pl/107/296/s451], Nov. 25, 2002, [116 Stat. 2195][/us/stat/116/2195]; [Pub. L. 110–382, § 2(a)][/us/pl/110/382/s2/a], Oct. 9, 2008, [122 Stat. 4087][/us/stat/122/4087].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 451, Nov. 25, 2002, [116 Stat. 2195][/us/stat/116/2195]; [Pub. L. 110–382][/us/pl/110/382], § 2(a), Oct. 9, 2008, [122 Stat. 4087][/us/stat/122/4087].)
 
  __References in Text__ 
 
@@ -153,13 +153,13 @@
 
  __Termination Date of 2008 Amendment__ 
 
-[Pub. L. 110–382, § 4][/us/pl/110/382/s4], Oct. 9, 2008, [122 Stat. 4089][/us/stat/122/4089], provided that: 
+[Pub. L. 110–382][/us/pl/110/382], § 4, Oct. 9, 2008, [122 Stat. 4089][/us/stat/122/4089], provided that: 
 
 > “This Act \[amending this section and [section 1439 of Title 8][/us/usc/t8/s1439], Aliens and Nationality, and enacting provisions set out as notes under this section and [section 1101 of Title 8][/us/usc/t8/s1101]\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\].”
 
  __Effective Date__ 
 
-[Pub. L. 107–296, title IV, § 455][/us/pl/107/296/s455], Nov. 25, 2002, [116 Stat. 2200][/us/stat/116/2200], provided that: 
+[Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 455, Nov. 25, 2002, [116 Stat. 2200][/us/stat/116/2200], provided that: 
 
 > “Notwithstanding section 4 \[enacting provisions set out as a note under [section 101 of this title][/us/usc/t6/s101]\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting [section 251 of this title][/us/usc/t6/s251]\] takes effect.”
 
@@ -167,7 +167,7 @@
 
  __Rulemaking__ 
 
-    [Pub. L. 110–382, § 2(b)][/us/pl/110/382/s2/b], Oct. 9, 2008, [122 Stat. 4087][/us/stat/122/4087], which required the Secretary of Homeland Security, in consultation with the Attorney General, to promulgate rules to carry out the amendment made by [section 2(a) of Pub. L. 110–382][/us/pl/110/382/s2/a] no later than 180 days after Oct. 9, 2008, was repealed by [Pub. L. 110–382, § 4][/us/pl/110/382/s4], Oct. 9, 2008, [122 Stat. 4089][/us/stat/122/4089], effective 5 years after Oct. 9, 2008.
+    [Pub. L. 110–382][/us/pl/110/382], § 2(b), Oct. 9, 2008, [122 Stat. 4087][/us/stat/122/4087], which required the Secretary of Homeland Security, in consultation with the Attorney General, to promulgate rules to carry out the amendment made by [section 2(a) of Pub. L. 110–382][/us/pl/110/382/s2/a] no later than 180 days after Oct. 9, 2008, was repealed by [Pub. L. 110–382][/us/pl/110/382], § 4, Oct. 9, 2008, [122 Stat. 4089][/us/stat/122/4089], effective 5 years after Oct. 9, 2008.
 
 ----------
 
@@ -178,29 +178,29 @@
 
 [/us/usc/t6/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs272
 [/us/usc/t8/s1573/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1573%2Fa
-[/us/pl/107/296/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs451
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2195
-[/us/pl/110/382/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs2%2Fa
+[/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/stat/122/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4087
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/110/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs4
+[/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/stat/122/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4089
 [/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/107/296/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs455
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2200
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/110/382/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs2%2Fb
+[/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/stat/122/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4087
 [/us/pl/110/382/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs2%2Fa
-[/us/pl/110/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs4
+[/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/stat/122/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4089
 
 

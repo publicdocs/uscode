@@ -101,7 +101,7 @@
 
             Each local office of the Ombudsman shall maintain a phone, facsimile, and other means of electronic communication access, and a post office address, that is separate from those maintained by the Bureau of Citizenship and Immigration Services, or any component of the Bureau of Citizenship and Immigration Services.
 
-([Pub. L. 107–296, title IV, § 452][/us/pl/107/296/s452], Nov. 25, 2002, [116 Stat. 2197][/us/stat/116/2197].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 452, Nov. 25, 2002, [116 Stat. 2197][/us/stat/116/2197].)
 
  __Effective Date__ 
 
@@ -114,7 +114,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs452
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2197
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/pl/107/296/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs455

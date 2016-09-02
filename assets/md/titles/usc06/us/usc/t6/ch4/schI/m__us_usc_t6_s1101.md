@@ -25,7 +25,7 @@
 
         The term “Secretary” means the Secretary of Homeland Security.
 
-([Pub. L. 110–53, title XII, § 1201][/us/pl/110/53/s1201], Aug. 3, 2007, [121 Stat. 381][/us/stat/121/381].)
+([Pub. L. 110–53, title XII][/us/pl/110/53/tXII], § 1201, Aug. 3, 2007, [121 Stat. 381][/us/stat/121/381].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-[Pub. L. 110–53, title XIV, § 1401][/us/pl/110/53/s1401], Aug. 3, 2007, [121 Stat. 400][/us/stat/121/400], provided that: 
+[Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1401, Aug. 3, 2007, [121 Stat. 400][/us/stat/121/400], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be cited as the ‘National Transit Systems Security Act of 2007’.”
 
@@ -104,13 +104,13 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1201
+[/us/pl/110/53/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXII
 [/us/stat/121/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F381
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F381
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/110/53/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1401
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F400
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/usc/t5/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs104%2F1

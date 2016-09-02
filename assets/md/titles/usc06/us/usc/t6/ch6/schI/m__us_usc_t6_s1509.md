@@ -17,7 +17,7 @@
 
     Notwithstanding subsection (c)(3) of [section 393 of title 10][/us/usc/t10/s393], the Secretary of Defense may authorize the sharing of cyber threat indicators and defensive measures pursuant to the policies, procedures, and guidelines developed or issued under this subchapter.
 
-([Pub. L. 114–113, div. N, title I, § 110][/us/pl/114/113/s110], Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 110, Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t10/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs393
-[/us/pl/114/113/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs110
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
 
 

@@ -69,7 +69,7 @@
 
         (2) participates in a conspiracy to commit any such act of terrorism or any such criminal act.
 
-([Pub. L. 107–296, title VIII, § 863][/us/pl/107/296/s863], Nov. 25, 2002, [116 Stat. 2239][/us/stat/116/2239].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 863, Nov. 25, 2002, [116 Stat. 2239][/us/stat/116/2239].)
 
 ----------
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs863
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2239
 
 

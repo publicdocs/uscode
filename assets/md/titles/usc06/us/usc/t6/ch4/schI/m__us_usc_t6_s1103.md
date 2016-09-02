@@ -63,7 +63,7 @@
 
         (4) $18,000,000 for fiscal year 2011.
 
-([Pub. L. 110–53, title XII, § 1205][/us/pl/110/53/s1205], Aug. 3, 2007, [121 Stat. 387][/us/stat/121/387].)
+([Pub. L. 110–53, title XII][/us/pl/110/53/tXII], § 1205, Aug. 3, 2007, [121 Stat. 387][/us/stat/121/387].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1205
+[/us/pl/110/53/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXII
 [/us/stat/121/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F387
 
 

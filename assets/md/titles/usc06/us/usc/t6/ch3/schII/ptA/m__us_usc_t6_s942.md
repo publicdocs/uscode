@@ -63,7 +63,7 @@
 
         Consistent with [section 941 of this title][/us/usc/t6/s941], the Commandant of the Coast Guard, Commissioner, and other appropriate Federal officials, shall promptly communicate any revised procedures or instructions intended for the private sector following a maritime disruption or maritime transportation security incident.
 
-([Pub. L. 109–347, title II, § 202][/us/pl/109/347/s202], Oct. 13, 2006, [120 Stat. 1903][/us/stat/120/1903].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 202, Oct. 13, 2006, [120 Stat. 1903][/us/stat/120/1903].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t46/s70103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103%2Fc
 [/us/usc/t46/s70105/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105%2Fb%2F2%2FB
 [/us/usc/t6/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs941
-[/us/pl/109/347/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs202
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1903
 
 

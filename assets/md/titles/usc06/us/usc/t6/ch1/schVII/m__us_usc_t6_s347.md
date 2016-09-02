@@ -91,11 +91,11 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 107–296, title VII, § 707][/us/pl/107/296/s707], as added [Pub. L. 110–53, title XXIV, § 2401(a)][/us/pl/110/53/s2401/a], Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543].)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 707, as added [Pub. L. 110–53, title XXIV][/us/pl/110/53/tXXIV], § 2401(a), Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543].)
 
  __Preparation for First Quadrennial Homeland Security Review__ 
 
-[Pub. L. 110–53, title XXIV, § 2401(b)][/us/pl/110/53/s2401/b], Aug. 3, 2007, [121 Stat. 546][/us/stat/121/546], provided that:
+[Pub. L. 110–53, title XXIV][/us/pl/110/53/tXXIV], § 2401(b), Aug. 3, 2007, [121 Stat. 546][/us/stat/121/546], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -123,10 +123,10 @@
 ----------
 
 [/us/usc/t6/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs454
-[/us/pl/107/296/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs707
-[/us/pl/110/53/s2401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2401%2Fa
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
+[/us/pl/110/53/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIV
 [/us/stat/121/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F543
-[/us/pl/110/53/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2401%2Fb
+[/us/pl/110/53/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIV
 [/us/stat/121/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F546
 [/us/usc/t6/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs347
 

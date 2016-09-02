@@ -23,7 +23,7 @@
 
     (3) for fiscal year 2010, an amount equal to the amount described in paragraph (2), multiplied by 1.1.
 
-([Pub. L. 109–295, title VI, § 699][/us/pl/109/295/s699], Oct. 4, 2006, [120 Stat. 1462][/us/stat/120/1462].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 699, Oct. 4, 2006, [120 Stat. 1462][/us/stat/120/1462].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs699
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1462
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/stat/120/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1355

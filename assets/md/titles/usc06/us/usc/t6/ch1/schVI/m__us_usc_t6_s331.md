@@ -93,7 +93,7 @@
 
         Not later than 90 days after November 25, 2002, the Secretary of Defense, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.
 
-([Pub. L. 107–296, title VI, § 601][/us/pl/107/296/s601], Nov. 25, 2002, [116 Stat. 2215][/us/stat/116/2215].)
+([Pub. L. 107–296, title VI][/us/pl/107/296/tVI], § 601, Nov. 25, 2002, [116 Stat. 2215][/us/stat/116/2215].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 [/us/stat/115/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F224
 [/us/usc/t52/s30101/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F20%2FA
 [/us/usc/t52/s30125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30125%2Fe
-[/us/pl/107/296/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs601
+[/us/pl/107/296/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVI
 [/us/stat/116/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2215
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/stat/115/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F224

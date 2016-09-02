@@ -69,13 +69,13 @@
 
         In any case in which appropriations available to the Department or any officer of the Department are transferred or reprogrammed and notice of such transfer or reprogramming is submitted to the Congress (including any officer, office, or Committee of the Congress), the Chief Financial Officer of the Department shall simultaneously submit such notice to the Select Committee on Homeland Security (or any successor to the jurisdiction of that committee) and the Committee on Government Reform of the House of Representatives, and to the Committee on Governmental Affairs of the Senate.
 
-([Pub. L. 107–296, title VII, § 702][/us/pl/107/296/s702], Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219]; [Pub. L. 108–330][/us/pl/108/330], §§ 3(d)(1)(B), 6, 7, Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], 1278, 1279.)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 702, Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219]; [Pub. L. 108–330][/us/pl/108/330], §§ 3(d)(1)(B), 6, 7, Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], 1278, 1279.)
 
  __Amendments__ 
 
     2004—[Pub. L. 108–330][/us/pl/108/330], §§ 6, 7, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-    [Pub. L. 108–330, § 3(d)(1)(B)][/us/pl/108/330/s3/d/1/B], substituted “shall perform functions as specified in chapter 9 of title 31 and, with respect to all such functions and other responsibilities that may be assigned to the Chief Financial Officer from time to time, shall also report to the Under Secretary for Management” for “shall report to the Secretary, or to another official of the Department, as the Secretary may direct”.
+    [Pub. L. 108–330][/us/pl/108/330], § 3(d)(1)(B), substituted “shall perform functions as specified in chapter 9 of title 31 and, with respect to all such functions and other responsibilities that may be assigned to the Chief Financial Officer from time to time, shall also report to the Under Secretary for Management” for “shall report to the Secretary, or to another official of the Department, as the Secretary may direct”.
 
  __Change of Name__ 
 
@@ -87,7 +87,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–330, § 2][/us/pl/108/330/s2], Oct. 16, 2004, [118 Stat. 1275][/us/stat/118/1275], provided that: 
+[Pub. L. 108–330][/us/pl/108/330], § 2, Oct. 16, 2004, [118 Stat. 1275][/us/stat/118/1275], provided that: 
 
 > “The Congress finds the following:
 
@@ -111,13 +111,13 @@
 [/us/usc/t6/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs454
 [/us/usc/t6/s452/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs452%2Fa
 [/us/usc/t6/s452/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs452%2Fb
-[/us/pl/107/296/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs702
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
 [/us/stat/116/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2219
 [/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1276
 [/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
-[/us/pl/108/330/s3/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fd%2F1%2FB
-[/us/pl/108/330/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs2
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1275
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501

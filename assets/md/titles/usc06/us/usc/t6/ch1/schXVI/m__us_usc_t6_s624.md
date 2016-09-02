@@ -93,7 +93,7 @@
 
         Nothing in this subchapter confers upon any person except the Secretary or his or her designee a right of action against an owner or operator of a covered chemical facility to enforce any provision of this subchapter.
 
-([Pub. L. 107–296, title XXI, § 2104][/us/pl/107/296/s2104], as added [Pub. L. 113–254, § 2(a)][/us/pl/113/254/s2/a], Dec. 18, 2014, [128 Stat. 2912][/us/stat/128/2912].)
+([Pub. L. 107–296, title XXI][/us/pl/107/296/tXXI], § 2104, as added [Pub. L. 113–254][/us/pl/113/254], § 2(a), Dec. 18, 2014, [128 Stat. 2912][/us/stat/128/2912].)
 
  __Termination of Section__ 
 
@@ -114,8 +114,8 @@
 [/us/usc/t46/s70119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70119%2Fa
 [/us/usc/t6/s113/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113%2Fa%2F1%2FH
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/107/296/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2104
-[/us/pl/113/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs2%2Fa
+[/us/pl/107/296/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXXI
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2912
 [/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
 [/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254

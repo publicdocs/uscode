@@ -57,11 +57,11 @@
 
         There is authorized to be appropriated to the Secretary to carry out this section $2,000,000 for fiscal year 2008.
 
-([Pub. L. 110–53, title XIV, § 1404][/us/pl/110/53/s1404], Aug. 3, 2007, [121 Stat. 401][/us/stat/121/401].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1404, Aug. 3, 2007, [121 Stat. 401][/us/stat/121/401].)
 
  __References in Text__ 
 
-    [Section 114(t) of title 49][/us/usc/t49/s114/t], referred to in subsecs. (a) and (e), was redesignated [section 114(s) of title 49][/us/usc/t49/s114/s] by [Pub. L. 110–161, div. E, title V, § 568(a)][/us/pl/110/161/s568/a], Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
+    [Section 114(t) of title 49][/us/usc/t49/s114/t], referred to in subsecs. (a) and (e), was redesignated [section 114(s) of title 49][/us/usc/t49/s114/s] by [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 568(a), Dec. 26, 2007, [121 Stat. 2092][/us/stat/121/2092].
 
     Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note under [section 1101 of this title][/us/usc/t6/s1101].
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1404
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F401
 [/us/usc/t49/s114/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Ft
 [/us/usc/t49/s114/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114%2Fs
-[/us/pl/110/161/s568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs568%2Fa
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2092
 [/us/usc/t6/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1101
 

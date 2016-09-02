@@ -113,17 +113,17 @@
 
         (2) the allocation of Department of Defense resources.
 
-([Pub. L. 109–295, title VI, § 653][/us/pl/109/295/s653], Oct. 4, 2006, [120 Stat. 1430][/us/stat/120/1430]; [Pub. L. 110–53, title IV, § 407][/us/pl/110/53/s407], Aug. 3, 2007, [121 Stat. 304][/us/stat/121/304].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 653, Oct. 4, 2006, [120 Stat. 1430][/us/stat/120/1430]; [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], § 407, Aug. 3, 2007, [121 Stat. 304][/us/stat/121/304].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–53, § 407(1)(A)][/us/pl/110/53/s407/1/A], struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 110–53][/us/pl/110/53], § 407(1)(A), struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 110–53, § 407(1)(B)][/us/pl/110/53/s407/1/B], inserted “, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with [section 320 of this title][/us/usc/t6/s320]” before semicolon at end.
+    Subsec. (a)(2). [Pub. L. 110–53][/us/pl/110/53], § 407(1)(B), inserted “, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with [section 320 of this title][/us/usc/t6/s320]” before semicolon at end.
 
-    Subsec. (a)(5). [Pub. L. 110–53, § 407(1)(C)][/us/pl/110/53/s407/1/C]–(E), added par. (5).
+    Subsec. (a)(5). [Pub. L. 110–53][/us/pl/110/53], § 407(1)(C)–(E), added par. (5).
 
-    Subsec. (d). [Pub. L. 110–53, § 407(2)][/us/pl/110/53/s407/2], inserted “to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives” after “certify” and struck out “coordinating, primary, or supporting” before “responsibilities”.
+    Subsec. (d). [Pub. L. 110–53][/us/pl/110/53], § 407(2), inserted “to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives” after “certify” and struck out “coordinating, primary, or supporting” before “responsibilities”.
 
 ----------
 
@@ -134,14 +134,14 @@
 
 [/us/usc/t6/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs320
 [/us/usc/t6/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs751
-[/us/pl/109/295/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs653
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1430
-[/us/pl/110/53/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs407
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F304
-[/us/pl/110/53/s407/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs407%2F1%2FA
-[/us/pl/110/53/s407/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs407%2F1%2FB
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t6/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs320
-[/us/pl/110/53/s407/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs407%2F1%2FC
-[/us/pl/110/53/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs407%2F2
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 
 

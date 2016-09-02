@@ -47,7 +47,7 @@
 
             (B) follow the result of the activities carried out under subsection (c), including any methods developed under such subsection.
 
-([Pub. L. 114–113, div. N, title IV, § 404][/us/pl/114/113/s404], Dec. 18, 2015, [129 Stat. 2980][/us/stat/129/2980].)
+([Pub. L. 114–113, div. N, title IV][/us/pl/114/113/dN/tIV], § 404, Dec. 18, 2015, [129 Stat. 2980][/us/stat/129/2980].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t15/s272/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272%2Fe
 [/us/usc/t6/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1501
-[/us/pl/114/113/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404
+[/us/pl/114/113/dN/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtIV
 [/us/stat/129/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2980
 
 

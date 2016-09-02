@@ -39,7 +39,7 @@
 
         (2) a plan to complete implementation of this section.
 
-([Pub. L. 107–296, title IV, § 427][/us/pl/107/296/s427], Nov. 25, 2002, [116 Stat. 2187][/us/stat/116/2187].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 427, Nov. 25, 2002, [116 Stat. 2187][/us/stat/116/2187].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs427
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2187
 
 

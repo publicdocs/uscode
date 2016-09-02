@@ -105,21 +105,21 @@
 
         In this section, the term “interoperable communications” has the meaning given that term in [section 194(g) of this title][/us/usc/t6/s194/g].
 
-([Pub. L. 107–296, title VII, § 701][/us/pl/107/296/s701], Nov. 25, 2002, [116 Stat. 2218][/us/stat/116/2218]; [Pub. L. 110–53, title XXIV, § 2405(a)][/us/pl/110/53/s2405/a], (b), Aug. 3, 2007, [121 Stat. 548][/us/stat/121/548]; [Pub. L. 114–29, § 3][/us/pl/114/29/s3], July 6, 2015, [129 Stat. 421][/us/stat/129/421].)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 701, Nov. 25, 2002, [116 Stat. 2218][/us/stat/116/2218]; [Pub. L. 110–53, title XXIV][/us/pl/110/53/tXXIV], § 2405(a), (b), Aug. 3, 2007, [121 Stat. 548][/us/stat/121/548]; [Pub. L. 114–29][/us/pl/114/29], § 3, July 6, 2015, [129 Stat. 421][/us/stat/129/421].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(4). [Pub. L. 114–29, § 3(1)][/us/pl/114/29/s3/1], inserted before period at end “, including policies and directives to achieve and maintain interoperable communications among the components of the Department”.
+    2015—Subsec. (a)(4). [Pub. L. 114–29][/us/pl/114/29], § 3(1), inserted before period at end “, including policies and directives to achieve and maintain interoperable communications among the components of the Department”.
 
-    Subsec. (d). [Pub. L. 114–29, § 3(2)][/us/pl/114/29/s3/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 114–29][/us/pl/114/29], § 3(2), added subsec. (d).
 
-    2007—Subsec. (a). [Pub. L. 110–53, § 2405(a)(1)][/us/pl/110/53/s2405/a/1], inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
+    2007—Subsec. (a). [Pub. L. 110–53][/us/pl/110/53], § 2405(a)(1), inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
 
-    Subsec. (a)(7). [Pub. L. 110–53, § 2405(a)(2)][/us/pl/110/53/s2405/a/2], added par. (7) and struck out former par. (7) which read as follows: “Identification and tracking of performance measures relating to the responsibilities of the Department.”
+    Subsec. (a)(7). [Pub. L. 110–53][/us/pl/110/53], § 2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: “Identification and tracking of performance measures relating to the responsibilities of the Department.”
 
-    Subsec. (a)(9). [Pub. L. 110–53, § 2405(a)(3)][/us/pl/110/53/s2405/a/3], added par. (9) and struck out former par. (9) which read as follows: “The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan.”
+    Subsec. (a)(9). [Pub. L. 110–53][/us/pl/110/53], § 2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: “The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan.”
 
-    Subsec. (c). [Pub. L. 110–53, § 2405(b)][/us/pl/110/53/s2405/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–53][/us/pl/110/53], § 2405(b), added subsec. (c).
 
  __Change of Name__ 
 
@@ -127,7 +127,7 @@
 
  __Deadline for Appointment; Incumbent__ 
 
-[Pub. L. 110–53, title XXIV, § 2405(c)][/us/pl/110/53/s2405/c], Aug. 3, 2007, [121 Stat. 549][/us/stat/121/549], provided that:
+[Pub. L. 110–53, title XXIV][/us/pl/110/53/tXXIV], § 2405(c), Aug. 3, 2007, [121 Stat. 549][/us/stat/121/549], provided that:
 
 >     “(1)  __Deadline for appointment__  __.—__ 
 
@@ -146,20 +146,20 @@
 
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s194/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Fg
-[/us/pl/107/296/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs701
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
 [/us/stat/116/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2218
-[/us/pl/110/53/s2405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa
+[/us/pl/110/53/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIV
 [/us/stat/121/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F548
-[/us/pl/114/29/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29%2Fs3
+[/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
 [/us/stat/129/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F421
-[/us/pl/114/29/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29%2Fs3%2F1
-[/us/pl/114/29/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29%2Fs3%2F2
-[/us/pl/110/53/s2405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa%2F1
-[/us/pl/110/53/s2405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa%2F2
-[/us/pl/110/53/s2405/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa%2F3
-[/us/pl/110/53/s2405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fb
+[/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
+[/us/pl/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/110/53/s2405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fc
+[/us/pl/110/53/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIV
 [/us/stat/121/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F549
 [/us/usc/t6/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs341
 

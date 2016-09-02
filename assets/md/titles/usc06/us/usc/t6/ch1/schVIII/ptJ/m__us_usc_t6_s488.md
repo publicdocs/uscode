@@ -33,7 +33,7 @@
 
         The term “ammonium nitrate purchaser” means any person who purchases ammonium nitrate from an ammonium nitrate facility.
 
-([Pub. L. 107–296, title VIII, § 899A][/us/pl/107/296/s899A], as added [Pub. L. 110–161, div. E, title V, § 563(a)][/us/pl/110/161/s563/a], Dec. 26, 2007, [121 Stat. 2083][/us/stat/121/2083].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 899A, as added [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 563(a), Dec. 26, 2007, [121 Stat. 2083][/us/stat/121/2083].)
 
 ----------
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t6/s488a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs488a%2Fb
-[/us/pl/107/296/s899A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs899A
-[/us/pl/110/161/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs563%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2083
 
 

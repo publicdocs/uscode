@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Commissioner, shall consider the potential for participation in C–TPAT by importers of noncontainerized cargoes that otherwise meet the requirements under this part.
 
-([Pub. L. 109–347, title II, § 220][/us/pl/109/347/s220], Oct. 13, 2006, [120 Stat. 1914][/us/stat/120/1914].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 220, Oct. 13, 2006, [120 Stat. 1914][/us/stat/120/1914].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs220
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1914
 
 

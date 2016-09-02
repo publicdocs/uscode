@@ -35,7 +35,7 @@
 
         The Chairman of the Joint Chiefs of Staff (or, in the absence of the Chairman, the Vice Chairman of the Joint Chiefs of Staff) may, in the role of the Chairman of the Joint Chiefs of Staff as principal military adviser to the Council and subject to the direction of the President, attend and participate in meetings of the Council.
 
-([Pub. L. 107–296, title IX, § 903][/us/pl/107/296/s903], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 109–163, div. A, title IX, § 908(b)][/us/pl/109/163/s908/b], Jan. 6, 2006, [119 Stat. 3404][/us/stat/119/3404].)
+([Pub. L. 107–296, title IX][/us/pl/107/296/tIX], § 903, Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 908(b), Jan. 6, 2006, [119 Stat. 3404][/us/stat/119/3404].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs903
+[/us/pl/107/296/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIX
 [/us/stat/116/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2258
-[/us/pl/109/163/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs908%2Fb
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3404
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

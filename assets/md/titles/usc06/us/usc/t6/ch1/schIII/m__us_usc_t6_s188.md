@@ -109,7 +109,7 @@
 
             No laboratory shall begin operating as the headquarters laboratory of the Department until at least 30 days after the transmittal of the report required by paragraph (3)(E).
 
-([Pub. L. 107–296, title III, § 308][/us/pl/107/296/s308], Nov. 25, 2002, [116 Stat. 2170][/us/stat/116/2170]; [Pub. L. 108–7, div. L, § 101(1)][/us/pl/108/7/s101/1], Feb. 20, 2003, [117 Stat. 526][/us/stat/117/526].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 308, Nov. 25, 2002, [116 Stat. 2170][/us/stat/116/2170]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 101(1), Feb. 20, 2003, [117 Stat. 526][/us/stat/117/526].)
 
  __References in Text__ 
 
@@ -129,9 +129,9 @@
 [/us/usc/t6/s182/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182%2F4
 [/us/usc/t6/s182/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182%2F14
 [/us/usc/t6/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182
-[/us/pl/107/296/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs308
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2170
-[/us/pl/108/7/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs101%2F1
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F526
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7

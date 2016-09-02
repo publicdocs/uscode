@@ -17,7 +17,7 @@
 
     There is established within the Executive Office of the President a council to be known as the “Homeland Security Council” (in this subchapter referred to as the “Council”).
 
-([Pub. L. 107–296, title IX, § 901][/us/pl/107/296/s901], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258].)
+([Pub. L. 107–296, title IX][/us/pl/107/296/tIX], § 901, Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs901
+[/us/pl/107/296/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIX
 [/us/stat/116/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2258
 
 

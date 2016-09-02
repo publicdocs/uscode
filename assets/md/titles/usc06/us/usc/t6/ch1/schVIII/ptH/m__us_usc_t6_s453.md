@@ -33,7 +33,7 @@
 
         Under [section 1105 of title 31][/us/usc/t31/s1105], the President shall submit to Congress a detailed budget request for the Department for fiscal year 2004, and for each subsequent fiscal year.
 
-([Pub. L. 107–296, title VIII, § 873][/us/pl/107/296/s873], Nov. 25, 2002, [116 Stat. 2243][/us/stat/116/2243]; [Pub. L. 108–7, div. L, § 103(3)][/us/pl/108/7/s103/3], Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529]; [Pub. L. 111–245, § 2(a)(2)][/us/pl/111/245/s2/a/2], Sept. 30, 2010, [124 Stat. 2621][/us/stat/124/2621].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 873, Nov. 25, 2002, [116 Stat. 2243][/us/stat/116/2243]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 103(3), Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529]; [Pub. L. 111–245][/us/pl/111/245], § 2(a)(2), Sept. 30, 2010, [124 Stat. 2621][/us/stat/124/2621].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “subchapter IV of chapter 5 of title 40” substituted for “section 204 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 485][/us/usc/t40/s485])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a)(1), “subchapter IV of chapter 5 of title 40” substituted for “section 204 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 485][/us/usc/t40/s485])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -60,17 +60,17 @@
 [/us/usc/t10/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2601
 [/us/usc/t14/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/107/296/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs873
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2243
-[/us/pl/108/7/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs103%2F3
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F529
-[/us/pl/111/245/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245%2Fs2%2Fa%2F2
+[/us/pl/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245
 [/us/stat/124/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2621
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t40/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs485
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F245
 [/us/usc/t14/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93

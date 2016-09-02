@@ -25,7 +25,7 @@
 
     (4) provide data integrity through the timely removal and destruction of obsolete or erroneous names and information.
 
-([Pub. L. 107–296, title II, § 221][/us/pl/107/296/s221], Nov. 25, 2002, [116 Stat. 2155][/us/stat/116/2155].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 221, Nov. 25, 2002, [116 Stat. 2155][/us/stat/116/2155].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs221
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2155
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2145

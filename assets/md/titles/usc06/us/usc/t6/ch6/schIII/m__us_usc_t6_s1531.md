@@ -71,7 +71,7 @@
 
             (B) the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Homeland Security, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives.
 
-([Pub. L. 114–113, div. N, title IV, § 403][/us/pl/114/113/s403], Dec. 18, 2015, [129 Stat. 2979][/us/stat/129/2979].)
+([Pub. L. 114–113, div. N, title IV][/us/pl/114/113/dN/tIV], § 403, Dec. 18, 2015, [129 Stat. 2979][/us/stat/129/2979].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs403
+[/us/pl/114/113/dN/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtIV
 [/us/stat/129/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2979
 
 

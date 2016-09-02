@@ -23,7 +23,7 @@
 
         The Office shall be headed by a Director for Domestic Nuclear Detection, who shall be appointed by the President.
 
-([Pub. L. 107–296, title XIX, § 1901][/us/pl/107/296/s1901], formerly title XVIII, § 1801, as added [Pub. L. 109–347, title V, § 501(a)][/us/pl/109/347/s501/a], Oct. 13, 2006, [120 Stat. 1932][/us/stat/120/1932]; renumbered title XIX, § 1901, [Pub. L. 110–53, title I, § 104(a)(1)][/us/pl/110/53/s104/a/1], (2), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
+([Pub. L. 107–296, title XIX][/us/pl/107/296/tXIX], § 1901, formerly title XVIII, § 1801, as added [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(a), Oct. 13, 2006, [120 Stat. 1932][/us/stat/120/1932]; renumbered title XIX, § 1901, [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 104(a)(1), (2), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1901
-[/us/pl/109/347/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fa
+[/us/pl/107/296/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIX
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1932
-[/us/pl/110/53/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs104%2Fa%2F1
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F294
 
 

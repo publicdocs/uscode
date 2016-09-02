@@ -129,7 +129,7 @@
 
             (B) 45 days after the senior official’s request for a subpoena under subsection (b)(1)(C), if that subpoena has not either been approved or disapproved by the Secretary.
 
-([Pub. L. 107–296, title II, § 222][/us/pl/107/296/s222], Nov. 25, 2002, [116 Stat. 2155][/us/stat/116/2155]; [Pub. L. 108–458, title VIII, § 8305][/us/pl/108/458/s8305], Dec. 17, 2004, [118 Stat. 3868][/us/stat/118/3868]; [Pub. L. 110–53, title VIII, § 802][/us/pl/110/53/s802], Aug. 3, 2007, [121 Stat. 358][/us/stat/121/358].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 222, Nov. 25, 2002, [116 Stat. 2155][/us/stat/116/2155]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8305, Dec. 17, 2004, [118 Stat. 3868][/us/stat/118/3868]; [Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 802, Aug. 3, 2007, [121 Stat. 358][/us/stat/121/358].)
 
  __References in Text__ 
 
@@ -139,9 +139,9 @@
 
     2007—[Pub. L. 110–53][/us/pl/110/53] designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
-    2004—[Pub. L. 108–458, § 8305(1)][/us/pl/108/458/s8305/1], inserted “, who shall report directly to the Secretary,” after “in the Department” in introductory provisions.
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 8305(1), inserted “, who shall report directly to the Secretary,” after “in the Department” in introductory provisions.
 
-    Pars. (5), (6). [Pub. L. 108–458, § 8305(2)][/us/pl/108/458/s8305/2]–(4), added par. (5) and redesignated former par. (5) as (6).
+    Pars. (5), (6). [Pub. L. 108–458][/us/pl/108/458], § 8305(2)–(4), added par. (5) and redesignated former par. (5) as (6).
 
 ----------
 
@@ -152,11 +152,11 @@
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/107/296/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs222
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2155
-[/us/pl/108/458/s8305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8305
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3868
-[/us/pl/110/53/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs802
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F358
 [/us/pl/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F579
 [/us/stat/88/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1896
@@ -164,7 +164,7 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/108/458/s8305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8305%2F1
-[/us/pl/108/458/s8305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8305%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 
 

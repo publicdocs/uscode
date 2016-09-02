@@ -141,15 +141,15 @@
 
         (3) $153,300,000 for fiscal year 2010.
 
-([Pub. L. 109–347, title II, § 205][/us/pl/109/347/s205], Oct. 13, 2006, [120 Stat. 1906][/us/stat/120/1906].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 205, Oct. 13, 2006, [120 Stat. 1906][/us/stat/120/1906].)
 
  __International Port and Facility Inspection Coordination__ 
 
-[Pub. L. 111–281, title VIII, § 825][/us/pl/111/281/s825], Oct. 15, 2010, [124 Stat. 3004][/us/stat/124/3004], provided that:
+[Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 825, Oct. 15, 2010, [124 Stat. 3004][/us/stat/124/3004], as amended by [Pub. L. 114–120, title III][/us/pl/114/120/tIII], § 320, Feb. 8, 2016, [130 Stat. 66][/us/stat/130/66], provided that:
 
 >     “(a)  __Coordination__  __.—__ 
 
->     The Secretary of the department in which the Coast Guard is operating shall, to the extent practicable, conduct the assessments required by the following provisions of law concurrently, or develop a process by which they are integrated and conducted by the Coast Guard:
+>     The Secretary of Homeland Security shall, to the extent practicable, conduct the assessments required by the following provisions of law concurrently, or develop a process by which the assessments are coordinated between the Coast Guard and Customs and Border Protection:
 
 >         “(1) Section 205 of the SAFE Port Act ([6 U.S.C. 945][/us/usc/t6/s945]).
 
@@ -179,10 +179,12 @@
 ----------
 
 [/us/usc/t46/s70108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70108
-[/us/pl/109/347/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs205
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1906
-[/us/pl/111/281/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs825
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3004
+[/us/pl/114/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtIII
+[/us/stat/130/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F66
 [/us/usc/t6/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs945
 [/us/usc/t6/s964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs964
 [/us/usc/t46/s70108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70108

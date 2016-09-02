@@ -61,11 +61,11 @@
 
         Nothing contained in this section shall be construed as limiting the power of State and local governments.
 
-([Pub. L. 107–296, title VIII, § 882][/us/pl/107/296/s882], Nov. 25, 2002, [116 Stat. 2246][/us/stat/116/2246].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 882, Nov. 25, 2002, [116 Stat. 2246][/us/stat/116/2246].)
 
  __Incorporation of Governors of West Virginia and Pennsylvania into Mass Evacuation Planning__ 
 
-[Pub. L. 113–6, div. D, title III][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 357][/us/stat/127/357], provided in part: 
+[Pub. L. 113–6, div. D, title III][/us/pl/113/6/dD/tIII], Mar. 26, 2013, [127 Stat. 357][/us/stat/127/357], provided in part: 
 
 > “That for fiscal year 2013 and thereafter, for purposes of planning, coordination, execution, and decision making related to mass evacuation during a disaster, the Governors of the State of West Virginia and the Commonwealth of Pennsylvania, or their designees, shall be incorporated into efforts to integrate the activities of Federal, State, and local governments in the National Capital Region, as defined in section 882 of the Homeland Security Act of 2002 ([Public Law 107–296][/us/pl/107/296]) \[[6 U.S.C. 462][/us/usc/t6/s462]\]”.
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/usc/t10/s2674/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2674%2Ff%2F2
-[/us/pl/107/296/s882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs882
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2246
-[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/6/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtIII
 [/us/stat/127/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F357
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t6/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs462

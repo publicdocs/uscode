@@ -17,7 +17,7 @@
 
     The Secretary may provide training curricula to any State, local, or tribal government or private organization to assist the government or organization in establishing a program of training to identify human trafficking, upon request from the government or organization.
 
-([Pub. L. 114–22, title IX, § 904][/us/pl/114/22/s904], May 29, 2015, [129 Stat. 266][/us/stat/129/266].)
+([Pub. L. 114–22, title IX][/us/pl/114/22/tIX], § 904, May 29, 2015, [129 Stat. 266][/us/stat/129/266].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs904
+[/us/pl/114/22/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIX
 [/us/stat/129/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F266
 
 

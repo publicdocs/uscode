@@ -39,7 +39,7 @@
 
         (4) To manage international activities within the Department in coordination with other Federal officials with responsibility for counter-terrorism matters.
 
-([Pub. L. 107–296, title VIII, § 879][/us/pl/107/296/s879], Nov. 25, 2002, [116 Stat. 2245][/us/stat/116/2245].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 879, Nov. 25, 2002, [116 Stat. 2245][/us/stat/116/2245].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs879
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2245
 
 

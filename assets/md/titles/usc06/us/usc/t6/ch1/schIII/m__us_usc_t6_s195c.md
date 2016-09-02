@@ -141,7 +141,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as are necessary.
 
-([Pub. L. 107–296, title III, § 317][/us/pl/107/296/s317], as added [Pub. L. 110–53, title XIX, § 1901(b)(1)][/us/pl/110/53/s1901/b/1], Aug. 3, 2007, [121 Stat. 505][/us/stat/121/505].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 317, as added [Pub. L. 110–53, title XIX][/us/pl/110/53/tXIX], § 1901(b)(1), Aug. 3, 2007, [121 Stat. 505][/us/stat/121/505].)
 
  __References in Text__ 
 
@@ -149,7 +149,7 @@
 
  __Findings__ 
 
-[Pub. L. 110–53, title XIX, § 1901(a)][/us/pl/110/53/s1901/a], Aug. 3, 2007, [121 Stat. 505][/us/stat/121/505], provided that: 
+[Pub. L. 110–53, title XIX][/us/pl/110/53/tXIX], § 1901(a), Aug. 3, 2007, [121 Stat. 505][/us/stat/121/505], provided that: 
 
 > “Congress finds the following:
 
@@ -167,7 +167,7 @@
 
  __Transparency of Funds__ 
 
-[Pub. L. 110–53, title XIX, § 1902][/us/pl/110/53/s1902], Aug. 3, 2007, [121 Stat. 508][/us/stat/121/508], provided that: 
+[Pub. L. 110–53, title XIX][/us/pl/110/53/tXIX], § 1902, Aug. 3, 2007, [121 Stat. 508][/us/stat/121/508], provided that: 
 
 > “For each Federal award (as that term is defined in section 2 of the Federal Funding Accountability and Transparency Act of 2006 \[[Pub. L. 109–282][/us/pl/109/282]\] ([31 U.S.C. 6101][/us/usc/t31/s6101] note)) under this title \[enacting this section and provisions set out as notes under this section\] or an amendment made by this title, the Director of the Office of Management and Budget shall ensure full and timely compliance with the requirements of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101][/us/usc/t31/s6101] note).”
 
@@ -182,14 +182,14 @@
 [/us/usc/t1/s112b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112b%2Fc
 [/us/usc/t22/s2651a/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a%2Fe%2F2
 [/us/usc/t22/s2382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2382%2Fc
-[/us/pl/107/296/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs317
-[/us/pl/110/53/s1901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1901%2Fb%2F1
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
+[/us/pl/110/53/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIX
 [/us/stat/121/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F505
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/stat/92/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F963
-[/us/pl/110/53/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1901%2Fa
+[/us/pl/110/53/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIX
 [/us/stat/121/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F505
-[/us/pl/110/53/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1902
+[/us/pl/110/53/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIX
 [/us/stat/121/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F508
 [/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101

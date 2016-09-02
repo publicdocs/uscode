@@ -27,7 +27,7 @@
 
         To the extent practicable, the Secretary, acting through the Commissioner, shall complete the Tier 1 certification process within 90 days of receipt of an application for participation in C–TPAT.
 
-([Pub. L. 109–347, title II, § 214][/us/pl/109/347/s214], Oct. 13, 2006, [120 Stat. 1910][/us/stat/120/1910].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 214, Oct. 13, 2006, [120 Stat. 1910][/us/stat/120/1910].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs214
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1910
 
 

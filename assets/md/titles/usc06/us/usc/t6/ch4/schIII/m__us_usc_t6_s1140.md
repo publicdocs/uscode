@@ -17,7 +17,7 @@
 
     Not later than 1 year after August 3, 2007, the Secretary shall complete a name-based security background check against the consolidated terrorist watchlist and an immigration status check for all public transportation frontline employees, similar to the threat assessment screening program required for facility employees and longshoremen by the Commandant of the Coast Guard under Coast Guard Notice USCG–2006–24189 (71 Fed. Reg. 25066 (April 8, 2006)).
 
-([Pub. L. 110–53, title XIV, § 1411][/us/pl/110/53/s1411], Aug. 3, 2007, [121 Stat. 413][/us/stat/121/413].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1411, Aug. 3, 2007, [121 Stat. 413][/us/stat/121/413].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1411
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F413
 
 

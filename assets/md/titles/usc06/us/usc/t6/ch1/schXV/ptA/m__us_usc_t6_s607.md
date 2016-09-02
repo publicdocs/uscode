@@ -81,7 +81,7 @@
 
             Nothing in this subsection shall be construed to diminish, supercede, or replace the responsibilities, authorities, or role of the Administrator.
 
-([Pub. L. 107–296, title XX, § 2006][/us/pl/107/296/s2006], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 280][/us/stat/121/280].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2006, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 280][/us/stat/121/280].)
 
 ----------
 
@@ -91,8 +91,8 @@
 ----------
 
 [/us/usc/t6/s124h/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124h%2Fi
-[/us/pl/107/296/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2006
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F280
 
 

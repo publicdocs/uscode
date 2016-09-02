@@ -97,7 +97,7 @@
 
         All information contained in a report made under this subsection (a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  shall be protected in accordance with [section 623 of this title][/us/usc/t6/s623].
 
-([Pub. L. 107–296, title XXI, § 2105][/us/pl/107/296/s2105], as added [Pub. L. 113–254, § 2(a)][/us/pl/113/254/s2/a], Dec. 18, 2014, [128 Stat. 2914][/us/stat/128/2914].)
+([Pub. L. 107–296, title XXI][/us/pl/107/296/tXXI], § 2105, as added [Pub. L. 113–254][/us/pl/113/254], § 2(a), Dec. 18, 2014, [128 Stat. 2914][/us/stat/128/2914].)
 
  __Termination of Section__ 
 
@@ -118,8 +118,8 @@
 [/us/usc/t6/s624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs624%2Fa
 [/us/usc/t6/s624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs624%2Fc
 [/us/usc/t6/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs623
-[/us/pl/107/296/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2105
-[/us/pl/113/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs2%2Fa
+[/us/pl/107/296/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXXI
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2914
 [/us/pl/113/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs5
 [/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254

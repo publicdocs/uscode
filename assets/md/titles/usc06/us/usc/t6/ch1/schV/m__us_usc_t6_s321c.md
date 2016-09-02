@@ -27,7 +27,7 @@
 
         The Administrator of the United States Fire Administration shall have a rank equivalent to an assistant secretary of the Department.
 
-([Pub. L. 107–296, title V, § 514][/us/pl/107/296/s514], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1409][/us/stat/120/1409].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 514, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1409][/us/stat/120/1409].)
 
  __Effective Date__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs514
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1409
 [/us/pl/109/295/s614/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs614%2Fb%2F3
 [/us/usc/t6/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs701

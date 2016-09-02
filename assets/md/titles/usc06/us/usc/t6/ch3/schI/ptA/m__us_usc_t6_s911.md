@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t6/ch3/schI/ptA/m__us_usc_t6_ch3_schI_ptA.md) | [Next](./../../../../../..//us/usc/t6/ch3/schI/ptA/m__us_usc_t6_s912.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs911)
 
-## § 911. Repealed. [Pub. L. 111–281, title VIII, § 821(b)][/us/pl/111/281/s821/b], Oct. 15, 2010, [124 Stat. 3003][/us/stat/124/3003]
+## § 911. Repealed. [Pub. L. 111–281, title VIII][/us/pl/111/281/tVIII], § 821(b), Oct. 15, 2010, [124 Stat. 3003][/us/stat/124/3003]
 
-    Section, [Pub. L. 109–347, title I, § 113][/us/pl/109/347/s113], Oct. 13, 2006, [120 Stat. 1895][/us/stat/120/1895], established the Port Security Training Program and its requirements.
+    Section, [Pub. L. 109–347, title I][/us/pl/109/347/tI], § 113, Oct. 13, 2006, [120 Stat. 1895][/us/stat/120/1895], established the Port Security Training Program and its requirements.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/281/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs821%2Fb
+[/us/pl/111/281/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVIII
 [/us/stat/124/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3003
-[/us/pl/109/347/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs113
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1895
 
 

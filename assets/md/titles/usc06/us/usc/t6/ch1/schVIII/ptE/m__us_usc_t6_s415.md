@@ -65,7 +65,7 @@
 
             (B) such other method as is provided by lay  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “law”. </sup></sup>  for the recovery of amounts owing to the Government.
 
-([Pub. L. 107–296, title VIII, § 845][/us/pl/107/296/s845], as added [Pub. L. 109–295, title VI, § 623(a)][/us/pl/109/295/s623/a], Oct. 4, 2006, [120 Stat. 1418][/us/stat/120/1418].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 845, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 623(a), Oct. 4, 2006, [120 Stat. 1418][/us/stat/120/1418].)
 
  __Change of Name__ 
 
@@ -78,8 +78,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs845
-[/us/pl/109/295/s623/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs623%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1418
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2

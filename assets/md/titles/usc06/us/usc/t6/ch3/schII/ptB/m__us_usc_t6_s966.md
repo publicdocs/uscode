@@ -49,7 +49,7 @@
 
         Not later than 2 years after October 13, 2006, the Secretary, acting through the Commissioner, shall designate appropriate criteria pursuant to subsection (b) and provide benefits to validated Tier 3 participants pursuant to subsection (c).
 
-([Pub. L. 109–347, title II, § 216][/us/pl/109/347/s216], Oct. 13, 2006, [120 Stat. 1910][/us/stat/120/1910].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 216, Oct. 13, 2006, [120 Stat. 1910][/us/stat/120/1910].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t6/s965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs965
 [/us/usc/t6/s965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs965
-[/us/pl/109/347/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs216
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1910
 
 

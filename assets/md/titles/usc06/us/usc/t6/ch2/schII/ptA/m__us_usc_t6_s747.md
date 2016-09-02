@@ -45,7 +45,7 @@
 
         In carrying out this section, the Administrator shall consult with representatives of relevant public and private sector national voluntary consensus standards development organizations.
 
-([Pub. L. 109–295, title VI, § 647][/us/pl/109/295/s647], Oct. 4, 2006, [120 Stat. 1426][/us/stat/120/1426].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 647, Oct. 4, 2006, [120 Stat. 1426][/us/stat/120/1426].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs647
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1426
 
 

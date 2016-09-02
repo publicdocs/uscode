@@ -73,7 +73,7 @@
 
         The terms “typed” and “typing” have the meanings given those terms in [section 311 of this title][/us/usc/t6/s311].
 
-([Pub. L. 109–295, title VI, § 641][/us/pl/109/295/s641], Oct. 4, 2006, [120 Stat. 1424][/us/stat/120/1424]; [Pub. L. 110–53, title IV, § 401(b)][/us/pl/110/53/s401/b], Aug. 3, 2007, [121 Stat. 302][/us/stat/121/302].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 641, Oct. 4, 2006, [120 Stat. 1424][/us/stat/120/1424]; [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], § 401(b), Aug. 3, 2007, [121 Stat. 302][/us/stat/121/302].)
 
  __Amendments__ 
 
@@ -93,9 +93,9 @@
 [/us/usc/t6/s748/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs748%2Fa
 [/us/usc/t6/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs311
 [/us/usc/t6/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs311
-[/us/pl/109/295/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs641
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1424
-[/us/pl/110/53/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs401%2Fb
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F302
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 

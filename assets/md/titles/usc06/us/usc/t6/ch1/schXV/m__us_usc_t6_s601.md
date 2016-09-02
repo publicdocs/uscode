@@ -137,7 +137,7 @@
 
         The term “tribal government” means the government of an Indian tribe.
 
-([Pub. L. 107–296, title XX, § 2001][/us/pl/107/296/s2001], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 271][/us/stat/121/271].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2001, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 271][/us/stat/121/271].)
 
 ----------
 
@@ -152,8 +152,8 @@
 [/us/usc/t6/s124h/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124h%2Fj
 [/us/usc/t6/s124f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124f
 [/us/usc/t6/s746/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs746%2Fa
-[/us/pl/107/296/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2001
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F271
 
 

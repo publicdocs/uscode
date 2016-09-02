@@ -45,7 +45,7 @@
 
         Notwithstanding any other provision of law, liability for all claims against a Seller arising out of, relating to, or resulting from an act of terrorism when qualified anti-terrorism technologies have been deployed in defense against or response or recovery from such act and such claims result or may result in loss to the Seller, whether for compensatory or punitive damages or for contribution or indemnity, shall not be in an amount greater than the limits of liability insurance coverage required to be maintained by the Seller under this section.
 
-([Pub. L. 107–296, title VIII, § 864][/us/pl/107/296/s864], Nov. 25, 2002, [116 Stat. 2240][/us/stat/116/2240].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 864, Nov. 25, 2002, [116 Stat. 2240][/us/stat/116/2240].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs864
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2240
 
 

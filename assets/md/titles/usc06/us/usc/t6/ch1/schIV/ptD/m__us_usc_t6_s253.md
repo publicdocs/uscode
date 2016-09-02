@@ -15,19 +15,19 @@
 
 ## § 253. Professional responsibility and quality review
 
-    The Under Secretary for Border and Transportation Security shall be responsible for—
+    The Secretary shall be responsible for—
 
-    (1) conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of the Bureau of Border Security that are not subject to investigation by the Inspector General for the Department;
+    (1) conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of U.S. Immigration and Customs Enforcement that are not subject to investigation by the Inspector General for the Department;
 
-    (2) inspecting the operations of the Bureau of Border Security and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
+    (2) inspecting the operations of U.S. Immigration and Customs Enforcement and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
 
-    (3) providing an analysis of the management of the Bureau of Border Security.
+    (3) providing an analysis of the management of U.S. Immigration and Customs Enforcement.
 
-([Pub. L. 107–296, title IV, § 443][/us/pl/107/296/s443], Nov. 25, 2002, [116 Stat. 2194][/us/stat/116/2194].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 443, Nov. 25, 2002, [116 Stat. 2194][/us/stat/116/2194]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(v)(II), Feb. 24, 2016, [130 Stat. 212][/us/stat/130/212].)
 
- __Change of Name__ 
+ __Amendments__ 
 
-    Bureau of Border Security, referred to in text, changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title][/us/usc/t6/s542].
+    2016—[Pub. L. 114–125][/us/pl/114/125] substituted “Secretary” for “Under Secretary for Border and Transportation Security” in introductory provisions and “U.S. Immigration and Customs Enforcement” for “the Bureau of Border Security” in pars. (1) to (3).
 
 ----------
 
@@ -36,8 +36,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs443
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2194
-[/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F212
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 
 

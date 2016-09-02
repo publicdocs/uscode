@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out [section 482 of this title][/us/usc/t6/s482].
 
-([Pub. L. 107–296, title VIII, § 894][/us/pl/107/296/s894], Nov. 25, 2002, [116 Stat. 2256][/us/stat/116/2256].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 894, Nov. 25, 2002, [116 Stat. 2256][/us/stat/116/2256].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t6/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs482
-[/us/pl/107/296/s894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs894
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2256
 
 

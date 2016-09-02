@@ -17,7 +17,7 @@
 
     The authorities provided in this part apply to any procurement of property or services by or for an executive agency that, as determined by the head of the executive agency, are to be used to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack, but only if a solicitation of offers for the procurement is issued during the 1-year period beginning on November 25, 2002.
 
-([Pub. L. 107–296, title VIII, § 852][/us/pl/107/296/s852], Nov. 25, 2002, [116 Stat. 2235][/us/stat/116/2235].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 852, Nov. 25, 2002, [116 Stat. 2235][/us/stat/116/2235].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs852
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2235
 
 

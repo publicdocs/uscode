@@ -41,7 +41,7 @@
 
         Not later than July 1, 2007, the Secretary of Homeland Security shall update the acquisition regulations of the Department of Homeland Security in order to specify fully in such regulations the matters with respect to lead system integrators set forth in this section. Included in such regulations shall be: (1) a precise and comprehensive definition of the term “lead system integrator”, modeled after that used by the Department of Defense; and (2) a specification of various types of contracts and fee structures that are appropriate for use by lead system integrators in the production, fielding, and sustainment of complex systems.
 
-([Pub. L. 110–28, title VI, § 6405][/us/pl/110/28/s6405], May 25, 2007, [121 Stat. 176][/us/stat/121/176].)
+([Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6405, May 25, 2007, [121 Stat. 176][/us/stat/121/176].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/110/28/s6405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6405
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F176
 
 

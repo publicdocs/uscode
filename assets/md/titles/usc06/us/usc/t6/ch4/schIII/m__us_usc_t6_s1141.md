@@ -53,7 +53,7 @@
 
             (B) the use of such grant funds.
 
-([Pub. L. 110–53, title XIV, § 1412][/us/pl/110/53/s1412], Aug. 3, 2007, [121 Stat. 413][/us/stat/121/413].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1412, Aug. 3, 2007, [121 Stat. 413][/us/stat/121/413].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t6/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1133
-[/us/pl/110/53/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1412
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F413
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F266

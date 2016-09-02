@@ -27,7 +27,7 @@
 
         (2) the alien may not be admitted to the United States without a visa issued in accordance with the procedures described in paragraph (1).
 
-([Pub. L. 107–296, title IV, § 429][/us/pl/107/296/s429], Nov. 25, 2002, [116 Stat. 2191][/us/stat/116/2191].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 429, Nov. 25, 2002, [116 Stat. 2191][/us/stat/116/2191].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t8/s1722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722%2Fa
-[/us/pl/107/296/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs429
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2191
 
 

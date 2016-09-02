@@ -43,13 +43,13 @@
 
         A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
 
-([Aug. 10, 1956, ch. 1041, § 43][/us/act/1956-08-10/ch1041/s43], [70A Stat. 636][/us/stat/70A/636]; [Pub. L. 86–70, § 37][/us/pl/86/70/s37], June 25, 1959, [73 Stat. 150][/us/stat/73/150]; [Pub. L. 86–500, title V, § 512][/us/pl/86/500/s512], June 8, 1960, [74 Stat. 187][/us/stat/74/187]; [Pub. L. 86–624, § 38][/us/pl/86/624/s38], June 12, 1960, [74 Stat. 421][/us/stat/74/421]; [Pub. L. 96–470, title II, § 202(c)][/us/pl/96/470/s202/c], Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 43, [70A Stat. 636][/us/stat/70A/636]; [Pub. L. 86–70][/us/pl/86/70], § 37, June 25, 1959, [73 Stat. 150][/us/stat/73/150]; [Pub. L. 86–500, title V][/us/pl/86/500/tV], § 512, June 8, 1960, [74 Stat. 187][/us/stat/74/187]; [Pub. L. 86–624][/us/pl/86/624], § 38, June 12, 1960, [74 Stat. 421][/us/stat/74/421]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 202(c), Oct. 19, 1980, [94 Stat. 2242][/us/stat/94/2242].)
 
  __Codification__ 
 
     Section was formerly classified to section 2285 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
 
-    Prior to classification as section 2285, section was formerly classified to [section 171x of Title 5][/us/usc/t5/s171x] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Prior to classification as section 2285, section was formerly classified to [section 171x of Title 5][/us/usc/t5/s171x] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     Section was enacted as a part of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
 
@@ -100,18 +100,18 @@
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs43
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F636
-[/us/pl/86/70/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs37
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F150
-[/us/pl/86/500/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2Fs512
+[/us/pl/86/500/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2FtV
 [/us/stat/74/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F187
-[/us/pl/86/624/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs38
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F421
-[/us/pl/96/470/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs202%2Fc
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2242
 [/us/usc/t5/s171x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171x
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470

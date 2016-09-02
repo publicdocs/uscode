@@ -23,7 +23,7 @@
 
         A reasonable belief that a person may use ammonium nitrate to create an explosive device to be employed in an act of terrorism under subsection (a) may not solely be based on the race, sex, national origin, creed, religion, status as a veteran, or status as a member of the Armed Forces of the United States of that person.
 
-([Pub. L. 107–296, title VIII, § 899G][/us/pl/107/296/s899G], as added [Pub. L. 110–161, div. E, title V, § 563(a)][/us/pl/110/161/s563/a], Dec. 26, 2007, [121 Stat. 2089][/us/stat/121/2089].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 899G, as added [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 563(a), Dec. 26, 2007, [121 Stat. 2089][/us/stat/121/2089].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t18/s3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3077
-[/us/pl/107/296/s899G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs899G
-[/us/pl/110/161/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs563%2Fa
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2089
 
 

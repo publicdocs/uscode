@@ -17,7 +17,7 @@
 
     For fiscal years 2008 and 2009, the Commissioner shall increase by not less than 50 the number of full-time personnel engaged in the validation and revalidation of C–TPAT participants (over the number of such personnel on the last day of the previous fiscal year), and shall provide appropriate training and support to such additional personnel.
 
-([Pub. L. 109–347, title II, § 222][/us/pl/109/347/s222], Oct. 13, 2006, [120 Stat. 1914][/us/stat/120/1914].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 222, Oct. 13, 2006, [120 Stat. 1914][/us/stat/120/1914].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs222
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1914
 
 

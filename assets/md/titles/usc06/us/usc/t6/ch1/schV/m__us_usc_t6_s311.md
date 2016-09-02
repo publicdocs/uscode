@@ -45,25 +45,25 @@
 
     (14) the terms “typed” and “typing” mean having evaluated, or evaluating, respectively, a resource in accordance with standards created under [section 320 of this title][/us/usc/t6/s320].
 
-([Pub. L. 107–296, title V, § 501][/us/pl/107/296/s501], as added [Pub. L. 109–295, title VI, § 611(10)][/us/pl/109/295/s611/10], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395]; amended [Pub. L. 110–53, title IV, § 401(a)][/us/pl/110/53/s401/a], title V, § 502(c)(1), Aug. 3, 2007, [121 Stat. 301][/us/stat/121/301], 311.)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 501, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(10), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395]; amended [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], § 401(a), title V, § 502(c)(1), Aug. 3, 2007, [121 Stat. 301][/us/stat/121/301], 311.)
 
  __References in Text__ 
 
-    [Section 314(a)(6) of this title][/us/usc/t6/s314/a/6], referred to in par. (8), was in the original “section 502(a)(6)” and was translated as meaning [section 502 of Pub. L. 107–296][/us/pl/107/296/s502] prior to its redesignation as section 504 by [Pub. L. 109–295, § 611(8)][/us/pl/109/295/s611/8], and not section 506 which was redesignated section 502 by [Pub. L. 109–295, § 611(9)][/us/pl/109/295/s611/9], and is classified to [section 312 of this title][/us/usc/t6/s312], to reflect the probable intent of Congress.
+    [Section 314(a)(6) of this title][/us/usc/t6/s314/a/6], referred to in par. (8), was in the original “section 502(a)(6)” and was translated as meaning [section 502 of Pub. L. 107–296][/us/pl/107/296/s502] prior to its redesignation as section 504 by [Pub. L. 109–295][/us/pl/109/295], § 611(8), and not section 506 which was redesignated section 502 by [Pub. L. 109–295][/us/pl/109/295], § 611(9), and is classified to [section 312 of this title][/us/usc/t6/s312], to reflect the probable intent of Congress.
 
  __Prior Provisions__ 
 
-    A prior section 311, [Pub. L. 107–296, title V, § 501][/us/pl/107/296/s501], Nov. 25, 2002, [116 Stat. 2212][/us/stat/116/2212], provided for an Under Secretary for Emergency Preparedness and Response, prior to repeal by [Pub. L. 109–295, title VI, § 611(2)][/us/pl/109/295/s611/2], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
+    A prior section 311, [Pub. L. 107–296, title V][/us/pl/107/296/tV], § 501, Nov. 25, 2002, [116 Stat. 2212][/us/stat/116/2212], provided for an Under Secretary for Emergency Preparedness and Response, prior to repeal by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(2), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
 
  __Amendments__ 
 
-    2007—Pars. (4) to (12). [Pub. L. 110–53, § 401(a)(1)][/us/pl/110/53/s401/a/1]–(4), added pars. (4) and (11) and redesignated former pars. (4) to (10) as (5) to (10) and (12), respectively. Former par. (11) redesignated (13).
+    2007—Pars. (4) to (12). [Pub. L. 110–53][/us/pl/110/53], § 401(a)(1)–(4), added pars. (4) and (11) and redesignated former pars. (4) to (10) as (5) to (10) and (12), respectively. Former par. (11) redesignated (13).
 
-    Par. (13). [Pub. L. 110–53, § 502(c)(1)][/us/pl/110/53/s502/c/1], substituted “101(11)(B)” for “101(10)(B)”.
+    Par. (13). [Pub. L. 110–53][/us/pl/110/53], § 502(c)(1), substituted “101(11)(B)” for “101(10)(B)”.
 
-    [Pub. L. 110–53, § 401(a)(1)][/us/pl/110/53/s401/a/1], redesignated par. (11) as (13).
+    [Pub. L. 110–53][/us/pl/110/53], § 401(a)(1), redesignated par. (11) as (13).
 
-    Par. (14). [Pub. L. 110–53, § 401(a)(5)][/us/pl/110/53/s401/a/5]–(7), added par. (14).
+    Par. (14). [Pub. L. 110–53][/us/pl/110/53], § 401(a)(5)–(7), added par. (14).
 
  __Change of Name__ 
 
@@ -71,7 +71,7 @@
 
  __Interim Actions__ 
 
-[Pub. L. 109–295, title VI, § 612(f)(1)][/us/pl/109/295/s612/f/1], Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(f)(1), Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that: 
 
 > “During the period beginning on the date of enactment of this Act \[Oct. 4, 2006\] and ending on March 31, 2007, the Secretary \[of Homeland Security\], the Under Secretary for Preparedness, and the Director of the Federal Emergency Management Agency shall take such actions as are necessary to provide for the orderly implementation of any amendment under this subtitle \[subtitle A (§§ 611–614) of title VI of [Pub. L. 109–295][/us/pl/109/295], see Tables for classification\] that takes effect on March 31, 2007.”
 
@@ -89,28 +89,28 @@
 [/us/usc/t6/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs317
 [/us/usc/t6/s101/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101%2F11%2FB
 [/us/usc/t6/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs320
-[/us/pl/107/296/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs501
-[/us/pl/109/295/s611/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F10
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
-[/us/pl/110/53/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs401%2Fa
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F301
 [/us/usc/t6/s314/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2Fa%2F6
 [/us/pl/107/296/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs502
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
-[/us/pl/109/295/s611/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F9
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t6/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs312
-[/us/pl/107/296/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs501
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
 [/us/stat/116/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2212
-[/us/pl/109/295/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F2
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
-[/us/pl/110/53/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs401%2Fa%2F1
-[/us/pl/110/53/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs502%2Fc%2F1
-[/us/pl/110/53/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs401%2Fa%2F1
-[/us/pl/110/53/s401/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs401%2Fa%2F5
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/109/295/s612/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F1
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1411
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 

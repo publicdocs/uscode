@@ -83,7 +83,7 @@
 
         Not later than 2 years after the date of regulation issuance, the Secretary shall review implementation of the training program of a representative sample of over-the-road bus operators and over-the-road bus frontline employees, and report to the appropriate congressional committees of such reviews. The Secretary may submit the report in both classified and redacted formats as necessary.
 
-([Pub. L. 110–53, title XV, § 1534][/us/pl/110/53/s1534], Aug. 3, 2007, [121 Stat. 461][/us/stat/121/461].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1534, Aug. 3, 2007, [121 Stat. 461][/us/stat/121/461].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t6/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs748
-[/us/pl/110/53/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1534
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F461
 
 

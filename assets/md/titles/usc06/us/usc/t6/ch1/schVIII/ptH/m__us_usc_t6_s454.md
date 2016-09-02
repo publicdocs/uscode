@@ -33,7 +33,7 @@
 
         This section shall take effect with respect to the preparation and submission of the fiscal year 2005 budget request for the Department and for any subsequent fiscal year, except that the first Future Years Homeland Security Program shall be submitted not later than 90 days after the Department’s fiscal year 2005 budget request is submitted to Congress.
 
-([Pub. L. 107–296, title VIII, § 874][/us/pl/107/296/s874], Nov. 25, 2002, [116 Stat. 2244][/us/stat/116/2244]; [Pub. L. 108–330, § 5][/us/pl/108/330/s5], Oct. 16, 2004, [118 Stat. 1278][/us/stat/118/1278].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 874, Nov. 25, 2002, [116 Stat. 2244][/us/stat/116/2244]; [Pub. L. 108–330][/us/pl/108/330], § 5, Oct. 16, 2004, [118 Stat. 1278][/us/stat/118/1278].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/107/296/s874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs874
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2244
-[/us/pl/108/330/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs5
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1278
 [/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221

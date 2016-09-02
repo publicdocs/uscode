@@ -165,17 +165,17 @@
 
         Notwithstanding any other provision of law, after November 25, 2002, all third party screening programs in Saudi Arabia shall be terminated. On-site personnel of the Department of Homeland Security shall review all visa applications prior to adjudication.
 
-([Pub. L. 107–296, title IV, § 428][/us/pl/107/296/s428], Nov. 25, 2002, [116 Stat. 2187][/us/stat/116/2187].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 428, Nov. 25, 2002, [116 Stat. 2187][/us/stat/116/2187].)
 
  __References in Text__ 
 
     The Immigration and Nationality Act, referred to in subsec. (b)(1), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8][/us/usc/t8/s1101] and Tables.
 
-    Section 613 of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1999, referred to in subsec. (c)(2)(L), probably means section 101(b) \[title VI, § 616\] of [Pub. L. 105–277, div. A][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–114, as amended, which prohibits use of funds for issuance of visas to persons alleged to have ordered, carried out, or materially assisted in extrajudicial and political killings in Haiti and to certain others and is not classified to the Code.
+    Section 613 of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1999, referred to in subsec. (c)(2)(L), probably means section 101(b) \[title VI, § 616\] of [Pub. L. 105–277, div. A][/us/pl/105/277/dA], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–114, as amended, which prohibits use of funds for issuance of visas to persons alleged to have ordered, carried out, or materially assisted in extrajudicial and political killings in Haiti and to certain others and is not classified to the Code.
 
     Section 103(f) of the Chemical Weapon Convention Implementation Act of 1998, referred to in subsec. (c)(2)(M), probably means section 103(f) of the Chemical Weapons Convention Implementation Act of 1998, which is classified to [section 6713(f) of Title 22][/us/usc/t22/s6713/f], Foreign Relations and Intercourse.
 
-    Section 568 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, referred to in subsec. (c)(2)(O), is [section 568 of title V of Pub. L. 107–115][/us/pl/107/115/s568], Jan. 10, 2002, [115 Stat. 2166][/us/stat/115/2166], which is not classified to the Code.
+    Section 568 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, referred to in subsec. (c)(2)(O), is [section 568 of title V of Pub. L. 107–115][/us/pl/107/115/tV/s568], Jan. 10, 2002, [115 Stat. 2166][/us/stat/115/2166], which is not classified to the Code.
 
  __Change of Name__ 
 
@@ -220,15 +220,15 @@
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
 [/us/usc/t8/s1182/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Ff
 [/us/usc/t8/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1733
-[/us/pl/107/296/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs428
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2187
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t22/s6713/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6713%2Ff
-[/us/pl/107/115/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs568
+[/us/pl/107/115/tV/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2FtV%2Fs568
 [/us/stat/115/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2166
 [/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
 [/us/usc/t22/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021

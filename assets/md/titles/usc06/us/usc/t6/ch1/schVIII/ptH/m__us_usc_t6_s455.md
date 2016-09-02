@@ -41,7 +41,7 @@
 
             (B) the term “place of public use” has the meaning given that term under [section 2332f(e)(6) of title 18][/us/usc/t18/s2332f/e/6].
 
-([Pub. L. 107–296, title VIII, § 875][/us/pl/107/296/s875], Nov. 25, 2002, [116 Stat. 2244][/us/stat/116/2244]; [Pub. L. 112–265, § 2(b)][/us/pl/112/265/s2/b], Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 875, Nov. 25, 2002, [116 Stat. 2244][/us/stat/116/2244]; [Pub. L. 112–265][/us/pl/112/265], § 2(b), Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435].)
 
  __References in Text__ 
 
@@ -60,9 +60,9 @@
 
 [/us/usc/t49/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs324
 [/us/usc/t18/s2332f/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F6
-[/us/pl/107/296/s875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs875
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2244
-[/us/pl/112/265/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs2%2Fb
+[/us/pl/112/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265
 [/us/stat/126/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2435
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

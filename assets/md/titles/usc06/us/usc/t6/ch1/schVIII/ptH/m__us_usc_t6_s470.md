@@ -41,7 +41,7 @@
 
         Each State or local government that receives a homeland security grant shall, not later than 12 months after the later of October 13, 2006, and the date of receipt of such grant, and every 12 months thereafter until all funds provided under such grant are expended, submit a report to the Secretary that contains a list of all expenditures made by such State or local government using funds from such grant.
 
-([Pub. L. 109–347, title VII, § 702][/us/pl/109/347/s702], Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943].)
+([Pub. L. 109–347, title VII][/us/pl/109/347/tVII], § 702, Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/109/347/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs702
+[/us/pl/109/347/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVII
 [/us/stat/120/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1943
 [/us/usc/t6/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs901
 

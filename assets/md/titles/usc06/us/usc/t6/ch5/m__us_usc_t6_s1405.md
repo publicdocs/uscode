@@ -23,7 +23,7 @@
 
         Funds authorized to be appropriated under this chapter may be used for the implementation of projects described in the Declaration on Embracing Technology and Cooperation to Promote the Secure and Efficient Flow of People and Commerce across our Shared Border between the United States and Mexico, agreed to March 22, 2002, Monterrey, Mexico (commonly known as the Border Partnership Action Plan) or the Smart Border Declaration between the United States and Canada, agreed to December 12, 2001, Ottawa, Canada that are consistent with the provisions of this chapter.
 
-([Pub. L. 110–161, div. E, title VI, § 606][/us/pl/110/161/s606], Dec. 26, 2007, [121 Stat. 2097][/us/stat/121/2097].)
+([Pub. L. 110–161, div. E, title VI][/us/pl/110/161/dE/tVI], § 606, Dec. 26, 2007, [121 Stat. 2097][/us/stat/121/2097].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/161/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs606
+[/us/pl/110/161/dE/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtVI
 [/us/stat/121/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2097
 
 

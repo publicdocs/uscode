@@ -17,7 +17,7 @@
 
     In the event of circumstances requiring an evacuation, sheltering, or mass relocation, the Administrator may disclose information in any individual assistance database of the Agency in accordance with [section 552a(b) of title 5][/us/usc/t5/s552a/b] (commonly referred to as the “Privacy Act”) to any law enforcement agency of the Federal Government or a State, local, or tribal government in order to identify illegal conduct or address public safety or security issues, including compliance with sex offender notification laws.
 
-([Pub. L. 109–295, title VI, § 640a][/us/pl/109/295/s640a], Oct. 4, 2006, [120 Stat. 1424][/us/stat/120/1424].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 640a, Oct. 4, 2006, [120 Stat. 1424][/us/stat/120/1424].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s552a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fb
-[/us/pl/109/295/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs640a
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1424
 
 

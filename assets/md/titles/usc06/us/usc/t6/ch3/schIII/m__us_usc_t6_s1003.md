@@ -33,7 +33,7 @@
 
         (2) the results of such efforts are shared throughout the Department and with other Federal, State, and local agencies, as appropriate.
 
-([Pub. L. 109–347, title III, § 303][/us/pl/109/347/s303], Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921].)
+([Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 303, Oct. 13, 2006, [120 Stat. 1921][/us/stat/120/1921].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs303
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1921
 
 

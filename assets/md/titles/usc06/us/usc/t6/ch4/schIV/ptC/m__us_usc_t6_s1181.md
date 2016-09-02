@@ -193,7 +193,7 @@
 
             Nothing in this section shall be construed as affecting any authority or obligation of a Federal agency to disclose any record or information that the Federal agency obtains from an over-the-road bus operator under any other Federal law.
 
-([Pub. L. 110–53, title XV, § 1531][/us/pl/110/53/s1531], Aug. 3, 2007, [121 Stat. 454][/us/stat/121/454].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1531, Aug. 3, 2007, [121 Stat. 454][/us/stat/121/454].)
 
 ----------
 
@@ -203,7 +203,7 @@
 ----------
 
 [/us/usc/t6/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1184
-[/us/pl/110/53/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1531
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F454
 
 

@@ -63,7 +63,7 @@
 
         Nothing in this section may be construed to preclude a State, local, or tribal government from using grant funds in a manner that enhances preparedness for a natural or man-made disaster unrelated to an act of terrorism, if such use assists such government in building capabilities for terrorism preparedness.
 
-([Pub. L. 107–296, title V, § 512][/us/pl/107/296/s512], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1407][/us/stat/120/1407]; amended [Pub. L. 110–53, title I, § 102(b)][/us/pl/110/53/s102/b], Aug. 3, 2007, [121 Stat. 293][/us/stat/121/293].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 512, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1407][/us/stat/120/1407]; amended [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 102(b), Aug. 3, 2007, [121 Stat. 293][/us/stat/121/293].)
 
  __Amendments__ 
 
@@ -80,10 +80,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs512
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1407
-[/us/pl/110/53/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs102%2Fb
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F293
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295

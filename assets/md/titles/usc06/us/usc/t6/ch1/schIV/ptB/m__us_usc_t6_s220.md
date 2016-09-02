@@ -47,11 +47,11 @@
 
         In this section, the term “methamphetamine precursor chemicals” means the chemicals ephedrine, pseudoephedrine, or phenylpropanolamine, including each of the salts, optical isomers, and salts of optical isomers of such chemicals.
 
-([Pub. L. 109–347, title VII, § 707][/us/pl/109/347/s707], Oct. 13, 2006, [120 Stat. 1946][/us/stat/120/1946].)
+([Pub. L. 109–347, title VII][/us/pl/109/347/tVII], § 707, Oct. 13, 2006, [120 Stat. 1946][/us/stat/120/1946].)
 
  __References in Text__ 
 
-    The Combat Methamphetamine Epidemic Act of 2005, referred to in subsec. (b)(2)(B), is [Pub. L. 109–177, title VII][/us/pl/109/177], Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256]. Section 722 of the Act amended sections 2291h, 2291j, and 2291j–1 of Title 22, Foreign Relations and Intercourse, and enacted provisions set out as a note under [section 2291h of Title 22][/us/usc/t22/s2291h]. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21][/us/usc/t21/s801], Food and Drugs, and Tables.
+    The Combat Methamphetamine Epidemic Act of 2005, referred to in subsec. (b)(2)(B), is [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256]. Section 722 of the Act amended sections 2291h, 2291j, and 2291j–1 of Title 22, Foreign Relations and Intercourse, and enacted provisions set out as a note under [section 2291h of Title 22][/us/usc/t22/s2291h]. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21][/us/usc/t21/s801], Food and Drugs, and Tables.
 
  __Codification__ 
 
@@ -74,9 +74,9 @@
 
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/109/347/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs707
+[/us/pl/109/347/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVII
 [/us/stat/120/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1946
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F256
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801

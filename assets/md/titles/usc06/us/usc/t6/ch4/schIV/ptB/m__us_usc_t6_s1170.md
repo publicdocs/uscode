@@ -75,7 +75,7 @@
 
         Nothing in this section shall be construed to affect the process for review established under [section 70105(c) of title 46][/us/usc/t46/s70105/c], including regulations issued pursuant to such section.
 
-([Pub. L. 110–53, title XV, § 1522][/us/pl/110/53/s1522], Aug. 3, 2007, [121 Stat. 448][/us/stat/121/448].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1522, Aug. 3, 2007, [121 Stat. 448][/us/stat/121/448].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/usc/t46/s70105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105%2Fc
 [/us/usc/t46/s70105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105%2Fc
-[/us/pl/110/53/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1522
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F448
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

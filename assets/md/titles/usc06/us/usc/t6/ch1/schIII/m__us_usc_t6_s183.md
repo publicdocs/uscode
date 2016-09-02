@@ -35,7 +35,7 @@
 
     (2) The National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto.
 
-([Pub. L. 107–296, title III, § 303][/us/pl/107/296/s303], Nov. 25, 2002, [116 Stat. 2164][/us/stat/116/2164].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 303, Nov. 25, 2002, [116 Stat. 2164][/us/stat/116/2164].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs303
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2164
 
 

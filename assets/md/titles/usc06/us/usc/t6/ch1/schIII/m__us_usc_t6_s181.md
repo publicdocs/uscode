@@ -17,7 +17,7 @@
 
     There shall be in the Department a Directorate of Science and Technology headed by an Under Secretary for Science and Technology.
 
-([Pub. L. 107–296, title III, § 301][/us/pl/107/296/s301], Nov. 25, 2002, [116 Stat. 2163][/us/stat/116/2163].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 301, Nov. 25, 2002, [116 Stat. 2163][/us/stat/116/2163].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs301
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2163
 
 

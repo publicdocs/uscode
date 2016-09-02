@@ -23,7 +23,7 @@
 
         Not later than 6 months after August 3, 2007, the Secretary shall submit a report to Congress that contains a plan to develop a departmental technology assessment process to determine and certify the technology readiness levels of chemical, biological, radiological, and nuclear detection technologies before the full deployment of such technologies within the United States.
 
-([Pub. L. 110–53, title XI, § 1104][/us/pl/110/53/s1104], Aug. 3, 2007, [121 Stat. 380][/us/stat/121/380].)
+([Pub. L. 110–53, title XI][/us/pl/110/53/tXI], § 1104, Aug. 3, 2007, [121 Stat. 380][/us/stat/121/380].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1104
+[/us/pl/110/53/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXI
 [/us/stat/121/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F380
 
 

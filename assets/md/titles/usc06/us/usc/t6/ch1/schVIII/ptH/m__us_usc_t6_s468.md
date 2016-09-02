@@ -95,7 +95,7 @@
 
         (6) provides a revised asset phase-in time line.
 
-([Pub. L. 107–296, title VIII, § 888][/us/pl/107/296/s888], Nov. 25, 2002, [116 Stat. 2249][/us/stat/116/2249]; [Pub. L. 113–284, § 2(b)][/us/pl/113/284/s2/b], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 888, Nov. 25, 2002, [116 Stat. 2249][/us/stat/116/2249]; [Pub. L. 113–284][/us/pl/113/284], § 2(b), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].)
 
  __References in Text__ 
 
@@ -119,9 +119,9 @@
 ----------
 
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
-[/us/pl/107/296/s888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs888
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2249
-[/us/pl/113/284/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fb
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

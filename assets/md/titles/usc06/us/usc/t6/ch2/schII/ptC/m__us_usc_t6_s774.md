@@ -91,7 +91,7 @@
 
         Not later than 270 days after October 4, 2006, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on Transportation and Infrastructure and the Committee on the Judiciary of the House of Representatives a report describing in detail the status of the Child Locator Center, including funding issues and any difficulties or issues in establishing the Center or completing the cooperative agreements described in subsection (b)(3)(K).
 
-([Pub. L. 109–295, title VI, § 689b][/us/pl/109/295/s689b], Oct. 4, 2006, [120 Stat. 1449][/us/stat/120/1449].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689b, Oct. 4, 2006, [120 Stat. 1449][/us/stat/120/1449].)
 
  __Codification__ 
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/usc/t6/s775/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs775%2Fa
-[/us/pl/109/295/s689b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689b
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1449
 [/us/pl/109/295/s689b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689b
 [/us/pl/109/295/s689b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689b

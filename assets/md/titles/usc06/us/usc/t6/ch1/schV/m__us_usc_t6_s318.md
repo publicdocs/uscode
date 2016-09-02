@@ -83,7 +83,7 @@
 
             Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Advisory Council.
 
-([Pub. L. 107–296, title V, § 508][/us/pl/107/296/s508], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1403][/us/stat/120/1403]; amended [Pub. L. 110–53, title I, § 102(a)][/us/pl/110/53/s102/a], Aug. 3, 2007, [121 Stat. 293][/us/stat/121/293].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 508, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1403][/us/stat/120/1403]; amended [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 102(a), Aug. 3, 2007, [121 Stat. 293][/us/stat/121/293].)
 
  __References in Text__ 
 
@@ -111,10 +111,10 @@
 [/us/usc/t6/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs451%2Fa
 [/us/usc/t6/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs451%2Fa
 [/us/usc/t5/s552b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b%2Fc
-[/us/pl/107/296/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs508
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1403
-[/us/pl/110/53/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs102%2Fa
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F293
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

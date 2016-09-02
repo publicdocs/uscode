@@ -73,17 +73,17 @@
 
             (B) To test and evaluate the readiness of Federal, State, local, and tribal governments to respond and recover in a coordinated and unified manner to catastrophic incidents.
 
-([Pub. L. 109–295, title VI, § 648][/us/pl/109/295/s648], Oct. 4, 2006, [120 Stat. 1427][/us/stat/120/1427]; [Pub. L. 110–53, title IV][/us/pl/110/53], §§ 402, 403, Aug. 3, 2007, [121 Stat. 302][/us/stat/121/302], 303.)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 648, Oct. 4, 2006, [120 Stat. 1427][/us/stat/120/1427]; [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], §§ 402, 403, Aug. 3, 2007, [121 Stat. 302][/us/stat/121/302], 303.)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(2)(A)(iv) to (vi). [Pub. L. 110–53, § 402][/us/pl/110/53/s402], added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
+    2007—Subsec. (b)(2)(A)(iv) to (vi). [Pub. L. 110–53][/us/pl/110/53], § 402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
 
     “(iv) designed to provide for systematic evaluation of readiness; and
 
     “(v) designed to address the unique requirements of populations with special needs; and”.
 
-    Subsec. (b)(2)(B). [Pub. L. 110–53, § 403][/us/pl/110/53/s403], in introductory provisions, substituted “shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally)” for “shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises”.
+    Subsec. (b)(2)(B). [Pub. L. 110–53][/us/pl/110/53], § 403, in introductory provisions, substituted “shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally)” for “shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises”.
 
 ----------
 
@@ -92,11 +92,11 @@
 ----------
 ----------
 
-[/us/pl/109/295/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs648
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1427
-[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F302
-[/us/pl/110/53/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs402
-[/us/pl/110/53/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs403
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–53, title V, § 531(b)(3)][/us/pl/110/53/s531/b/3], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334], substituted “Information and” for “Directorate for Information” in part heading.
+    2007—[Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(b)(3), Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334], substituted “Information and” for “Directorate for Information” in part heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s531/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F3
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F334
 
 

@@ -89,7 +89,7 @@
 
         (3) with respect to terrorism-focused grants, it is necessary to ensure both that the target capabilities of the highest risk areas are achieved quickly and that basic levels of preparedness, as measured by the attainment of target capabilities, are achieved nationwide.
 
-([Pub. L. 107–296, title XX, § 2021][/us/pl/107/296/s2021], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 285][/us/stat/121/285].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2021, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 285][/us/stat/121/285].)
 
  __References in Text__ 
 
@@ -106,8 +106,8 @@
 
 [/us/usc/t42/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5133
 [/us/usc/t42/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5133
-[/us/pl/107/296/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2021
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F285
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

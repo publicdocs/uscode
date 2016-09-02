@@ -51,7 +51,7 @@
 
         Nothing in this section may be construed to supersede any requirement established under any other provision of law.
 
-([Pub. L. 107–296, title V, § 523][/us/pl/107/296/s523], as added [Pub. L. 110–53, title IX, § 901(a)][/us/pl/110/53/s901/a], Aug. 3, 2007, [121 Stat. 364][/us/stat/121/364].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 523, as added [Pub. L. 110–53, title IX][/us/pl/110/53/tIX], § 901(a), Aug. 3, 2007, [121 Stat. 364][/us/stat/121/364].)
 
 ----------
 
@@ -61,8 +61,8 @@
 ----------
 
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/107/296/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs523
-[/us/pl/110/53/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs901%2Fa
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/110/53/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIX
 [/us/stat/121/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F364
 
 

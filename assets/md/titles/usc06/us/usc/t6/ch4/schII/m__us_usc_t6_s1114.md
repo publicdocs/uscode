@@ -33,7 +33,7 @@
 
         The Secretary shall ensure that the program established under this section makes use of and is consistent with other Department technology testing, information sharing, evaluation, and standards-setting programs, as appropriate.
 
-([Pub. L. 110–53, title XIII, § 1305][/us/pl/110/53/s1305], Aug. 3, 2007, [121 Stat. 394][/us/stat/121/394].)
+([Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1305, Aug. 3, 2007, [121 Stat. 394][/us/stat/121/394].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t6/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs441
-[/us/pl/110/53/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1305
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F394
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2238

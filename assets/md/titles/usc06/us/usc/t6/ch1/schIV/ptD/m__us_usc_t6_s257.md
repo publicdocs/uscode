@@ -39,7 +39,7 @@
 
         (6) the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 112–127, § 8][/us/pl/112/127/s8], June 5, 2012, [126 Stat. 371][/us/stat/126/371].)
+([Pub. L. 112–127][/us/pl/112/127], § 8, June 5, 2012, [126 Stat. 371][/us/stat/126/371].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/112/127/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127%2Fs8
+[/us/pl/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127
 [/us/stat/126/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F371
 
 

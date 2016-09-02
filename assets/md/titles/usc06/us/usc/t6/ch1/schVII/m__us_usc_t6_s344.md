@@ -23,7 +23,7 @@
 
     (3) informing Congress of such certification not later than 24 months after November 25, 2002.
 
-([Pub. L. 107–296, title VII, § 704][/us/pl/107/296/s704], Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219].)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 704, Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s2302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fc
-[/us/pl/107/296/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs704
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
 [/us/stat/116/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2219
 
 

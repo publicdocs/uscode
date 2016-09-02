@@ -111,7 +111,7 @@
 
         Nothing in this subchapter shall be construed to prevent the disclosure of a cyber threat indicator or defensive measure shared under this subchapter in a case of criminal prosecution, when an applicable provision of Federal, State, tribal, or local law requires disclosure in such case.
 
-([Pub. L. 114–113, div. N, title I, § 108][/us/pl/114/113/s108], Dec. 18, 2015, [129 Stat. 2953][/us/stat/129/2953].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 108, Dec. 18, 2015, [129 Stat. 2953][/us/stat/129/2953].)
 
 ----------
 
@@ -126,7 +126,7 @@
 [/us/usc/t50/s3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3234
 [/us/usc/t6/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fc
 [/us/usc/t10/s130g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130g
-[/us/pl/114/113/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs108
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2953
 
 

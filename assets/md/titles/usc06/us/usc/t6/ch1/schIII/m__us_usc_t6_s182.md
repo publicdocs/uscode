@@ -51,7 +51,7 @@
 
     (14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.
 
-([Pub. L. 107–296, title III, § 302][/us/pl/107/296/s302], Nov. 25, 2002, [116 Stat. 2163][/us/stat/116/2163]; [Pub. L. 109–347, title V, § 501(b)(2)][/us/pl/109/347/s501/b/2], Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935]; [Pub. L. 110–53, title V, § 531(b)(1)(C)][/us/pl/110/53/s531/b/1/C], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 302, Nov. 25, 2002, [116 Stat. 2163][/us/stat/116/2163]; [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(b)(2), Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(b)(1)(C), Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
 
  __Amendments__ 
 
@@ -68,11 +68,11 @@
 
 [/us/usc/t7/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401
 [/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
-[/us/pl/107/296/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs302
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2163
-[/us/pl/109/347/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fb%2F2
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1935
-[/us/pl/110/53/s531/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F1%2FC
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F334
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347

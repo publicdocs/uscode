@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter, the term “law enforcement technology” includes investigative and forensic technologies, corrections technologies, and technologies that support the judicial process.
 
-([Pub. L. 107–296, title II, § 233][/us/pl/107/296/s233], Nov. 25, 2002, [116 Stat. 2161][/us/stat/116/2161].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 233, Nov. 25, 2002, [116 Stat. 2161][/us/stat/116/2161].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs233
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2161
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2145

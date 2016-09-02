@@ -23,7 +23,7 @@
 
         In carrying out subsection (a), the Secretary of Health and Human Services shall collaborate with the Secretary in developing specific benchmarks and outcome measurements for evaluating progress toward achieving the priorities and goals described in such subsection.
 
-([Pub. L. 107–296, title III, § 304][/us/pl/107/296/s304], Nov. 25, 2002, [116 Stat. 2165][/us/stat/116/2165].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 304, Nov. 25, 2002, [116 Stat. 2165][/us/stat/116/2165].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t6/s182/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182%2F2
-[/us/pl/107/296/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs304
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2165
 [/us/pl/107/296/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs304
 [/us/pl/107/296/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs304

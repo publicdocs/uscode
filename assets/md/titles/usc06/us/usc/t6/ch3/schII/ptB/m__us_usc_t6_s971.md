@@ -51,7 +51,7 @@
 
         In connection with the President’s annual budget submission for the Department, the Secretary shall report to the appropriate congressional committees on the progress made by the Commissioner to certify, validate, and revalidate C–TPAT participants. Such report shall be due on the same date that the President’s budget is submitted to the Congress.
 
-([Pub. L. 109–347, title II, § 221][/us/pl/109/347/s221], Oct. 13, 2006, [120 Stat. 1914][/us/stat/120/1914].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 221, Oct. 13, 2006, [120 Stat. 1914][/us/stat/120/1914].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs221
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1914
 
 

@@ -137,7 +137,7 @@
 
                 (ii) no parent or legal guardian in the United States is available to provide care and physical custody.
 
-([Pub. L. 107–296, title IV, § 462][/us/pl/107/296/s462], Nov. 25, 2002, [116 Stat. 2202][/us/stat/116/2202]; [Pub. L. 110–457, title II, § 235(f)][/us/pl/110/457/s235/f], Dec. 23, 2008, [122 Stat. 5081][/us/stat/122/5081].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 462, Nov. 25, 2002, [116 Stat. 2202][/us/stat/116/2202]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 235(f), Dec. 23, 2008, [122 Stat. 5081][/us/stat/122/5081].)
 
  __References in Text__ 
 
@@ -149,15 +149,15 @@
 
  __Codification__ 
 
-    In subsec. (f)(3), “[section 1531 of title 31][/us/usc/t31/s1531]” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (f)(3), “[section 1531 of title 31][/us/usc/t31/s1531]” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(L). [Pub. L. 110–457, § 235(f)(1)][/us/pl/110/457/s235/f/1], substituted “, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.” for period at end.
+    2008—Subsec. (b)(1)(L). [Pub. L. 110–457][/us/pl/110/457], § 235(f)(1), substituted “, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.” for period at end.
 
-    Subsec. (b)(3). [Pub. L. 110–457, § 235(f)(2)(A)][/us/pl/110/457/s235/f/2/A], substituted “paragraph (1),” for “paragraph (1)(G),”.
+    Subsec. (b)(3). [Pub. L. 110–457][/us/pl/110/457], § 235(f)(2)(A), substituted “paragraph (1),” for “paragraph (1)(G),”.
 
-    Subsec. (b)(4). [Pub. L. 110–457, § 235(f)(2)(B)][/us/pl/110/457/s235/f/2/B], added par. (4).
+    Subsec. (b)(4). [Pub. L. 110–457][/us/pl/110/457], § 235(f)(2)(B), added par. (4).
 
  __Change of Name__ 
 
@@ -175,9 +175,9 @@
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/usc/t6/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs552
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
-[/us/pl/107/296/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs462
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2202
-[/us/pl/110/457/s235/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Ff
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5081
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -188,11 +188,11 @@
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/110/457/s235/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Ff%2F1
-[/us/pl/110/457/s235/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Ff%2F2%2FA
-[/us/pl/110/457/s235/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Ff%2F2%2FB
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

@@ -47,7 +47,7 @@
 
         Any statutory reporting requirement that applied to an agency, transferred to the Department under this chapter, immediately before the effective date of this chapter shall continue to apply following that transfer if the statutory requirement refers to the agency by name.
 
-([Pub. L. 107–296, title XV, § 1512][/us/pl/107/296/s1512], Nov. 25, 2002, [116 Stat. 2310][/us/stat/116/2310].)
+([Pub. L. 107–296, title XV][/us/pl/107/296/tXV], § 1512, Nov. 25, 2002, [116 Stat. 2310][/us/stat/116/2310].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1512
+[/us/pl/107/296/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXV
 [/us/stat/116/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2310
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

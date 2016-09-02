@@ -33,7 +33,7 @@
 
             A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (b). Such appeal shall be filed with the Secretary not later than 30 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.
 
-([Pub. L. 109–347, title II, § 217][/us/pl/109/347/s217], Oct. 13, 2006, [120 Stat. 1911][/us/stat/120/1911].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 217, Oct. 13, 2006, [120 Stat. 1911][/us/stat/120/1911].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs217
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1911
 
 

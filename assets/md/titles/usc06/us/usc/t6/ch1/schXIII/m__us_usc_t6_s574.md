@@ -35,7 +35,7 @@
 
             The Secretary, in coordination with the Federal Communications Commission, the National Institute of Standards and Technology, and other Federal departments and agencies with responsibility for standards, shall support the development, promulgation, and updating as necessary of national voluntary consensus standards for interoperable emergency communications.
 
-([Pub. L. 107–296, title XVIII, § 1804][/us/pl/107/296/s1804], as added [Pub. L. 109–295, title VI, § 671(b)][/us/pl/109/295/s671/b], Oct. 4, 2006, [120 Stat. 1438][/us/stat/120/1438].)
+([Pub. L. 107–296, title XVIII][/us/pl/107/296/tXVIII], § 1804, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 671(b), Oct. 4, 2006, [120 Stat. 1438][/us/stat/120/1438].)
 
  __Codification__ 
 
@@ -51,8 +51,8 @@
 [/us/usc/t6/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs572
 [/us/usc/t6/s194/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Ff
 [/us/usc/t6/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs572
-[/us/pl/107/296/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1804
-[/us/pl/109/295/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs671%2Fb
+[/us/pl/107/296/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1438
 [/us/pl/107/296/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1804
 [/us/usc/t6/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs594

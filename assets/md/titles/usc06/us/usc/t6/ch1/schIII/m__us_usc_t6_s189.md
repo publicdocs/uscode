@@ -83,7 +83,7 @@
 
         The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
 
-([Pub. L. 107–296, title III, § 309][/us/pl/107/296/s309], Nov. 25, 2002, [116 Stat. 2172][/us/stat/116/2172].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 309, Nov. 25, 2002, [116 Stat. 2172][/us/stat/116/2172].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(6), “[section 3303(a)(1)(C) of title 41][/us/usc/t41/s3303/a/1/C]” substituted for “section 303(b)(1)(C) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(b)(1)(C)][/us/usc/t41/s253/b/1/C])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(6), “[section 3303(a)(1)(C) of title 41][/us/usc/t41/s3303/a/1/C]” substituted for “section 303(b)(1)(C) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(b)(1)(C)][/us/usc/t41/s253/b/1/C])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 ----------
 
@@ -102,14 +102,14 @@
 
 [/us/usc/t41/s3303/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3303%2Fa%2F1%2FC
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/107/296/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs309
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2172
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t41/s3303/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3303%2Fa%2F1%2FC
 [/us/usc/t41/s253/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fb%2F1%2FC
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

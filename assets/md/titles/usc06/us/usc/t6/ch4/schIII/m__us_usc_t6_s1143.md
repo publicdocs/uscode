@@ -75,7 +75,7 @@
 
         Nothing in this section shall be construed to affect the process for review established under [section 70105(c) of title 46][/us/usc/t46/s70105/c], including regulations issued pursuant to such section.
 
-([Pub. L. 110–53, title XIV, § 1414][/us/pl/110/53/s1414], Aug. 3, 2007, [121 Stat. 419][/us/stat/121/419].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1414, Aug. 3, 2007, [121 Stat. 419][/us/stat/121/419].)
 
 ----------
 
@@ -87,7 +87,7 @@
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/usc/t49/s70105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70105%2Fc
 [/us/usc/t46/s70105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105%2Fc
-[/us/pl/110/53/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1414
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F419
 
 

@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section such sums as necessary for fiscal years 2007 through 2011.
 
-([Pub. L. 110–53, title XIII, § 1303][/us/pl/110/53/s1303], Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392].)
+([Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1303, Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1303
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F392
 
 

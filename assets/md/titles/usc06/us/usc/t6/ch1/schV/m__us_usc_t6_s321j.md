@@ -37,13 +37,13 @@
 
             For the purpose of carrying out the acquisition and deployment of secure facilities (including information technology and physical infrastructure, whether mobile and temporary, or permanent) sufficient to permit the Secretary to receive, not later than 180 days after July 21, 2004, all classified information and products to which the Under Secretary for Intelligence and Analysis is entitled under part A of subchapter II, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 through 2006.
 
-([Pub. L. 107–296, title V, § 521][/us/pl/107/296/s521], formerly § 510, as added [Pub. L. 108–276, § 3(b)(2)][/us/pl/108/276/s3/b/2], July 21, 2004, [118 Stat. 852][/us/stat/118/852]; renumbered § 521, [Pub. L. 109–295, title VI, § 611(7)][/us/pl/109/295/s611/7], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395]; amended [Pub. L. 109–417, title IV, § 403(c)][/us/pl/109/417/s403/c], Dec. 19, 2006, [120 Stat. 2874][/us/stat/120/2874]; [Pub. L. 110–53, title V, § 531(b)(1)(D)][/us/pl/110/53/s531/b/1/D], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 521, formerly § 510, as added [Pub. L. 108–276][/us/pl/108/276], § 3(b)(2), July 21, 2004, [118 Stat. 852][/us/stat/118/852]; renumbered § 521, [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(7), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395]; amended [Pub. L. 109–417, title IV][/us/pl/109/417/tIV], § 403(c), Dec. 19, 2006, [120 Stat. 2874][/us/stat/120/2874]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(b)(1)(D), Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334].)
 
  __References in Text__ 
 
     [Section 247d–6b(c)(1)(B) of title 42][/us/usc/t42/s247d–6b/c/1/B], referred to in subsec. (a), was in the original “section 319F–2(c)(1)(B)”, which was translated as meaning section 319F–2(c)(1)(B) of the Public Health Service Act, to reflect the probable intent of Congress.
 
-    [Section 403–4 of title 50][/us/usc/t50/s403–4], referred to in subsec. (d)(1), was repealed and a new section 403–4 enacted by [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3660][/us/stat/118/3660], and subsequently editorially reclassified to [section 3035 of Title 50][/us/usc/t50/s3035], War and National Defense; as so enacted, section 3035 no longer relates to promulgation of standards and qualifications for the performance of intelligence activities.
+    [Section 403–4 of title 50][/us/usc/t50/s403–4], referred to in subsec. (d)(1), was repealed and a new section 403–4 enacted by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3660][/us/stat/118/3660], and subsequently editorially reclassified to [section 3035 of Title 50][/us/usc/t50/s3035], War and National Defense; as so enacted, section 3035 no longer relates to promulgation of standards and qualifications for the performance of intelligence activities.
 
     Part A of subchapter II of this chapter, referred to in subsec. (d)(2), was in the original “subtitle A of title II”, meaning subtitle A of title II of [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2145][/us/stat/116/2145], which is classified generally to part A (§ 121 et seq.) of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    2007—Subsec. (d)(1). [Pub. L. 110–53, § 531(b)(1)(D)(i)][/us/pl/110/53/s531/b/1/D/i], substituted “Office of Intelligence and Analysis” for “Directorate for Information Analysis and Infrastructure Protection”.
+    2007—Subsec. (d)(1). [Pub. L. 110–53][/us/pl/110/53], § 531(b)(1)(D)(i), substituted “Office of Intelligence and Analysis” for “Directorate for Information Analysis and Infrastructure Protection”.
 
-    Subsec. (d)(2). [Pub. L. 110–53, § 531(b)(1)(D)(ii)][/us/pl/110/53/s531/b/1/D/ii], substituted “Under Secretary for Intelligence and Analysis” for “Under Secretary for Information Analysis and Infrastructure Protection”.
+    Subsec. (d)(2). [Pub. L. 110–53][/us/pl/110/53], § 531(b)(1)(D)(ii), substituted “Under Secretary for Intelligence and Analysis” for “Under Secretary for Information Analysis and Infrastructure Protection”.
 
-    2006—Subsec. (a). [Pub. L. 109–417][/us/pl/109/417], which directed amendment of section 510(a) of the Homeland Security Act of 2002, [Pub. L. 107–296][/us/pl/107/296], by inserting a new last sentence, was executed to subsec. (a) of this section to reflect the probable intent of Congress and the redesignation of section 510(a) as 521(a) by [Pub. L. 109–295, § 611(7)][/us/pl/109/295/s611/7].
+    2006—Subsec. (a). [Pub. L. 109–417][/us/pl/109/417], which directed amendment of section 510(a) of the Homeland Security Act of 2002, [Pub. L. 107–296][/us/pl/107/296], by inserting a new last sentence, was executed to subsec. (a) of this section to reflect the probable intent of Congress and the redesignation of section 510(a) as 521(a) by [Pub. L. 109–295][/us/pl/109/295], § 611(7).
 
  __Change of Name__ 
 
@@ -72,29 +72,29 @@
 
 [/us/usc/t42/s247d–6b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b%2Fc
 [/us/usc/t42/s247d–6b/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b%2Fc%2F1%2FB
-[/us/pl/107/296/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs521
-[/us/pl/108/276/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fb%2F2
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F852
-[/us/pl/109/295/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F7
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
-[/us/pl/109/417/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs403%2Fc
+[/us/pl/109/417/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIV
 [/us/stat/120/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2874
-[/us/pl/110/53/s531/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F1%2FD
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F334
 [/us/usc/t42/s247d–6b/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b%2Fc%2F1%2FB
 [/us/usc/t50/s403–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3660
 [/us/usc/t50/s3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3035
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2145
 [/us/usc/t6/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs320
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
-[/us/pl/110/53/s531/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F1%2FD%2Fi
-[/us/pl/110/53/s531/b/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F1%2FD%2Fii
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/109/295/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F7
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

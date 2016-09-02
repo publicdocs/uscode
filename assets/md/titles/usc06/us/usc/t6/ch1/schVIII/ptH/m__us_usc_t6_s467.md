@@ -33,7 +33,7 @@
 
             In cases involving, or potentially involving, a public health emergency, but in which no determination of an emergency by the Secretary of Health and Human Services under section 319(a) of the Public Health Service Act ([42 U.S.C. 247d(a)][/us/usc/t42/s247d/a]), has been made, all relevant agencies, including the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation, shall keep the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention fully and currently informed.
 
-([Pub. L. 107–296, title VIII, § 887][/us/pl/107/296/s887], Nov. 25, 2002, [116 Stat. 2248][/us/stat/116/2248].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 887, Nov. 25, 2002, [116 Stat. 2248][/us/stat/116/2248].)
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
 [/us/usc/t42/s247d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%2Fa
 [/us/usc/t42/s247d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%2Fa
-[/us/pl/107/296/s887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs887
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2248
 
 

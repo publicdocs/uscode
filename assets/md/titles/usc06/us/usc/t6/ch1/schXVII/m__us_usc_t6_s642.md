@@ -41,7 +41,7 @@
 
         The Secretary shall annually reassess the training program established under subsection (a) to ensure it is consistent with current techniques, patterns, and trends associated with human trafficking.
 
-([Pub. L. 114–22, title IX, § 902][/us/pl/114/22/s902], May 29, 2015, [129 Stat. 265][/us/stat/129/265].)
+([Pub. L. 114–22, title IX][/us/pl/114/22/tIX], § 902, May 29, 2015, [129 Stat. 265][/us/stat/129/265].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs902
+[/us/pl/114/22/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIX
 [/us/stat/129/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F265
 
 

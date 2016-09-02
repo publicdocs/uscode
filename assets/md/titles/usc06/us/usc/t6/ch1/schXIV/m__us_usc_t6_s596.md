@@ -23,11 +23,11 @@
 
     (3) have the authority to establish or contract with 1 or more federally funded research and development centers to provide independent analysis of homeland security issues and carry out other responsibilities under this subchapter.
 
-([Pub. L. 107–296, title XIX, § 1906][/us/pl/107/296/s1906], formerly title XVIII, § 1806, as added [Pub. L. 109–347, title V, § 501(a)][/us/pl/109/347/s501/a], Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935]; renumbered title XIX, § 1906, and amended [Pub. L. 110–53, title I, § 104(a)(1)][/us/pl/110/53/s104/a/1], (2), (4), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
+([Pub. L. 107–296, title XIX][/us/pl/107/296/tXIX], § 1906, formerly title XVIII, § 1806, as added [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(a), Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935]; renumbered title XIX, § 1906, and amended [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 104(a)(1), (2), (4), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].)
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–53, § 104(a)(4)][/us/pl/110/53/s104/a/4], made technical amendment to reference in original act which appears in two places in text as reference to [section 592(a) of this title][/us/usc/t6/s592/a].
+    2007—[Pub. L. 110–53][/us/pl/110/53], § 104(a)(4), made technical amendment to reference in original act which appears in two places in text as reference to [section 592(a) of this title][/us/usc/t6/s592/a].
 
 ----------
 
@@ -38,12 +38,12 @@
 
 [/us/usc/t6/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs592%2Fa
 [/us/usc/t6/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs592%2Fa
-[/us/pl/107/296/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1906
-[/us/pl/109/347/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fa
+[/us/pl/107/296/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIX
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1935
-[/us/pl/110/53/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs104%2Fa%2F1
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F294
-[/us/pl/110/53/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs104%2Fa%2F4
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t6/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs592%2Fa
 
 

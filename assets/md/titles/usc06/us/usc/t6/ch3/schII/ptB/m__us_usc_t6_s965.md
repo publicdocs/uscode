@@ -33,7 +33,7 @@
 
         Not later than 180 days after October 13, 2006, the Secretary, acting through the Commissioner, shall develop a schedule and update the guidelines for validating a participant’s security measures and supply chain security practices under this section.
 
-([Pub. L. 109–347, title II, § 215][/us/pl/109/347/s215], Oct. 13, 2006, [120 Stat. 1910][/us/stat/120/1910].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 215, Oct. 13, 2006, [120 Stat. 1910][/us/stat/120/1910].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs215
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1910
 
 

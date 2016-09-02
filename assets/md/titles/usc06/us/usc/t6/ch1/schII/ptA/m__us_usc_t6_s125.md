@@ -47,7 +47,7 @@
 
         In this section, the term “intelligence component of the Department” has the meaning given that term in [section 101 of this title][/us/usc/t6/s101].
 
-([Pub. L. 113–293, title III, § 324][/us/pl/113/293/s324], Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004].)
+([Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 324, Dec. 19, 2014, [128 Stat. 4004][/us/stat/128/4004].)
 
  __Codification__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/113/293/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs324
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4004
 [/us/pl/113/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003

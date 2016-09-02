@@ -17,7 +17,7 @@
 
     The transfer of functions under subtitle B of title XI of the Homeland Security Act of 2002 ([Public Law 107–296][/us/pl/107/296]) \[[6 U.S.C. 531][/us/usc/t6/s531] et seq.\] shall not affect any pending or completed administrative actions, including orders, determinations, rules, regulations, personnel actions, permits, agreements, grants, contracts, certificates, licenses, or registrations, in effect on the date immediately prior to the date of such transfer, or any proceeding, unless and until amended, modified, superseded, terminated, set aside, or revoked. Pending civil actions shall not be affected by such transfer of functions.
 
-([Pub. L. 108–7, div. L, § 106][/us/pl/108/7/s106], Feb. 20, 2003, [117 Stat. 531][/us/stat/117/531].)
+([Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 106, Feb. 20, 2003, [117 Stat. 531][/us/stat/117/531].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t6/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531
-[/us/pl/108/7/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs106
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F531
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

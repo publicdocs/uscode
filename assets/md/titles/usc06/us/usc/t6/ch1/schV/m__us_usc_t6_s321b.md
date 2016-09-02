@@ -45,7 +45,7 @@
 
         (11) any other duties as assigned by the Administrator.
 
-([Pub. L. 107–296, title V, § 513][/us/pl/107/296/s513], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1408][/us/stat/120/1408].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 513, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1408][/us/stat/120/1408].)
 
  __References in Text__ 
 
@@ -63,8 +63,8 @@
 ----------
 
 [/us/usc/t6/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs744
-[/us/pl/107/296/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs513
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1408
 [/us/usc/t6/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295

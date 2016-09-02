@@ -13,37 +13,505 @@
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schIV/ptB/m__us_usc_t6_ch1_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t6/ch1/schIV/ptB/m__us_usc_t6_s212.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211)
 
-## § 211. Establishment; Commissioner of Customs
+## § 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices
 
-    (a) __Establishment__ 
+    (a) __In general__ 
 
-        There is established in the Department the United States Customs Service, under the authority of the Under Secretary for Border and Transportation Security, which shall be vested with those functions including, but not limited to those set forth in [section 215(7) of this title][/us/usc/t6/s215/7], and the personnel, assets, and liabilities attributable to those functions.
+        There is established in the Department an agency to be known as U.S. Customs and Border Protection.
 
-    (b) __Commissioner of Customs__ 
+    (b) __Commissioner of U.S. Customs and Border Protection__ 
 
         (1) __In general__ 
 
-            There shall be at the head of the Customs Service a Commissioner of Customs, who shall be appointed by the President, by and with the advice and consent of the Senate.
+            There shall be at the head of U.S. Customs and Border Protection a Commissioner of U.S. Customs and Border Protection (in this section referred to as the “Commissioner”).
 
-        (2) __Omitted__ 
+        (2) __Committee referral__ 
 
-        (3) __Continuation in office__ 
+            As an exercise of the rulemaking power of the Senate, any nomination for the Commissioner submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance.
 
-            The individual serving as the Commissioner of Customs on the day before the effective date of this chapter may serve as the Commissioner of Customs on and after such effective date until a Commissioner of Customs is appointed under paragraph (1).
+    (c) __Duties__ 
 
-([Pub. L. 107–296, title IV, § 411][/us/pl/107/296/s411], Nov. 25, 2002, [116 Stat. 2178][/us/stat/116/2178].)
+    The Commissioner shall—
+
+        (1) coordinate and integrate the security, trade facilitation, and trade enforcement functions of U.S. Customs and Border Protection;
+
+        (2) ensure the interdiction of persons and goods illegally entering or exiting the United States;
+
+        (3) facilitate and expedite the flow of legitimate travelers and trade;
+
+        (4) direct and administer the commercial operations of U.S. Customs and Border Protection, and the enforcement of the customs and trade laws of the United States;
+
+        (5) detect, respond to, and interdict terrorists, drug smugglers and traffickers, human smugglers and traffickers, and other persons who may undermine the security of the United States, in cases in which such persons are entering, or have recently entered, the United States;
+
+        (6) safeguard the borders of the United States to protect against the entry of dangerous goods;
+
+        (7) ensure the overall economic security of the United States is not diminished by efforts, activities, and programs aimed at securing the homeland;
+
+        (8)
+
+         in coordination with U.S. Immigration and Customs Enforcement and United States Citizenship and Immigration Services, enforce and administer all immigration laws, as such term is defined in paragraph (17) of [section 1101(a) of title 8][/us/usc/t8/s1101/a], including—
+
+            (A) the inspection, processing, and admission of persons who seek to enter or depart the United States; and
+
+            (B) the detection, interdiction, removal, departure from the United States, short-term detention, and transfer of persons unlawfully entering, or who have recently unlawfully entered, the United States;
+
+        (9) develop and implement screening and targeting capabilities, including the screening, reviewing, identifying, and prioritizing of passengers and cargo across all international modes of transportation, both inbound and outbound;
+
+        (10) in coordination with the Secretary, deploy technology to collect the data necessary for the Secretary to administer the biometric entry and exit data system pursuant to [section 1365b of title 8][/us/usc/t8/s1365b];
+
+        (11) enforce and administer the laws relating to agricultural import and entry inspection referred to in [section 231 of this title][/us/usc/t6/s231];
+
+        (12) in coordination with the Under Secretary for Management of the Department, ensure U.S. Customs and Border Protection complies with Federal law, the Federal Acquisition Regulation, and the Department’s acquisition management directives for major acquisition programs of U.S. Customs and Border Protection;
+
+        (13) ensure that the policies and regulations of U.S. Customs and Border Protection are consistent with the obligations of the United States pursuant to international agreements;
+
+        (14)
+
+         enforce and administer—
+
+            (A) the Container Security Initiative program under section 205 of the Security and Accountability for Every Port Act of 2006 ([6 U.S.C. 945][/us/usc/t6/s945]); and
+
+            (B) the Customs–Trade Partnership Against Terrorism program under subtitle B of title II of such Act ([6 U.S.C. 961][/us/usc/t6/s961] et seq.);
+
+        (15) conduct polygraph examinations in accordance with [section 221(1) of this title][/us/usc/t6/s221/1];
+
+        (16) establish the standard operating procedures described in subsection (k);
+
+        (17) carry out the training required under subsection (l); and
+
+        (18) carry out other duties and powers prescribed by law or delegated by the Secretary.
+
+    (d) __Deputy Commissioner__ 
+
+        There shall be in U.S. Customs and Border Protection a Deputy Commissioner who shall assist the Commissioner in the management of U.S. Customs and Border Protection.
+
+    (e) __U.S. Border Patrol__ 
+
+        (1) __In general__ 
+
+            There is established in U.S. Customs and Border Protection the U.S. Border Patrol.
+
+        (2) __Chief__ 
+
+        There shall be at the head of the U.S. Border Patrol a Chief, who shall—
+
+            (A) be at the level of Executive Assistant Commissioner within U.S. Customs and Border Protection; and
+
+            (B) report to the Commissioner.
+
+        (3) __Duties__ 
+
+        The U.S. Border Patrol shall—
+
+            (A) serve as the law enforcement office of U.S. Customs and Border Protection with primary responsibility for interdicting persons attempting to illegally enter or exit the United States or goods being illegally imported into or exported from the United States at a place other than a designated port of entry;
+
+            (B) deter and prevent the illegal entry of terrorists, terrorist weapons, persons, and contraband; and
+
+            (C) carry out other duties and powers prescribed by the Commissioner.
+
+    (f) __Air and Marine Operations__ 
+
+        (1) __In general__ 
+
+            There is established in U.S. Customs and Border Protection an office known as Air and Marine Operations.
+
+        (2) __Executive Assistant Commissioner__ 
+
+            There shall be at the head of Air and Marine Operations an Executive Assistant Commissioner, who shall report to the Commissioner.
+
+        (3) __Duties__ 
+
+        Air and Marine Operations shall—
+
+            (A) serve as the law enforcement office within U.S. Customs and Border Protection with primary responsibility to detect, interdict, and prevent acts of terrorism and the unlawful movement of people, illicit drugs, and other contraband across the borders of the United States in the air and maritime environment;
+
+            (B) conduct joint aviation and marine operations with U.S. Immigration and Customs Enforcement;
+
+            (C) conduct aviation and marine operations with international, Federal, State, and local law enforcement agencies, as appropriate;
+
+            (D) administer the Air and Marine Operations Center established under paragraph (4); and
+
+            (E) carry out other duties and powers prescribed by the Commissioner.
+
+        (4) __Air and Marine Operations Center__ 
+
+            (A) __In general__ 
+
+                There is established in Air and Marine Operations an Air and Marine Operations Center.
+
+            (B) __Executive Director__ 
+
+                There shall be at the head of the Air and Marine Operations Center an Executive Director, who shall report to the Executive Assistant Commissioner of Air and Marine Operations.
+
+            (C) __Duties__ 
+
+            The Air and Marine Operations Center shall—
+
+                (i) manage the air and maritime domain awareness of the Department, as directed by the Secretary;
+
+                (ii) monitor and coordinate the airspace for unmanned aerial systems operations of Air and Marine Operations in U.S. Customs and Border Protection;
+
+                (iii) detect, identify, and coordinate a response to threats to national security in the air domain, in coordination with other appropriate agencies, as determined by the Executive Assistant Commissioner;
+
+                (iv) provide aviation and marine support to other Federal, State, tribal, and local agencies; and
+
+                (v) carry out other duties and powers prescribed by the Executive Assistant Commissioner.
+
+    (g) __Office of Field Operations__ 
+
+        (1) __In general__ 
+
+            There is established in U.S. Customs and Border Protection an Office of Field Operations.
+
+        (2) __Executive Assistant Commissioner__ 
+
+            There shall be at the head of the Office of Field Operations an Executive Assistant Commissioner, who shall report to the Commissioner.
+
+        (3) __Duties__ 
+
+        The Office of Field Operations shall coordinate the enforcement activities of U.S. Customs and Border Protection at United States air, land, and sea ports of entry to—
+
+            (A) deter and prevent terrorists and terrorist weapons from entering the United States at such ports of entry;
+
+            (B) conduct inspections at such ports of entry to safeguard the United States from terrorism and illegal entry of persons;
+
+            (C) prevent illicit drugs, agricultural pests, and contraband from entering the United States;
+
+            (D) in coordination with the Commissioner, facilitate and expedite the flow of legitimate travelers and trade;
+
+            (E) administer the National Targeting Center established under paragraph (4);
+
+            (F) coordinate with the Executive Assistant Commissioner for the Office of Trade with respect to the trade facilitation and trade enforcement activities of U.S. Customs and Border Protection; and
+
+            (G) carry out other duties and powers prescribed by the Commissioner.
+
+        (4) __National Targeting Center__ 
+
+            (A) __In general__ 
+
+                There is established in the Office of Field Operations a National Targeting Center.
+
+            (B) __Executive Director__ 
+
+                There shall be at the head of the National Targeting Center an Executive Director, who shall report to the Executive Assistant Commissioner of the Office of Field Operations.
+
+            (C) __Duties__ 
+
+            The National Targeting Center shall—
+
+                (i) serve as the primary forum for targeting operations within U.S. Customs and Border Protection to collect and analyze traveler and cargo information in advance of arrival in the United States to identify and address security risks and strengthen trade enforcement;
+
+                (ii) identify, review, and target travelers and cargo for examination;
+
+                (iii) coordinate the examination of entry and exit of travelers and cargo;
+
+                (iv) develop and conduct commercial risk assessment targeting with respect to cargo destined for the United States;
+
+                (v) coordinate with the Transportation Security Administration, as appropriate;
+
+                (vi) issue Trade Alerts pursuant to [section 4318(b) of title 19][/us/usc/t19/s4318/b]; and
+
+                (vii) carry out other duties and powers prescribed by the Executive Assistant Commissioner.
+
+        (5) __Annual report on staffing__ 
+
+            (A) __In general__ 
+
+                Not later than 30 days after February 24, 2016, and annually thereafter, the Executive Assistant Commissioner shall submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate a report on the staffing model for the Office of Field Operations, including information on how many supervisors, front-line U.S. Customs and Border Protection officers, and support personnel are assigned to each Field Office and port of entry.
+
+            (B) __Form__ 
+
+                The report required under subparagraph (A) shall, to the greatest extent practicable, be submitted in unclassified form, but may be submitted in classified form, if the Executive Assistant Commissioner determines that such is appropriate and informs the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate of the reasoning for such.
+
+    (h) __Office of Intelligence__ 
+
+        (1) __In general__ 
+
+            There is established in U.S. Customs and Border Protection an Office of Intelligence.
+
+        (2) __Assistant Commissioner__ 
+
+            There shall be at the head of the Office of Intelligence an Assistant Commissioner, who shall report to the Commissioner.
+
+        (3) __Duties__ 
+
+        The Office of Intelligence shall—
+
+            (A) develop, provide, coordinate, and implement intelligence capabilities into a cohesive intelligence enterprise to support the execution of the duties and responsibilities of U.S. Customs and Border Protection;
+
+            (B) manage the counterintelligence operations of U.S. Customs and Border Protection;
+
+            (C) establish, in coordination with the Chief Intelligence Officer of the Department, as appropriate, intelligence-sharing relationships with Federal, State, local, and tribal agencies and intelligence agencies;
+
+            (D) conduct risk-based covert testing of U.S. Customs and Border Protection operations, including for nuclear and radiological risks; and
+
+            (E) carry out other duties and powers prescribed by the Commissioner.
+
+    (i) __Office of International Affairs__ 
+
+        (1) __In general__ 
+
+            There is established in U.S. Customs and Border Protection an Office of International Affairs.
+
+        (2) __Assistant Commissioner__ 
+
+            There shall be at the head of the Office of International Affairs an Assistant Commissioner, who shall report to the Commissioner.
+
+        (3) __Duties__ 
+
+        The Office of International Affairs, in collaboration with the Office of Policy of the Department, shall—
+
+            (A) coordinate and support U.S. Customs and Border Protection’s foreign initiatives, policies, programs, and activities;
+
+            (B) coordinate and support U.S. Customs and Border Protection’s personnel stationed abroad;
+
+            (C) maintain partnerships and information-sharing agreements and arrangements with foreign governments, international organizations, and United States agencies in support of U.S. Customs and Border Protection’s duties and responsibilities;
+
+            (D) provide necessary capacity building, training, and assistance to foreign customs and border control agencies to strengthen border, global supply chain, and travel security, as appropriate;
+
+            (E) coordinate mission support services to sustain U.S. Customs and Border Protection’s global activities;
+
+            (F) coordinate with customs authorities of foreign countries with respect to trade facilitation and trade enforcement;
+
+            (G) coordinate U.S. Customs and Border Protection’s engagement in international negotiations;
+
+            (H) advise the Commissioner with respect to matters arising in the World Customs Organization and other international organizations as such matters relate to the policies and procedures of U.S. Customs and Border Protection;
+
+            (I) advise the Commissioner regarding international agreements to which the United States is a party as such agreements relate to the policies and regulations of U.S. Customs and Border Protection; and
+
+            (J) carry out other duties and powers prescribed by the Commissioner.
+
+    (j) __Office of Professional Responsibility__ 
+
+        (1) __In general__ 
+
+            There is established in U.S. Customs and Border Protection an Office of Professional Responsibility.
+
+        (2) __Assistant Commissioner__ 
+
+            There shall be at the head of the Office of Professional Responsibility an Assistant Commissioner, who shall report to the Commissioner.
+
+        (3) __Duties__ 
+
+        The Office of Professional Responsibility shall—
+
+            (A) investigate criminal and administrative matters and misconduct by officers, agents, and other employees of U.S. Customs and Border Protection;
+
+            (B) manage integrity-related programs and policies of U.S. Customs and Border Protection;
+
+            (C) conduct research and analysis regarding misconduct of officers, agents, and other employees of U.S. Customs and Border Protection; and
+
+            (D) carry out other duties and powers prescribed by the Commissioner.
+
+    (k) __Standard operating procedures__ 
+
+        (1) __In general__ 
+
+        The Commissioner shall establish—
+
+            (A) standard operating procedures for searching, reviewing, retaining, and sharing information contained in communication, electronic, or digital devices encountered by U.S. Customs and Border Protection personnel at United States ports of entry;
+
+            (B) standard use of force procedures that officers and agents of U.S. Customs and Border Protection may employ in the execution of their duties, including the use of deadly force;
+
+            (C) uniform, standardized, and publicly-available procedures for processing and investigating complaints against officers, agents, and employees of U.S. Customs and Border Protection for violations of professional conduct, including the timely disposition of complaints and a written notification to the complainant of the status or outcome, as appropriate, of the related investigation, in accordance with [section 552a of title 5][/us/usc/t5/s552a] (commonly referred to as the “Privacy Act” or the “Privacy Act of 1974”);
+
+            (D) an internal, uniform reporting mechanism regarding incidents involving the use of deadly force by an officer or agent of U.S. Customs and Border Protection, including an evaluation of the degree to which the procedures required under subparagraph (B) were followed; and
+
+            (E)
+
+             standard operating procedures, acting through the Executive Assistant Commissioner for Air and Marine Operations and in coordination with the Office for Civil Rights and Civil Liberties and the Office of Privacy of the Department, to provide command, control, communication, surveillance, and reconnaissance assistance through the use of unmanned aerial systems, including the establishment of—
+
+                (i) a process for other Federal, State, and local law enforcement agencies to submit mission requests;
+
+                (ii) a formal procedure to determine whether to approve or deny such a mission request;
+
+                (iii) a formal procedure to determine how such mission requests are prioritized and coordinated; and
+
+                (iv) a process regarding the protection and privacy of data and images collected by U.S. Customs and Border Protection through the use of unmanned aerial systems.
+
+        (2) __Requirements regarding certain notifications__ 
+
+        The standard operating procedures established pursuant to subparagraph (A) of paragraph (1) shall require—
+
+            (A) in the case of a search of information conducted on an electronic device by U.S. Customs and Border Protection personnel, the Commissioner to notify the individual subject to such search of the purpose and authority for such search, and how such individual may obtain information on reporting concerns about such search; and
+
+            (B) in the case of information collected by U.S. Customs and Border Protection through a search of an electronic device, if such information is transmitted to another Federal agency for subject matter assistance, translation, or decryption, the Commissioner to notify the individual subject to such search of such transmission.
+
+        (3) __Exceptions__ 
+
+            The Commissioner may withhold the notifications required under paragraphs (1)(C) and (2) if the Commissioner determines, in the sole and unreviewable discretion of the Commissioner, that such notifications would impair national security, law enforcement, or other operational interests.
+
+        (4) __Update and review__ 
+
+            The Commissioner shall review and update every three years the standard operating procedures required under this subsection.
+
+        (5) __Audits__ 
+
+        The Inspector General of the Department of Homeland Security shall develop and annually administer, during each of the three calendar years beginning in the calendar year that begins after February 24, 2016, an auditing mechanism to review whether searches of electronic devices at or between United States ports of entry are being conducted in conformity with the standard operating procedures required under subparagraph (A) of paragraph (1). Such audits shall be submitted to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate and shall include the following:
+
+            (A) A description of the activities of officers and agents of U.S. Customs and Border Protection with respect to such searches.
+
+            (B) The number of such searches.
+
+            (C) The number of instances in which information contained in such devices that were subjected to such searches was retained, copied, shared, or entered in an electronic database.
+
+            (D) The number of such devices detained as the result of such searches.
+
+            (E) The number of instances in which information collected from such devices was subjected to such searches and was transmitted to another Federal agency, including whether such transmissions resulted in a prosecution or conviction.
+
+        (6) __Requirements regarding other notifications__ 
+
+        The standard use of force procedures established pursuant to subparagraph (B) of paragraph (1) shall require—
+
+            (A) in the case of an incident of the use of deadly force by U.S. Customs and Border Protection personnel, the Commissioner to notify the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+            (B) the Commissioner to provide to such committees a copy of the evaluation pursuant to subparagraph (D) of such paragraph not later than 30 days after completion of such evaluation.
+
+        (7) __Report on unmanned aerial systems__ 
+
+        The Commissioner shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report, for each of the three calendar years beginning in the calendar year that begins after February 24, 2016, that reviews whether the use of unmanned aerial systems is being conducted in conformity with the standard operating procedures required under subparagraph (E) of paragraph (1). Such reports—
+
+            (A) shall be submitted with the annual budget of the United States Government submitted by the President under [section 1105 of title 31][/us/usc/t31/s1105];
+
+            (B) may be submitted in classified form if the Commissioner determines that such is appropriate; and
+
+            (C)
+
+             shall include—
+
+                (i) a detailed description of how, where, and for how long data and images collected through the use of unmanned aerial systems by U.S. Customs and Border Protection are collected and stored; and
+
+                (ii) a list of Federal, State, and local law enforcement agencies that submitted mission requests in the previous year and the disposition of such requests.
+
+    (l) __Training__ 
+
+        The Commissioner shall require all officers and agents of U.S. Customs and Border Protection to participate in a specified amount of continuing education (to be determined by the Commissioner) to maintain an understanding of Federal legal rulings, court decisions, and departmental policies, procedures, and guidelines.
+
+    (m) __Short-term detention standards__ 
+
+        (1) __Access to food and water__ 
+
+            The Commissioner shall make every effort to ensure that adequate access to food and water is provided to an individual apprehended and detained at a United States port of entry or between ports of entry as soon as practicable following the time of such apprehension or during subsequent short-term detention.
+
+        (2) __Access to information on detainee rights at border patrol processing centers__ 
+
+            (A) __In general__ 
+
+                The Commissioner shall ensure that an individual apprehended by a U.S. Border Patrol agent or an Office of Field Operations officer is provided with information concerning such individual’s rights, including the right to contact a representative of such individual’s government for purposes of United States treaty obligations.
+
+            (B) __Form__ 
+
+                The information referred to in subparagraph (A) may be provided either verbally or in writing, and shall be posted in the detention holding cell in which such individual is being held. The information shall be provided in a language understandable to such individual.
+
+        (3) __Short-term detention defined__ 
+
+            In this subsection, the term “short-term detention” means detention in a U.S. Customs and Border Protection processing center for 72 hours or less, before repatriation to a country of nationality or last habitual residence.
+
+        (4) __Daytime repatriation__ 
+
+            When practicable, repatriations shall be limited to daylight hours and avoid locations that are determined to have high indices of crime and violence.
+
+        (5) __Report on procurement process and standards__ 
+
+            Not later than 180 days after February 24, 2016, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the procurement process and standards of entities with which U.S. Customs and Border Protection has contracts for the transportation and detention of individuals apprehended by agents or officers of U.S. Customs and Border Protection. Such report should also consider the operational efficiency of contracting the transportation and detention of such individuals.
+
+        (6) __Report on inspections of short-term custody facilities__ 
+
+        The Commissioner shall—
+
+            (A) annually inspect all facilities utilized for short-term detention; and
+
+            (B) make publicly available information collected pursuant to such inspections, including information regarding the requirements under paragraphs (1) and (2) and, where appropriate, issue recommendations to improve the conditions of such facilities.
+
+    (n) __Wait times transparency__ 
+
+        (1) __In general__ 
+
+        The Commissioner shall—
+
+            (A) publish live wait times for travelers entering the United States at the 20 United States airports that support the highest volume of international travel (as determined by available Federal flight data);
+
+            (B) make information about such wait times available to the public in real time through the U.S. Customs and Border Protection website;
+
+            (C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
+
+            (D) provide adequate staffing at the U.S. Customs and Border Protection information center to ensure timely access for travelers attempting to submit comments or speak with a representative about their entry experiences.
+
+        (2) __Calculation__ 
+
+            The wait times referred to in paragraph (1)(A) shall be determined by calculating the time elapsed between an individual’s entry into the U.S. Customs and Border Protection inspection area and such individual’s clearance by a U.S. Customs and Border Protection officer.
+
+    (o) __Other authorities__ 
+
+        (1) __In general__ 
+
+            The Secretary may establish such other offices or positions of Assistant Commissioners (or other similar officers or officials) as the Secretary determines necessary to carry out the missions, duties, functions, and authorities of U.S. Customs and Border Protection.
+
+        (2) __Notification__ 
+
+            If the Secretary exercises the authority provided under paragraph (1), the Secretary shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate not later than 30 days before exercising such authority.
+
+    (p) __Reports to Congress__ 
+
+        The Commissioner shall, on and after February 24, 2016, continue to submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate any report required, on the day before February 24, 2016, to be submitted under any provision of law.
+
+    (q) __Other Federal agencies__ 
+
+        Nothing in this section may be construed as affecting in any manner the authority, existing on the day before February 24, 2016, of any other Federal agency or component of the Department.
+
+    (r) __Definitions__ 
+
+        In this section, the terms “commercial operations”, “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in [section 4301 of title 19][/us/usc/t19/s4301].
+
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 411, Nov. 25, 2002, [116 Stat. 2178][/us/stat/116/2178]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(a), Feb. 24, 2016, [130 Stat. 199][/us/stat/130/199].)
 
  __References in Text__ 
 
-    The effective date of this chapter, referred to in subsec. (b)(3), is 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of this title][/us/usc/t6/s101].
+    The Security and Accountability for Every Port Act of 2006, referred to in subsec. (c)(14)(B), is [Pub. L. 109–347][/us/pl/109/347], Oct. 13, 2006, [120 Stat. 1884][/us/stat/120/1884], also known as the SAFE Port Act. Subtitle B of title II of the Act is classified generally to part B (§ 961 et seq.) of subchapter II of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title][/us/usc/t6/s901] and Tables.
 
  __Codification__ 
 
-    Section is comprised of [section 411 of Pub. L. 107–296][/us/pl/107/296/s411]. Subsec. (b)(2) of [section 411 of Pub. L. 107–296][/us/pl/107/296/s411] amended [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
+    Section is comprised of [section 411 of Pub. L. 107–296][/us/pl/107/296/s411]. Former subsec. (b)(2) of [section 411 of Pub. L. 107–296][/us/pl/107/296/s411] amended [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
+
+ __Amendments__ 
+
+    2016—[Pub. L. 114–125][/us/pl/114/125] amended section generally. Prior to amendment, section established the United States Customs Service headed by a Commissioner of Customs.
 
  __Change of Name__ 
 
-    Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title][/us/usc/t6/s542].
+[Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that: 
+
+> “On and after the date of the enactment of this Act \[Feb. 24, 2016\], any reference in law or regulations to the ‘Commissioner of Customs’ or the ‘Commissioner of the Customs Service’ shall be deemed to be a reference to the Commissioner of U.S. Customs and Border Protection.”
+
+ __Effective Date of 2016 Amendment; Continuity of Functions, Rules, and Actions__ 
+
+[Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(b), Feb. 24, 2016, [130 Stat. 209][/us/stat/130/209], provided that:
+
+>     “(1)  __Treatment__  __.—__ 
+
+>     Section 411 of the Homeland Security Act of 2002 \[[6 U.S.C. 211][/us/usc/t6/s211]\], as amended by subsection (a) of this section, shall be treated as if included in such Act \[[Pub. L. 107–296][/us/pl/107/296]\] as of the date of the enactment of such Act \[Nov. 25, 2002\], and, in addition to the functions, missions, duties, and authorities specified in such amended section 411, U.S. Customs and Border Protection shall continue to perform and carry out the functions, missions, duties, and authorities under section 411 of such Act as in existence on the day before the date of the enactment of this Act \[Feb. 24, 2016\], and section 415 of the Homeland Security Act of 2002 \[[6 U.S.C. 215][/us/usc/t6/s215]\].
+
+>     “(2) __Rules of construction.—__ 
+
+>         “(A)  __Rules and regulations__  __.—__ 
+
+>         Notwithstanding paragraph (1), nothing in this title \[see Tables for classification\] or any amendment made by this title may be construed as affecting in any manner any rule or regulation issued or promulgated pursuant to any provision of law, including section 411 of the Homeland Security Act of 2002 as in existence on the day before the date of the enactment of this Act \[Feb. 24, 2016\], and any such rule or regulation shall continue to have full force and effect on and after such date.
+
+>         “(B)  __Other actions__  __.—__ 
+
+>         Notwithstanding paragraph (1), nothing in this Act \[see Tables for classification\] may be construed as affecting in any manner any action, determination, policy, or decision pursuant to section 411 of the Homeland Security Act of 2002 as in existence on the day before the date of the enactment of this Act, and any such action, determination, policy, or decision shall continue to have full force and effect on and after such date.”
+
+ __Continuation in Office__ 
+
+[Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(c), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that:
+
+>     “(1)  __Commissioner__  __.—__ 
+
+>     The individual serving as the Commissioner of Customs on the day before the date of the enactment of this Act \[Feb. 24, 2016\] may serve as the Commissioner of U.S. Customs and Border Protection on and after such date of enactment until a Commissioner of U.S. Customs and Border Protection is appointed under section 411 of the Homeland Security Act of 2002 \[[6 U.S.C. 211][/us/usc/t6/s211]\], as amended by subsection (a) of this section.
+
+>     “(2)  __Other positions__  __.—__ 
+
+>     The individual serving as Deputy Commissioner, and the individuals serving as Assistant Commissioners and other officers and officials, under section 411 of the Homeland Security Act of 2002 on the day before the date of the enactment of this Act \[Feb. 24, 2016\] may serve as the Executive Assistant Commissioners, Deputy Commissioner, Assistant Commissioners, and other officers and officials, as appropriate, under such section 411 as amended by subsection (a) of this section unless the Commissioner of U.S. Customs and Border Protection determines that another individual should hold such position or positions.”
 
  __Border Jobs for Veterans__ 
 
@@ -129,7 +597,7 @@
 
  __Port of Entry Partnership Pilot Program__ 
 
-[Pub. L. 113–76, div. F, title V, § 559][/us/pl/113/76/s559], Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], as amended by [Pub. L. 114–4, title V, § 552(a)][/us/pl/114/4/s552/a], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71]; [Pub. L. 114–113, div. F, title V, § 550][/us/pl/114/113/s550], Dec. 18, 2015, [129 Stat. 2519][/us/stat/129/2519], provided that:
+[Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 559, Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], as amended by [Pub. L. 114–4, title V][/us/pl/114/4/tV], § 552(a), Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71]; [Pub. L. 114–113, div. F, title V][/us/pl/114/113/dF/tV], § 550, Dec. 18, 2015, [129 Stat. 2519][/us/stat/129/2519], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -357,13 +825,13 @@
 
 >     Under this section, collaboration with the Administrator of General Services is required only with respect to partnerships at land ports of entry.”
 
-    \[[Pub. L. 114–113, div. F, title V, § 550][/us/pl/114/113/s550], Dec. 18, 2015, [129 Stat. 2519][/us/stat/129/2519], which directed amendment of [section 559(e)(3)(D) of Pub. L. 113–76][/us/pl/113/76/s559/e/3/D] by striking “five pilots per year” and inserting “10 pilots per year”, was executed by making the substitution in section 559(e)(3)(D) of division F of [Pub. L. 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
+    \[[Pub. L. 114–113, div. F, title V][/us/pl/114/113/dF/tV], § 550, Dec. 18, 2015, [129 Stat. 2519][/us/stat/129/2519], which directed amendment of [section 559(e)(3)(D) of Pub. L. 113–76][/us/pl/113/76/s559/e/3/D] by striking “five pilots per year” and inserting “10 pilots per year”, was executed by making the substitution in section 559(e)(3)(D) of division F of [Pub. L. 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
 
-    \[[Pub. L. 114–4, title V, § 552(a)(2)][/us/pl/114/4/s552/a/2], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], which directed amendment of subsection “(e)(3)(b)” of section 559 of division F of [Public Law 113–76][/us/pl/113/76], set out above, by inserting “and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers” after “payment of overtime”, was executed by making the insertion in subsection (e)(3)(B) of section 559 of division F of [Public Law 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
+    \[[Pub. L. 114–4, title V][/us/pl/114/4/tV], § 552(a)(2), Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], which directed amendment of subsection “(e)(3)(b)” of section 559 of division F of [Public Law 113–76][/us/pl/113/76], set out above, by inserting “and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers” after “payment of overtime”, was executed by making the insertion in subsection (e)(3)(B) of section 559 of division F of [Public Law 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
 
  __Reducing Passenger Processing Times__ 
 
-[Pub. L. 113–76, div. F, title V, § 571][/us/pl/113/76/s571], Jan. 17, 2014, [128 Stat. 287][/us/stat/128/287], provided that:
+[Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 571, Jan. 17, 2014, [128 Stat. 287][/us/stat/128/287], provided that:
 
 >     “(a) The Commissioner of U.S. Customs and Border Protection shall develop metrics that support a goal of reducing passenger processing times at air, land, and sea ports of entry, taking into consideration the capacity of an air or land port’s physical infrastructure, airline arrival schedules, peak processing periods, and security requirements.
 
@@ -376,37 +844,59 @@
 ----------
 ----------
 
-[/us/usc/t6/s215/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs215%2F7
-[/us/pl/107/296/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs411
+[/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
+[/us/usc/t8/s1365b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1365b
+[/us/usc/t6/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs231
+[/us/usc/t6/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs945
+[/us/usc/t6/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs961
+[/us/usc/t6/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs221%2F1
+[/us/usc/t19/s4318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4318%2Fb
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/usc/t19/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4301
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2178
-[/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
-[/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F199
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/stat/120/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1884
+[/us/usc/t6/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs901
 [/us/pl/107/296/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs411
 [/us/pl/107/296/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs411
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F209
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/usc/t6/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs215
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/114/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F68
 [/us/stat/129/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F555
 [/us/usc/t38/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4214
 [/us/usc/t38/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4214
-[/us/pl/113/76/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs559
+[/us/pl/113/76/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtV
 [/us/stat/128/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F279
-[/us/pl/114/4/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa
+[/us/pl/114/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2FtV
 [/us/stat/129/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F71
-[/us/pl/114/113/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs550
+[/us/pl/114/113/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtV
 [/us/stat/129/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2519
 [/us/usc/t19/s58c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fe
 [/us/usc/t19/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1451
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/114/113/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs550
+[/us/pl/114/113/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdF%2FtV
 [/us/stat/129/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2519
 [/us/pl/113/76/s559/e/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs559%2Fe%2F3%2FD
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/114/4/s552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa%2F2
+[/us/pl/114/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2FtV
 [/us/stat/129/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F71
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/113/76/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs571
+[/us/pl/113/76/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtV
 [/us/stat/128/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F287
 
 

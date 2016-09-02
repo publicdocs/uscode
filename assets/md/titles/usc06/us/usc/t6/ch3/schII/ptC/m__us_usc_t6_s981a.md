@@ -69,7 +69,7 @@
 
         If the Secretary determines the available technology meets the criteria outlined in subsection (c), the Secretary, in cooperation with the Secretary of State, shall seek to secure the cooperation of foreign governments to initiate and maximize the use of such technology at foreign ports to scan all cargo bound for the United States as quickly as possible.
 
-([Pub. L. 109–295, title V, § 558][/us/pl/109/295/s558], Oct. 4, 2006, [120 Stat. 1392][/us/stat/120/1392].)
+([Pub. L. 109–295, title V][/us/pl/109/295/tV], § 558, Oct. 4, 2006, [120 Stat. 1392][/us/stat/120/1392].)
 
  __Codification__ 
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs558
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1392
 
 

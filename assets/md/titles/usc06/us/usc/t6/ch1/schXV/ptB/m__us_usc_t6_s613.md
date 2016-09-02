@@ -87,11 +87,11 @@
 
             There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this subsection.
 
-([Pub. L. 107–296, title XX, § 2023][/us/pl/107/296/s2023], as added [Pub. L. 111–271, § 2(a)][/us/pl/111/271/s2/a], Oct. 12, 2010, [124 Stat. 2852][/us/stat/124/2852].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2023, as added [Pub. L. 111–271][/us/pl/111/271], § 2(a), Oct. 12, 2010, [124 Stat. 2852][/us/stat/124/2852].)
 
  __References in Text__ 
 
-    [Section 612(a)(4) of this title][/us/usc/t6/s612/a/4], referred to in subsec. (c)(3)(B), was redesignated [section 612(a)(3) of this title][/us/usc/t6/s612/a/3] by [Pub. L. 113–284, § 2(c)(2)(A)][/us/pl/113/284/s2/c/2/A], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].
+    [Section 612(a)(4) of this title][/us/usc/t6/s612/a/4], referred to in subsec. (c)(3)(B), was redesignated [section 612(a)(3) of this title][/us/usc/t6/s612/a/3] by [Pub. L. 113–284][/us/pl/113/284], § 2(c)(2)(A), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].
 
 ----------
 
@@ -105,12 +105,12 @@
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
-[/us/pl/107/296/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2023
-[/us/pl/111/271/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F271%2Fs2%2Fa
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/111/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F271
 [/us/stat/124/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2852
 [/us/usc/t6/s612/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612%2Fa%2F4
 [/us/usc/t6/s612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612%2Fa%2F3
-[/us/pl/113/284/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F2%2FA
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 [/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 
 

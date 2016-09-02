@@ -147,11 +147,11 @@
 
             If the Administrator determines that statutory authority is inadequate for the preparedness and deployment of individuals in strike teams under this subsection, the Administrator shall report to Congress regarding the additional statutory authorities that the Administrator determines are necessary.
 
-([Pub. L. 107–296, title V, § 507][/us/pl/107/296/s507], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1401][/us/stat/120/1401]; amended [Pub. L. 110–53, title IV, § 404][/us/pl/110/53/s404], Aug. 3, 2007, [121 Stat. 303][/us/stat/121/303].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 507, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1401][/us/stat/120/1401]; amended [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], § 404, Aug. 3, 2007, [121 Stat. 303][/us/stat/121/303].)
 
  __Prior Provisions__ 
 
-    A prior section 317, [Pub. L. 107–296, title V, § 507][/us/pl/107/296/s507], Nov. 25, 2002, [116 Stat. 2214][/us/stat/116/2214], related to the role of the Federal Emergency Management Agency, prior to repeal by [Pub. L. 109–295, title VI, § 611(4)][/us/pl/109/295/s611/4], Oct. 4. 2006, [120 Stat. 1395][/us/stat/120/1395].
+    A prior section 317, [Pub. L. 107–296, title V][/us/pl/107/296/tV], § 507, Nov. 25, 2002, [116 Stat. 2214][/us/stat/116/2214], related to the role of the Federal Emergency Management Agency, prior to repeal by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(4), Oct. 4. 2006, [120 Stat. 1395][/us/stat/120/1395].
 
  __Amendments__ 
 
@@ -169,14 +169,14 @@
 ----------
 
 [/us/usc/t42/s5144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5144
-[/us/pl/107/296/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs507
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1401
-[/us/pl/110/53/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs404
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F303
-[/us/pl/107/296/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs507
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
 [/us/stat/116/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2214
-[/us/pl/109/295/s611/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F4
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/109/295/s614/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs614%2Fb%2F3

@@ -289,7 +289,7 @@
 
                         Clause (i) shall not apply to procedures developed and implemented under this subchapter.
 
-([Pub. L. 114–113, div. N, title I, § 105][/us/pl/114/113/s105], Dec. 18, 2015, [129 Stat. 2943][/us/stat/129/2943].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 105, Dec. 18, 2015, [129 Stat. 2943][/us/stat/129/2943].)
 
 ----------
 
@@ -306,7 +306,7 @@
 [/us/usc/t6/s1503/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1503%2Fc%2F2
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3%2FB
-[/us/pl/114/113/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs105
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2943
 
 

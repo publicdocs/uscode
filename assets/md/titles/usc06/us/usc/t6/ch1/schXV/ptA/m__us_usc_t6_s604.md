@@ -163,7 +163,7 @@
 
         (6) such sums as are necessary for fiscal year 2013, and each fiscal year thereafter.
 
-([Pub. L. 107–296, title XX, § 2003][/us/pl/107/296/s2003], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 274][/us/stat/121/274].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2003, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 274][/us/stat/121/274].)
 
 ----------
 
@@ -173,8 +173,8 @@
 ----------
 
 [/us/usc/t6/s608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs608%2Fa%2F1
-[/us/pl/107/296/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2003
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F274
 
 

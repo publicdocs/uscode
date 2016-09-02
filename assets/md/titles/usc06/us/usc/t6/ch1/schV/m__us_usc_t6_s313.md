@@ -93,7 +93,7 @@
 
                 Nothing in this paragraph shall be construed as affecting the authority of the Secretary under this chapter.
 
-([Pub. L. 107–296, title V, § 503][/us/pl/107/296/s503], as added [Pub. L. 109–295, title VI, § 611(11)][/us/pl/109/295/s611/11], Oct. 4, 2006, [120 Stat. 1396][/us/stat/120/1396].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 503, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(11), Oct. 4, 2006, [120 Stat. 1396][/us/stat/120/1396].)
 
  __References in Text__ 
 
@@ -101,15 +101,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 313, [Pub. L. 107–296, title V, § 503][/us/pl/107/296/s503], Nov. 25, 2002, [116 Stat. 2213][/us/stat/116/2213]; [Pub. L. 108–276, § 3(c)(3)][/us/pl/108/276/s3/c/3], July 21, 2004, [118 Stat. 853][/us/stat/118/853]; [Pub. L. 109–417, title III, § 301(c)(2)][/us/pl/109/417/s301/c/2], Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854], related to the transfer of certain functions to the Secretary of Homeland Security, prior to repeal by [Pub. L. 109–295, title VI, § 611(3)][/us/pl/109/295/s611/3], Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
+    A prior section 313, [Pub. L. 107–296, title V][/us/pl/107/296/tV], § 503, Nov. 25, 2002, [116 Stat. 2213][/us/stat/116/2213]; [Pub. L. 108–276][/us/pl/108/276], § 3(c)(3), July 21, 2004, [118 Stat. 853][/us/stat/118/853]; [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 301(c)(2), Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854], related to the transfer of certain functions to the Secretary of Homeland Security, prior to repeal by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(3), Oct. 4, 2006, [120 Stat. 1395][/us/stat/120/1395].
 
  __Change of Name__ 
 
-[Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that: 
 
 > “Any reference to the Director of the Federal Emergency Management Agency, in any law, rule, regulation, certificate, directive, instruction, or other official paper shall be considered to refer and apply to the Administrator of the Federal Emergency Management Agency.”
 
-[Pub. L. 109–295, title VI, § 612(f)(2)][/us/pl/109/295/s612/f/2], Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that: 
+[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(f)(2), Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411], provided that: 
 
 > “Any reference to the Administrator of the Federal Emergency Management Agency in this title \[see Tables for classification\] or an amendment by this title shall be considered to refer and apply to the Director of the Federal Emergency Management Agency until March 31, 2007.”
 
@@ -124,23 +124,23 @@
 ----------
 ----------
 
-[/us/pl/107/296/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs503
-[/us/pl/109/295/s611/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F11
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1396
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/296/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs503
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
 [/us/stat/116/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2213
-[/us/pl/108/276/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs3%2Fc%2F3
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F853
-[/us/pl/109/417/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fc%2F2
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2854
-[/us/pl/109/295/s611/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F3
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1395
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1411
 [/us/pl/109/295/s614/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs614%2Fb%2F1
 [/us/usc/t6/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs701

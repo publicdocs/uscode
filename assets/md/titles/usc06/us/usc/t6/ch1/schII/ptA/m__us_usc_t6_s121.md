@@ -197,7 +197,7 @@
 
         (5) The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
 
-([Pub. L. 107–296, title II, § 201][/us/pl/107/296/s201], Nov. 25, 2002, [116 Stat. 2145][/us/stat/116/2145]; [Pub. L. 110–53, title V][/us/pl/110/53], §§ 501(a)(2)(A), (b), 531(a), title X, § 1002(a), Aug. 3, 2007, [121 Stat. 309][/us/stat/121/309], 332, 374; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(5), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 111–84, div. A, title X, § 1073(c)(9)][/us/pl/111/84/s1073/c/9], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–258, § 5(b)(1)][/us/pl/111/258/s5/b/1], Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 201, Nov. 25, 2002, [116 Stat. 2145][/us/stat/116/2145]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], §§ 501(a)(2)(A), (b), 531(a), title X, § 1002(a), Aug. 3, 2007, [121 Stat. 309][/us/stat/121/309], 332, 374; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(5), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(9), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–258][/us/pl/111/258], § 5(b)(1), Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650].)
 
  __References in Text__ 
 
@@ -215,71 +215,71 @@
 
     2009—Subsec. (f)(2)(E). [Pub. L. 111–84][/us/pl/111/84] made technical amendment to directory language of [Pub. L. 110–417][/us/pl/110/417]. See 2008 amendment note below.
 
-    2008—Subsec. (f)(2)(E). [Pub. L. 110–417, § 931(b)(5)][/us/pl/110/417/s931/b/5], as amended by [Pub. L. 111–84][/us/pl/111/84], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+    2008—Subsec. (f)(2)(E). [Pub. L. 110–417][/us/pl/110/417], § 931(b)(5), as amended by [Pub. L. 111–84][/us/pl/111/84], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-    2007—[Pub. L. 110–53, § 531(a)(1)][/us/pl/110/53/s531/a/1], substituted “Information and” for “Directorate for Information” in section catchline.
+    2007—[Pub. L. 110–53][/us/pl/110/53], § 531(a)(1), substituted “Information and” for “Directorate for Information” in section catchline.
 
-    Subsecs. (a) to (c). [Pub. L. 110–53, § 531(a)(2)][/us/pl/110/53/s531/a/2], added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to, in subsec. (a), establishment and responsibilities of Directorate for Information Analysis and Infrastructure Protection, in subsec. (b), positions of Assistant Secretary for Information Analysis and Assistant Secretary for Infrastructure Protection, and, in subsec. (c), Secretary’s duty to ensure that responsibilities regarding information analysis and infrastructure protection would be carried out through the Under Secretary for Information Analysis and Infrastructure Protection.
+    Subsecs. (a) to (c). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to, in subsec. (a), establishment and responsibilities of Directorate for Information Analysis and Infrastructure Protection, in subsec. (b), positions of Assistant Secretary for Information Analysis and Assistant Secretary for Infrastructure Protection, and, in subsec. (c), Secretary’s duty to ensure that responsibilities regarding information analysis and infrastructure protection would be carried out through the Under Secretary for Information Analysis and Infrastructure Protection.
 
-    Subsec. (d). [Pub. L. 110–53, § 531(a)(3)][/us/pl/110/53/s531/a/3], substituted “Secretary relating to intelligence and analysis and infrastructure protection” for “Under Secretary” in heading and “The responsibilities of the Secretary relating to intelligence and analysis and infrastructure protection” for “Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
+    Subsec. (d). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3), substituted “Secretary relating to intelligence and analysis and infrastructure protection” for “Under Secretary” in heading and “The responsibilities of the Secretary relating to intelligence and analysis and infrastructure protection” for “Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 110–53, § 501(b)(1)][/us/pl/110/53/s501/b/1], inserted “, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 ([50 U.S.C. 404][/us/usc/t50/s404]o),” after “to integrate such information” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 110–53][/us/pl/110/53], § 501(b)(1), inserted “, in support of the mission responsibilities of the Department and the functions of the National Counterterrorism Center established under section 119 of the National Security Act of 1947 ([50 U.S.C. 404][/us/usc/t50/s404]o),” after “to integrate such information” in introductory provisions.
 
-    Subsec. (d)(7). [Pub. L. 110–53, § 501(b)(2)][/us/pl/110/53/s501/b/2], added par. (7) and struck out former par. (7) which read as follows: “To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities.”
+    Subsec. (d)(7). [Pub. L. 110–53][/us/pl/110/53], § 501(b)(2), added par. (7) and struck out former par. (7) which read as follows: “To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities.”
 
-    [Pub. L. 110–53, § 501(a)(2)(A)][/us/pl/110/53/s501/a/2/A], redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “To administer the Homeland Security Advisory System, including—
+    [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “To administer the Homeland Security Advisory System, including—
 
     “(A) exercising primary responsibility for public advisories related to threats to homeland security; and
 
     “(B) in coordination with other agencies of the Federal Government, providing specific warning information, and advice about appropriate protective measures and countermeasures, to State and local government agencies and authorities, the private sector, other entities, and the public.”
 
-    Subsec. (d)(8). [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated par. (9) as (8). Former par. (8) redesignated (7).
+    Subsec. (d)(8). [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated par. (9) as (8). Former par. (8) redesignated (7).
 
-    Subsec. (d)(9). [Pub. L. 110–53, § 531(a)(3)(C)][/us/pl/110/53/s531/a/3/C], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (d)(9). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3)(C), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated par. (10) as (9). Former par. (9) redesignated (8).
+    [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-    Subsec. (d)(10). [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated par. (11) as (10). Former par. (10) redesignated (9).
+    Subsec. (d)(10). [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated par. (11) as (10). Former par. (10) redesignated (9).
 
-    Subsec. (d)(11). [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated par. (12) as (11). Former par. (11) redesignated (10).
+    Subsec. (d)(11). [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-    Subsec. (d)(11)(B). [Pub. L. 110–53, § 531(a)(3)(D)][/us/pl/110/53/s531/a/3/D], substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+    Subsec. (d)(11)(B). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3)(D), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-    Subsec. (d)(12) to (17). [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated pars. (13) to (18) as (12) to (17), respectively. Former par. (12) redesignated (11).
+    Subsec. (d)(12) to (17). [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated pars. (13) to (18) as (12) to (17), respectively. Former par. (12) redesignated (11).
 
-    Subsec. (d)(18). [Pub. L. 110–53, § 531(a)(3)(E)][/us/pl/110/53/s531/a/3/E], (F), added par. (18) and redesignated former par. (18) as (24).
+    Subsec. (d)(18). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3)(E), (F), added par. (18) and redesignated former par. (18) as (24).
 
-    [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated par. (19) as (18). Former par. (18) redesignated (17).
+    [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
 
-    Subsec. (d)(19). [Pub. L. 110–53, § 531(a)(3)(F)][/us/pl/110/53/s531/a/3/F], added par. (19).
+    Subsec. (d)(19). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3)(F), added par. (19).
 
-    [Pub. L. 110–53, § 501(a)(2)(A)(ii)][/us/pl/110/53/s501/a/2/A/ii], redesignated par. (19) as (18).
+    [Pub. L. 110–53][/us/pl/110/53], § 501(a)(2)(A)(ii), redesignated par. (19) as (18).
 
-    Subsec. (d)(20) to (23). [Pub. L. 110–53, § 531(a)(3)(F)][/us/pl/110/53/s531/a/3/F], added pars. (20) to (23).
+    Subsec. (d)(20) to (23). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3)(F), added pars. (20) to (23).
 
-    Subsec. (d)(24). [Pub. L. 110–53, § 531(a)(3)(E)][/us/pl/110/53/s531/a/3/E], redesignated par. (18) as (24).
+    Subsec. (d)(24). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(3)(E), redesignated par. (18) as (24).
 
-    Subsec. (d)(25). [Pub. L. 110–53, § 1002(a)][/us/pl/110/53/s1002/a], added par. (25).
+    Subsec. (d)(25). [Pub. L. 110–53][/us/pl/110/53], § 1002(a), added par. (25).
 
-    Subsec. (e)(1). [Pub. L. 110–53, § 531(a)(4)][/us/pl/110/53/s531/a/4], substituted “provide the Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “provide the Directorate” and “assist such offices in discharging” for “assist the Directorate in discharging”.
+    Subsec. (e)(1). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(4), substituted “provide the Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “provide the Directorate” and “assist such offices in discharging” for “assist the Directorate in discharging”.
 
-    Subsec. (f)(1). [Pub. L. 110–53, § 531(a)(5)][/us/pl/110/53/s531/a/5], substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Directorate”.
+    Subsec. (f)(1). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(5), substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Directorate”.
 
-    Subsec. (g). [Pub. L. 110–53, § 531(a)(6)][/us/pl/110/53/s531/a/6], substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
+    Subsec. (g). [Pub. L. 110–53][/us/pl/110/53], § 531(a)(6), substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment by section 1073(c)(9) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment by section 1073(c)(9) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Regulations__ 
 
-    [Pub. L. 109–295, title V, § 550][/us/pl/109/295/s550], Oct. 4, 2006, [120 Stat. 1388][/us/stat/120/1388], as amended by [Pub. L. 110–161, div. E, title V, § 534][/us/pl/110/161/s534], Dec. 26, 2007, [121 Stat. 2075][/us/stat/121/2075]; [Pub. L. 111–83, title V, § 550][/us/pl/111/83/s550], Oct. 28, 2009, [123 Stat. 2177][/us/stat/123/2177]; [Pub. L. 112–10, div. B, title VI, § 1650][/us/pl/112/10/s1650], Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V, § 540][/us/pl/112/74/s540], Dec. 23, 2011, [125 Stat. 976][/us/stat/125/976]; [Pub. L. 113–6, div. D, title V, § 537][/us/pl/113/6/s537], Mar. 26, 2013, [127 Stat. 373][/us/stat/127/373]; [Pub. L. 113–76, div. F, title V, § 536][/us/pl/113/76/s536], Jan. 17, 2014, [128 Stat. 275][/us/stat/128/275], required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by [Pub. L. 113–254, § 4(b)][/us/pl/113/254/s4/b], Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919]. See [section 627 of this title][/us/usc/t6/s627].
+    [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 550, Oct. 4, 2006, [120 Stat. 1388][/us/stat/120/1388], as amended by [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 534, Dec. 26, 2007, [121 Stat. 2075][/us/stat/121/2075]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 550, Oct. 28, 2009, [123 Stat. 2177][/us/stat/123/2177]; [Pub. L. 112–10, div. B, title VI][/us/pl/112/10/dB/tVI], § 1650, Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 540, Dec. 23, 2011, [125 Stat. 976][/us/stat/125/976]; [Pub. L. 113–6, div. D, title V][/us/pl/113/6/dD/tV], § 537, Mar. 26, 2013, [127 Stat. 373][/us/stat/127/373]; [Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 536, Jan. 17, 2014, [128 Stat. 275][/us/stat/128/275], required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by [Pub. L. 113–254][/us/pl/113/254], § 4(b), Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919]. See [section 627 of this title][/us/usc/t6/s627].
 
-    \[[Pub. L. 113–254, § 4(b)][/us/pl/113/254/s4/b], Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919], provided that the repeal of [section 550 of Pub. L. 109–295][/us/pl/109/295/s550], formerly set out above, is effective as of the effective date of [Pub. L. 113–254][/us/pl/113/254], which is the date that is 30 days after Dec. 18, 2014. See [section 4(a) of Pub. L. 113–254][/us/pl/113/254/s4/a], set out as an Effective and Termination Dates note under [section 621 of this title][/us/usc/t6/s621].\]
+    \[[Pub. L. 113–254][/us/pl/113/254], § 4(b), Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919], provided that the repeal of [section 550 of Pub. L. 109–295][/us/pl/109/295/s550], formerly set out above, is effective as of the effective date of [Pub. L. 113–254][/us/pl/113/254], which is the date that is 30 days after Dec. 18, 2014. See [section 4(a) of Pub. L. 113–254][/us/pl/113/254/s4/a], set out as an Effective and Termination Dates note under [section 621 of this title][/us/usc/t6/s621].\]
 
  __Enhanced Grid Security__ 
 
-[Pub. L. 114–94, div. F, § 61003(c)][/us/pl/114/94/s61003/c], Dec. 4, 2015, [129 Stat. 1778][/us/stat/129/1778], provided that:
+[Pub. L. 114–94, div. F][/us/pl/114/94/dF], § 61003(c), Dec. 4, 2015, [129 Stat. 1778][/us/stat/129/1778], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -329,7 +329,7 @@
 
  __Cybersecurity Collaboration Between the Department of Defense and the Department of Homeland Security__ 
 
-[Pub. L. 112–81, div. A, title X, § 1090][/us/pl/112/81/s1090], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603], provided that:
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1090, Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603], provided that:
 
 >     “(a) __Interdepartmental Collaboration.—__ 
 
@@ -363,7 +363,7 @@
 
  __Cybersecurity Oversight__ 
 
-[Pub. L. 111–259, title III, § 336][/us/pl/111/259/s336], Oct. 7, 2010, [124 Stat. 2689][/us/stat/124/2689], provided that:
+[Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 336, Oct. 7, 2010, [124 Stat. 2689][/us/stat/124/2689], provided that:
 
 >     “(a) __Notification of Cybersecurity Programs.—__ 
 
@@ -527,13 +527,13 @@
 
  __Treatment of Incumbent Under Secretary for Intelligence and Analysis__ 
 
-[Pub. L. 110–53, title V, § 531(c)][/us/pl/110/53/s531/c], Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335], provided that: 
+[Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(c), Aug. 3, 2007, [121 Stat. 335][/us/stat/121/335], provided that: 
 
 > “The individual administratively performing the duties of the Under Secretary for Intelligence and Analysis as of the date of the enactment of this Act \[Aug. 3, 2007\] may continue to perform such duties after the date on which the President nominates an individual to serve as the Under Secretary pursuant to section 201 of the Homeland Security Act of 2002 \[[6 U.S.C. 121][/us/usc/t6/s121]\], as amended by this section, and until the individual so appointed assumes the duties of the position.”
 
  __Reports To Be Submitted to Certain Committees__ 
 
-[Pub. L. 110–53, title XXIV, § 2403][/us/pl/110/53/s2403], Aug. 3, 2007, [121 Stat. 547][/us/stat/121/547], provided that: 
+[Pub. L. 110–53, title XXIV][/us/pl/110/53/tXXIV], § 2403, Aug. 3, 2007, [121 Stat. 547][/us/stat/121/547], provided that: 
 
 > “The Committee on Commerce, Science, and Transportation of the Senate shall receive the reports required by the following provisions of law in the same manner and to the same extent that the reports are to be received by the Committee on Homeland Security and Governmental Affairs of the Senate:
 
@@ -557,7 +557,7 @@
 
  __Security Management Systems Demonstration Project__ 
 
-[Pub. L. 110–53, title XXIV, § 2404][/us/pl/110/53/s2404], Aug. 3, 2007, [121 Stat. 548][/us/stat/121/548], provided that:
+[Pub. L. 110–53, title XXIV][/us/pl/110/53/tXXIV], § 2404, Aug. 3, 2007, [121 Stat. 548][/us/stat/121/548], provided that:
 
 >     “(a)  __Demonstration Project Required__  __.—__ 
 
@@ -653,7 +653,9 @@
 
     Term of National Infrastructure Advisory Council extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-    Term of National Infrastructure Advisory Council extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+    Term of National Infrastructure Advisory Council extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+    Term of National Infrastructure Advisory Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Ex. Ord. No. 13284. Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security__ 
 
@@ -900,15 +902,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t6/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs122
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/107/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs201
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2145
-[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F309
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
-[/us/pl/111/84/s1073/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F9
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/pl/111/258/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258%2Fs5%2Fb%2F1
+[/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/stat/124/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2650
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
@@ -921,74 +923,74 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F258
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/110/417/s931/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs931%2Fb%2F5
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/53/s531/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F1
-[/us/pl/110/53/s531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F2
-[/us/pl/110/53/s531/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3
-[/us/pl/110/53/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fb%2F1
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t50/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404
-[/us/pl/110/53/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fb%2F2
-[/us/pl/110/53/s501/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s531/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3%2FC
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s531/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3%2FD
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s531/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3%2FE
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s531/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3%2FF
-[/us/pl/110/53/s501/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F2%2FA%2Fii
-[/us/pl/110/53/s531/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3%2FF
-[/us/pl/110/53/s531/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F3%2FE
-[/us/pl/110/53/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1002%2Fa
-[/us/pl/110/53/s531/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F4
-[/us/pl/110/53/s531/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F5
-[/us/pl/110/53/s531/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fa%2F6
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/295/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs550
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1388
-[/us/pl/110/161/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs534
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2075
-[/us/pl/111/83/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs550
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2177
-[/us/pl/112/10/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1650
+[/us/pl/112/10/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVI
 [/us/stat/125/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F146
-[/us/pl/112/74/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs540
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F976
-[/us/pl/113/6/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs537
+[/us/pl/113/6/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtV
 [/us/stat/127/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F373
-[/us/pl/113/76/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs536
+[/us/pl/113/76/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtV
 [/us/stat/128/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F275
-[/us/pl/113/254/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fb
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2919
 [/us/usc/t6/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs627
-[/us/pl/113/254/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fb
+[/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/stat/128/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2919
 [/us/pl/109/295/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs550
 [/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/pl/113/254/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fa
 [/us/usc/t6/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs621
-[/us/pl/114/94/s61003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fc
+[/us/pl/114/94/dF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdF
 [/us/stat/129/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1778
 [/us/usc/t16/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824
-[/us/pl/112/81/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1090
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
-[/us/pl/111/259/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs336
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2689
 [/us/usc/t18/s2511/2/a/ii/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511%2F2%2Fa%2Fii%2FB
 [/us/usc/t42/s5195c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195c
 [/us/pl/111/259/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs336
 [/us/pl/111/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/110/53/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fc
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F335
 [/us/usc/t6/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121
-[/us/pl/110/53/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2403
+[/us/pl/110/53/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIV
 [/us/stat/121/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F547
 [/us/usc/t6/s485/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485%2Fj%2F1
 [/us/stat/121/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F323
@@ -998,7 +1000,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t8/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1185
 [/us/usc/t42/s2000ee–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%E2%80%933%2Fc
 [/us/stat/121/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F370
-[/us/pl/110/53/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2404
+[/us/pl/110/53/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIV
 [/us/stat/121/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F548
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

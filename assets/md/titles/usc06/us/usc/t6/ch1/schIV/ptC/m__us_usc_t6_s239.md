@@ -47,11 +47,11 @@
 
             (C) coordinate the cargo security policies of the Department with the policies of other executive agencies.
 
-([Pub. L. 107–296, title IV, § 431][/us/pl/107/296/s431], as added [Pub. L. 109–347, title III, § 301(a)][/us/pl/109/347/s301/a], Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 431, as added [Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 301(a), Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920].)
 
  __Rule of Construction__ 
 
-[Pub. L. 109–347, title III, § 301(c)][/us/pl/109/347/s301/c], Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920], provided that: 
+[Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 301(c), Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920], provided that: 
 
 > “Nothing in this section \[enacting this section and [section 1001 of this title][/us/usc/t6/s1001]\] shall be construed to affect—
 
@@ -66,10 +66,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs431
-[/us/pl/109/347/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs301%2Fa
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1920
-[/us/pl/109/347/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs301%2Fc
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1920
 [/us/usc/t6/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1001
 [/us/usc/t6/s468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs468

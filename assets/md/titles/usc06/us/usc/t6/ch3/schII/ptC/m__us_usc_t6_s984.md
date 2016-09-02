@@ -27,7 +27,7 @@
 
         (2) the determination of the Secretary on whether to expand the pilot program.
 
-([Pub. L. 109–347, title II, § 235][/us/pl/109/347/s235], Oct. 13, 2006, [120 Stat. 1919][/us/stat/120/1919].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 235, Oct. 13, 2006, [120 Stat. 1919][/us/stat/120/1919].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs235
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1919
 
 

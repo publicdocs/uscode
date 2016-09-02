@@ -85,7 +85,7 @@
 
             (C) national economic harm.
 
-([Pub. L. 110–53, title XV, § 1551][/us/pl/110/53/s1551], Aug. 3, 2007, [121 Stat. 469][/us/stat/121/469].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1551, Aug. 3, 2007, [121 Stat. 469][/us/stat/121/469].)
 
 ----------
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1551
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F469
 
 

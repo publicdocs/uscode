@@ -17,7 +17,7 @@
 
     In accordance with subchapter XII, there shall be transferred to the Secretary the functions, personnel, assets, and obligations of the United States Secret Service, which shall be maintained as a distinct entity within the Department, including the functions of the Secretary of the Treasury relating thereto.
 
-([Pub. L. 107–296, title VIII, § 821][/us/pl/107/296/s821], Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 821, Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs821
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2224
 
 

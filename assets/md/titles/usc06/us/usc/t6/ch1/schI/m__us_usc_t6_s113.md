@@ -25,7 +25,7 @@
 
             (B) An Under Secretary for Science and Technology.
 
-            (C) An Under Secretary for Border and Transportation Security.
+            (C) A Commissioner of U.S. Customs and Border Protection.
 
             (D) An Administrator of the Federal Emergency Management Agency.
 
@@ -33,7 +33,7 @@
 
             (F) An Under Secretary for Management.
 
-            (G) A Director of the Office of Counternarcotics Enforcement.
+            (G) A Director of U.S. Immigration and Customs Enforcement.
 
             (H) An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
 
@@ -73,7 +73,7 @@
 
         Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official’s office or prescribed by the Secretary.
 
-([Pub. L. 107–296, title I, § 103][/us/pl/107/296/s103], Nov. 25, 2002, [116 Stat. 2144][/us/stat/116/2144]; [Pub. L. 108–7, div. L, § 104(a)][/us/pl/108/7/s104/a], Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529]; [Pub. L. 108–330, § 3(d)(1)(A)][/us/pl/108/330/s3/d/1/A], Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276]; [Pub. L. 108–458, title VII, § 7407(b)][/us/pl/108/458/s7407/b], Dec. 17, 2004, [118 Stat. 3853][/us/stat/118/3853]; [Pub. L. 109–295, title VI, § 612(b)][/us/pl/109/295/s612/b], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 109–347, title V, § 501(b)(1)][/us/pl/109/347/s501/b/1], Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935]; [Pub. L. 110–53, title V, § 531(b)(2)][/us/pl/110/53/s531/b/2], Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334]; [Pub. L. 110–388, § 1][/us/pl/110/388/s1], Oct. 10, 2008, [122 Stat. 4144][/us/stat/122/4144]; [Pub. L. 112–166, § 2(f)(5)][/us/pl/112/166/s2/f/5], Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
+([Pub. L. 107–296, title I][/us/pl/107/296/tI], § 103, Nov. 25, 2002, [116 Stat. 2144][/us/stat/116/2144]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 104(a), Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529]; [Pub. L. 108–330][/us/pl/108/330], § 3(d)(1)(A), Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7407(b), Dec. 17, 2004, [118 Stat. 3853][/us/stat/118/3853]; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(b), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(b)(1), Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935]; [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 531(b)(2), Aug. 3, 2007, [121 Stat. 334][/us/stat/121/334]; [Pub. L. 110–388][/us/pl/110/388], § 1, Oct. 10, 2008, [122 Stat. 4144][/us/stat/122/4144]; [Pub. L. 112–166][/us/pl/112/166], § 2(f)(5), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(A)(ii), Feb. 24, 2016, [130 Stat. 211][/us/stat/130/211].)
 
  __References in Text__ 
 
@@ -83,27 +83,31 @@
 
  __Amendments__ 
 
+    2016—Subsec. (a)(1)(C). [Pub. L. 114–125][/us/pl/114/125], § 802(g)(1)(A)(ii)(I), substituted “A Commissioner of U.S. Customs and Border Protection.” for “An Under Secretary for Border and Transportation Security.”
+
+    Subsec. (a)(1)(G). [Pub. L. 114–125][/us/pl/114/125], § 802(g)(1)(A)(ii)(II), substituted “A Director of U.S. Immigration and Customs Enforcement.” for “A Director of the Office of Counternarcotics Enforcement.”
+
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] redesignated introductory provisions as introductory provisions of par. (1), inserted par. (1) heading, substituted “Except as provided under paragraph (2), there” for “There”, redesignated pars. (1) to (10) as subpars. (A) to (J), respectively, of par. (1), and added par. (2).
 
     2008—Subsec. (d)(3) to (5). [Pub. L. 110–388][/us/pl/110/388] redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “A Chief Human Capital Officer.”
 
     2007—Subsec. (a)(8) to (10). [Pub. L. 110–53][/us/pl/110/53] added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
-    2006—Subsec. (a)(2) to (4). [Pub. L. 109–295, § 612(b)(2)][/us/pl/109/295/s612/b/2], (3), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An Under Secretary for Information Analysis and Infrastructure Protection.”
+    2006—Subsec. (a)(2) to (4). [Pub. L. 109–295][/us/pl/109/295], § 612(b)(2), (3), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An Under Secretary for Information Analysis and Infrastructure Protection.”
 
-    Subsec. (a)(5). [Pub. L. 109–295, § 612(b)(3)][/us/pl/109/295/s612/b/3], redesignated par. (6) as (5). Former par. (5) redesignated (4).
+    Subsec. (a)(5). [Pub. L. 109–295][/us/pl/109/295], § 612(b)(3), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-    [Pub. L. 109–295, § 612(b)(1)][/us/pl/109/295/s612/b/1], added par. (5) and struck out former par. (5) which read as follows: “An Under Secretary for Emergency Preparedness and Response.”
+    [Pub. L. 109–295][/us/pl/109/295], § 612(b)(1), added par. (5) and struck out former par. (5) which read as follows: “An Under Secretary for Emergency Preparedness and Response.”
 
-    Subsec. (a)(6) to (10). [Pub. L. 109–295, § 612(b)(3)][/us/pl/109/295/s612/b/3], redesignated pars. (7) to (10) as (6) to (9), respectively. Former par. (6) redesignated (5).
+    Subsec. (a)(6) to (10). [Pub. L. 109–295][/us/pl/109/295], § 612(b)(3), redesignated pars. (7) to (10) as (6) to (9), respectively. Former par. (6) redesignated (5).
 
     Subsec. (d)(5). [Pub. L. 109–347][/us/pl/109/347] added par. (5).
 
     2004—Subsec. (a)(8) to (10). [Pub. L. 108–458][/us/pl/108/458] added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
-    Subsec. (d)(4), (5). [Pub. L. 108–330, § 3(d)(1)(A)(i)][/us/pl/108/330/s3/d/1/A/i], redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “A Chief Financial Officer.”
+    Subsec. (d)(4), (5). [Pub. L. 108–330][/us/pl/108/330], § 3(d)(1)(A)(i), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “A Chief Financial Officer.”
 
-    Subsecs. (e), (f). [Pub. L. 108–330, § 3(d)(1)(A)(ii)][/us/pl/108/330/s3/d/1/A/ii], (iii), added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 108–330][/us/pl/108/330], § 3(d)(1)(A)(ii), (iii), added subsec. (e) and redesignated former subsec. (e) as (f).
 
     2003—Subsec. (b). [Pub. L. 108–7][/us/pl/108/7] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978.”
 
@@ -113,7 +117,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–166, § 6(a)][/us/pl/112/166/s6/a], Aug. 10, 2012, [126 Stat. 1295][/us/stat/126/1295], provided that: 
+[Pub. L. 112–166][/us/pl/112/166], § 6(a), Aug. 10, 2012, [126 Stat. 1295][/us/stat/126/1295], provided that: 
 
 > “The amendments made by section 2 \[see Tables for classification\] shall take effect 60 days after the date of enactment of this Act \[Aug. 10, 2012\] and apply to appointments made on and after that effective date, including any nomination pending in the Senate on that date.”
 
@@ -126,45 +130,49 @@
 
 [/us/usc/t14/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs44
 [/us/usc/t14/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs2
-[/us/pl/107/296/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs103
+[/us/pl/107/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtI
 [/us/stat/116/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2144
-[/us/pl/108/7/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs104%2Fa
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F529
-[/us/pl/108/330/s3/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fd%2F1%2FA
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/stat/118/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1276
-[/us/pl/108/458/s7407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7407%2Fb
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3853
-[/us/pl/109/295/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fb
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/109/347/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fb%2F1
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1935
-[/us/pl/110/53/s531/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs531%2Fb%2F2
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F334
-[/us/pl/110/388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F388%2Fs1
+[/us/pl/110/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F388
 [/us/stat/122/4144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4144
-[/us/pl/112/166/s2/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Ff%2F5
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1285
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F211
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/110/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F388
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/109/295/s612/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fb%2F2
-[/us/pl/109/295/s612/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fb%2F3
-[/us/pl/109/295/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fb%2F1
-[/us/pl/109/295/s612/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fb%2F3
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/330/s3/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fd%2F1%2FA%2Fi
-[/us/pl/108/330/s3/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330%2Fs3%2Fd%2F1%2FA%2Fii
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
+[/us/pl/108/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F330
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1295
 
 

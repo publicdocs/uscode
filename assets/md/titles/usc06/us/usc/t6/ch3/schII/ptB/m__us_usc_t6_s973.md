@@ -39,7 +39,7 @@
 
         (5) $21,000,000 for fiscal year 2012.
 
-([Pub. L. 109–347, title II, § 223][/us/pl/109/347/s223], Oct. 13, 2006, [120 Stat. 1915][/us/stat/120/1915].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 223, Oct. 13, 2006, [120 Stat. 1915][/us/stat/120/1915].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t6/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs972
-[/us/pl/109/347/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs223
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1915
 
 

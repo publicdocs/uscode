@@ -41,7 +41,7 @@
 
         In developing standards for credentialing health care professionals under this section, the Administrator shall consult with the Secretary of Health and Human Services.
 
-([Pub. L. 107–296, title V, § 510][/us/pl/107/296/s510], as added [Pub. L. 109–295, title VI, § 611(13)][/us/pl/109/295/s611/13], Oct. 4, 2006, [120 Stat. 1406][/us/stat/120/1406]; amended [Pub. L. 110–53, title IV, § 408][/us/pl/110/53/s408], Aug. 3, 2007, [121 Stat. 304][/us/stat/121/304].)
+([Pub. L. 107–296, title V][/us/pl/107/296/tV], § 510, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 611(13), Oct. 4, 2006, [120 Stat. 1406][/us/stat/120/1406]; amended [Pub. L. 110–53, title IV][/us/pl/110/53/tIV], § 408, Aug. 3, 2007, [121 Stat. 304][/us/stat/121/304].)
 
  __Prior Provisions__ 
 
@@ -64,10 +64,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs510
-[/us/pl/109/295/s611/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F13
+[/us/pl/107/296/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtV
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1406
-[/us/pl/110/53/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs408
+[/us/pl/110/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIV
 [/us/stat/121/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F304
 [/us/pl/107/296/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs510
 [/us/usc/t6/s321j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321j

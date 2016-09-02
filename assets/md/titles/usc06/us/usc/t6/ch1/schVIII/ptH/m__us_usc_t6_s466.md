@@ -33,7 +33,7 @@
 
         Congress reaffirms the continued importance of [section 1385 of title 18][/us/usc/t18/s1385], and it is the sense of Congress that nothing in this chapter should be construed to alter the applicability of such section to any use of the Armed Forces as a posse comitatus to execute the laws.
 
-([Pub. L. 107–296, title VIII, § 886][/us/pl/107/296/s886], Nov. 25, 2002, [116 Stat. 2248][/us/stat/116/2248].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 886, Nov. 25, 2002, [116 Stat. 2248][/us/stat/116/2248].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
-[/us/pl/107/296/s886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs886
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2248
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

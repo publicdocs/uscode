@@ -73,7 +73,7 @@
 
             Not later than 3 years after the date on which the strategic plan is submitted under paragraph (1), the Secretary shall submit a report to the appropriate congressional committees that contains an update of the strategic plan.
 
-([Pub. L. 109–347, title II, § 201][/us/pl/109/347/s201], Oct. 13, 2006, [120 Stat. 1901][/us/stat/120/1901].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 201, Oct. 13, 2006, [120 Stat. 1901][/us/stat/120/1901].)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t6/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs942
-[/us/pl/109/347/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs201
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1901
 
 

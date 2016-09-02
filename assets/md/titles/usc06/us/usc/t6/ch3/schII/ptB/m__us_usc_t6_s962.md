@@ -17,7 +17,7 @@
 
     Importers, customs brokers, forwarders, air, sea, land carriers, contract logistics providers, and other entities in the international supply chain and intermodal transportation system are eligible to apply to voluntarily enter into partnerships with the Department under C–TPAT.
 
-([Pub. L. 109–347, title II, § 212][/us/pl/109/347/s212], Oct. 13, 2006, [120 Stat. 1909][/us/stat/120/1909].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 212, Oct. 13, 2006, [120 Stat. 1909][/us/stat/120/1909].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs212
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1909
 
 

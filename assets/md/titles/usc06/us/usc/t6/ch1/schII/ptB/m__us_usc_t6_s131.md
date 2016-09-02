@@ -81,17 +81,17 @@
 
         The terms “cybersecurity risk” and “incident” have the meanings given those terms in [section 148 of this title][/us/usc/t6/s148].
 
-([Pub. L. 107–296, title II, § 212][/us/pl/107/296/s212], Nov. 25, 2002, [116 Stat. 2150][/us/stat/116/2150]; [Pub. L. 114–113, div. N, title II, § 204][/us/pl/114/113/s204], Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 212, Nov. 25, 2002, [116 Stat. 2150][/us/stat/116/2150]; [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 204, Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961].)
 
  __Amendments__ 
 
-    2015—Par. (5)(A). [Pub. L. 114–113, § 204(1)(A)][/us/pl/114/113/s204/1/A], inserted “, including information related to cybersecurity risks and incidents,” after “critical infrastructure information” and “, including cybersecurity risks and incidents,” after “related to critical infrastructure”.
+    2015—Par. (5)(A). [Pub. L. 114–113][/us/pl/114/113], § 204(1)(A), inserted “, including information related to cybersecurity risks and incidents,” after “critical infrastructure information” and “, including cybersecurity risks and incidents,” after “related to critical infrastructure”.
 
-    Par. (5)(B). [Pub. L. 114–113, § 204(1)(B)][/us/pl/114/113/s204/1/B], inserted “, including cybersecurity risks and incidents,” after “critical infrastructure information” and “, including cybersecurity risks and incidents,” after “related to critical infrastructure”.
+    Par. (5)(B). [Pub. L. 114–113][/us/pl/114/113], § 204(1)(B), inserted “, including cybersecurity risks and incidents,” after “critical infrastructure information” and “, including cybersecurity risks and incidents,” after “related to critical infrastructure”.
 
-    Par. (5)(C). [Pub. L. 114–113, § 204(1)(C)][/us/pl/114/113/s204/1/C], inserted “, including cybersecurity risks and incidents,” after “critical infrastructure information”.
+    Par. (5)(C). [Pub. L. 114–113][/us/pl/114/113], § 204(1)(C), inserted “, including cybersecurity risks and incidents,” after “critical infrastructure information”.
 
-    Par. (8). [Pub. L. 114–113, § 204(2)][/us/pl/114/113/s204/2], added par. (8).
+    Par. (8). [Pub. L. 114–113][/us/pl/114/113], § 204(2), added par. (8).
 
  __Short Title__ 
 
@@ -99,15 +99,15 @@
 
  __Prohibition on New Regulatory Authority__ 
 
-[Pub. L. 114–113, div. N, title II, § 210][/us/pl/114/113/s210], Dec. 18, 2015, [129 Stat. 2962][/us/stat/129/2962], provided that: 
+[Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 210, Dec. 18, 2015, [129 Stat. 2962][/us/stat/129/2962], provided that: 
 
-> “Nothing in this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this subtitle may be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2015\].”
+> “Nothing in this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/dN/tII/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this subtitle may be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2015\].”
 
  __Definitions__ 
 
-[Pub. L. 114–113, div. N, title II, § 202][/us/pl/114/113/s202], Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
+[Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 202, Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
 
-> “In this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\]:
+> “In this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/dN/tII/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\]:
 
 >     “(1)  __Appropriate congressional committees__  __.—__ 
 
@@ -143,25 +143,25 @@
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
-[/us/pl/107/296/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs212
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2150
-[/us/pl/114/113/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2961
-[/us/pl/114/113/s204/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F1%2FA
-[/us/pl/114/113/s204/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F1%2FB
-[/us/pl/114/113/s204/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F1%2FC
-[/us/pl/114/113/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/107/296/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs211
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/114/113/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2962
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/pl/114/113/dN/tII/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII%2Fs201
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/114/113/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/pl/114/113/dN/tII/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII%2Fs201
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
 [/us/usc/t6/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1501

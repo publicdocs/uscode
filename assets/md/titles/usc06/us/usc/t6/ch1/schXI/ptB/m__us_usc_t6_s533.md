@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 107–296, title XI, § 1115][/us/pl/107/296/s1115], Nov. 25, 2002, [116 Stat. 2280][/us/stat/116/2280], which related to a Personnel Management Demonstration Project, was transferred to [section 599B of Title 28][/us/usc/t28/s599B], Judiciary and Judicial Procedure, by [Pub. L. 109–162, title XI, § 1187(b)][/us/pl/109/162/s1187/b], (c)(2), Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127], 3128.
+    Section, [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1115, Nov. 25, 2002, [116 Stat. 2280][/us/stat/116/2280], which related to a Personnel Management Demonstration Project, was transferred to [section 599B of Title 28][/us/usc/t28/s599B], Judiciary and Judicial Procedure, by [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1187(b), (c)(2), Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127], 3128.
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1115
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2280
 [/us/usc/t28/s599B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599B
-[/us/pl/109/162/s1187/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3127
 
 

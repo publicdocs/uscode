@@ -103,17 +103,17 @@
 
         The term “transportation security incident” has the meaning given the term in [section 70101(6) of title 46][/us/usc/t46/s70101/6].
 
-([Pub. L. 109–347, § 2][/us/pl/109/347/s2], Oct. 13, 2006, [120 Stat. 1886][/us/stat/120/1886].)
+([Pub. L. 109–347][/us/pl/109/347], § 2, Oct. 13, 2006, [120 Stat. 1886][/us/stat/120/1886].)
 
  __References in Text__ 
 
     This Act, referred to in text, is [Pub. L. 109–347][/us/pl/109/347], Oct. 13, 2006, [120 Stat. 1884][/us/stat/120/1884], known as the Security and Accountability For Every Port Act of 2006 or the SAFE Port Act. For complete classification of this Act to the Code, see Tables.
 
-    Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is [section 9503(c) of title IX of Pub. L. 100–203][/us/pl/100/203/s9503/c], which is set out as a note under [section 2071 of Title 19][/us/usc/t19/s2071], Customs Duties.
+    Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is [section 9503(c) of title IX of Pub. L. 100–203][/us/pl/100/203/tIX/s9503/c], which is set out as a note under [section 2071 of Title 19][/us/usc/t19/s2071], Customs Duties.
 
  __Short Title__ 
 
-[Pub. L. 109–347, § 1(a)][/us/pl/109/347/s1/a], Oct. 13, 2006, [120 Stat. 1884][/us/stat/120/1884], provided that: 
+[Pub. L. 109–347][/us/pl/109/347], § 1(a), Oct. 13, 2006, [120 Stat. 1884][/us/stat/120/1884], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Security and Accountability For Every Port Act of 2006’ or the ‘SAFE Port Act’.”
 
@@ -127,13 +127,13 @@
 [/us/usc/t19/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2071
 [/us/usc/t46/s70101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101%2F6
 [/us/usc/t46/s70101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101%2F6
-[/us/pl/109/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs2
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1886
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1884
-[/us/pl/100/203/s9503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fc
+[/us/pl/100/203/tIX/s9503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX%2Fs9503%2Fc
 [/us/usc/t19/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2071
-[/us/pl/109/347/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs1%2Fa
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1884
 
 

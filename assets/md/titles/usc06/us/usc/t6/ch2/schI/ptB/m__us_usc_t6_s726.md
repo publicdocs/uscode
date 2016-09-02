@@ -17,7 +17,7 @@
 
     The Administrator shall enter into agreements with organizations to provide funds to emergency response providers to provide education and training in life supporting first aid to children.
 
-([Pub. L. 109–295, title VI, § 639][/us/pl/109/295/s639], Oct. 4, 2006, [120 Stat. 1423][/us/stat/120/1423].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 639, Oct. 4, 2006, [120 Stat. 1423][/us/stat/120/1423].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs639
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1423
 
 

@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        The Secretary shall establish within the Department a social media working group (in this section referred to as the ‘Group’).
+        The Secretary shall establish within the Department a social media working group (in this section referred to as the “Group”).
 
     (b) __Purpose__ 
 
@@ -143,7 +143,7 @@
 
             The chairperson may continue to renew the Group for successive 5-year periods by submitting a certification in accordance with paragraph (1) prior to the date on which the Group would otherwise terminate.
 
-([Pub. L. 107–296, title III, § 318][/us/pl/107/296/s318], as added [Pub. L. 114–80, § 2(a)][/us/pl/114/80/s2/a], Nov. 5, 2015, [129 Stat. 646][/us/stat/129/646].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 318, as added [Pub. L. 114–80][/us/pl/114/80], § 2(a), Nov. 5, 2015, [129 Stat. 646][/us/stat/129/646].)
 
 ----------
 
@@ -152,8 +152,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs318
-[/us/pl/114/80/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F80%2Fs2%2Fa
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
+[/us/pl/114/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F80
 [/us/stat/129/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F646
 
 

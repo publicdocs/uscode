@@ -35,7 +35,7 @@
 
         (3) the efficiency with which the decision was rendered.
 
-([Pub. L. 107–296, title IV, § 453][/us/pl/107/296/s453], Nov. 25, 2002, [116 Stat. 2199][/us/stat/116/2199].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 453, Nov. 25, 2002, [116 Stat. 2199][/us/stat/116/2199].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs453
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2199
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
 [/us/pl/107/296/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs455

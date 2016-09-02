@@ -51,7 +51,7 @@
 
         Not later than 270 days after October 4, 2006, the Administrator shall submit to the appropriate committees of Congress a report describing in detail the status of the National Emergency Family Registry and Locator System, including any difficulties or issues in establishing the System, including funding issues.
 
-([Pub. L. 109–295, title VI, § 689c][/us/pl/109/295/s689c], Oct. 4, 2006, [120 Stat. 1451][/us/stat/120/1451].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689c, Oct. 4, 2006, [120 Stat. 1451][/us/stat/120/1451].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t6/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs774
-[/us/pl/109/295/s689c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689c
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1451
 
 

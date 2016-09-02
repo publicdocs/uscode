@@ -63,7 +63,7 @@
 
         Not later than 180 days after August 3, 2007, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the implementation of this section.
 
-([Pub. L. 108–458, title VII, § 7215][/us/pl/108/458/s7215], Dec. 17, 2004, [118 Stat. 3832][/us/stat/118/3832]; [Pub. L. 110–53, title VII, § 722][/us/pl/110/53/s722], Aug. 3, 2007, [121 Stat. 348][/us/stat/121/348].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7215, Dec. 17, 2004, [118 Stat. 3832][/us/stat/118/3832]; [Pub. L. 110–53, title VII][/us/pl/110/53/tVII], § 722, Aug. 3, 2007, [121 Stat. 348][/us/stat/121/348].)
 
  __References in Text__ 
 
@@ -84,9 +84,9 @@
 ----------
 ----------
 
-[/us/pl/108/458/s7215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7215
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3832
-[/us/pl/110/53/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs722
+[/us/pl/110/53/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVII
 [/us/stat/121/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F348
 [/us/pl/108/458/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7201
 [/us/stat/118/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3808

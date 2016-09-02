@@ -181,7 +181,7 @@
 
         (3) for each subsequent fiscal year, such sums as may be necessary.
 
-([Pub. L. 107–296, title XVIII, § 1809][/us/pl/107/296/s1809], as added [Pub. L. 110–53, title III, § 301(a)][/us/pl/110/53/s301/a], Aug. 3, 2007, [121 Stat. 296][/us/stat/121/296].)
+([Pub. L. 107–296, title XVIII][/us/pl/107/296/tXVIII], § 1809, as added [Pub. L. 110–53, title III][/us/pl/110/53/tIII], § 301(a), Aug. 3, 2007, [121 Stat. 296][/us/stat/121/296].)
 
 ----------
 
@@ -198,8 +198,8 @@
 [/us/usc/t6/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs572
 [/us/usc/t6/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs572
 [/us/usc/t6/s194/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Ff
-[/us/pl/107/296/s1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1809
-[/us/pl/110/53/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs301%2Fa
+[/us/pl/107/296/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVIII
+[/us/pl/110/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIII
 [/us/stat/121/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F296
 
 

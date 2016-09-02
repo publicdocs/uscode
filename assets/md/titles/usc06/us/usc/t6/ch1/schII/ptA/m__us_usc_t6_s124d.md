@@ -31,7 +31,7 @@
 
     (7) To perform such other activities relating to such responsibilities as the Secretary may provide.
 
-([Pub. L. 107–296, title II, § 207][/us/pl/107/296/s207], as added [Pub. L. 110–53, title V, § 503(a)][/us/pl/110/53/s503/a], Aug. 3, 2007, [121 Stat. 311][/us/stat/121/311].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 207, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 503(a), Aug. 3, 2007, [121 Stat. 311][/us/stat/121/311].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t50/s3003/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F5
-[/us/pl/107/296/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs207
-[/us/pl/110/53/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs503%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F311
 
 

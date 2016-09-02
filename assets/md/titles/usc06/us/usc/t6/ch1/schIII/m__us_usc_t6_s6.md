@@ -21,7 +21,7 @@
 
  __Cross Border Interoperability Reports__ 
 
-[Pub. L. 110–53, title XXII, § 2203][/us/pl/110/53/s2203], Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that:
+[Pub. L. 110–53, title XXII][/us/pl/110/53/tXXII], § 2203, Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -73,13 +73,13 @@
 
  __Submission of Reports to Appropriate Congressional Committees__ 
 
-[Pub. L. 110–53, title XXII, § 2205][/us/pl/110/53/s2205], Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543], provided that: 
+[Pub. L. 110–53, title XXII][/us/pl/110/53/tXXII], § 2205, Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543], provided that: 
 
 > “In addition to the committees specifically enumerated to receive reports under this title \[enacting provisions set out as note under this section, [section 701 of this title][/us/usc/t6/s701], and [section 247d–3a of Title 42][/us/usc/t42/s247d–3a], The Public Health and Welfare, and amending provisions set out as a note under [section 309 of Title 47][/us/usc/t47/s309], Telecommunications\], any report transmitted under the provisions of this title shall also be transmitted to the appropriate congressional committees (as defined in section 2(2) of the Homeland Security Act of 2002 ([6 U.S.C. 101(2)][/us/usc/t6/s101/2])).”
 
  __Regional Model Strategic Plan Pilot Projects__ 
 
-    [Pub. L. 108–458, title VII, § 7304][/us/pl/108/458/s7304], Dec. 17, 2004, [118 Stat. 3847][/us/stat/118/3847], directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
+    [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7304, Dec. 17, 2004, [118 Stat. 3847][/us/stat/118/3847], directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
 
 ----------
 
@@ -88,16 +88,16 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2203
+[/us/pl/110/53/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXII
 [/us/stat/121/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F541
 [/us/usc/t6/s194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Fc
-[/us/pl/110/53/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2205
+[/us/pl/110/53/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXII
 [/us/stat/121/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F543
 [/us/usc/t6/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs701
 [/us/usc/t42/s247d–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
 [/us/usc/t6/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101%2F2
-[/us/pl/108/458/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7304
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3847
 
 

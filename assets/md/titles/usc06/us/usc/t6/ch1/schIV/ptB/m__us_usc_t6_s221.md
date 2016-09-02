@@ -21,7 +21,7 @@
 
     (2) by not later than 180 days after January 4, 2011, U.S. Customs and Border Protection initiates all periodic background reinvestigations for all law enforcement personnel of U.S. Customs and Border Protection that should receive periodic background reinvestigations pursuant to relevant policies of U.S. Customs and Border Protection in effect on the day before January 4, 2011.
 
-([Pub. L. 111–376, § 3][/us/pl/111/376/s3], Jan. 4, 2011, [124 Stat. 4104][/us/stat/124/4104].)
+([Pub. L. 111–376][/us/pl/111/376], § 3, Jan. 4, 2011, [124 Stat. 4104][/us/stat/124/4104].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–376, § 2][/us/pl/111/376/s2], Jan. 4, 2011, [124 Stat. 4104][/us/stat/124/4104], provided that: 
+[Pub. L. 111–376][/us/pl/111/376], § 2, Jan. 4, 2011, [124 Stat. 4104][/us/stat/124/4104], provided that: 
 
 > “Congress makes the following findings:
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/111/376/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F376%2Fs3
+[/us/pl/111/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F376
 [/us/stat/124/4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4104
-[/us/pl/111/376/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F376%2Fs2
+[/us/pl/111/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F376
 [/us/stat/124/4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4104
 
 

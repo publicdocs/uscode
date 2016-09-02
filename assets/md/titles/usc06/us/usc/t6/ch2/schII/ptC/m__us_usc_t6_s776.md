@@ -69,7 +69,7 @@
 
         The Administrator shall not approve a project under the pilot program after December 31, 2008.
 
-([Pub. L. 109–295, title VI, § 689i][/us/pl/109/295/s689i], Oct. 4, 2006, [120 Stat. 1454][/us/stat/120/1454].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 689i, Oct. 4, 2006, [120 Stat. 1454][/us/stat/120/1454].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
-[/us/pl/109/295/s689i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs689i
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1454
 
 

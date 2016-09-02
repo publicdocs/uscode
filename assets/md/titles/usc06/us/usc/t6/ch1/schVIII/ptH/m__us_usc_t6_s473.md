@@ -211,11 +211,11 @@
 
         There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
 
-([Pub. L. 107–296, title VIII, § 890A][/us/pl/107/296/s890A], as added [Pub. L. 114–22, title III, § 302(b)(1)][/us/pl/114/22/s302/b/1], May 29, 2015, [129 Stat. 251][/us/stat/129/251].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 890A, as added [Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 302(b)(1), May 29, 2015, [129 Stat. 251][/us/stat/129/251].)
 
  __Findings__ 
 
-[Pub. L. 114–22, title III, § 302(a)][/us/pl/114/22/s302/a], May 29, 2015, [129 Stat. 251][/us/stat/129/251], provided that: 
+[Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 302(a), May 29, 2015, [129 Stat. 251][/us/stat/129/251], provided that: 
 
 > “Congress finds the following:
 
@@ -238,10 +238,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s890A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs890A
-[/us/pl/114/22/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs302%2Fb%2F1
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
+[/us/pl/114/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIII
 [/us/stat/129/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F251
-[/us/pl/114/22/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs302%2Fa
+[/us/pl/114/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIII
 [/us/stat/129/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F251
 
 

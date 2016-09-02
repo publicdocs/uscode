@@ -93,7 +93,7 @@
 
             (C) a plan for corrective action.
 
-([Pub. L. 107–296, title XVI, § 1613][/us/pl/107/296/s1613], as added [Pub. L. 113–245, § 3(a)][/us/pl/113/245/s3/a], Dec. 18, 2014, [128 Stat. 2874][/us/stat/128/2874].)
+([Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1613, as added [Pub. L. 113–245][/us/pl/113/245], § 3(a), Dec. 18, 2014, [128 Stat. 2874][/us/stat/128/2874].)
 
 ----------
 
@@ -103,8 +103,8 @@
 ----------
 
 [/us/usc/t6/s563/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs563%2Fd%2F2
-[/us/pl/107/296/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1613
-[/us/pl/113/245/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fa
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2874
 
 

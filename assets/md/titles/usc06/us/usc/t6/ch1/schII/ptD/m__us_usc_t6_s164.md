@@ -31,7 +31,7 @@
 
         (2) include such other information and recommendations as the Attorney General considers appropriate.
 
-([Pub. L. 107–296, title II, § 234][/us/pl/107/296/s234], Nov. 25, 2002, [116 Stat. 2161][/us/stat/116/2161]; [Pub. L. 108–7, div. L, § 103(2)][/us/pl/108/7/s103/2], Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 234, Nov. 25, 2002, [116 Stat. 2161][/us/stat/116/2161]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 103(2), Feb. 20, 2003, [117 Stat. 529][/us/stat/117/529].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/pl/107/77/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs605
-[/us/pl/107/296/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs234
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2161
-[/us/pl/108/7/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs103%2F2
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F529
 [/us/pl/107/77/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs605
 [/us/pl/107/77/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs605

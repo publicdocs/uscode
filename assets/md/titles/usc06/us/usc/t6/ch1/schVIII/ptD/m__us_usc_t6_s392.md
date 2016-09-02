@@ -21,7 +21,7 @@
 
     (2) may, whenever necessary due to an urgent homeland security need, procure temporary (not to exceed 1 year) or intermittent personal services, including the services of experts or consultants (or organizations thereof), without regard to the pay limitations of such section 3109.
 
-([Pub. L. 107–296, title VIII, § 832][/us/pl/107/296/s832], Nov. 25, 2002, [116 Stat. 2225][/us/stat/116/2225].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 832, Nov. 25, 2002, [116 Stat. 2225][/us/stat/116/2225].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/107/296/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs832
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2225
 
 

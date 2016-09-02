@@ -161,7 +161,7 @@
 
         Funds provided for fiscal year 2007 transit security grants under [Public Law 110–28][/us/pl/110/28] shall be allocated based on security assessments that are in existence as of August 3, 2007.
 
-([Pub. L. 110–53, title XIV, § 1406][/us/pl/110/53/s1406], Aug. 3, 2007, [121 Stat. 405][/us/stat/121/405].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1406, Aug. 3, 2007, [121 Stat. 405][/us/stat/121/405].)
 
  __References in Text__ 
 
@@ -184,7 +184,7 @@
 [/us/usc/t6/s1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1134
 [/us/usc/t6/s1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1134
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
-[/us/pl/110/53/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1406
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F405
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28

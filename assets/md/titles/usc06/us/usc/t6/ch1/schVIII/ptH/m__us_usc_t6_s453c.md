@@ -17,7 +17,7 @@
 
     None of the funds made available in this or any other Act for fiscal year 2012 and thereafter may be used to destroy or put out to pasture any horse or other equine belonging to any component or agency of the Department of Homeland Security that has become unfit for service, unless the trainer or handler is first given the option to take possession of the equine through an adoption program that has safeguards against slaughter and inhumane treatment.
 
-([Pub. L. 112–74, div. D, title V, § 526][/us/pl/112/74/s526], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974].)
+([Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 526, Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/112/74/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs526
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F974
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F943

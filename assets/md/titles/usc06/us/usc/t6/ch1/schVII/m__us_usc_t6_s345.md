@@ -41,15 +41,15 @@
 
         The Secretary shall submit to the President of the Senate, the Speaker of the House of Representatives, and the appropriate committees and subcommittees of Congress on an annual basis a report on the implementation of this section, including the use of funds appropriated to carry out this section, and detailing any allegations of abuses described under subsection (a)(1) and any actions taken by the Department in response to such allegations.
 
-([Pub. L. 107–296, title VII, § 705][/us/pl/107/296/s705], Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219]; [Pub. L. 108–458, title VIII, § 8303][/us/pl/108/458/s8303], Dec. 17, 2004, [118 Stat. 3867][/us/stat/118/3867].)
+([Pub. L. 107–296, title VII][/us/pl/107/296/tVII], § 705, Nov. 25, 2002, [116 Stat. 2219][/us/stat/116/2219]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8303, Dec. 17, 2004, [118 Stat. 3867][/us/stat/118/3867].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 8303(1)][/us/pl/108/458/s8303/1], reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall appoint in the Department an Officer for Civil Rights and Civil Liberties, who shall—”.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 8303(1), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall appoint in the Department an Officer for Civil Rights and Civil Liberties, who shall—”.
 
-    Subsec. (a)(1). [Pub. L. 108–458, § 8303(2)][/us/pl/108/458/s8303/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “review and assess information alleging abuses of civil rights, civil liberties, and racial and ethnic profiling by employees and officials of the Department; and”.
+    Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 8303(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “review and assess information alleging abuses of civil rights, civil liberties, and racial and ethnic profiling by employees and officials of the Department; and”.
 
-    Subsec. (a)(3) to (6). [Pub. L. 108–458, § 8303(3)][/us/pl/108/458/s8303/3], (4), added pars. (3) to (6).
+    Subsec. (a)(3) to (6). [Pub. L. 108–458][/us/pl/108/458], § 8303(3), (4), added pars. (3) to (6).
 
 ----------
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/107/296/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs705
+[/us/pl/107/296/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVII
 [/us/stat/116/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2219
-[/us/pl/108/458/s8303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8303
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3867
-[/us/pl/108/458/s8303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8303%2F1
-[/us/pl/108/458/s8303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8303%2F2
-[/us/pl/108/458/s8303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8303%2F3
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 
 

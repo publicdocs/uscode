@@ -23,7 +23,7 @@
 
         Not later than 180 days after October 13, 2006, the Secretary shall submit a report to the appropriate congressional committees that includes the schedule, if any, for carrying out subsection (a).
 
-([Pub. L. 109–347, title I, § 126][/us/pl/109/347/s126], Oct. 13, 2006, [120 Stat. 1900][/us/stat/120/1900].)
+([Pub. L. 109–347, title I][/us/pl/109/347/tI], § 126, Oct. 13, 2006, [120 Stat. 1900][/us/stat/120/1900].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs126
+[/us/pl/109/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtI
 [/us/stat/120/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1900
 
 

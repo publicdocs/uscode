@@ -83,7 +83,7 @@
 
         (5) the National Exercise, Test, and Training Center, Nevada Test Site.
 
-([Pub. L. 110–53, title XII, § 1204][/us/pl/110/53/s1204], Aug. 3, 2007, [121 Stat. 386][/us/stat/121/386].)
+([Pub. L. 110–53, title XII][/us/pl/110/53/tXII], § 1204, Aug. 3, 2007, [121 Stat. 386][/us/stat/121/386].)
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1204
+[/us/pl/110/53/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXII
 [/us/stat/121/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F386
 
 

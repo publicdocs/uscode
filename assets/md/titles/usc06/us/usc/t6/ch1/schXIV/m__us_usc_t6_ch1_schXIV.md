@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This subchapter is comprised of title XIX, formerly title XVIII, of [Pub. L. 107–296][/us/pl/107/296], as added by [Pub. L. 109–347, title V, § 501(a)][/us/pl/109/347/s501/a], Oct. 13, 2006, [120 Stat. 1932][/us/stat/120/1932], and renumbered title XIX by [Pub. L. 110–53, title I, § 104(a)(1)][/us/pl/110/53/s104/a/1], Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].
+    This subchapter is comprised of title XIX, formerly title XVIII, of [Pub. L. 107–296][/us/pl/107/296], as added by [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(a), Oct. 13, 2006, [120 Stat. 1932][/us/stat/120/1932], and renumbered title XIX by [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 104(a)(1), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294].
 
 ----------
 
@@ -27,9 +27,9 @@
 ----------
 
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/109/347/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fa
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1932
-[/us/pl/110/53/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs104%2Fa%2F1
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F294
 
 

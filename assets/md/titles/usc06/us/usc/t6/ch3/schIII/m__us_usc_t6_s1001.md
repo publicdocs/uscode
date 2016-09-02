@@ -17,7 +17,7 @@
 
     The Secretary of State shall designate a liaison office within the Department of State to assist the Secretary, as appropriate, in negotiating cargo security-related international agreements.
 
-([Pub. L. 109–347, title III, § 301(b)][/us/pl/109/347/s301/b], Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920].)
+([Pub. L. 109–347, title III][/us/pl/109/347/tIII], § 301(b), Oct. 13, 2006, [120 Stat. 1920][/us/stat/120/1920].)
 
  __Rule of Construction__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs301%2Fb
+[/us/pl/109/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIII
 [/us/stat/120/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1920
 [/us/usc/t6/s468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs468
 [/us/pl/109/347/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs301%2Fc

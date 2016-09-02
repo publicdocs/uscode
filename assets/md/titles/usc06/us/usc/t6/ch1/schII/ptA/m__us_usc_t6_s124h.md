@@ -229,11 +229,11 @@
 
         There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.
 
-([Pub. L. 107–296, title II, § 210A][/us/pl/107/296/s210A], as added [Pub. L. 110–53, title V, § 511(a)][/us/pl/110/53/s511/a], Aug. 3, 2007, [121 Stat. 317][/us/stat/121/317].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210A, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 511(a), Aug. 3, 2007, [121 Stat. 317][/us/stat/121/317].)
 
  __Training for Predeployed Officers and Analysts__ 
 
-[Pub. L. 110–53, title V, § 511(b)][/us/pl/110/53/s511/b], Aug. 3, 2007, [121 Stat. 323][/us/stat/121/323], provided that: 
+[Pub. L. 110–53, title V][/us/pl/110/53/tV], § 511(b), Aug. 3, 2007, [121 Stat. 323][/us/stat/121/323], provided that: 
 
 > “An officer or analyst assigned to a fusion center by the Secretary of Homeland Security before the date of the enactment of this Act \[Aug. 3, 2007\] shall undergo the training described in section 210A(c)(4)(A) of the Homeland Security Act of 2002 \[[6 U.S.C. 124h(c)(4)(A)][/us/usc/t6/s124h/c/4/A]\], as added by subsection (a), by not later than 6 months after such date.”
 
@@ -252,10 +252,10 @@
 [/us/usc/t6/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121%2Fd
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
-[/us/pl/107/296/s210A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210A
-[/us/pl/110/53/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs511%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F317
-[/us/pl/110/53/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs511%2Fb
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F323
 [/us/usc/t6/s124h/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124h%2Fc%2F4%2FA
 

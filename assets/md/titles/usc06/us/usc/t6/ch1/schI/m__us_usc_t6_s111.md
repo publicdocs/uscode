@@ -45,7 +45,7 @@
 
             Except as specifically provided by law with respect to entities transferred to the Department under this chapter, primary responsibility for investigating and prosecuting acts of terrorism shall be vested not in the Department, but rather in Federal, State, and local law enforcement agencies with jurisdiction over the acts in question.
 
-([Pub. L. 107–296, title I, § 101][/us/pl/107/296/s101], Nov. 25, 2002, [116 Stat. 2142][/us/stat/116/2142]; [Pub. L. 108–458, title VIII, § 8302][/us/pl/108/458/s8302], Dec. 17, 2004, [118 Stat. 3867][/us/stat/118/3867].)
+([Pub. L. 107–296, title I][/us/pl/107/296/tI], § 101, Nov. 25, 2002, [116 Stat. 2142][/us/stat/116/2142]; [Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8302, Dec. 17, 2004, [118 Stat. 3867][/us/stat/118/3867].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Transfer of Certain OPM Authority to Department of Homeland Security__ 
 
-[Pub. L. 109–295, title V, § 513][/us/pl/109/295/s513], Oct. 4, 2006, [120 Stat. 1378][/us/stat/120/1378], provided that: 
+[Pub. L. 109–295, title V][/us/pl/109/295/tV], § 513, Oct. 4, 2006, [120 Stat. 1378][/us/stat/120/1378], provided that: 
 
 > “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, Analysis and Operations, Immigration and Customs Enforcement, the Directorate for Preparedness, and the Directorate of Science and Technology of the Department of Homeland Security is transferred to the Department of Homeland Security: Provided, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section: Provided further, That this section shall cease to be effective at such time as the President has selected a single agency to conduct security clearance investigations pursuant to section 3001(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458]; [50 U.S.C. 435b][/us/usc/t50/s435b] \[now [50 U.S.C. 3341][/us/usc/t50/s3341]\]) and the entity selected pursuant to section 3001(b) of such Act has reported to Congress that the agency selected pursuant to such section 3001(c) is capable of conducting all necessary investigations in a timely manner or has authorized the entities within the Department of Homeland Security covered by this section to conduct their own investigations pursuant to section 3001 of such Act.”
 
@@ -65,9 +65,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 109–90, title V, § 516][/us/pl/109/90/s516], Oct. 18, 2005, [119 Stat. 2084][/us/stat/119/2084].
+    [Pub. L. 109–90, title V][/us/pl/109/90/tV], § 516, Oct. 18, 2005, [119 Stat. 2084][/us/stat/119/2084].
 
-    [Pub. L. 108–334, title V, § 518][/us/pl/108/334/s518], Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318].
+    [Pub. L. 108–334, title V][/us/pl/108/334/tV], § 518, Oct. 18, 2004, [118 Stat. 1318][/us/stat/118/1318].
 
  __Ex. Ord. No. 13286. Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security__ 
 
@@ -330,22 +330,22 @@ Those elements of the Department of Homeland Security that are supervised by the
 ----------
 ----------
 
-[/us/pl/107/296/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs101
+[/us/pl/107/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtI
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
-[/us/pl/108/458/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8302
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3867
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/109/295/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs513
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1378
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s435b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435b
 [/us/usc/t50/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341
-[/us/pl/109/90/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2Fs516
+[/us/pl/109/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2FtV
 [/us/stat/119/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2084
-[/us/pl/108/334/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2Fs518
+[/us/pl/108/334/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334%2FtV
 [/us/stat/118/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1318
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

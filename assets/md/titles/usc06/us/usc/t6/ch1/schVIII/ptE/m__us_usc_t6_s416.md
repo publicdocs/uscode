@@ -17,7 +17,7 @@
 
     None of the funds made available in this or any other Act for fiscal year 2013 and thereafter may be used to propose or effect a disciplinary or adverse action, with respect to any Department of Homeland Security employee who engages regularly with the public in the performance of his or her official duties solely because that employee elects to utilize protective equipment or measures, including but not limited to surgical masks, N95 respirators, gloves, or hand-sanitizers, where use of such equipment or measures is in accord with Department of Homeland Security policy, and Centers for Disease Control and Prevention and Office of Personnel Management guidance.
 
-([Pub. L. 113–6, div. D, title V, § 540][/us/pl/113/6/s540], Mar. 26, 2013, [127 Stat. 373][/us/stat/127/373].)
+([Pub. L. 113–6, div. D, title V][/us/pl/113/6/dD/tV], § 540, Mar. 26, 2013, [127 Stat. 373][/us/stat/127/373].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/6/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs540
+[/us/pl/113/6/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtV
 [/us/stat/127/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F373
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/stat/127/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F342

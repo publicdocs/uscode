@@ -17,7 +17,7 @@
 
     The Secretary of Homeland Security is the principal Federal official responsible for transportation security. The roles and responsibilities of the Department of Homeland Security and the Department of Transportation in carrying out this chapter are the roles and responsibilities of such Departments pursuant to the Aviation and Transportation Security Act ([Public Law 107–71][/us/pl/107/71]); the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458]); the National Infrastructure Protection Plan required by Homeland Security Presidential Directive–7; The  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  Homeland Security Act of 2002 \[[6 U.S.C. 101][/us/usc/t6/s101] et seq.\]; The  <sup>\[1\]</sup>  National Response Plan; Executive Order No. 13416: Strengthening Surface Transportation Security, dated December 5, 2006; the Memorandum of Understanding between the Department and the Department of Transportation on Roles and Responsibilities, dated September 28, 2004, and any and all subsequent annexes to this Memorandum of Understanding; and any other relevant agreements between the two Departments.
 
-([Pub. L. 110–53, title XIII, § 1310][/us/pl/110/53/s1310], Aug. 3, 2007, [121 Stat. 400][/us/stat/121/400].)
+([Pub. L. 110–53, title XIII][/us/pl/110/53/tXIII], § 1310, Aug. 3, 2007, [121 Stat. 400][/us/stat/121/400].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/110/53/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1310
+[/us/pl/110/53/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIII
 [/us/stat/121/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F400
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t18/s1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1992

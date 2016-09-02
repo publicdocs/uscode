@@ -75,7 +75,7 @@
 
         (9) Such other types of threat determined relevant by the Administrator.
 
-([Pub. L. 107–296, title XX, § 2007][/us/pl/107/296/s2007], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 282][/us/stat/121/282].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2007, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 282][/us/stat/121/282].)
 
 ----------
 
@@ -84,8 +84,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2007
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F282
 
 

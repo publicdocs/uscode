@@ -53,7 +53,7 @@
 
             (B) on a periodic basis after the submission of the report under paragraph (1), but not less than once every 5 years after the date of the submission of the report under paragraph (1).
 
-([Pub. L. 109–295, title VI, § 682][/us/pl/109/295/s682], Oct. 4, 2006, [120 Stat. 1445][/us/stat/120/1445].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 682, Oct. 4, 2006, [120 Stat. 1445][/us/stat/120/1445].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs682
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1445
 
 

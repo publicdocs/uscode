@@ -33,7 +33,7 @@
 
         (5) not, in issuing any advisory or warning, use color designations as the exclusive means of specifying homeland security threat conditions that are the subject of the advisory or warning.
 
-([Pub. L. 107–296, title II, § 203][/us/pl/107/296/s203], as added [Pub. L. 110–53, title V, § 501(a)(1)][/us/pl/110/53/s501/a/1], Aug. 3, 2007, [121 Stat. 306][/us/stat/121/306].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 203, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 501(a)(1), Aug. 3, 2007, [121 Stat. 306][/us/stat/121/306].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs203
-[/us/pl/110/53/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs501%2Fa%2F1
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F306
 
 

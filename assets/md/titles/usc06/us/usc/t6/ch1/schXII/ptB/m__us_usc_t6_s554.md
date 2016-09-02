@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to authorize the development of a national identification system or card.
 
-([Pub. L. 107–296, title XV, § 1514][/us/pl/107/296/s1514], Nov. 25, 2002, [116 Stat. 2311][/us/stat/116/2311].)
+([Pub. L. 107–296, title XV][/us/pl/107/296/tXV], § 1514, Nov. 25, 2002, [116 Stat. 2311][/us/stat/116/2311].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1514
+[/us/pl/107/296/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXV
 [/us/stat/116/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2311
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

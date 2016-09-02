@@ -65,7 +65,7 @@
 
             The term “inspection” means the comprehensive process used by Customs and Border Protection to assess goods entering the United States to appraise them for duty purposes, to detect the presence of restricted or prohibited items, and to ensure compliance with all applicable laws.
 
-([Pub. L. 110–53, title XV, § 1524][/us/pl/110/53/s1524], Aug. 3, 2007, [121 Stat. 451][/us/stat/121/451].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1524, Aug. 3, 2007, [121 Stat. 451][/us/stat/121/451].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1524
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F451
 
 

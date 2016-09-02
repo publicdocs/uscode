@@ -21,7 +21,7 @@
 
     (2) to provide whistleblower protections for employees of the Department (including pursuant to the provisions in section 2302(b)(8) and (9) of such title and the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002).
 
-([Pub. L. 107–296, title VIII, § 883][/us/pl/107/296/s883], Nov. 25, 2002, [116 Stat. 2247][/us/stat/116/2247].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 883, Nov. 25, 2002, [116 Stat. 2247][/us/stat/116/2247].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t5/s2302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F1
 [/us/pl/107/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F174
-[/us/pl/107/296/s883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs883
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2247
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

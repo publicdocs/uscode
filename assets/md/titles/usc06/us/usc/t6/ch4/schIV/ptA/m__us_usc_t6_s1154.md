@@ -17,7 +17,7 @@
 
     Not later than 180 days after August 3, 2007, the Secretary shall develop a national plan for railroad and over-the-road bus security public outreach and awareness. Such a plan shall be designed to increase awareness of measures that the general public, passengers, and employees of railroad carriers and over-the-road bus operators can take to increase the security of the national railroad and over-the-road bus transportation systems. Such a plan shall also provide outreach to railroad carriers and over-the-road bus operators and their employees to improve their awareness of available technologies, ongoing research and development efforts, and available Federal funding sources to improve security. Not later than 9 months after August 3, 2007, the Secretary shall implement the plan developed under this section.
 
-([Pub. L. 110–53, title XV, § 1504][/us/pl/110/53/s1504], Aug. 3, 2007, [121 Stat. 425][/us/stat/121/425].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1504, Aug. 3, 2007, [121 Stat. 425][/us/stat/121/425].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1504
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F425
 
 

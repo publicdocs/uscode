@@ -51,7 +51,7 @@
 
         (10) set a date, including interim benchmarks, as appropriate, by which State, local, and tribal governments, Federal departments and agencies, and emergency response providers expect to achieve a baseline level of national interoperable communications, as that term is defined under [section 194(g)(1) of this title][/us/usc/t6/s194/g/1].
 
-([Pub. L. 107–296, title XVIII, § 1802][/us/pl/107/296/s1802], as added [Pub. L. 109–295, title VI, § 671(b)][/us/pl/109/295/s671/b], Oct. 4, 2006, [120 Stat. 1435][/us/stat/120/1435]; amended [Pub. L. 110–53, title III, § 301(d)][/us/pl/110/53/s301/d], Aug. 3, 2007, [121 Stat. 300][/us/stat/121/300].)
+([Pub. L. 107–296, title XVIII][/us/pl/107/296/tXVIII], § 1802, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 671(b), Oct. 4, 2006, [120 Stat. 1435][/us/stat/120/1435]; amended [Pub. L. 110–53, title III][/us/pl/110/53/tIII], § 301(d), Aug. 3, 2007, [121 Stat. 300][/us/stat/121/300].)
 
  __Codification__ 
 
@@ -71,10 +71,10 @@
 [/us/usc/t6/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs573
 [/us/usc/t6/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs576
 [/us/usc/t6/s194/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Fg%2F1
-[/us/pl/107/296/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1802
-[/us/pl/109/295/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs671%2Fb
+[/us/pl/107/296/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1435
-[/us/pl/110/53/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs301%2Fd
+[/us/pl/110/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIII
 [/us/stat/121/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F300
 [/us/pl/107/296/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1802
 [/us/usc/t6/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs592

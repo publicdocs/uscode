@@ -43,7 +43,7 @@
 
         Subclause (II) of [section 637(a)(1)(D)(i) of title 15][/us/usc/t15/s637/a/1/D/i] and clause (ii) of [section 657a(b)(2)(A) of title 15][/us/usc/t15/s657a/b/2/A] shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) for a procurement referred to in [section 422 of this title][/us/usc/t6/s422].
 
-([Pub. L. 107–296, title VIII, § 856][/us/pl/107/296/s856], Nov. 25, 2002, [116 Stat. 2237][/us/stat/116/2237].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 856, Nov. 25, 2002, [116 Stat. 2237][/us/stat/116/2237].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “division C of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1), “division C of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(1)(A), “Paragraphs (1), (2), (6), and (7) of subsection (a) of [section 3304 of title 41][/us/usc/t41/s3304], relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section).” substituted for “Paragraphs (1), (2), (6), and (7) of subsection (c) of section 303 ([41 U.S.C. 253][/us/usc/t41/s253]), relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section).” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1)(A), “Paragraphs (1), (2), (6), and (7) of subsection (a) of [section 3304 of title 41][/us/usc/t41/s3304], relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section).” substituted for “Paragraphs (1), (2), (6), and (7) of subsection (c) of section 303 ([41 U.S.C. 253][/us/usc/t41/s253]), relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section).” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(1)(B), “[Section 4106 of title 41][/us/usc/t41/s4106]” substituted for “Section 303J ([41 U.S.C. 253j][/us/usc/t41/s253j])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1)(B), “[Section 4106 of title 41][/us/usc/t41/s4106]” substituted for “Section 303J ([41 U.S.C. 253j][/us/usc/t41/s253j])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(3), “Paragraphs (1)(B), (1)(D), and (2)(A) of [section 1708(b) of title 41][/us/usc/t41/s1708/b]” substituted for “Paragraphs (1)(B), (1)(D), and (2) of section 18(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 416(c)][/us/usc/t41/s416/c])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(3), “Paragraphs (1)(B), (1)(D), and (2)(A) of [section 1708(b) of title 41][/us/usc/t41/s1708/b]” substituted for “Paragraphs (1)(B), (1)(D), and (2) of section 18(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 416(c)][/us/usc/t41/s416/c])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 ----------
 
@@ -75,7 +75,7 @@
 [/us/usc/t15/s637/a/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa%2F1%2FD%2Fi
 [/us/usc/t15/s657a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a%2Fb%2F2%2FA
 [/us/usc/t6/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs422
-[/us/pl/107/296/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs856
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2237
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377
@@ -89,19 +89,19 @@
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304
 [/us/usc/t41/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106
 [/us/usc/t41/s253j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253j
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708%2Fb
 [/us/usc/t41/s416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416%2Fc
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

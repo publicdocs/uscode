@@ -51,7 +51,7 @@
 
         It is the sense of Congress that Federal, State, and local entities should share homeland security information to the maximum extent practicable, with special emphasis on hard-to-reach urban and rural communities.
 
-([Pub. L. 107–296, title VIII, § 891][/us/pl/107/296/s891], Nov. 25, 2002, [116 Stat. 2252][/us/stat/116/2252].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 891, Nov. 25, 2002, [116 Stat. 2252][/us/stat/116/2252].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Reports to Congress__ 
 
-[Pub. L. 110–28, title III][/us/pl/110/28], May 25, 2007, [121 Stat. 139][/us/stat/121/139], provided in part: 
+[Pub. L. 110–28, title III][/us/pl/110/28/tIII], May 25, 2007, [121 Stat. 139][/us/stat/121/139], provided in part: 
 
 > “That starting July 1, 2007, the Secretary of Homeland Security shall submit quarterly reports to the Committees on Appropriations of the Senate and the House of Representatives detailing the information required in House Report 110–107.”
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/107/296/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs891
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2252
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2252
 [/us/usc/t18/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2517
 [/us/usc/t18/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2517
-[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtIII
 [/us/stat/121/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F139
 
 

@@ -47,11 +47,11 @@
 
         The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
 
-([Pub. L. 114–113, div. N, title II, § 224][/us/pl/114/113/s224], Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967].)
+([Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 224, Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967].)
 
  __Codification__ 
 
-    Section is comprised of [section 224 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/s224]. Subsec. (e) of [section 224 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/s224] amended [section 3553 of Title 44][/us/usc/t44/s3553], Public Printing and Documents.
+    Section is comprised of [section 224 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/dN/tII/s224]. Subsec. (e) of [section 224 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/dN/tII/s224] amended [section 3553 of Title 44][/us/usc/t44/s3553], Public Printing and Documents.
 
 ----------
 
@@ -61,10 +61,10 @@
 ----------
 
 [/us/usc/t44/s3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554
-[/us/pl/114/113/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs224
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2967
-[/us/pl/114/113/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs224
-[/us/pl/114/113/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs224
+[/us/pl/114/113/dN/tII/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII%2Fs224
+[/us/pl/114/113/dN/tII/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII%2Fs224
 [/us/usc/t44/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3553
 
 

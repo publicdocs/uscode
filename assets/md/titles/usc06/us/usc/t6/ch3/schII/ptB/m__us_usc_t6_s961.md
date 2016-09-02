@@ -23,7 +23,7 @@
 
         The Secretary, acting through the Commissioner, shall review the minimum security requirements of C–TPAT at least once every year and update such requirements as necessary.
 
-([Pub. L. 109–347, title II, § 211][/us/pl/109/347/s211], Oct. 13, 2006, [120 Stat. 1909][/us/stat/120/1909].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 211, Oct. 13, 2006, [120 Stat. 1909][/us/stat/120/1909].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs211
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1909
 
 

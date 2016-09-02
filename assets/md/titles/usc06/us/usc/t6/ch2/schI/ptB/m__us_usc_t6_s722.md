@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated to carry out the system for fiscal year 2008, an amount equal to the amount appropriated for the system for fiscal year 2007 and an additional $20,000,000.
 
-([Pub. L. 109–295, title VI, § 634][/us/pl/109/295/s634], Oct. 4, 2006, [120 Stat. 1421][/us/stat/120/1421].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 634, Oct. 4, 2006, [120 Stat. 1421][/us/stat/120/1421].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs634
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1421
 
 

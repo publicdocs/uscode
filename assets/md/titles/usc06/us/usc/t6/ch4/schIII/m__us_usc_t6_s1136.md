@@ -73,7 +73,7 @@
 
         This section does not apply to any ferry system for which drills are required to be conducted pursuant to [section 70103 of title 46][/us/usc/t46/s70103].
 
-([Pub. L. 110–53, title XIV, § 1407][/us/pl/110/53/s1407], Aug. 3, 2007, [121 Stat. 408][/us/stat/121/408].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1407, Aug. 3, 2007, [121 Stat. 408][/us/stat/121/408].)
 
 ----------
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t6/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs748
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
-[/us/pl/110/53/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1407
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F408
 
 

@@ -47,7 +47,7 @@
 
             The Secretary may submit the report in both classified and redacted formats if the Secretary determines that such action is appropriate or necessary.
 
-([Pub. L. 110–53, title XV, § 1558][/us/pl/110/53/s1558], Aug. 3, 2007, [121 Stat. 476][/us/stat/121/476].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1558, Aug. 3, 2007, [121 Stat. 476][/us/stat/121/476].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t6/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1207
-[/us/pl/110/53/s1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1558
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F476
 
 

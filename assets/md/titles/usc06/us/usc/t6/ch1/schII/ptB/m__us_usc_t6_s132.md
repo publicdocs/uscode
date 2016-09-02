@@ -21,7 +21,7 @@
 
     (2) The Secretary of Homeland Security.
 
-([Pub. L. 107–296, title II, § 213][/us/pl/107/296/s213], Nov. 25, 2002, [116 Stat. 2152][/us/stat/116/2152].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 213, Nov. 25, 2002, [116 Stat. 2152][/us/stat/116/2152].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs213
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2152
 
 

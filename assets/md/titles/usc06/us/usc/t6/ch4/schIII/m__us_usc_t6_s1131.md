@@ -41,7 +41,7 @@
 
         The term “Secretary” means the Secretary of Homeland Security.
 
-([Pub. L. 110–53, title XIV, § 1402][/us/pl/110/53/s1402], Aug. 3, 2007, [121 Stat. 400][/us/stat/121/400].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1402, Aug. 3, 2007, [121 Stat. 400][/us/stat/121/400].)
 
  __Short Title__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t6/s1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1137
-[/us/pl/110/53/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1402
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F400
 [/us/pl/110/53/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1401
 [/us/usc/t6/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1101

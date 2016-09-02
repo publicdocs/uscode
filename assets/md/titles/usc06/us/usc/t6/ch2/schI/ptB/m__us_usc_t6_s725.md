@@ -23,7 +23,7 @@
 
         The Administrator shall notify State, local, and tribal officials in an area in which a location for the prepositioned equipment program will be closed not later than 60 days before the date of such closure.
 
-([Pub. L. 109–295, title VI, § 637][/us/pl/109/295/s637], Oct. 4, 2006, [120 Stat. 1422][/us/stat/120/1422].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 637, Oct. 4, 2006, [120 Stat. 1422][/us/stat/120/1422].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs637
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1422
 
 

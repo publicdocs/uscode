@@ -41,7 +41,7 @@
 
         The Secretary may issue such regulations, after notice and comment in accordance with [section 553 of title 5][/us/usc/t5/s553], as may be necessary to carry out this part.
 
-([Pub. L. 107–296, title VIII, § 862][/us/pl/107/296/s862], Nov. 25, 2002, [116 Stat. 2238][/us/stat/116/2238].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 862, Nov. 25, 2002, [116 Stat. 2238][/us/stat/116/2238].)
 
  __Short Title__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/107/296/s862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs862
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2238
 [/us/pl/107/296/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs861
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

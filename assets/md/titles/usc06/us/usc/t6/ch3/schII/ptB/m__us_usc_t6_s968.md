@@ -99,7 +99,7 @@
 
         (5) any recommendations by the Secretary based upon the results of the pilot program.
 
-([Pub. L. 109–347, title II, § 218][/us/pl/109/347/s218], Oct. 13, 2006, [120 Stat. 1912][/us/stat/120/1912].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 218, Oct. 13, 2006, [120 Stat. 1912][/us/stat/120/1912].)
 
  __References in Text__ 
 
@@ -112,7 +112,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs218
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1912
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1884

@@ -89,7 +89,7 @@
 
         The term “Amtrak” means the National Railroad Passenger Corporation.
 
-([Pub. L. 110–53, title XV, § 1501][/us/pl/110/53/s1501], Aug. 3, 2007, [121 Stat. 422][/us/stat/121/422].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1501, Aug. 3, 2007, [121 Stat. 422][/us/stat/121/422].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/110/53/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1501
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F422
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/stat/121/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F422

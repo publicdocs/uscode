@@ -17,7 +17,7 @@
 
     Nothing in this chapter, or the amendments made by this chapter, affects the authority of the National Institute of Standards and Technology or the Department of Commerce relating to the development and promulgation of standards or guidelines under paragraphs (1) and (2) of [section 278g–3(a) of title 15][/us/usc/t15/s278g–3/a].
 
-([Pub. L. 107–296, title X, § 1006][/us/pl/107/296/s1006], Nov. 25, 2002, [116 Stat. 2273][/us/stat/116/2273].)
+([Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1006, Nov. 25, 2002, [116 Stat. 2273][/us/stat/116/2273].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s278g–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933%2Fa
-[/us/pl/107/296/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1006
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2273
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

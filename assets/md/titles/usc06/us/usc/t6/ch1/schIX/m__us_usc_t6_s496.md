@@ -17,7 +17,7 @@
 
     The President may convene joint meetings of the Homeland Security Council and the National Security Council with participation by members of either Council or as the President may otherwise direct.
 
-([Pub. L. 107–296, title IX, § 906][/us/pl/107/296/s906], Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259].)
+([Pub. L. 107–296, title IX][/us/pl/107/296/tIX], § 906, Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs906
+[/us/pl/107/296/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIX
 [/us/stat/116/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2259
 
 

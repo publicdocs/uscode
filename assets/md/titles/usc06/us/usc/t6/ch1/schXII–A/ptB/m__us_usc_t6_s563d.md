@@ -35,7 +35,7 @@
 
     (3) a status report on the implementation of the action plan that was developed in the preceding fiscal year in accordance with paragraph (2)(B), if such a plan was required.
 
-([Pub. L. 107–296, title XVI, § 1615][/us/pl/107/296/s1615], as added [Pub. L. 113–245, § 3(a)][/us/pl/113/245/s3/a], Dec. 18, 2014, [128 Stat. 2876][/us/stat/128/2876].)
+([Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1615, as added [Pub. L. 113–245][/us/pl/113/245], § 3(a), Dec. 18, 2014, [128 Stat. 2876][/us/stat/128/2876].)
 
 ----------
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1615
-[/us/pl/113/245/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fa
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2876
 
 

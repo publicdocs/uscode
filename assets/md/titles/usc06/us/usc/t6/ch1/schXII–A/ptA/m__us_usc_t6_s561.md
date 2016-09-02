@@ -33,7 +33,7 @@
 
         The term “security-related technology” means any technology that assists the Administration in the prevention of, or defense against, threats to United States transportation systems, including threats to people, property, and information.
 
-([Pub. L. 107–296, title XVI, § 1601][/us/pl/107/296/s1601], as added [Pub. L. 113–245, § 3(a)][/us/pl/113/245/s3/a], Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871].)
+([Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1601, as added [Pub. L. 113–245][/us/pl/113/245], § 3(a), Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871].)
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 
  __Findings__ 
 
-[Pub. L. 113–245, § 2][/us/pl/113/245/s2], Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871], provided that: 
+[Pub. L. 113–245][/us/pl/113/245], § 2, Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871], provided that: 
 
 > “Congress finds the following:
 
@@ -53,7 +53,7 @@
 
  __Prior Amendments Not Affected__ 
 
-[Pub. L. 113–245, § 3(c)][/us/pl/113/245/s3/c], Dec. 18, 2014, [128 Stat. 2877][/us/stat/128/2877], provided that: 
+[Pub. L. 113–245][/us/pl/113/245], § 3(c), Dec. 18, 2014, [128 Stat. 2877][/us/stat/128/2877], provided that: 
 
 > “Nothing in this section \[enacting this subchapter\] may be construed to affect any amendment made by title XVI of the Homeland Security Act of 2002 \[title XVI of [Pub. L. 107–296][/us/pl/107/296], amending sections 114, 40119, 44935 and 46301 of Title 49, Transportation\] as in effect before the date of enactment of this Act \[Dec. 18, 2014\].”
 
@@ -65,15 +65,15 @@
 ----------
 
 [/us/usc/t6/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs563
-[/us/pl/107/296/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1601
-[/us/pl/113/245/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fa
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2871
 [/us/pl/107/296/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1601
 [/us/stat/116/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2312
 [/us/pl/113/245/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fc
-[/us/pl/113/245/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs2
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2871
-[/us/pl/113/245/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fc
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2877
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 

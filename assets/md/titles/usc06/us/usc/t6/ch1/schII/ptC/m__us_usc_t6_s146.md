@@ -85,7 +85,7 @@
 
         (2) the progress of the Secretary in carrying out the comprehensive workforce strategy required to be developed under subsection (b).
 
-([Pub. L. 113–246, § 3][/us/pl/113/246/s3], Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880].)
+([Pub. L. 113–246][/us/pl/113/246], § 3, Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880].)
 
  __Codification__ 
 
@@ -93,7 +93,7 @@
 
  __Homeland Security Cybersecurity Workforce Assessment__ 
 
-[Pub. L. 113–277, § 4][/us/pl/113/277/s4], Dec. 18, 2014, [128 Stat. 3008][/us/stat/128/3008], provided that:
+[Pub. L. 113–277][/us/pl/113/277], § 4, Dec. 18, 2014, [128 Stat. 3008][/us/stat/128/3008], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -205,7 +205,7 @@
 
  __Definitions__ 
 
-[Pub. L. 113–246, § 2][/us/pl/113/246/s2], Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880], provided that: 
+[Pub. L. 113–246][/us/pl/113/246], § 2, Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880], provided that: 
 
 > “In this Act \[enacting this section and provisions set out as a note under [section 101 of this title][/us/usc/t6/s101]\]—
 
@@ -224,11 +224,11 @@
 ----------
 ----------
 
-[/us/pl/113/246/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246%2Fs3
+[/us/pl/113/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246
 [/us/stat/128/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2880
-[/us/pl/113/277/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs4
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/stat/128/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3008
-[/us/pl/113/246/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246%2Fs2
+[/us/pl/113/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246
 [/us/stat/128/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2880
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 

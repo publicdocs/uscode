@@ -23,7 +23,7 @@
 
         Nothing in this section prevents or preempts a State from conducting a criminal records check of an individual that has applied for a license to operate a motor vehicle transporting in commerce a hazardous material.
 
-([Pub. L. 110–53, title XV, § 1556(b)][/us/pl/110/53/s1556/b], Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1556(b), Aug. 3, 2007, [121 Stat. 475][/us/stat/121/475].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t46/s70105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70105
 [/us/usc/t49/s5103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103a
-[/us/pl/110/53/s1556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1556%2Fb
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F475
 
 

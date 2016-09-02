@@ -53,7 +53,7 @@
 
             (B) shall immediately notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives of the known or suspected imminent threat.
 
-([Pub. L. 107–296, title XVI, § 1612][/us/pl/107/296/s1612], as added [Pub. L. 113–245, § 3(a)][/us/pl/113/245/s3/a], Dec. 18, 2014, [128 Stat. 2873][/us/stat/128/2873].)
+([Pub. L. 107–296, title XVI][/us/pl/107/296/tXVI], § 1612, as added [Pub. L. 113–245][/us/pl/113/245], § 3(a), Dec. 18, 2014, [128 Stat. 2873][/us/stat/128/2873].)
 
 ----------
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1612
-[/us/pl/113/245/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs3%2Fa
+[/us/pl/107/296/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVI
+[/us/pl/113/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245
 [/us/stat/128/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2873
 
 

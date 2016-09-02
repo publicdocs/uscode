@@ -21,7 +21,7 @@
 
     (2) The term “transition period” means the 12-month period beginning on the effective date of this chapter.
 
-([Pub. L. 107–296, title XV, § 1501][/us/pl/107/296/s1501], Nov. 25, 2002, [116 Stat. 2307][/us/stat/116/2307].)
+([Pub. L. 107–296, title XV][/us/pl/107/296/tXV], § 1501, Nov. 25, 2002, [116 Stat. 2307][/us/stat/116/2307].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1501
+[/us/pl/107/296/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXV
 [/us/stat/116/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2307
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

@@ -157,7 +157,7 @@
 
         Nothing in this chapter shall be construed as authorizing any department, bureau, agency, officer, or employee of the Federal Government to request, receive, or transmit to any other Government entity or personnel, or transmit to any State or local entity or personnel otherwise authorized by this chapter to receive homeland security information, any information collected by the Federal Government solely for statistical purposes in violation of any other provision of law relating to the confidentiality of such information.
 
-([Pub. L. 107–296, title VIII, § 892][/us/pl/107/296/s892], Nov. 25, 2002, [116 Stat. 2253][/us/stat/116/2253]; [Pub. L. 108–177, title III, § 316(a)][/us/pl/108/177/s316/a], Dec. 13, 2003, [117 Stat. 2610][/us/stat/117/2610].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 892, Nov. 25, 2002, [116 Stat. 2253][/us/stat/116/2253]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 316(a), Dec. 13, 2003, [117 Stat. 2610][/us/stat/117/2610].)
 
  __References in Text__ 
 
@@ -211,9 +211,9 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/107/296/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs892
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2253
-[/us/pl/108/177/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs316%2Fa
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2610
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

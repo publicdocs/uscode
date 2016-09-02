@@ -33,7 +33,7 @@
 
         In this section, the term “customs revenue services” means those customs revenue functions described in paragraphs (1) through (6) and paragraph (8) of [section 215 of this title][/us/usc/t6/s215].
 
-([Pub. L. 107–296, title IV, § 417][/us/pl/107/296/s417], Nov. 25, 2002, [116 Stat. 2181][/us/stat/116/2181].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 417, Nov. 25, 2002, [116 Stat. 2181][/us/stat/116/2181].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t6/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs215
-[/us/pl/107/296/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs417
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2181
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

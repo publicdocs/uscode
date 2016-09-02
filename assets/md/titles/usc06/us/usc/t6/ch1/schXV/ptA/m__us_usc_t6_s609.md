@@ -127,7 +127,7 @@
 
         If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under [section 747 of this title][/us/usc/t6/s747], the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
 
-([Pub. L. 107–296, title XX, § 2008][/us/pl/107/296/s2008], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 283][/us/stat/121/283]; amended [Pub. L. 110–412, § 2][/us/pl/110/412/s2], Oct. 14, 2008, [122 Stat. 4336][/us/stat/122/4336]; [Pub. L. 114–113, div. M, title VII, § 711][/us/pl/114/113/s711], Dec. 18, 2015, [129 Stat. 2934][/us/stat/129/2934].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2008, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 283][/us/stat/121/283]; amended [Pub. L. 110–412][/us/pl/110/412], § 2, Oct. 14, 2008, [122 Stat. 4336][/us/stat/122/4336]; [Pub. L. 114–113, div. M, title VII][/us/pl/114/113/dM/tVII], § 711, Dec. 18, 2015, [129 Stat. 2934][/us/stat/129/2934].)
 
  __References in Text__ 
 
@@ -137,11 +137,11 @@
 
     2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113] inserted “including by working in conjunction with a National Laboratory (as defined in [section 15801(3) of title 42][/us/usc/t42/s15801/3]),” after “plans,” in introductory provisions.
 
-    2008—Subsec. (a). [Pub. L. 110–412, § 2(1)(A)][/us/pl/110/412/s2/1/A], substituted “The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds” for “Grants awarded under section 604 or 605 of this title may be used” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–412][/us/pl/110/412], § 2(1)(A), substituted “The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds” for “Grants awarded under section 604 or 605 of this title may be used” in introductory provisions.
 
-    Subsec. (a)(10). [Pub. L. 110–412, § 2(1)(B)][/us/pl/110/412/s2/1/B], inserted “, regardless of whether such analysts are current or new full-time employees or contract employees” after “analysts”.
+    Subsec. (a)(10). [Pub. L. 110–412][/us/pl/110/412], § 2(1)(B), inserted “, regardless of whether such analysts are current or new full-time employees or contract employees” after “analysts”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 110–412, § 2(2)][/us/pl/110/412/s2/2], added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (b)(3) to (5). [Pub. L. 110–412][/us/pl/110/412], § 2(2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 ----------
 
@@ -157,20 +157,20 @@
 [/us/usc/t42/s5196/j/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5196%2Fj%2F9
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t6/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs747
-[/us/pl/107/296/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2008
-[/us/pl/110/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs101
+[/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F283
-[/us/pl/110/412/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412%2Fs2
+[/us/pl/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412
 [/us/stat/122/4336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4336
-[/us/pl/114/113/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs711
+[/us/pl/114/113/dM/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtVII
 [/us/stat/129/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2934
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t42/s15801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801%2F3
-[/us/pl/110/412/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412%2Fs2%2F1%2FA
-[/us/pl/110/412/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412%2Fs2%2F1%2FB
-[/us/pl/110/412/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412%2Fs2%2F2
+[/us/pl/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412
+[/us/pl/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412
+[/us/pl/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412
 
 

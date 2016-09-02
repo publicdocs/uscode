@@ -91,7 +91,7 @@
 
             (B) on a periodic basis after the submission of the report under paragraph (1), but not less than once every 5 years after the date of the submission of the report under paragraph (1).
 
-([Pub. L. 109–295, title VI, § 683][/us/pl/109/295/s683], Oct. 4, 2006, [120 Stat. 1446][/us/stat/120/1446].)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 683, Oct. 4, 2006, [120 Stat. 1446][/us/stat/120/1446].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/109/295/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs683
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1446
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

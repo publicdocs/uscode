@@ -41,7 +41,7 @@
 
             The Secretary may charge reasonable fees under subsection (a) for providing credentialing and background investigations for aliens in connection with the process for recurrent training established under paragraph (1). Such fees shall be promulgated by notice in the Federal Register.
 
-([Pub. L. 108–90, title V, § 520][/us/pl/108/90/s520], Oct. 1, 2003, [117 Stat. 1156][/us/stat/117/1156]; [Pub. L. 110–329, div. D, title V, § 543][/us/pl/110/329/s543], Sept. 30, 2008, [122 Stat. 3689][/us/stat/122/3689].)
+([Pub. L. 108–90, title V][/us/pl/108/90/tV], § 520, Oct. 1, 2003, [117 Stat. 1156][/us/stat/117/1156]; [Pub. L. 110–329, div. D, title V][/us/pl/110/329/dD/tV], § 543, Sept. 30, 2008, [122 Stat. 3689][/us/stat/122/3689].)
 
  __Codification__ 
 
@@ -60,9 +60,9 @@
 
 [/us/usc/t49/s44939/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44939%2Fe
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
-[/us/pl/108/90/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2Fs520
+[/us/pl/108/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2FtV
 [/us/stat/117/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1156
-[/us/pl/110/329/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs543
+[/us/pl/110/329/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdD%2FtV
 [/us/stat/122/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3689
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 

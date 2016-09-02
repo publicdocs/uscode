@@ -23,7 +23,7 @@
 
         It is the sense of Congress that the Secretary should model the Joint Interagency Homeland Security Task Force on the approach taken by the Joint Interagency Task Forces for drug interdiction at Key West, Florida and Alameda, California, to the maximum extent feasible and appropriate.
 
-([Pub. L. 107–296, title VIII, § 885][/us/pl/107/296/s885], Nov. 25, 2002, [116 Stat. 2247][/us/stat/116/2247].)
+([Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 885, Nov. 25, 2002, [116 Stat. 2247][/us/stat/116/2247].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs885
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2247
 
 

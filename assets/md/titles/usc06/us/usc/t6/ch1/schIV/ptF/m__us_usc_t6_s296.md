@@ -31,7 +31,7 @@
 
         No fee may be transferred between the Bureau of Citizenship and Immigration Services and the Bureau of Border Security for purposes not authorized by [section 1356 of title 8][/us/usc/t8/s1356].
 
-([Pub. L. 107–296, title IV, § 476][/us/pl/107/296/s476], Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 476, Nov. 25, 2002, [116 Stat. 2209][/us/stat/116/2209].)
 
  __Change of Name__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t8/s1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356
-[/us/pl/107/296/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs476
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2209
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

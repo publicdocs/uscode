@@ -85,11 +85,11 @@
 
         This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009.
 
-([Pub. L. 111–5, div. A, title VI, § 604][/us/pl/111/5/s604], Feb. 17, 2009, [123 Stat. 165][/us/stat/123/165].)
+([Pub. L. 111–5, div. A, title VI][/us/pl/111/5/dA/tVI], § 604, Feb. 17, 2009, [123 Stat. 165][/us/stat/123/165].)
 
  __Codification__ 
 
-    In subsec. (g), “[section 1906 of title 41][/us/usc/t41/s1906]” substituted for “section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g), “[section 1906 of title 41][/us/usc/t41/s1906]” substituted for “section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
@@ -102,11 +102,11 @@
 
 [/us/usc/t10/s2304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
-[/us/pl/111/5/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs604
+[/us/pl/111/5/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtVI
 [/us/stat/123/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F165
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
 [/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

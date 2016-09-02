@@ -77,11 +77,11 @@
 
         (3) $37,485,000 for fiscal year 2010.
 
-([Pub. L. 109–347, title II, § 203][/us/pl/109/347/s203], Oct. 13, 2006, [120 Stat. 1904][/us/stat/120/1904].)
+([Pub. L. 109–347, title II][/us/pl/109/347/tII], § 203, Oct. 13, 2006, [120 Stat. 1904][/us/stat/120/1904].)
 
  __References in Text__ 
 
-    Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is [section 343(a) of title III of div. A of Pub. L. 107–210][/us/pl/107/210/s343/a], which is set out as a note under [section 2071 of Title 19][/us/usc/t19/s2071], Customs Duties.
+    Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is [section 343(a) of title III of div. A of Pub. L. 107–210][/us/pl/107/210/dA/tIII/s343/a], which is set out as a note under [section 2071 of Title 19][/us/usc/t19/s2071], Customs Duties.
 
 ----------
 
@@ -91,9 +91,9 @@
 ----------
 
 [/us/usc/t19/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2071
-[/us/pl/109/347/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs203
+[/us/pl/109/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtII
 [/us/stat/120/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1904
-[/us/pl/107/210/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs343%2Fa
+[/us/pl/107/210/dA/tIII/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII%2Fs343%2Fa
 [/us/usc/t19/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2071
 
 

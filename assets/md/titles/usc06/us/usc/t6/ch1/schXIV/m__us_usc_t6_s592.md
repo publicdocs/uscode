@@ -143,7 +143,7 @@
 
             The term “Tribal College or University” has the meaning given that term in [section 1059c(b) of title 20][/us/usc/t20/s1059c/b].
 
-([Pub. L. 107–296, title XIX, § 1902][/us/pl/107/296/s1902], formerly title XVIII, § 1802, as added [Pub. L. 109–347, title V, § 501(a)][/us/pl/109/347/s501/a], Oct. 13, 2006, [120 Stat. 1932][/us/stat/120/1932]; renumbered title XIX, § 1902, [Pub. L. 110–53, title I, § 104(a)(1)][/us/pl/110/53/s104/a/1], (2), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294]; amended [Pub. L. 111–140, § 4(a)][/us/pl/111/140/s4/a], Feb. 16, 2010, [124 Stat. 32][/us/stat/124/32].)
+([Pub. L. 107–296, title XIX][/us/pl/107/296/tXIX], § 1902, formerly title XVIII, § 1802, as added [Pub. L. 109–347, title V][/us/pl/109/347/tV], § 501(a), Oct. 13, 2006, [120 Stat. 1932][/us/stat/120/1932]; renumbered title XIX, § 1902, [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 104(a)(1), (2), Aug. 3, 2007, [121 Stat. 294][/us/stat/121/294]; amended [Pub. L. 111–140][/us/pl/111/140], § 4(a), Feb. 16, 2010, [124 Stat. 32][/us/stat/124/32].)
 
  __References in Text__ 
 
@@ -151,13 +151,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(10) to (14). [Pub. L. 111–140, § 4(a)(1)][/us/pl/111/140/s4/a/1], added pars. (10) to (13) and redesignated former par. (10) as (14).
+    2010—Subsec. (a)(10) to (14). [Pub. L. 111–140][/us/pl/111/140], § 4(a)(1), added pars. (10) to (13) and redesignated former par. (10) as (14).
 
-    Subsec. (b). [Pub. L. 111–140, § 4(a)(2)][/us/pl/111/140/s4/a/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 111–140][/us/pl/111/140], § 4(a)(2), added subsec. (b).
 
  __Findings__ 
 
-[Pub. L. 111–140, § 2][/us/pl/111/140/s2], Feb. 16, 2010, [124 Stat. 31][/us/stat/124/31], provided that: 
+[Pub. L. 111–140][/us/pl/111/140], § 2, Feb. 16, 2010, [124 Stat. 31][/us/stat/124/31], provided that: 
 
 > “Congress finds the following:
 
@@ -192,18 +192,18 @@
 [/us/usc/t20/s1101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2
 [/us/usc/t20/s1059c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c%2Fb
-[/us/pl/107/296/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1902
-[/us/pl/109/347/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs501%2Fa
+[/us/pl/107/296/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIX
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1932
-[/us/pl/110/53/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs104%2Fa%2F1
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F294
-[/us/pl/111/140/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140%2Fs4%2Fa
+[/us/pl/111/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140
 [/us/stat/124/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F32
 [/us/pl/111/84/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1036
 [/us/stat/123/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2190
-[/us/pl/111/140/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140%2Fs4%2Fa%2F1
-[/us/pl/111/140/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140%2Fs4%2Fa%2F2
-[/us/pl/111/140/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140%2Fs2
+[/us/pl/111/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140
+[/us/pl/111/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140
+[/us/pl/111/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140
 [/us/stat/124/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F31
 
 

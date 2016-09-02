@@ -31,7 +31,7 @@
 
         The Secretary shall not initiate civil enforcement actions for violations of administrative and procedural requirements pertaining to the application for and expenditure of funds awarded under transportation security grant programs under this subchapter.
 
-([Pub. L. 110–53, title XIV, § 1415][/us/pl/110/53/s1415], Aug. 3, 2007, [121 Stat. 422][/us/stat/121/422].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1415, Aug. 3, 2007, [121 Stat. 422][/us/stat/121/422].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
-[/us/pl/110/53/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1415
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F422
 
 

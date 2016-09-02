@@ -91,7 +91,7 @@
 
         Not later than the completion of the transition period defined under [section 541 of this title][/us/usc/t6/s541], the Secretary of Agriculture shall transfer to the Secretary not more than 3,200 full-time equivalent positions of the Department of Agriculture.
 
-([Pub. L. 107–296, title IV, § 421][/us/pl/107/296/s421], Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 421, Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 [/us/usc/t16/s1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540
 [/us/usc/t6/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs541
 [/us/usc/t6/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs541
-[/us/pl/107/296/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs421
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2182
 [/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F832

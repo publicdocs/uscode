@@ -49,11 +49,11 @@
 
         The Secretary, in coordination with the heads of other appropriate Federal departments and agencies, and in accordance with the National Cybersecurity Incident Response Plan required under subsection (c), shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.
 
-([Pub. L. 107–296, title II, § 228][/us/pl/107/296/s228], as added and amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113], §§ 205, 223(a)(2),(4), (5), Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961], 2963, 2964.)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 228, as added and amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], §§ 205, 223(a)(2),(4), (5), Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961], 2963, 2964.)
 
  __Codification__ 
 
-    Former [section 149 of this title][/us/usc/t6/s149], which was transferred and redesignated as subsec. (c) of this section by [Pub. L. 114–113, div. N, title II, § 223(a)(2)][/us/pl/114/113/s223/a/2], Dec. 18, 2015, [129 Stat. 2963][/us/stat/129/2963], was based on [Pub. L. 107–296, title II, § 227][/us/pl/107/296/s227], as added by [Pub. L. 113–282, § 7(a)][/us/pl/113/282/s7/a], Dec. 18, 2014, [128 Stat. 3070][/us/stat/128/3070].
+    Former [section 149 of this title][/us/usc/t6/s149], which was transferred and redesignated as subsec. (c) of this section by [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 223(a)(2), Dec. 18, 2015, [129 Stat. 2963][/us/stat/129/2963], was based on [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 227, as added by [Pub. L. 113–282][/us/pl/113/282], § 7(a), Dec. 18, 2014, [128 Stat. 3070][/us/stat/128/3070].
 
  __Prior Provisions__ 
 
@@ -61,17 +61,17 @@
 
  __Amendments__ 
 
-    2015—Subsecs. (a), (b). [Pub. L. 114–113, § 223(a)(4)][/us/pl/114/113/s223/a/4], added subsecs. (a) and (b).
+    2015—Subsecs. (a), (b). [Pub. L. 114–113][/us/pl/114/113], § 223(a)(4), added subsecs. (a) and (b).
 
-    Subsec. (c). [Pub. L. 114–113, § 223(a)(5)][/us/pl/114/113/s223/a/5], made technical amendment to reference in original act which appears in text as reference to [section 148 of this title][/us/usc/t6/s148].
+    Subsec. (c). [Pub. L. 114–113][/us/pl/114/113], § 223(a)(5), made technical amendment to reference in original act which appears in text as reference to [section 148 of this title][/us/usc/t6/s148].
 
-    [Pub. L. 114–113, § 223(a)(2)][/us/pl/114/113/s223/a/2], transferred former [section 149 of this title][/us/usc/t6/s149] to subsec. (c) of this section. See Codification note above.
+    [Pub. L. 114–113][/us/pl/114/113], § 223(a)(2), transferred former [section 149 of this title][/us/usc/t6/s149] to subsec. (c) of this section. See Codification note above.
 
-    Subsec. (d). [Pub. L. 114–113, § 205][/us/pl/114/113/s205], added subsec. (d).
+    Subsec. (d). [Pub. L. 114–113][/us/pl/114/113], § 205, added subsec. (d).
 
  __Rule of Construction__ 
 
-[Pub. L. 113–282, § 7(c)][/us/pl/113/282/s7/c], Dec. 18, 2014, [128 Stat. 3072][/us/stat/128/3072], provided that: 
+[Pub. L. 113–282][/us/pl/113/282], § 7(c), Dec. 18, 2014, [128 Stat. 3072][/us/stat/128/3072], provided that: 
 
 > “Nothing in the amendment made by subsection (a) \[enacting subsec. (c) of this section and [section 150 of this title][/us/usc/t6/s150]\] or in subsection (b)(1) \[formerly classified as a note under [section 3543 of Title 44][/us/usc/t44/s3543], Public Printing and Documents, see now [section 2(d)(1) of Pub. L. 113–283][/us/pl/113/283/s2/d/1], set out as a note under [section 3553 of Title 44][/us/usc/t44/s3553]\] shall be construed to alter any authority of a Federal agency or department.”
 
@@ -88,24 +88,24 @@
 [/us/usc/t6/s113/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113%2Fa%2F1%2FH
 [/us/usc/t6/s131/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs131%2F5
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
-[/us/pl/107/296/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs228
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2961
 [/us/usc/t6/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs149
-[/us/pl/114/113/s223/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F2
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2963
-[/us/pl/107/296/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs227
-[/us/pl/113/282/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282%2Fs7%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/113/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282
 [/us/stat/128/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3070
 [/us/pl/107/296/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs228
 [/us/usc/t6/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs150
-[/us/pl/114/113/s223/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F4
-[/us/pl/114/113/s223/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F5
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
-[/us/pl/114/113/s223/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t6/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs149
-[/us/pl/114/113/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs205
-[/us/pl/113/282/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282%2Fs7%2Fc
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/113/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282
 [/us/stat/128/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3072
 [/us/usc/t6/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs150
 [/us/usc/t44/s3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3543

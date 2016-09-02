@@ -27,7 +27,7 @@
 
     (b) The reports required by subsection (a) shall be submitted in an appropriate format in order to ensure the safety of law enforcement personnel.
 
-([Pub. L. 114–4, title V, § 562][/us/pl/114/4/s562], Mar. 4, 2015, [129 Stat. 72][/us/stat/129/72].)
+([Pub. L. 114–4, title V][/us/pl/114/4/tV], § 562, Mar. 4, 2015, [129 Stat. 72][/us/stat/129/72].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/114/4/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs562
+[/us/pl/114/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2FtV
 [/us/stat/129/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F72
 
 

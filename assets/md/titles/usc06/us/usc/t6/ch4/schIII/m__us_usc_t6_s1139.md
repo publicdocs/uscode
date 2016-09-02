@@ -59,11 +59,11 @@
 
             Such sums shall remain available until expended.
 
-([Pub. L. 110–53, title XIV, § 1410][/us/pl/110/53/s1410], Aug. 3, 2007, [121 Stat. 412][/us/stat/121/412].)
+([Pub. L. 110–53, title XIV][/us/pl/110/53/tXIV], § 1410, Aug. 3, 2007, [121 Stat. 412][/us/stat/121/412].)
 
  __References in Text__ 
 
-    Section 1203, referred to in subsec. (c), is [section 1203 of title XII of Pub. L. 110–53][/us/pl/110/53/s1203], Aug. 3, 2007, [121 Stat. 383][/us/stat/121/383], which amended [section 114 of Title 49][/us/usc/t49/s114], Transportation, and enacted provisions set out as a note under [section 114 of Title 49][/us/usc/t49/s114].
+    Section 1203, referred to in subsec. (c), is [section 1203 of title XII of Pub. L. 110–53][/us/pl/110/53/tXII/s1203], Aug. 3, 2007, [121 Stat. 383][/us/stat/121/383], which amended [section 114 of Title 49][/us/usc/t49/s114], Transportation, and enacted provisions set out as a note under [section 114 of Title 49][/us/usc/t49/s114].
 
 ----------
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/110/53/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1410
+[/us/pl/110/53/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXIV
 [/us/stat/121/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F412
-[/us/pl/110/53/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1203
+[/us/pl/110/53/tXII/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXII%2Fs1203
 [/us/stat/121/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F383
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114
 [/us/usc/t49/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs114

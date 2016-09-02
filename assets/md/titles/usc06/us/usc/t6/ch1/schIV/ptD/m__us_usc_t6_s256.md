@@ -17,11 +17,11 @@
 
     It is the sense of the Congress that completing the 14-mile border fence project required to be carried out under section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1103][/us/usc/t8/s1103] note) should be a priority for the Secretary.
 
-([Pub. L. 107–296, title IV, § 446][/us/pl/107/296/s446], Nov. 25, 2002, [116 Stat. 2195][/us/stat/116/2195].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 446, Nov. 25, 2002, [116 Stat. 2195][/us/stat/116/2195].)
 
  __References in Text__ 
 
-    Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in text, is [section 102(b) of title I of div. C of Pub. L. 104–208][/us/pl/104/208/s102/b], which is set out as a note under [section 1103 of Title 8][/us/usc/t8/s1103], Aliens and Nationality.
+    Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in text, is [section 102(b) of title I of div. C of Pub. L. 104–208][/us/pl/104/208/dC/tI/s102/b], which is set out as a note under [section 1103 of Title 8][/us/usc/t8/s1103], Aliens and Nationality.
 
 ----------
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t8/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1103
-[/us/pl/107/296/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs446
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2195
-[/us/pl/104/208/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fb
+[/us/pl/104/208/dC/tI/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI%2Fs102%2Fb
 [/us/usc/t8/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1103
 
 

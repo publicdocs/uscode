@@ -73,7 +73,7 @@
 
         In this section, the term “global nuclear detection architecture” means the global nuclear detection architecture developed under [section 592 of this title][/us/usc/t6/s592].
 
-([Pub. L. 107–296, title XIX, § 1907][/us/pl/107/296/s1907], as added [Pub. L. 110–53, title XI, § 1103(a)][/us/pl/110/53/s1103/a], Aug. 3, 2007, [121 Stat. 379][/us/stat/121/379]; amended [Pub. L. 111–140, § 4(b)][/us/pl/111/140/s4/b], Feb. 16, 2010, [124 Stat. 35][/us/stat/124/35].)
+([Pub. L. 107–296, title XIX][/us/pl/107/296/tXIX], § 1907, as added [Pub. L. 110–53, title XI][/us/pl/110/53/tXI], § 1103(a), Aug. 3, 2007, [121 Stat. 379][/us/stat/121/379]; amended [Pub. L. 111–140][/us/pl/111/140], § 4(b), Feb. 16, 2010, [124 Stat. 35][/us/stat/124/35].)
 
  __References in Text__ 
 
@@ -95,10 +95,10 @@
 ----------
 
 [/us/usc/t6/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs592
-[/us/pl/107/296/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1907
-[/us/pl/110/53/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1103%2Fa
+[/us/pl/107/296/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIX
+[/us/pl/110/53/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXI
 [/us/stat/121/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F379
-[/us/pl/111/140/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140%2Fs4%2Fb
+[/us/pl/111/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F140
 [/us/stat/124/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F35
 [/us/pl/111/84/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1036
 [/us/stat/123/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2190

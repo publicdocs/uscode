@@ -103,7 +103,7 @@
 
                 (ii) the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities.
 
-([Pub. L. 109–295, title VI, § 652][/us/pl/109/295/s652], Oct. 4, 2006, [120 Stat. 1429][/us/stat/120/1429]; [Pub. L. 110–53, title I, § 103][/us/pl/110/53/s103], title IV, § 406, Aug. 3, 2007, [121 Stat. 293][/us/stat/121/293], 304.)
+([Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 652, Oct. 4, 2006, [120 Stat. 1429][/us/stat/120/1429]; [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 103, title IV, § 406, Aug. 3, 2007, [121 Stat. 293][/us/stat/121/293], 304.)
 
  __References in Text__ 
 
@@ -111,13 +111,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(2)(C). [Pub. L. 110–53, § 406(1)][/us/pl/110/53/s406/1], substituted “[section 751 of this title][/us/usc/t6/s751], including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “[section 751(a) of this title][/us/usc/t6/s751/a]”.
+    2007—Subsec. (a)(2)(C). [Pub. L. 110–53][/us/pl/110/53], § 406(1), substituted “[section 751 of this title][/us/usc/t6/s751], including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “[section 751(a) of this title][/us/usc/t6/s751/a]”.
 
-    Subsec. (a)(2)(E). [Pub. L. 110–53, § 103(a)][/us/pl/110/53/s103/a], added subpar. (E).
+    Subsec. (a)(2)(E). [Pub. L. 110–53][/us/pl/110/53], § 103(a), added subpar. (E).
 
-    Subsec. (a)(2)(F). [Pub. L. 110–53, § 406(2)][/us/pl/110/53/s406/2]–(4), added subpar. (F).
+    Subsec. (a)(2)(F). [Pub. L. 110–53][/us/pl/110/53], § 406(2)–(4), added subpar. (F).
 
-    Subsec. (c)(2)(C). [Pub. L. 110–53, § 103(b)][/us/pl/110/53/s103/b], which directed amendment of subpar. (D) by substituting “a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed” for “an assessment of resource needs”, was executed by making the substitution in subpar. (C) to reflect the probable intent of Congress.
+    Subsec. (c)(2)(C). [Pub. L. 110–53][/us/pl/110/53], § 103(b), which directed amendment of subpar. (D) by substituting “a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed” for “an assessment of resource needs”, was executed by making the substitution in subpar. (C) to reflect the probable intent of Congress.
 
 ----------
 
@@ -133,18 +133,18 @@
 [/us/usc/t6/s751/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs751%2Fb%2F2
 [/us/usc/t5/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10102
 [/us/usc/t6/s746/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs746%2Fe
-[/us/pl/109/295/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs652
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1429
-[/us/pl/110/53/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs103
+[/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F293
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/110/53/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs406%2F1
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t6/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs751
 [/us/usc/t6/s751/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs751%2Fa
-[/us/pl/110/53/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs103%2Fa
-[/us/pl/110/53/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs406%2F2
-[/us/pl/110/53/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs103%2Fb
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 
 

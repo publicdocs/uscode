@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of Federal law, as of April 1, 2007, the Director of the Federal Emergency Management Agency shall be responsible for the radiological emergency preparedness program and the chemical stockpile emergency preparedness program.
 
-([Pub. L. 109–347, title VI, § 612][/us/pl/109/347/s612], Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943].)
+([Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 612, Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs612
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1943
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313

@@ -47,11 +47,11 @@
 
         (2) $5,000,000 for each of fiscal years 2009 through 2013.
 
-([Pub. L. 107–296, title II, § 210C][/us/pl/107/296/s210C], as added [Pub. L. 110–53, title V, § 513(a)][/us/pl/110/53/s513/a], Aug. 3, 2007, [121 Stat. 327][/us/stat/121/327].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 210C, as added [Pub. L. 110–53, title V][/us/pl/110/53/tV], § 513(a), Aug. 3, 2007, [121 Stat. 327][/us/stat/121/327].)
 
  __Rural Area__ 
 
-[Pub. L. 112–74, div. D, title V, § 546][/us/pl/112/74/s546], Dec. 23, 2011, [125 Stat. 977][/us/stat/125/977], provided that: 
+[Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 546, Dec. 23, 2011, [125 Stat. 977][/us/stat/125/977], provided that: 
 
 > “For fiscal year 2012 and thereafter, for purposes of section 210C of the Homeland Security Act of 2002 ([6 U.S.C. 124j][/us/usc/t6/s124j]), a rural area shall also include any area that is located in a metropolitan statistical area and a county, borough, parish, or area under the jurisdiction of an Indian tribe with a population of not more than 50,000.”
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/pl/107/296/s210C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs210C
-[/us/pl/110/53/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs513%2Fa
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
+[/us/pl/110/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtV
 [/us/stat/121/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F327
-[/us/pl/112/74/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs546
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F977
 [/us/usc/t6/s124j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124j
 

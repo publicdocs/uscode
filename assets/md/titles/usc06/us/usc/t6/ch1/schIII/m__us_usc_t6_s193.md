@@ -47,7 +47,7 @@
 
             In carrying out this section, the Secretary shall coordinate with the Technical Support Working Group (organized under the April 1982 National Security Decision Directive Numbered 30).
 
-([Pub. L. 107–296, title III, § 313][/us/pl/107/296/s313], Nov. 25, 2002, [116 Stat. 2176][/us/stat/116/2176].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 313, Nov. 25, 2002, [116 Stat. 2176][/us/stat/116/2176].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t6/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs111
-[/us/pl/107/296/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs313
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2176
 
 

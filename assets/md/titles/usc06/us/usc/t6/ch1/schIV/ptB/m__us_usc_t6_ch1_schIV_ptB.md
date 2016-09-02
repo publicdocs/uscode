@@ -13,7 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schIV/ptA/m__us_usc_t6_s203.md) | [Next](./../../../../../..//us/usc/t6/ch1/schIV/ptB/m__us_usc_t6_s211.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschIV%2FptB)
 
-#### Part B—United States Customs Service
+#### Part B—U.S. Customs and Border Protection
+
+ __Codification__ 
+
+    [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(iii)(I), Feb. 24, 2016, [130 Stat. 211][/us/stat/130/211], substituted “U.S. Customs and Border Protection” for “United States Customs Service” in part heading.
 
 ----------
 
@@ -22,5 +26,7 @@
 ----------
 ----------
 
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F211
 
 

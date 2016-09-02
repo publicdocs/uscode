@@ -75,7 +75,7 @@
 
         There is authorized to be appropriated for grants under this section such sums as may be necessary.
 
-([Pub. L. 107–296, title XVIII, § 1810][/us/pl/107/296/s1810], as added [Pub. L. 110–53, title III, § 302(a)][/us/pl/110/53/s302/a], Aug. 3, 2007, [121 Stat. 300][/us/stat/121/300].)
+([Pub. L. 107–296, title XVIII][/us/pl/107/296/tXVIII], § 1810, as added [Pub. L. 110–53, title III][/us/pl/110/53/tIII], § 302(a), Aug. 3, 2007, [121 Stat. 300][/us/stat/121/300].)
 
 ----------
 
@@ -85,8 +85,8 @@
 ----------
 
 [/us/usc/t6/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs571
-[/us/pl/107/296/s1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1810
-[/us/pl/110/53/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs302%2Fa
+[/us/pl/107/296/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVIII
+[/us/pl/110/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtIII
 [/us/stat/121/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F300
 
 

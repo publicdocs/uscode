@@ -17,7 +17,7 @@
 
     The Council shall have a staff, the head of which shall be a civilian Executive Secretary, who shall be appointed by the President. The President is authorized to fix the pay of the Executive Secretary at a rate not to exceed the rate of pay payable to the Executive Secretary of the National Security Council.
 
-([Pub. L. 107–296, title IX, § 905][/us/pl/107/296/s905], Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259].)
+([Pub. L. 107–296, title IX][/us/pl/107/296/tIX], § 905, Nov. 25, 2002, [116 Stat. 2259][/us/stat/116/2259].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs905
+[/us/pl/107/296/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIX
 [/us/stat/116/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2259
 
 

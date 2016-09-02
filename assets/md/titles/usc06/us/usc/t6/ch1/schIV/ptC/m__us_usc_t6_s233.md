@@ -33,7 +33,7 @@
 
             Nothing in this chapter may be construed to authorize the Secretary or any other official in the Department to obligate amounts made available under [section 48103 of title 49][/us/usc/t49/s48103].
 
-([Pub. L. 107–296, title IV, § 423][/us/pl/107/296/s423], Nov. 25, 2002, [116 Stat. 2185][/us/stat/116/2185].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 423, Nov. 25, 2002, [116 Stat. 2185][/us/stat/116/2185].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t49/s44901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901%2Fd
 [/us/usc/t49/s48103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs48103
-[/us/pl/107/296/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs423
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2185
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135

@@ -15,19 +15,17 @@
 
 ## § 234. Preservation of Transportation Security Administration as a distinct entity
 
-    (a) __In general__ 
+    Notwithstanding any other provision of this chapter, the Transportation Security Administration shall be maintained as a distinct entity within the Department.
 
-        Notwithstanding any other provision of this chapter, and subject to subsection (b), the Transportation Security Administration shall be maintained as a distinct entity within the Department under the Under Secretary for Border Transportation and Security.
-
-    (b) __Sunset__ 
-
-        Subsection (a) shall cease to apply 2 years after November 25, 2002.
-
-([Pub. L. 107–296, title IV, § 424][/us/pl/107/296/s424], Nov. 25, 2002, [116 Stat. 2185][/us/stat/116/2185].)
+([Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 424, as added [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(iv)(I), Feb. 24, 2016, [130 Stat. 212][/us/stat/130/212].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2135][/us/stat/116/2135], known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title][/us/usc/t6/s101] and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2135][/us/stat/116/2135], known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title][/us/usc/t6/s101] and Tables.
+
+ __Prior Provisions__ 
+
+    A prior section 234, [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 424, Nov. 25, 2002, [116 Stat. 2185][/us/stat/116/2185], provided for the preservation of the Transportation Security Administration as a distinct entity applicable until 2 years after Nov. 25, 2002, prior to repeal by [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(g)(1)(B)(iv)(I), Feb. 24, 2016, [130 Stat. 212][/us/stat/130/212].
 
 ----------
 
@@ -36,10 +34,15 @@
 ----------
 ----------
 
-[/us/pl/107/296/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs424
-[/us/stat/116/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2185
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F212
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
+[/us/stat/116/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2185
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F212
 
 

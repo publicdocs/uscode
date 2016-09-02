@@ -71,7 +71,7 @@
 
             A government entity that receives a disclosure under [section 2702(b) of title 18][/us/usc/t18/s2702/b] shall file, not later than 90 days after such disclosure, a report to the Attorney General stating the paragraph of that section under which the disclosure was made, the date of the disclosure, the entity to which the disclosure was made, the number of customers or subscribers to whom the information disclosed pertained, and the number of communications, if any, that were disclosed. The Attorney General shall publish all such reports into a single report to be submitted to Congress 1 year after November 25, 2002.
 
-([Pub. L. 107–296, title II, § 225][/us/pl/107/296/s225], Nov. 25, 2002, [116 Stat. 2156][/us/stat/116/2156].)
+([Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225, Nov. 25, 2002, [116 Stat. 2156][/us/stat/116/2156].)
 
  __Codification__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t18/s3553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa%2F2
 [/us/usc/t18/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030
 [/us/usc/t18/s2702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2702%2Fb
-[/us/pl/107/296/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2156
 [/us/pl/107/296/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225
 [/us/pl/107/296/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225

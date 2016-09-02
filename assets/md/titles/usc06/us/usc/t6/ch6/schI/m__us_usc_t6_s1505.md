@@ -47,7 +47,7 @@
 
         (2) to undermine or limit the availability of otherwise applicable common law or statutory defenses.
 
-([Pub. L. 114–113, div. N, title I, § 106][/us/pl/114/113/s106], Dec. 18, 2015, [129 Stat. 2950][/us/stat/129/2950].)
+([Pub. L. 114–113, div. N, title I][/us/pl/114/113/dN/tI], § 106, Dec. 18, 2015, [129 Stat. 2950][/us/stat/129/2950].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t6/s1504/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fc%2F1%2FB
 [/us/usc/t6/s1504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fa%2F1
 [/us/usc/t6/s1504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1504%2Fb%2F1
-[/us/pl/114/113/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs106
+[/us/pl/114/113/dN/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtI
 [/us/stat/129/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2950
 
 

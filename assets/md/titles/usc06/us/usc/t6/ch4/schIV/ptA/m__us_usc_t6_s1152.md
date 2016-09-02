@@ -61,7 +61,7 @@
 
         The Secretary shall ensure, to the extent practicable, that grant recipients under this subchapter who use contractors or subcontractors use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors when appropriate.
 
-([Pub. L. 110–53, title XV, § 1502][/us/pl/110/53/s1502], Aug. 3, 2007, [121 Stat. 424][/us/stat/121/424].)
+([Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1502, Aug. 3, 2007, [121 Stat. 424][/us/stat/121/424].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
-[/us/pl/110/53/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1502
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F424
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t6/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1151

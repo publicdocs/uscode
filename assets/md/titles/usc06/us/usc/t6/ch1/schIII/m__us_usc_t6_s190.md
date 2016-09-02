@@ -37,11 +37,11 @@
 
             No change described in paragraph (1) may be made earlier than 180 days after the completion of the transition period (as defined in [section 541 of this title][/us/usc/t6/s541]).
 
-([Pub. L. 107–296, title III, § 310][/us/pl/107/296/s310], Nov. 25, 2002, [116 Stat. 2174][/us/stat/116/2174].)
+([Pub. L. 107–296, title III][/us/pl/107/296/tIII], § 310, Nov. 25, 2002, [116 Stat. 2174][/us/stat/116/2174].)
 
  __Disposition of Plum Island Property and Transportation Assets__ 
 
-[Pub. L. 112–74, div. D, title V, § 538][/us/pl/112/74/s538], Dec. 23, 2011, [125 Stat. 976][/us/stat/125/976], provided that:
+[Pub. L. 112–74, div. D, title V][/us/pl/112/74/dD/tV], § 538, Dec. 23, 2011, [125 Stat. 976][/us/stat/125/976], provided that:
 
 >     “(a) Notwithstanding any other provision of law during fiscal year 2012 or any subsequent fiscal year, if the Secretary of Homeland Security determines that the National Bio- and Agro-defense Facility should be located at a site other than Plum Island, New York, the Secretary shall ensure that the Administrator of General Services sells through public sale all real and related personal property and transportation assets which support Plum Island operations, subject to such terms and conditions as may be necessary to protect Government interests and meet program requirements.
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t6/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs541
-[/us/pl/107/296/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs310
+[/us/pl/107/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIII
 [/us/stat/116/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2174
-[/us/pl/112/74/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs538
+[/us/pl/112/74/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdD%2FtV
 [/us/stat/125/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F976
 
 

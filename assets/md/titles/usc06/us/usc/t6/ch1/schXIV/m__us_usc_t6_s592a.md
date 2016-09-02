@@ -41,7 +41,7 @@
 
         The Director for Domestic Nuclear Detection and the Under Secretary for Science and Technology shall jointly and annually notify Congress that the strategy and technology road map for nuclear and radiological detection developed under subsections (a) and (b) is consistent with the national policy and strategic plan for identifying priorities, goals, objectives, and policies for coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to terrorist threats from weapons of mass destruction that are required under [section 182(2) of this title][/us/usc/t6/s182/2].
 
-([Pub. L. 109–347, title V, § 502][/us/pl/109/347/s502], Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935].)
+([Pub. L. 109–347, title V][/us/pl/109/347/tV], § 502, Oct. 13, 2006, [120 Stat. 1935][/us/stat/120/1935].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t6/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182
 [/us/usc/t6/s182/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182%2F2
-[/us/pl/109/347/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs502
+[/us/pl/109/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtV
 [/us/stat/120/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1935
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1932
