@@ -47,7 +47,7 @@
 
  __References in Text__ 
 
-    The Voting Rights Act of 1965, referred to in subsec. (c), is [Pub. L. 89–110][/us/pl/89/110], Aug. 6, 1965, [79 Stat. 437][/us/stat/79/437], as amended, which is classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Voting Rights Act of 1965, referred to in subsec. (c), is [Pub. L. 89–110][/us/pl/89/110], Aug. 6, 1965, [79 Stat. 437][/us/stat/79/437], which was formerly classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§ 10301 et seq.), 105 (§ 10501 et seq.), and 107 (§ 10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -132,7 +132,6 @@
 [/us/stat/36/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1166
 [/us/pl/89/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110
 [/us/stat/79/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F437
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/pl/100/702/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs802%2Fa
 [/us/pl/100/702/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs804

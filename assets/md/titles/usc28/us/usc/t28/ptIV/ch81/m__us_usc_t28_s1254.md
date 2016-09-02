@@ -47,7 +47,7 @@
 
 [Pub. L. 100–352, § 7][/us/pl/100/352/s7], June 27, 1988, [102 Stat. 664][/us/stat/102/664], provided that: 
 
-> “The amendments made by this Act \[amending sections 1254, 1257, 1258, 2101, 2104, and 2350 of this title, [section 437h of Title 2][/us/usc/t2/s437h], The Congress, [section 136w of Title 7][/us/usc/t7/s136w], Agriculture, [section 1631e of Title 22][/us/usc/t22/s1631e], Foreign Relations and Intercourse, [section 652 of Title 25][/us/usc/t25/s652], Indians, [section 988 of Title 33][/us/usc/t33/s988], Navigation and Navigable Waters, [section 1652 of Title 43][/us/usc/t43/s1652], Public Lands, and sections 719, 743, and 1105 of Title 45, Railroads, and repealing sections 1252 and 2103 of this title\] shall take effect ninety days after the date of the enactment of this Act \[June 27, 1988\], except that such amendments shall not apply to cases pending in the Supreme Court on the effective date of such amendments or affect the right to review or the manner of reviewing the judgment or decree of a court which was entered before such effective date.”
+> “The amendments made by this Act \[amending sections 1254, 1257, 1258, 2101, 2104, and 2350 of this title, [section 136w of Title 7][/us/usc/t7/s136w], Agriculture, [section 1631e of Title 22][/us/usc/t22/s1631e], Foreign Relations and Intercourse, [section 652 of Title 25][/us/usc/t25/s652], Indians, [section 988 of Title 33][/us/usc/t33/s988], Navigation and Navigable Waters, [section 1652 of Title 43][/us/usc/t43/s1652], Public Lands, sections 719, 743, and 1105 of Title 45, Railroads, and [section 30110 of Title 52][/us/usc/t52/s30110], Voting and Elections, and repealing sections 1252 and 2103 of this title\] shall take effect ninety days after the date of the enactment of this Act \[June 27, 1988\], except that such amendments shall not apply to cases pending in the Supreme Court on the effective date of such amendments or affect the right to review or the manner of reviewing the judgment or decree of a court which was entered before such effective date.”
 
 \[§§ 1255, 1256. __Repealed.__  __[__  __Pub. L. 97–164, title I, § 123__  __][/us/pl/97/164/s123]__  __,__  __Apr. 2, 1982__  __,__  __[__  __96 Stat. 36__  __][/us/stat/96/36]__  __\]__ 
 
@@ -84,12 +84,12 @@
 [/us/pl/100/352/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs2%2Fa
 [/us/pl/100/352/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs7
 [/us/stat/102/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F664
-[/us/usc/t2/s437h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437h
 [/us/usc/t7/s136w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w
 [/us/usc/t22/s1631e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631e
 [/us/usc/t25/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs652
 [/us/usc/t33/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988
 [/us/usc/t43/s1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1652
+[/us/usc/t52/s30110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30110
 [/us/pl/97/164/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs123
 [/us/stat/96/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F36
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
