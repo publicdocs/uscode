@@ -23,9 +23,9 @@
 
             (A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
-            (B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section), consistent with the provisions of this section; and
+            (B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ), consistent with the provisions of this section; and
 
-            (C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
+            (C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2).
 
         (2) __Period of enforceability__ 
 
@@ -103,11 +103,11 @@
 
     (e) __Jurisdiction__ 
 
-    An action to enforce an affidavit of support executed under subsection (a) of this section may be brought against the sponsor in any appropriate court—
+    An action to enforce an affidavit of support executed under subsection (a) may be brought against the sponsor in any appropriate court—
 
         (1) by a sponsored alien, with respect to financial support; or
 
-        (2) by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2) of this section, with respect to reimbursement.
+        (2) by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2), with respect to reimbursement.
 
     (f) __“Sponsor” defined__ 
 
@@ -201,7 +201,7 @@
 
  __References in Text__ 
 
-    Subsection (e) of this section, referred to in subsec. (a)(1)(B), does not define “means-tested public benefit”.
+    Subsection (e), referred to in subsec. (a)(1)(B), does not define “means-tested public benefit”.
 
     The Social Security Act, referred to in subsec. (a)(3)(A), (B), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 

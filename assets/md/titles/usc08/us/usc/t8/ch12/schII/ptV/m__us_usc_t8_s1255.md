@@ -21,19 +21,19 @@
 
     (b) __Record of lawful admission for permanent residence; reduction of preference visas__ 
 
-        Upon the approval of an application for adjustment made under subsection (a) of this section, the Attorney General shall record the alien’s lawful admission for permanent residence as of the date the order of the Attorney General approving the application for the adjustment of status is made, and the Secretary of State shall reduce by one the number of the preference visas authorized to be issued under sections 1152 and 1153 of this title within the class to which the alien is chargeable for the fiscal year then current.
+        Upon the approval of an application for adjustment made under subsection (a), the Attorney General shall record the alien’s lawful admission for permanent residence as of the date the order of the Attorney General approving the application for the adjustment of status is made, and the Secretary of State shall reduce by one the number of the preference visas authorized to be issued under sections 1152 and 1153 of this title within the class to which the alien is chargeable for the fiscal year then current.
 
     (c) __Alien crewmen, aliens continuing or accepting unauthorized employment, and aliens admitted in transit without visa__ 
 
-        Other than an alien having an approved petition for classification as a VAWA self-petitioner, subsection (a) of this section shall not be applicable to (1) an alien crewman; (2) subject to subsection (k) of this section, an alien (other than an immediate relative as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b] or a special immigrant described in section 1101(a)(27)(H), (I), (J), or (K) of this title) who hereafter continues in or accepts unauthorized employment prior to filing an application for adjustment of status or who is in unlawful immigration status on the date of filing the application for adjustment of status or who has failed (other than through no fault of his own or for technical reasons) to maintain continuously a lawful status since entry into the United States; (3) any alien admitted in transit without visa under [section 1182(d)(4)(C) of this title][/us/usc/t8/s1182/d/4/C]; (4) an alien (other than an immediate relative as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b]) who was admitted as a nonimmigrant visitor without a visa under section 1182(l) of this title or [section 1187 of this title][/us/usc/t8/s1187]; (5) an alien who was admitted as a nonimmigrant described in [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup>  (6) an alien who is deportable under [section 1227(a)(4)(B) of this title][/us/usc/t8/s1227/a/4/B]; (7) any alien who seeks adjustment of status to that of an immigrant under [section 1153(b) of this title][/us/usc/t8/s1153/b] and is not in a lawful nonimmigrant status; or (8) any alien who was employed while the alien was an unauthorized alien, as defined in [section 1324a(h)(3) of this title][/us/usc/t8/s1324a/h/3], or who has otherwise violated the terms of a nonimmigrant visa.
+        Other than an alien having an approved petition for classification as a VAWA self-petitioner, subsection (a) shall not be applicable to (1) an alien crewman; (2) subject to subsection (k), an alien (other than an immediate relative as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b] or a special immigrant described in section 1101(a)(27)(H), (I), (J), or (K) of this title) who hereafter continues in or accepts unauthorized employment prior to filing an application for adjustment of status or who is in unlawful immigration status on the date of filing the application for adjustment of status or who has failed (other than through no fault of his own or for technical reasons) to maintain continuously a lawful status since entry into the United States; (3) any alien admitted in transit without visa under [section 1182(d)(4)(C) of this title][/us/usc/t8/s1182/d/4/C]; (4) an alien (other than an immediate relative as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b]) who was admitted as a nonimmigrant visitor without a visa under section 1182(l) of this title or [section 1187 of this title][/us/usc/t8/s1187]; (5) an alien who was admitted as a nonimmigrant described in [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup>  (6) an alien who is deportable under [section 1227(a)(4)(B) of this title][/us/usc/t8/s1227/a/4/B]; (7) any alien who seeks adjustment of status to that of an immigrant under [section 1153(b) of this title][/us/usc/t8/s1153/b] and is not in a lawful nonimmigrant status; or (8) any alien who was employed while the alien was an unauthorized alien, as defined in [section 1324a(h)(3) of this title][/us/usc/t8/s1324a/h/3], or who has otherwise violated the terms of a nonimmigrant visa.
 
     (d) __Alien admitted for permanent residence on conditional basis; fiancee or fiance of citizen__ 
 
-        The Attorney General may not adjust, under subsection (a) of this section, the status of an alien lawfully admitted to the United States for permanent residence on a conditional basis under [section 1186a of this title][/us/usc/t8/s1186a]. The Attorney General may not adjust, under subsection (a) of this section, the status of a nonimmigrant alien described in [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K] except to that of an alien lawfully admitted to the United States on a conditional basis under [section 1186a of this title][/us/usc/t8/s1186a] as a result of the marriage of the nonimmigrant (or, in the case of a minor child, the parent) to the citizen who filed the petition to accord that alien’s nonimmigrant status under [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K].
+        The Attorney General may not adjust, under subsection (a), the status of an alien lawfully admitted to the United States for permanent residence on a conditional basis under [section 1186a of this title][/us/usc/t8/s1186a]. The Attorney General may not adjust, under subsection (a), the status of a nonimmigrant alien described in [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K] except to that of an alien lawfully admitted to the United States on a conditional basis under [section 1186a of this title][/us/usc/t8/s1186a] as a result of the marriage of the nonimmigrant (or, in the case of a minor child, the parent) to the citizen who filed the petition to accord that alien’s nonimmigrant status under [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K].
 
     (e) __Restriction on adjustment of status based on marriages entered while in admissibility or deportation proceedings; bona fide marriage exception__ 
 
-        (1) Except as provided in paragraph (3), an alien who is seeking to receive an immigrant visa on the basis of a marriage which was entered into during the period described in paragraph (2) may not have the alien’s status adjusted under subsection (a) of this section.
+        (1) Except as provided in paragraph (3), an alien who is seeking to receive an immigrant visa on the basis of a marriage which was entered into during the period described in paragraph (2) may not have the alien’s status adjusted under subsection (a).
 
         (2) The period described in this paragraph is the period during which administrative or judicial proceedings are pending regarding the alien’s right to be admitted or remain in the United States.
 
@@ -41,17 +41,17 @@
 
     (f) __Limitation on adjustment of status__ 
 
-        The Attorney General may not adjust, under subsection (a) of this section, the status of an alien lawfully admitted to the United States for permanent residence on a conditional basis under [section 1186b of this title][/us/usc/t8/s1186b].
+        The Attorney General may not adjust, under subsection (a), the status of an alien lawfully admitted to the United States for permanent residence on a conditional basis under [section 1186b of this title][/us/usc/t8/s1186b].
 
     (g) __Special immigrants__ 
 
-        In applying this section to a special immigrant described in [section 1101(a)(27)(K) of this title][/us/usc/t8/s1101/a/27/K], such an immigrant shall be deemed, for purposes of subsection (a) of this section, to have been paroled into the United States.
+        In applying this section to a special immigrant described in [section 1101(a)(27)(K) of this title][/us/usc/t8/s1101/a/27/K], such an immigrant shall be deemed, for purposes of subsection (a), to have been paroled into the United States.
 
     (h) __Application with respect to special immigrants__ 
 
     In applying this section to a special immigrant described in [section 1101(a)(27)(J) of this title][/us/usc/t8/s1101/a/27/J]—
 
-        (1) such an immigrant shall be deemed, for purposes of subsection (a) of this section, to have been paroled into the United States; and
+        (1) such an immigrant shall be deemed, for purposes of subsection (a), to have been paroled into the United States; and
 
         (2)
 
@@ -143,7 +143,7 @@
 
     (k) __Inapplicability of certain provisions for certain employment-based immigrants__ 
 
-    An alien who is eligible to receive an immigrant visa under paragraph (1), (2), or (3) of [section 1153(b) of this title][/us/usc/t8/s1153/b] (or, in the case of an alien who is an immigrant described in [section 1101(a)(27)(C) of this title][/us/usc/t8/s1101/a/27/C], under [section 1153(b)(4) of this title][/us/usc/t8/s1153/b/4]) may adjust status pursuant to subsection (a) of this section and notwithstanding subsection (c)(2), (c)(7), and (c)(8) of this section, if—
+    An alien who is eligible to receive an immigrant visa under paragraph (1), (2), or (3) of [section 1153(b) of this title][/us/usc/t8/s1153/b] (or, in the case of an alien who is an immigrant described in [section 1101(a)(27)(C) of this title][/us/usc/t8/s1101/a/27/C], under [section 1153(b)(4) of this title][/us/usc/t8/s1153/b/4]) may adjust status pursuant to subsection (a) and notwithstanding subsection (c)(2), (c)(7), and (c)(8), if—
 
         (1) the alien, on the date of filing an application for adjustment of status, is present in the United States pursuant to a lawful admission;
 
@@ -295,13 +295,13 @@
 
     2000—Subsec. (a). [Pub. L. 106–386, § 1506(a)(1)(A)][/us/pl/106/386/s1506/a/1/A], which directed the insertion of “or the status of any other alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) of [section 1154(a)(1) of this title][/us/usc/t8/s1154/a/1] or” after “into the United States.”, was executed by making the insertion after “into the United States” to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 106–386, § 1506(a)(1)(B)][/us/pl/106/386/s1506/a/1/B], substituted “Other than an alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (A)(v), (A)(vi), (B)(ii), (B)(iii), or (B)(iv) of [section 1154(a)(1) of this title][/us/usc/t8/s1154/a/1], subsection (a) of this section shall not be applicable to” for “Subsection (a) of this section shall not be applicable to”.
+    Subsec. (c). [Pub. L. 106–386, § 1506(a)(1)(B)][/us/pl/106/386/s1506/a/1/B], substituted “Other than an alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (A)(v), (A)(vi), (B)(ii), (B)(iii), or (B)(iv) of [section 1154(a)(1) of this title][/us/usc/t8/s1154/a/1], subsection (a) shall not be applicable to” for “Subsection (a) shall not be applicable to”.
 
     Subsec. (d). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XV, § 1502(b)(2)\], struck out “or (m)” after “under subsection (a)” in two places.
 
     [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1103(c)(3)(A)\], struck out “(relating to an alien fiancee or fiance or the minor child of such alien)” before “except to that of an alien”.
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1102(d)(2)(A)\], substituted “under subsection (a) or (m) of this section,” for “under subsection (a) of this section,” in two places.
+    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1102(d)(2)(A)\], substituted “under subsection (a) or (m),” for “under subsection (a),” in two places.
 
     Subsec. (e)(1). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XV, § 1502(b)(2)\], struck out “or (m)” after “under subsection (a)”.
 
@@ -311,7 +311,7 @@
 
     Subsec. (f). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XV, § 1502(b)(2)\], struck out “or (m)” after “under subsection (a)”.
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1102(d)(2)(A)\], substituted “under subsection (a) or (m) of this section,” for “under subsection (a) of this section,”.
+    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1102(d)(2)(A)\], substituted “under subsection (a) or (m),” for “under subsection (a),”.
 
     Subsec. (i)(1)(B)(i). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XV, § 1502(a)(1)(B)\], substituted “April 30, 2001” for “January 14, 1998”.
 
@@ -327,7 +327,7 @@
 
     [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1102(c)\], added subsec. (m).
 
-    1997—Subsec. (c)(2). [Pub. L. 105–119, § 111(c)(1)][/us/pl/105/119/s111/c/1], substituted “(2) subject to subsection (k) of this section, an alien (other than” for “(2) an alien (other than”.
+    1997—Subsec. (c)(2). [Pub. L. 105–119, § 111(c)(1)][/us/pl/105/119/s111/c/1], substituted “(2) subject to subsection (k), an alien (other than” for “(2) an alien (other than”.
 
     Subsec. (i)(1). [Pub. L. 105–119, § 111(a)][/us/pl/105/119/s111/a], substituted first sentence for prior first sentence which read as follows: “Notwithstanding the provisions of subsections (a) and (c) of this section, an alien physically present in the United States who—
 
@@ -401,7 +401,7 @@
 
     Subsec. (c)(4). [Pub. L. 99–603, § 313(c)][/us/pl/99/603/s313/c], as amended by [Pub. L. 100–525, § 2(p)(3)][/us/pl/100/525/s2/p/3], added cl. (4).
 
-    Subsec. (d). [Pub. L. 99–639, § 3(b)][/us/pl/99/639/s3/b], as amended by [Pub. L. 100–525, § 7(b)][/us/pl/100/525/s7/b], inserted “The Attorney General may not adjust, under subsection (a) of this section, the status of a nonimmigrant alien described in [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K] (relating to an alien fiancee or fiance or the minor child of such alien) except to that of an alien lawfully admitted to the United States on a conditional basis under [section 1186a of this title][/us/usc/t8/s1186a] as a result of the marriage of the nonimmigrant (or, in the case of a minor child, the parent) to the citizen who filed the petition to accord that alien’s nonimmigrant status under [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K].”
+    Subsec. (d). [Pub. L. 99–639, § 3(b)][/us/pl/99/639/s3/b], as amended by [Pub. L. 100–525, § 7(b)][/us/pl/100/525/s7/b], inserted “The Attorney General may not adjust, under subsection (a), the status of a nonimmigrant alien described in [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K] (relating to an alien fiancee or fiance or the minor child of such alien) except to that of an alien lawfully admitted to the United States on a conditional basis under [section 1186a of this title][/us/usc/t8/s1186a] as a result of the marriage of the nonimmigrant (or, in the case of a minor child, the parent) to the citizen who filed the petition to accord that alien’s nonimmigrant status under [section 1101(a)(15)(K) of this title][/us/usc/t8/s1101/a/15/K].”
 
     [Pub. L. 99–639, § 2(e)][/us/pl/99/639/s2/e], added subsec. (d).
 

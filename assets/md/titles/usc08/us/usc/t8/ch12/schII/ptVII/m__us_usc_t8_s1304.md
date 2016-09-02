@@ -33,7 +33,7 @@
 
     (e) __Personal possession of registration or receipt card; penalties__ 
 
-        Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d) of this section. Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
+        Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d). Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
 
     (f) __Alien’s social security account number__ 
 

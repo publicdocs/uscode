@@ -19,7 +19,7 @@
 
         (1) __General orders of removal__ 
 
-            Judicial review of a final order of removal (other than an order of removal without a hearing pursuant to [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1]) is governed only by chapter 158 of title 28, except as provided in subsection (b) of this section and except that the court may not order the taking of additional evidence under section 2347(c) of such title.
+            Judicial review of a final order of removal (other than an order of removal without a hearing pursuant to [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1]) is governed only by chapter 158 of title 28, except as provided in subsection (b) and except that the court may not order the taking of additional evidence under section 2347(c) of such title.
 
         (2) __Matters not subject to judicial review__ 
 
@@ -27,13 +27,13 @@
 
             Notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to review—
 
-                (i) except as provided in subsection (e) of this section, any individual determination or to entertain any other cause or claim arising from or relating to the implementation or operation of an order of removal pursuant to [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1],
+                (i) except as provided in subsection (e), any individual determination or to entertain any other cause or claim arising from or relating to the implementation or operation of an order of removal pursuant to [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1],
 
-                (ii) except as provided in subsection (e) of this section, a decision by the Attorney General to invoke the provisions of such section,
+                (ii) except as provided in subsection (e), a decision by the Attorney General to invoke the provisions of such section,
 
                 (iii) the application of such section to individual aliens, including the determination made under [section 1225(b)(1)(B) of this title][/us/usc/t8/s1225/b/1/B], or
 
-                (iv) except as provided in subsection (e) of this section, procedures and policies adopted by the Attorney General to implement the provisions of [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1].
+                (iv) except as provided in subsection (e), procedures and policies adopted by the Attorney General to implement the provisions of [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1].
 
             (B) __Denials of discretionary relief__ 
 
@@ -57,15 +57,15 @@
 
         (4) __Claims under the United Nations Convention__ 
 
-            Notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of any cause or claim under the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman, or Degrading Treatment or Punishment, except as provided in subsection (e) of this section.
+            Notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of any cause or claim under the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman, or Degrading Treatment or Punishment, except as provided in subsection (e).
 
         (5) __Exclusive means of review__ 
 
-            Notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e) of this section. For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms “judicial review” and “jurisdiction to review” include habeas corpus review pursuant to [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, sections 1361 and 1651 of such title, and review pursuant to any other provision of law (statutory or nonstatutory).
+            Notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e). For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms “judicial review” and “jurisdiction to review” include habeas corpus review pursuant to [section 2241 of title 28][/us/usc/t28/s2241], or any other habeas corpus provision, sections 1361 and 1651 of such title, and review pursuant to any other provision of law (statutory or nonstatutory).
 
     (b) __Requirements for review of orders of removal__ 
 
-    With respect to review of an order of removal under subsection (a)(1) of this section, the following requirements apply:
+    With respect to review of an order of removal under subsection (a)(1), the following requirements apply:
 
         (1) __Deadline__ 
 
@@ -101,7 +101,7 @@
 
             (D) the Attorney General’s discretionary judgment whether to grant relief under [section 1158(a) of this title][/us/usc/t8/s1158/a] shall be conclusive unless manifestly contrary to the law and an abuse of discretion.
 
-            No court shall reverse a determination made by a trier of fact with respect to the availability of corroborating evidence, as described in section 1158(b)(1)(B), 1229a(c)(4)(B), or 1231(b)(3)(C) of this title, unless the court finds, pursuant to subsection (b)(4)(B) of this section, that a reasonable trier of fact is compelled to conclude that such corroborating evidence is unavailable.
+            No court shall reverse a determination made by a trier of fact with respect to the availability of corroborating evidence, as described in section 1158(b)(1)(B), 1229a(c)(4)(B), or 1231(b)(3)(C) of this title, unless the court finds, pursuant to subsection (b)(4)(B), that a reasonable trier of fact is compelled to conclude that such corroborating evidence is unavailable.
 
         (5) __Treatment of nationality claims__ 
 
@@ -143,7 +143,7 @@
 
             (D) __Limitation on filing petitions for review__ 
 
-                The defendant in a criminal proceeding under [section 1253(a) of this title][/us/usc/t8/s1253/a] may not file a petition for review under subsection (a) of this section during the criminal proceeding.
+                The defendant in a criminal proceeding under [section 1253(a) of this title][/us/usc/t8/s1253/a] may not file a petition for review under subsection (a) during the criminal proceeding.
 
         (8) __Construction__ 
 
@@ -223,7 +223,7 @@
 
             (A) is an alien who was not ordered removed under [section 1225(b)(1) of this title][/us/usc/t8/s1225/b/1], or
 
-            (B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under [section 1157 of this title][/us/usc/t8/s1157], or has been granted asylum under [section 1158 of this title][/us/usc/t8/s1158], the court may order no remedy or relief other than to require that the petitioner be provided a hearing in accordance with [section 1229a of this title][/us/usc/t8/s1229a]. Any alien who is provided a hearing under [section 1229a of this title][/us/usc/t8/s1229a] pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1) of this section.
+            (B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under [section 1157 of this title][/us/usc/t8/s1157], or has been granted asylum under [section 1158 of this title][/us/usc/t8/s1158], the court may order no remedy or relief other than to require that the petitioner be provided a hearing in accordance with [section 1229a of this title][/us/usc/t8/s1229a]. Any alien who is provided a hearing under [section 1229a of this title][/us/usc/t8/s1229a] pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1).
 
         (5) __Scope of inquiry__ 
 

@@ -27,7 +27,7 @@
 
     (b) __Adoption__ 
 
-         Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
+         Subsection (a) shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
 
     (c) __Name and birth date__ 
 

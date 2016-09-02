@@ -27,7 +27,7 @@
 
     (b) __Report__ 
 
-        Not later than 1 year after May 14, 2002, the Comptroller General shall submit to Congress a report on the results of the study under subsection (a) of this section. The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
+        Not later than 1 year after May 14, 2002, the Comptroller General shall submit to Congress a report on the results of the study under subsection (a). The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
 
 ([Pub. L. 107–173, title VI, § 602][/us/pl/107/173/s602], May 14, 2002, [116 Stat. 564][/us/stat/116/564].)
 

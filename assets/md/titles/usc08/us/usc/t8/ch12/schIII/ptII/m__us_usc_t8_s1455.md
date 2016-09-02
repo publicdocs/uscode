@@ -33,7 +33,7 @@
 
     (f)
 
-        (1) The Attorney General shall pay over to courts administering oaths of allegiance to persons under this subchapter a specified percentage of all fees described in subsection (a)(1) of this section collected by the Attorney General with respect to persons administered the oath of allegiance by the respective courts. The Attorney General, annually and in consultation with the courts, shall determine the specified percentage based on the proportion, of the total costs incurred by the Service and courts for essential services directly related to the naturalization process, which are incurred by courts.
+        (1) The Attorney General shall pay over to courts administering oaths of allegiance to persons under this subchapter a specified percentage of all fees described in subsection (a)(1) collected by the Attorney General with respect to persons administered the oath of allegiance by the respective courts. The Attorney General, annually and in consultation with the courts, shall determine the specified percentage based on the proportion, of the total costs incurred by the Service and courts for essential services directly related to the naturalization process, which are incurred by courts.
 
         (2) The Attorney General shall provide on an annual basis to the Committees on the Judiciary of the House of Representatives and of the Senate a detailed report on the use of the fees described in paragraph (1) and shall consult with such Committees before increasing such fees.
 

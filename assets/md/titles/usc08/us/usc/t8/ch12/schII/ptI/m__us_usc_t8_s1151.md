@@ -17,17 +17,17 @@
 
     (a) __In general__ 
 
-    Exclusive of aliens described in subsection (b) of this section, aliens born in a foreign state or dependent area who may be issued immigrant visas or who may otherwise acquire the status of an alien lawfully admitted to the United States for permanent residence are limited to—
+    Exclusive of aliens described in subsection (b), aliens born in a foreign state or dependent area who may be issued immigrant visas or who may otherwise acquire the status of an alien lawfully admitted to the United States for permanent residence are limited to—
 
-        (1) family-sponsored immigrants described in [section 1153(a) of this title][/us/usc/t8/s1153/a] (or who are admitted under [section 1181(a) of this title][/us/usc/t8/s1181/a] on the basis of a prior issuance of a visa to their accompanying parent under [section 1153(a) of this title][/us/usc/t8/s1153/a]) in a number not to exceed in any fiscal year the number specified in subsection (c) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year;
+        (1) family-sponsored immigrants described in [section 1153(a) of this title][/us/usc/t8/s1153/a] (or who are admitted under [section 1181(a) of this title][/us/usc/t8/s1181/a] on the basis of a prior issuance of a visa to their accompanying parent under [section 1153(a) of this title][/us/usc/t8/s1153/a]) in a number not to exceed in any fiscal year the number specified in subsection (c) for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year;
 
-        (2) employment-based immigrants described in [section 1153(b) of this title][/us/usc/t8/s1153/b] (or who are admitted under [section 1181(a) of this title][/us/usc/t8/s1181/a] on the basis of a prior issuance of a visa to their accompanying parent under [section 1153(b) of this title][/us/usc/t8/s1153/b]), in a number not to exceed in any fiscal year the number specified in subsection (d) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year; and
+        (2) employment-based immigrants described in [section 1153(b) of this title][/us/usc/t8/s1153/b] (or who are admitted under [section 1181(a) of this title][/us/usc/t8/s1181/a] on the basis of a prior issuance of a visa to their accompanying parent under [section 1153(b) of this title][/us/usc/t8/s1153/b]), in a number not to exceed in any fiscal year the number specified in subsection (d) for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year; and
 
-        (3) for fiscal years beginning with fiscal year 1995, diversity immigrants described in [section 1153(c) of this title][/us/usc/t8/s1153/c] (or who are admitted under [section 1181(a) of this title][/us/usc/t8/s1181/a] on the basis of a prior issuance of a visa to their accompanying parent under [section 1153(c) of this title][/us/usc/t8/s1153/c]) in a number not to exceed in any fiscal year the number specified in subsection (e) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year.
+        (3) for fiscal years beginning with fiscal year 1995, diversity immigrants described in [section 1153(c) of this title][/us/usc/t8/s1153/c] (or who are admitted under [section 1181(a) of this title][/us/usc/t8/s1181/a] on the basis of a prior issuance of a visa to their accompanying parent under [section 1153(c) of this title][/us/usc/t8/s1153/c]) in a number not to exceed in any fiscal year the number specified in subsection (e) for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year.
 
     (b) __Aliens not subject to direct numerical limitations__ 
 
-    Aliens described in this subsection, who are not subject to the worldwide levels or numerical limitations of subsection (a) of this section, are as follows:
+    Aliens described in this subsection, who are not subject to the worldwide levels or numerical limitations of subsection (a), are as follows:
 
         (1)
 
@@ -73,7 +73,7 @@
 
                 (ii) In no case shall the number computed under subparagraph (A) be less than 226,000.
 
-        (2) The number computed under this paragraph for a fiscal year is the sum of the number of aliens described in subparagraphs (A) and (B) of subsection (b)(2) of this section who were issued immigrant visas or who otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year.
+        (2) The number computed under this paragraph for a fiscal year is the sum of the number of aliens described in subparagraphs (A) and (B) of subsection (b)(2) who were issued immigrant visas or who otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year.
 
         (3)
 
@@ -89,7 +89,7 @@
 
             (A) who did not depart from the United States (without advance parole) within 365 days; and
 
-            (B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status in such years under a provision of law (other than subsection (b) of this section) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
+            (B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status in such years under a provision of law (other than subsection (b)) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
 
         (5) If any alien described in paragraph (4) (other than an alien described in paragraph (4)(B)(ii)) is subsequently admitted as an alien lawfully admitted for permanent residence, such alien shall not again be considered for purposes of paragraph (1).
 
@@ -119,15 +119,15 @@
 
         (1) __Age on petition filing date__ 
 
-            Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i) of this section, a determination of whether an alien satisfies the age requirement in the matter preceding subparagraph (A) of [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1] shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under [section 1154 of this title][/us/usc/t8/s1154] to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section.
+            Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i), a determination of whether an alien satisfies the age requirement in the matter preceding subparagraph (A) of [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1] shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under [section 1154 of this title][/us/usc/t8/s1154] to classify the alien as an immediate relative under subsection (b)(2)(A)(i).
 
         (2) __Age on parent’s naturalization date__ 
 
-            In the case of a petition under [section 1154 of this title][/us/usc/t8/s1154] initially filed for an alien child’s classification as a family-sponsored immigrant under [section 1153(a)(2)(A) of this title][/us/usc/t8/s1153/a/2/A], based on the child’s parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section, the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent’s naturalization.
+            In the case of a petition under [section 1154 of this title][/us/usc/t8/s1154] initially filed for an alien child’s classification as a family-sponsored immigrant under [section 1153(a)(2)(A) of this title][/us/usc/t8/s1153/a/2/A], based on the child’s parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i), the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent’s naturalization.
 
         (3) __Age on marriage termination date__ 
 
-            In the case of a petition under [section 1154 of this title][/us/usc/t8/s1154] initially filed for an alien’s classification as a family-sponsored immigrant under [section 1153(a)(3) of this title][/us/usc/t8/s1153/a/3], based on the alien’s being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien’s marriage, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section or as an unmarried son or daughter of a citizen under [section 1153(a)(1) of this title][/us/usc/t8/s1153/a/1], the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
+            In the case of a petition under [section 1154 of this title][/us/usc/t8/s1154] initially filed for an alien’s classification as a family-sponsored immigrant under [section 1153(a)(3) of this title][/us/usc/t8/s1153/a/3], based on the alien’s being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien’s marriage, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) or as an unmarried son or daughter of a citizen under [section 1153(a)(1) of this title][/us/usc/t8/s1153/a/1], the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
 
         (4) __Application to self-petitions__ 
 

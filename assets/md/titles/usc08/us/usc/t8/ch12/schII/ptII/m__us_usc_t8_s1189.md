@@ -57,13 +57,13 @@
 
             (B) __Classified information__ 
 
-                The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+                The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
         (4) __Period of designation__ 
 
             (A) __In general__ 
 
-                A designation under this subsection shall be effective for all purposes until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section.
+                A designation under this subsection shall be effective for all purposes until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c).
 
             (B) __Review of designation upon petition__ 
 
@@ -91,7 +91,7 @@
 
                     (II) __Classified information__ 
 
-                        The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+                        The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
                     (III) __Publication of determination__ 
 
@@ -149,7 +149,7 @@
 
         (2) __Procedure__ 
 
-            Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
+            Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) shall also apply to an amended designation.
 
         (3) __Administrative record__ 
 
@@ -157,7 +157,7 @@
 
         (4) __Classified information__ 
 
-            The Secretary may consider classified information in amending a designation in accordance with this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+            The Secretary may consider classified information in amending a designation in accordance with this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
     (c) __Judicial review of designation__ 
 
@@ -213,7 +213,7 @@
 
     2004—Subsec. (a)(3)(B). [Pub. L. 108–458, § 7119(c)(1)(A)][/us/pl/108/458/s7119/c/1/A], substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (a)(4)(A). [Pub. L. 108–458, § 7119(a)(1)][/us/pl/108/458/s7119/a/1], substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
+    Subsec. (a)(4)(A). [Pub. L. 108–458, § 7119(a)(1)][/us/pl/108/458/s7119/a/1], substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c)” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
 
     Subsec. (a)(4)(B). [Pub. L. 108–458, § 7119(a)(2)][/us/pl/108/458/s7119/a/2], added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
 
@@ -251,7 +251,7 @@
 
     Subsec. (a)(2)(C). [Pub. L. 107–56, § 411(c)(5)][/us/pl/107/56/s411/c/5], substituted “paragraph (2)(A)(i)” for “paragraph (2)”.
 
-    Subsec. (a)(3)(B). [Pub. L. 107–56, § 411(c)(6)][/us/pl/107/56/s411/c/6], substituted “subsection (b) of this section” for “subsection (c) of this section”.
+    Subsec. (a)(3)(B). [Pub. L. 107–56, § 411(c)(6)][/us/pl/107/56/s411/c/6], substituted “subsection (b)” for “subsection (c)”.
 
     Subsec. (a)(4)(B). [Pub. L. 107–56, § 411(c)(7)][/us/pl/107/56/s411/c/7], inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
 

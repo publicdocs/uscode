@@ -49,11 +49,11 @@
 
     (d) __Annual reports__ 
 
-        Beginning on October 1, 1999, and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsections (a), (b), and (c) of this section for the fiscal year ending September 30 of that year.
+        Beginning on October 1, 1999, and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsections (a), (b), and (c) for the fiscal year ending September 30 of that year.
 
     (e) __Availability to public__ 
 
-        Copies of the data collected under subsections (a), (b), and (c) of this section shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
+        Copies of the data collected under subsections (a), (b), and (c) shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
 
 ([Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title IX, § 904\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–542.)
 

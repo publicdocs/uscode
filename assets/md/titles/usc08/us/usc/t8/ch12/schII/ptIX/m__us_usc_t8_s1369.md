@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Subject to such amounts as are provided in advance in appropriation Acts, each State or political subdivision of a State that provides medical assistance for care and treatment of an emergency medical condition (as defined in subsection (d) of this section) through a public hospital or other public facility (including a nonprofit hospital that is eligible for an additional payment adjustment under [section 1395ww of title 42][/us/usc/t42/s1395ww]) or through contract with another hospital or facility to an individual who is an alien not lawfully present in the United States is eligible for payment from the Federal Government of its costs of providing such services, but only to the extent that such costs are not otherwise reimbursed through any other Federal program and cannot be recovered from the alien or another person.
+        Subject to such amounts as are provided in advance in appropriation Acts, each State or political subdivision of a State that provides medical assistance for care and treatment of an emergency medical condition (as defined in subsection (d)) through a public hospital or other public facility (including a nonprofit hospital that is eligible for an additional payment adjustment under [section 1395ww of title 42][/us/usc/t42/s1395ww]) or through contract with another hospital or facility to an individual who is an alien not lawfully present in the United States is eligible for payment from the Federal Government of its costs of providing such services, but only to the extent that such costs are not otherwise reimbursed through any other Federal program and cannot be recovered from the alien or another person.
 
     (b) __Confirmation of immigration status required__ 
 
@@ -39,7 +39,7 @@
 
     (e) __Effective date__ 
 
-        Subsection (a) of this section shall apply to medical assistance for care and treatment of an emergency medical condition furnished on or after January 1, 1997.
+        Subsection (a) shall apply to medical assistance for care and treatment of an emergency medical condition furnished on or after January 1, 1997.
 
 ([Pub. L. 104–208, div. C, title V, § 562][/us/pl/104/208/s562], Sept. 30, 1996, [110 Stat. 3009–682][/us/stat/110/3009-682].)
 

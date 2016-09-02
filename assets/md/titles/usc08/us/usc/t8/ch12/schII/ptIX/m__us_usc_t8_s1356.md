@@ -25,7 +25,7 @@
 
     (c) __Fees and administrative fines and penalties; exception__ 
 
-        Except as otherwise provided in subsection (a) and subsection (b) of this section, or in any other provision of this subchapter, all moneys received in payment of fees and administrative fines and penalties under this subchapter shall be covered into the Treasury as miscellaneous receipts: Provided, however, That all fees received from applicants residing in the Virgin Islands of the United States, and in Guam, required to be paid under [section 1351 of this title][/us/usc/t8/s1351], shall be paid over to the Treasury of the Virgin Islands and to the Treasury of Guam, respectively.
+        Except as otherwise provided in subsection (a) and subsection (b), or in any other provision of this subchapter, all moneys received in payment of fees and administrative fines and penalties under this subchapter shall be covered into the Treasury as miscellaneous receipts: Provided, however, That all fees received from applicants residing in the Virgin Islands of the United States, and in Guam, required to be paid under [section 1351 of this title][/us/usc/t8/s1351], shall be paid over to the Treasury of the Virgin Islands and to the Treasury of Guam, respectively.
 
     (d) __Schedule of fees__ 
 
@@ -35,7 +35,7 @@
 
         (1)
 
-         Except as provided in paragraph (3), no fee shall be charged under subsection (d) of this section for immigration inspection or preinspection provided in connection with the arrival of any passenger, other than aircraft passengers, whose journey originated in the following:
+         Except as provided in paragraph (3), no fee shall be charged under subsection (d) for immigration inspection or preinspection provided in connection with the arrival of any passenger, other than aircraft passengers, whose journey originated in the following:
 
             (A) Canada,
 
@@ -47,7 +47,7 @@
 
         (2)
 
-         No fee may be charged under subsection (d) of this section with respect to the arrival of any passenger—
+         No fee may be charged under subsection (d) with respect to the arrival of any passenger—
 
             (A) who is in transit to a destination outside the United States, and
 
@@ -61,9 +61,9 @@
 
          Each person that issues a document or ticket to an individual for transportation by a commercial vessel or commercial aircraft into the United States shall—
 
-            (A) collect from that individual the fee charged under subsection (d) of this section at the time the document or ticket is issued; and
+            (A) collect from that individual the fee charged under subsection (d) at the time the document or ticket is issued; and
 
-            (B) identify on that document or ticket the fee charged under subsection (d) of this section as a Federal inspection fee.
+            (B) identify on that document or ticket the fee charged under subsection (d) as a Federal inspection fee.
 
         (2)
 
@@ -71,15 +71,15 @@
 
             (A) a document or ticket for transportation of a passenger into the United States is issued in a foreign country; and
 
-            (B) the fee charged under subsection (d) of this section is not collected at the time such document or ticket is issued;
+            (B) the fee charged under subsection (d) is not collected at the time such document or ticket is issued;
 
             the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the United States and shall provide such passenger a receipt for the payment of such fee.
 
-        (3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
+        (3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
 
     (g) __Provision of immigration inspection and preinspection services__ 
 
-    Notwithstanding [section 1353b of this title][/us/usc/t8/s1353b], or any other provision of law, the immigration services required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d) of this section) to airlines and airline passengers at:
+    Notwithstanding [section 1353b of this title][/us/usc/t8/s1353b], or any other provision of law, the immigration services required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d)) to airlines and airline passengers at:
 
         (1) immigration serviced airports, and
 
@@ -129,7 +129,7 @@
 
     (l) __Report to Congress__ 
 
-        In addition to the reporting requirements established pursuant to subsection (h) of this section, the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the “Immigration User Fee Account” including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
+        In addition to the reporting requirements established pursuant to subsection (h), the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the “Immigration User Fee Account” including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
 
     (m) __Immigration Examinations Fee Account__ 
 

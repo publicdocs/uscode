@@ -21,11 +21,11 @@
 
     (b) __Annual report__ 
 
-        The Attorney General and the Secretary of the Treasury shall prepare and submit annually to Congress a report on the joint United States-Canada inspections projects conducted under subsection (a) of this section.
+        The Attorney General and the Secretary of the Treasury shall prepare and submit annually to Congress a report on the joint United States-Canada inspections projects conducted under subsection (a).
 
     (c) __Exemption from Administrative Procedure Act and Paperwork Reduction Act__ 
 
-        Subchapter II of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) and chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to fee setting for services and other administrative requirements relating to projects described in subsection (a) of this section, except that fees and forms established for such projects shall be published as a notice in the Federal Register.
+        Subchapter II of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) and chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to fee setting for services and other administrative requirements relating to projects described in subsection (a), except that fees and forms established for such projects shall be published as a notice in the Federal Register.
 
 ([Pub. L. 107–173, title IV, § 404][/us/pl/107/173/s404], May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
 

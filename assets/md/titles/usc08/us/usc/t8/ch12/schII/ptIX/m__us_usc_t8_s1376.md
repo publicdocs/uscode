@@ -21,7 +21,7 @@
 
     (b) __Annual report__ 
 
-        Not later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a) of this section.
+        Not later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a).
 
 ([Pub. L. 105–173, § 2][/us/pl/105/173/s2], Apr. 27, 1998, [112 Stat. 56][/us/stat/112/56].)
 

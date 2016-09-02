@@ -27,7 +27,7 @@
 
     (c) __Remission or refund__ 
 
-        Except as provided in subsection (e) of this section, such fine shall not be remitted or refunded, unless it appears to the satisfaction of the Attorney General that such person, and the owner, master, commanding officer, agent, charterer, and consignee of the vessel or aircraft, prior to the departure of the vessel or aircraft from the last port outside the United States, did not know, and could not have ascertained by the exercise of reasonable diligence, that the individual transported was an alien and that a valid passport or visa was required.
+        Except as provided in subsection (e), such fine shall not be remitted or refunded, unless it appears to the satisfaction of the Attorney General that such person, and the owner, master, commanding officer, agent, charterer, and consignee of the vessel or aircraft, prior to the departure of the vessel or aircraft from the last port outside the United States, did not know, and could not have ascertained by the exercise of reasonable diligence, that the individual transported was an alien and that a valid passport or visa was required.
 
     (d) __Repealed.__  __[__  __Pub. L. 104–208, div. C, title III, § 308(e)(13)__  __][/us/pl/104/208/s308/e/13]__  __,__  __Sept. 30, 1996__  __,__  __[__  __110 Stat. 3009–620__  __][/us/stat/110/3009-620]__ 
 
@@ -63,7 +63,7 @@
 
     [Pub. L. 103–416, § 209(a)(2)][/us/pl/103/416/s209/a/2], (4), in first sentence substituted “an amount equal to” for “a sum equal to” and “such latter fine” for “such latter sum”, and in second sentence substituted “such fine or while such fine” for “such sums or while such sums” and “cover such fine” for “cover such sums”.
 
-    Subsec. (c). [Pub. L. 103–416, § 209(a)(4)][/us/pl/103/416/s209/a/4], (5), substituted “Except as provided in subsection (e) of this section, such fine” for “Such sums”.
+    Subsec. (c). [Pub. L. 103–416, § 209(a)(4)][/us/pl/103/416/s209/a/4], (5), substituted “Except as provided in subsection (e), such fine” for “Such sums”.
 
     Subsec. (d). [Pub. L. 103–416, § 216][/us/pl/103/416/s216], amended first sentence generally. Prior to amendment, first sentence read as follows: “The owner, charterer, agent, consignee, commanding officer, or master of any vessel or aircraft arriving at the United States from any place outside thereof who fails to detain on board or at such other place as may be designated by an immigration officer any alien stowaway until such stowaway has been inspected by an immigration officer, or who fails to detain such stowaway on board or at such other designated place after inspection if ordered to do so by an immigration officer, or who fails to deport such stowaway on the vessel or aircraft on which he arrived or on another vessel or aircraft at the expense of the vessel or aircraft on which he arrived when required to do so by an immigration officer, shall pay to the Commissioner the sum of $3,000 for each alien stowaway, in respect of whom any such failure occurs.”
 

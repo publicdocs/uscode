@@ -25,7 +25,7 @@
 
     (b) __State compliance__ 
 
-        Not later than 24 months after the date the regulations described in subsection (a) of this section are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
+        Not later than 24 months after the date the regulations described in subsection (a) are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
 
     (c) __Authorization of appropriations__ 
 
@@ -33,7 +33,7 @@
 
     (d) __No verification requirement for nonprofit charitable organizations__ 
 
-        Subject to subsection (a) of this section, a nonprofit charitable organization, in providing any Federal public benefit (as defined in [section 1611(c) of this title][/us/usc/t8/s1611/c]) or any State or local public benefit (as defined in [section 1621(c) of this title][/us/usc/t8/s1621/c]), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
+        Subject to subsection (a), a nonprofit charitable organization, in providing any Federal public benefit (as defined in [section 1611(c) of this title][/us/usc/t8/s1611/c]) or any State or local public benefit (as defined in [section 1621(c) of this title][/us/usc/t8/s1621/c]), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
 ([Pub. L. 104–193, title IV, § 432][/us/pl/104/193/s432], Aug. 22, 1996, [110 Stat. 2274][/us/stat/110/2274]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208], §§ 504, 508, Sept. 30, 1996, [110 Stat. 3009–672][/us/stat/110/3009-672], 3009–673; [Pub. L. 105–33, title V, § 5572(a)][/us/pl/105/33/s5572/a], Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641].)
 

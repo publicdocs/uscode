@@ -123,7 +123,7 @@
 
         (1) __In general__ 
 
-        In the case of an alien granted asylum under subsection (b) of this section, the Attorney General—
+        In the case of an alien granted asylum under subsection (b), the Attorney General—
 
             (A) shall not remove or return the alien to the alien’s country of nationality or, in the case of a person having no nationality, the country of the alien’s last habitual residence;
 
@@ -133,11 +133,11 @@
 
         (2) __Termination of asylum__ 
 
-        Asylum granted under subsection (b) of this section does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that—
+        Asylum granted under subsection (b) does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that—
 
-            (A) the alien no longer meets the conditions described in subsection (b)(1) of this section owing to a fundamental change in circumstances;
+            (A) the alien no longer meets the conditions described in subsection (b)(1) owing to a fundamental change in circumstances;
 
-            (B) the alien meets a condition described in subsection (b)(2) of this section;
+            (B) the alien meets a condition described in subsection (b)(2);
 
             (C) the alien may be removed, pursuant to a bilateral or multilateral agreement, to a country (other than the country of the alien’s nationality or, in the case of an alien having no nationality, the country of the alien’s last habitual residence) in which the alien’s life or freedom would not be threatened on account of race, religion, nationality, membership in a particular social group, or political opinion, and where the alien is eligible to receive asylum or equivalent temporary protection;
 
@@ -153,7 +153,7 @@
 
         (1) __Applications__ 
 
-            The Attorney General shall establish a procedure for the consideration of asylum applications filed under subsection (a) of this section. The Attorney General may require applicants to submit fingerprints and a photograph at such time and in such manner to be determined by regulation by the Attorney General.
+            The Attorney General shall establish a procedure for the consideration of asylum applications filed under subsection (a). The Attorney General may require applicants to submit fingerprints and a photograph at such time and in such manner to be determined by regulation by the Attorney General.
 
         (2) __Employment__ 
 

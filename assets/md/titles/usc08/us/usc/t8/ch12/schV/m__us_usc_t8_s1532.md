@@ -21,7 +21,7 @@
 
     (b) __Terms__ 
 
-    Each judge designated under subsection (a) of this section shall serve for a term of 5 years and shall be eligible for redesignation, except that of the members first designated—
+    Each judge designated under subsection (a) shall serve for a term of 5 years and shall be eligible for redesignation, except that of the members first designated—
 
         (1) 1 member shall serve for a term of 1 year;
 

@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Notwithstanding any other provision of law and except as provided in subsections (b) and (d) of this section, an alien who is not—
+    Notwithstanding any other provision of law and except as provided in subsections (b) and (d), an alien who is not—
 
         (1) a qualified alien (as defined in [section 1641 of this title][/us/usc/t8/s1641]),
 
@@ -25,11 +25,11 @@
 
         (3) an alien who is paroled into the United States under section 212(d)(5) of such Act \[[8 U.S.C. 1182(d)(5)][/us/usc/t8/s1182/d/5]\] for less than one year,
 
-        is not eligible for any State or local public benefit (as defined in subsection (c) of this section).
+        is not eligible for any State or local public benefit (as defined in subsection (c)).
 
     (b) __Exceptions__ 
 
-    Subsection (a) of this section shall not apply with respect to the following State or local public benefits:
+    Subsection (a) shall not apply with respect to the following State or local public benefits:
 
         (1) Assistance for health care items and services that are necessary for the treatment of an emergency medical condition (as defined in [section 1396b(v)(3) of title 42][/us/usc/t42/s1396b/v/3]) of the alien involved and are not related to an organ transplant procedure.
 
@@ -63,7 +63,7 @@
 
     (d) __State authority to provide for eligibility of illegal aliens for State and local public benefits__ 
 
-        A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) of this section only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
+        A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
 ([Pub. L. 104–193, title IV, § 411][/us/pl/104/193/s411], Aug. 22, 1996, [110 Stat. 2268][/us/stat/110/2268]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5565, 5581(b)(1), Aug. 5, 1997, [111 Stat. 639][/us/stat/111/639], 642; [Pub. L. 105–306, § 5(b)][/us/pl/105/306/s5/b], Oct. 28, 1998, [112 Stat. 2927][/us/stat/112/2927].)
 

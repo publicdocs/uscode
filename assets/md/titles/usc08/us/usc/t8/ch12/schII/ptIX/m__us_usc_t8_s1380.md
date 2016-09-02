@@ -21,7 +21,7 @@
 
     (b) __Applicability__ 
 
-        Subsection (a) of this section shall apply to petitions filed on or after the effective date of this subtitle.
+        Subsection (a) shall apply to petitions filed on or after the effective date of this subtitle.
 
 ([Pub. L. 108–447, div. J, title IV, § 414][/us/pl/108/447/s414], Dec. 8, 2004, [118 Stat. 3352][/us/stat/118/3352].)
 

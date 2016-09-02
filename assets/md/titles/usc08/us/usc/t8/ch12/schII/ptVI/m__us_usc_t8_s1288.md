@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        For purposes of [section 1101(a)(15)(D)(i) of this title][/us/usc/t8/s1101/a/15/D/i], the term “normal operation and service on board a vessel” does not include any activity that is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
+        For purposes of [section 1101(a)(15)(D)(i) of this title][/us/usc/t8/s1101/a/15/D/i], the term “normal operation and service on board a vessel” does not include any activity that is longshore work (as defined in subsection (b)), except as provided under subsection (c), (d), or (e).
 
     (b) __“Longshore work” defined__ 
 
@@ -43,7 +43,7 @@
 
         (1)
 
-         Subsection (a) of this section shall not apply to a particular activity of longshore work in and about a local port if—
+         Subsection (a) shall not apply to a particular activity of longshore work in and about a local port if—
 
             (A)
 
@@ -77,7 +77,7 @@
 
         (4)
 
-            (A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in [section 1101(a)(15)(D)(i) of this title][/us/usc/t8/s1101/a/15/D/i] with respect to whom an attestation under paragraph (1) or subsection (d)(1) of this section is made and, for each such entity, a copy of the entity’s attestation under paragraph (1) or subsection (d)(1) of this section (and accompanying documentation) and each such list filed by the entity.
+            (A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in [section 1101(a)(15)(D)(i) of this title][/us/usc/t8/s1101/a/15/D/i] with respect to whom an attestation under paragraph (1) or subsection (d)(1) is made and, for each such entity, a copy of the entity’s attestation under paragraph (1) or subsection (d)(1) (and accompanying documentation) and each such list filed by the entity.
 
             (B)
 
@@ -103,13 +103,13 @@
 
             (F) A finding by the Secretary of Labor under this paragraph that the performance of an activity by alien crewmen is not permitted under the prevailing practice of a local port shall preclude for one year the filing of a subsequent attestation concerning such activity in the port under paragraph (1).
 
-        (5) Except as provided in paragraph (5) of subsection (d) of this section, this subsection shall not apply to longshore work performed in the State of Alaska.
+        (5) Except as provided in paragraph (5) of subsection (d), this subsection shall not apply to longshore work performed in the State of Alaska.
 
     (d) __State of Alaska exception__ 
 
         (1)
 
-         Subsection (a) of this section shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
+         Subsection (a) shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
 
             (A)
 
@@ -165,7 +165,7 @@
 
         (4)
 
-         Subject to subparagraphs (A) through (D) of subsection (c)(4) of this section, attestations filed under paragraph (1) of this subsection shall—
+         Subject to subparagraphs (A) through (D) of subsection (c)(4), attestations filed under paragraph (1) of this subsection shall—
 
             (A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
@@ -173,9 +173,9 @@
 
         (5)
 
-            (A) Except as otherwise provided by subparagraph (B), subsection (c)(3) of this section and subparagraphs (A) through (E) of subsection (c)(4) of this section shall apply to attestations filed under this subsection.
+            (A) Except as otherwise provided by subparagraph (B), subsection (c)(3) and subparagraphs (A) through (E) of subsection (c)(4) shall apply to attestations filed under this subsection.
 
-            (B) The use of alien crewmen to perform longshore work in Alaska consisting of the use of an automated self-unloading conveyor belt or vacuum-actuated system on a vessel shall be governed by the provisions of subsection (c) of this section.
+            (B) The use of alien crewmen to perform longshore work in Alaska consisting of the use of an automated self-unloading conveyor belt or vacuum-actuated system on a vessel shall be governed by the provisions of subsection (c).
 
         (6)
 
@@ -225,9 +225,9 @@
 
     Subsec. (e). [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg], repealed [Pub. L. 103–198, § 8(a)][/us/pl/103/198/s8/a], which had made an amendment substantially identical to that made by [Pub. L. 103–206, § 323(a)][/us/pl/103/206/s323/a]. See 1993 Amendment note below.
 
-    1993—Subsec. (a). [Pub. L. 103–206, § 323(b)(1)][/us/pl/103/206/s323/b/1], substituted “subsection (c), (d), or (e) of this section” for “subsection (c) of this section or subsection (d) of this section”. [Pub. L. 103–198, § 8(b)(1)][/us/pl/103/198/s8/b/1], which amended subsec. (a) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
+    1993—Subsec. (a). [Pub. L. 103–206, § 323(b)(1)][/us/pl/103/206/s323/b/1], substituted “subsection (c), (d), or (e)” for “subsection (c) or subsection (d)”. [Pub. L. 103–198, § 8(b)(1)][/us/pl/103/198/s8/b/1], which amended subsec. (a) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
 
-    Subsec. (c)(4)(A). [Pub. L. 103–206, § 323(b)(2)][/us/pl/103/206/s323/b/2], inserted “or subsection (d)(1) of this section” after “paragraph (1)” in two places. [Pub. L. 103–198, § 8(b)(2)][/us/pl/103/198/s8/b/2], which amended subpar. (A) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
+    Subsec. (c)(4)(A). [Pub. L. 103–206, § 323(b)(2)][/us/pl/103/206/s323/b/2], inserted “or subsection (d)(1)” after “paragraph (1)” in two places. [Pub. L. 103–198, § 8(b)(2)][/us/pl/103/198/s8/b/2], which amended subpar. (A) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
 
     Subsec. (c)(5). [Pub. L. 103–206, § 323(b)(3)][/us/pl/103/206/s323/b/3], added par. (5). [Pub. L. 103–198, § 8(b)(3)][/us/pl/103/198/s8/b/3], which amended subsec. (c) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
 

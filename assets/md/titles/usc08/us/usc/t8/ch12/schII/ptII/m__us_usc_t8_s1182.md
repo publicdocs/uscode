@@ -43,7 +43,7 @@
 
             (B) __Waiver authorized__ 
 
-                For provision authorizing waiver of certain clauses of subparagraph (A), see subsection (g) of this section.
+                For provision authorizing waiver of certain clauses of subparagraph (A), see subsection (g).
 
             (C) __Exception from immunization requirement for adopted children 10 years of age or younger__ 
 
@@ -121,7 +121,7 @@
 
             (F) __Waiver authorized__ 
 
-                For provision authorizing waiver of certain subparagraphs of this paragraph, see subsection (h) of this section.
+                For provision authorizing waiver of certain subparagraphs of this paragraph, see subsection (h).
 
             (G) __Foreign government officials who have committed particularly severe violations of religious freedom__ 
 
@@ -463,7 +463,7 @@
 
             (C) __Uncertified foreign health-care workers__ 
 
-            Subject to subsection (r) of this section, any alien who seeks to enter the United States for the purpose of performing labor as a health-care worker, other than a physician, is inadmissible unless the alien presents to the consular officer, or, in the case of an adjustment of status, the Attorney General, a certificate from the Commission on Graduates of Foreign Nursing Schools, or a certificate from an equivalent independent credentialing organization approved by the Attorney General in consultation with the Secretary of Health and Human Services, verifying that—
+            Subject to subsection (r), any alien who seeks to enter the United States for the purpose of performing labor as a health-care worker, other than a physician, is inadmissible unless the alien presents to the consular officer, or, in the case of an adjustment of status, the Attorney General, a certificate from the Commission on Graduates of Foreign Nursing Schools, or a certificate from an equivalent independent credentialing organization approved by the Attorney General in consultation with the Secretary of Health and Human Services, verifying that—
 
                 (i)
 
@@ -525,7 +525,7 @@
 
                 (iii) __Waiver authorized__ 
 
-                    For provision authorizing waiver of clause (i), see subsection (i) of this section.
+                    For provision authorizing waiver of clause (i), see subsection (i).
 
             (D) __Stowaways__ 
 
@@ -543,7 +543,7 @@
 
                 (iii) __Waiver authorized__ 
 
-                    For provision authorizing waiver of clause (i), see subsection (d)(11) of this section.
+                    For provision authorizing waiver of clause (i), see subsection (d)(11).
 
             (F) __Subject of civil penalty__ 
 
@@ -553,7 +553,7 @@
 
                 (ii) __Waiver authorized__ 
 
-                    For provision authorizing waiver of clause (i), see subsection (d)(12) of this section.
+                    For provision authorizing waiver of clause (i), see subsection (d)(12).
 
             (G) __Student visa abusers__ 
 
@@ -575,7 +575,7 @@
 
                 (ii) __Waiver authorized__ 
 
-                    For provision authorizing waiver of clause (i), see subsection (k) of this section.
+                    For provision authorizing waiver of clause (i), see subsection (k).
 
             (B) __Nonimmigrants__ 
 
@@ -591,7 +591,7 @@
 
                 (ii) __General waiver authorized__ 
 
-                    For provision authorizing waiver of clause (i), see subsection (d)(4) of this section.
+                    For provision authorizing waiver of clause (i), see subsection (d)(4).
 
                 (iii) __Guam and Northern Mariana Islands visa waiver__ 
 
@@ -771,7 +771,7 @@
 
         (1)
 
-         Subject to paragraphs (2) and (3), if an alien’s application for a visa, for admission to the United States, or for adjustment of status is denied by an immigration or consular officer because the officer determines the alien to be inadmissible under subsection (a) of this section, the officer shall provide the alien with a timely written notice that—
+         Subject to paragraphs (2) and (3), if an alien’s application for a visa, for admission to the United States, or for adjustment of status is denied by an immigration or consular officer because the officer determines the alien to be inadmissible under subsection (a), the officer shall provide the alien with a timely written notice that—
 
             (A) states the determination, and
 
@@ -779,19 +779,19 @@
 
         (2) The Secretary of State may waive the requirements of paragraph (1) with respect to a particular alien or any class or classes of inadmissible aliens.
 
-        (3) Paragraph (1) does not apply to any alien inadmissible under paragraph (2) or (3) of subsection (a) of this section.
+        (3) Paragraph (1) does not apply to any alien inadmissible under paragraph (2) or (3) of subsection (a).
 
     (c) __Repealed.__  __[__  __Pub. L. 104–208, div. C, title III, § 304(b)__  __][/us/pl/104/208/s304/b]__  __,__  __Sept. 30, 1996__  __,__  __[__  __110 Stat. 3009–597__  __][/us/stat/110/3009-597]__ 
 
     (d) __Temporary admission of nonimmigrants__ 
 
-        (1) The Attorney General shall determine whether a ground for inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S]. The Attorney General, in the Attorney General’s discretion, may waive the application of subsection (a) of this section (other than paragraph (3)(E)) in the case of a nonimmigrant described in [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S], if the Attorney General considers it to be in the national interest to do so. Nothing in this section shall be regarded as prohibiting the Immigration and Naturalization Service from instituting removal proceedings against an alien admitted as a nonimmigrant under [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S] for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Attorney General prior to the alien’s admission as a nonimmigrant under [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S].
+        (1) The Attorney General shall determine whether a ground for inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S]. The Attorney General, in the Attorney General’s discretion, may waive the application of subsection (a) (other than paragraph (3)(E)) in the case of a nonimmigrant described in [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S], if the Attorney General considers it to be in the national interest to do so. Nothing in this section shall be regarded as prohibiting the Immigration and Naturalization Service from instituting removal proceedings against an alien admitted as a nonimmigrant under [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S] for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Attorney General prior to the alien’s admission as a nonimmigrant under [section 1101(a)(15)(S) of this title][/us/usc/t8/s1101/a/15/S].
 
         (2) Repealed. [Pub. L. 101–649, title VI, § 601(d)(2)(A)][/us/pl/101/649/s601/d/2/A], Nov. 29, 1990, [104 Stat. 5076][/us/stat/104/5076].
 
         (3)
 
-            (A) Except as provided in this subsection, an alien (i) who is applying for a nonimmigrant visa and is known or believed by the consular officer to be ineligible for such visa under subsection (a) of this section (other than paragraphs (3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), and clauses (i) and (ii) of paragraph (3)(E) of such subsection), may, after approval by the Attorney General of a recommendation by the Secretary of State or by the consular officer that the alien be admitted temporarily despite his inadmissibility, be granted such a visa and may be admitted into the United States temporarily as a nonimmigrant in the discretion of the Attorney General, or (ii) who is inadmissible under subsection (a) of this section (other than paragraphs (3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), and clauses (i) and (ii) of paragraph (3)(E) of such subsection), but who is in possession of appropriate documents or is granted a waiver thereof and is seeking admission, may be admitted into the United States temporarily as a nonimmigrant in the discretion of the Attorney General. The Attorney General shall prescribe conditions, including exaction of such bonds as may be necessary, to control and regulate the admission and return of inadmissible aliens applying for temporary admission under this paragraph.
+            (A) Except as provided in this subsection, an alien (i) who is applying for a nonimmigrant visa and is known or believed by the consular officer to be ineligible for such visa under subsection (a) (other than paragraphs (3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), and clauses (i) and (ii) of paragraph (3)(E) of such subsection), may, after approval by the Attorney General of a recommendation by the Secretary of State or by the consular officer that the alien be admitted temporarily despite his inadmissibility, be granted such a visa and may be admitted into the United States temporarily as a nonimmigrant in the discretion of the Attorney General, or (ii) who is inadmissible under subsection (a) (other than paragraphs (3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), and clauses (i) and (ii) of paragraph (3)(E) of such subsection), but who is in possession of appropriate documents or is granted a waiver thereof and is seeking admission, may be admitted into the United States temporarily as a nonimmigrant in the discretion of the Attorney General. The Attorney General shall prescribe conditions, including exaction of such bonds as may be necessary, to control and regulate the admission and return of inadmissible aliens applying for temporary admission under this paragraph.
 
             (B)
 
@@ -799,7 +799,7 @@
 
                 (ii) Not later than 90 days after the end of each fiscal year, the Secretary of State and the Secretary of Homeland Security shall each provide to the Committees on the Judiciary of the House of Representatives and of the Senate, the Committee on International Relations of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Homeland Security of the House of Representatives a report on the aliens to whom such Secretary has applied clause (i). Within one week of applying clause (i) to a group, the Secretary of State or the Secretary of Homeland Security shall provide a report to such Committees.
 
-        (4) Either or both of the requirements of paragraph (7)(B)(i) of subsection (a) of this section may be waived by the Attorney General and the Secretary of State acting jointly (A) on the basis of unforeseen emergency in individual cases, or (B) on the basis of reciprocity with respect to nationals of foreign contiguous territory or of adjacent islands and residents thereof having a common nationality with such nationals, or (C) in the case of aliens proceeding in immediate and continuous transit through the United States under contracts authorized in [section 1223(c) of this title][/us/usc/t8/s1223/c].
+        (4) Either or both of the requirements of paragraph (7)(B)(i) of subsection (a) may be waived by the Attorney General and the Secretary of State acting jointly (A) on the basis of unforeseen emergency in individual cases, or (B) on the basis of reciprocity with respect to nationals of foreign contiguous territory or of adjacent islands and residents thereof having a common nationality with such nationals, or (C) in the case of aliens proceeding in immediate and continuous transit through the United States under contracts authorized in [section 1223(c) of this title][/us/usc/t8/s1223/c].
 
         (5)
 
@@ -809,17 +809,17 @@
 
         (6) Repealed. [Pub. L. 101–649, title VI, § 601(d)(2)(A)][/us/pl/101/649/s601/d/2/A], Nov. 29, 1990, [104 Stat. 5076][/us/stat/104/5076].
 
-        (7) The provisions of subsection (a) of this section (other than paragraph (7)) shall be applicable to any alien who shall leave Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States, and who seeks to enter the continental United States or any other place under the jurisdiction of the United States. The Attorney General shall by regulations provide a method and procedure for the temporary admission to the United States of the aliens described in this proviso. <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup>  Any alien described in this paragraph, who is denied admission to the United States, shall be immediately removed in the manner provided by [section 1231(c) of this title][/us/usc/t8/s1231/c].
+        (7) The provisions of subsection (a) (other than paragraph (7)) shall be applicable to any alien who shall leave Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States, and who seeks to enter the continental United States or any other place under the jurisdiction of the United States. The Attorney General shall by regulations provide a method and procedure for the temporary admission to the United States of the aliens described in this proviso. <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup>  Any alien described in this paragraph, who is denied admission to the United States, shall be immediately removed in the manner provided by [section 1231(c) of this title][/us/usc/t8/s1231/c].
 
         (8) Upon a basis of reciprocity accredited officials of foreign governments, their immediate families, attendants, servants, and personal employees may be admitted in immediate and continuous transit through the United States without regard to the provisions of this section except paragraphs (3)(A), (3)(B), (3)(C), and (7)(B) of subsection (a) of this section.
 
         (9), (10) Repealed. [Pub. L. 101–649, title VI, § 601(d)(2)(A)][/us/pl/101/649/s601/d/2/A], Nov. 29, 1990, [104 Stat. 5076][/us/stat/104/5076].
 
-        (11) The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) of subsection (a)(6)(E) of this section in the case of any alien lawfully admitted for permanent residence who temporarily proceeded abroad voluntarily and not under an order of removal, and who is otherwise admissible to the United States as a returning resident under [section 1181(b) of this title][/us/usc/t8/s1181/b] and in the case of an alien seeking admission or adjustment of status as an immediate relative or immigrant under [section 1153(a) of this title][/us/usc/t8/s1153/a] (other than paragraph (4) thereof), if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of such action was the alien’s spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+        (11) The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) of subsection (a)(6)(E) in the case of any alien lawfully admitted for permanent residence who temporarily proceeded abroad voluntarily and not under an order of removal, and who is otherwise admissible to the United States as a returning resident under [section 1181(b) of this title][/us/usc/t8/s1181/b] and in the case of an alien seeking admission or adjustment of status as an immediate relative or immigrant under [section 1153(a) of this title][/us/usc/t8/s1153/a] (other than paragraph (4) thereof), if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of such action was the alien’s spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
 
         (12)
 
-         The Attorney General may, in the discretion of the Attorney General for humanitarian purposes or to assure family unity, waive application of clause (i) of subsection (a)(6)(F) of this section—
+         The Attorney General may, in the discretion of the Attorney General for humanitarian purposes or to assure family unity, waive application of clause (i) of subsection (a)(6)(F)—
 
             (A) in the case of an alien lawfully admitted for permanent residence who temporarily proceeded abroad voluntarily and not under an order of deportation or removal and who is otherwise admissible to the United States as a returning resident under [section 1181(b) of this title][/us/usc/t8/s1181/b], and
 
@@ -829,17 +829,17 @@
 
         (13)
 
-            (A) The Secretary of Homeland Security shall determine whether a ground for inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(T) of this title][/us/usc/t8/s1101/a/15/T], except that the ground for inadmissibility described in subsection (a)(4) of this section shall not apply with respect to such a nonimmigrant.
+            (A) The Secretary of Homeland Security shall determine whether a ground for inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(T) of this title][/us/usc/t8/s1101/a/15/T], except that the ground for inadmissibility described in subsection (a)(4) shall not apply with respect to such a nonimmigrant.
 
             (B)
 
              In addition to any other waiver that may be available under this section, in the case of a nonimmigrant described in [section 1101(a)(15)(T) of this title][/us/usc/t8/s1101/a/15/T], if the Secretary of Homeland Security considers it to be in the national interest to do so, the Secretary of Homeland Security, in the Attorney General’s  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “Secretary’s”. </sup></sup>  discretion, may waive the application of—
 
-                (i) subsection (a)(1) of this section; and
+                (i) subsection (a)(1); and
 
-                (ii) any other provision of subsection (a) of this section (excluding paragraphs (3), (4), (10)(C), and (10(E))  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be “(10)(E))”. </sup></sup>  if the activities rendering the alien inadmissible under the provision were caused by, or were incident to, the victimization described in [section 1101(a)(15)(T)(i)(I) of this title][/us/usc/t8/s1101/a/15/T/i/I].
+                (ii) any other provision of subsection (a) (excluding paragraphs (3), (4), (10)(C), and (10(E))  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be “(10)(E))”. </sup></sup>  if the activities rendering the alien inadmissible under the provision were caused by, or were incident to, the victimization described in [section 1101(a)(15)(T)(i)(I) of this title][/us/usc/t8/s1101/a/15/T/i/I].
 
-        (14) The Secretary of Homeland Security shall determine whether a ground of inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(U) of this title][/us/usc/t8/s1101/a/15/U]. The Secretary of Homeland Security, in the Attorney General’s 6 discretion, may waive the application of subsection (a) of this section (other than paragraph (3)(E)) in the case of a nonimmigrant described in [section 1101(a)(15)(U) of this title][/us/usc/t8/s1101/a/15/U], if the Secretary of Homeland Security considers it to be in the public or national interest to do so.
+        (14) The Secretary of Homeland Security shall determine whether a ground of inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(U) of this title][/us/usc/t8/s1101/a/15/U]. The Secretary of Homeland Security, in the Attorney General’s 6 discretion, may waive the application of subsection (a) (other than paragraph (3)(E)) in the case of a nonimmigrant described in [section 1101(a)(15)(U) of this title][/us/usc/t8/s1101/a/15/U], if the Secretary of Homeland Security considers it to be in the public or national interest to do so.
 
     (e) __Educational visitor status; foreign residence requirement; waiver__ 
 
@@ -867,7 +867,7 @@
 
         (2)
 
-         subsection (a)(1)(A)(ii) of this section in the case of any alien—
+         subsection (a)(1)(A)(ii) in the case of any alien—
 
             (A) who receives vaccination against the vaccine-preventable disease or diseases for which the alien has failed to present documentation of previous vaccination,
 
@@ -875,11 +875,11 @@
 
             (C) under such circumstances as the Attorney General provides by regulation, with respect to whom the requirement of such a vaccination would be contrary to the alien’s religious beliefs or moral convictions; or
 
-        (3) subsection (a)(1)(A)(iii) of this section in the case of any alien, in accordance with such terms, conditions, and controls, if any, including the giving of bond, as the Attorney General, in the discretion of the Attorney General after consultation with the Secretary of Health and Human Services, may by regulation prescribe.
+        (3) subsection (a)(1)(A)(iii) in the case of any alien, in accordance with such terms, conditions, and controls, if any, including the giving of bond, as the Attorney General, in the discretion of the Attorney General after consultation with the Secretary of Health and Human Services, may by regulation prescribe.
 
     (h) __Waiver of subsection (a)(2)(A)(i)(I), (II), (B), (D), and (E)__ 
 
-    The Attorney General may, in his discretion, waive the application of subparagraphs (A)(i)(I), (B), (D), and (E) of subsection (a)(2) of this section and subparagraph (A)(i)(II) of such subsection insofar as it relates to a single offense of simple possession of 30 grams or less of marijuana if—
+    The Attorney General may, in his discretion, waive the application of subparagraphs (A)(i)(I), (B), (D), and (E) of subsection (a)(2) and subparagraph (A)(i)(II) of such subsection insofar as it relates to a single offense of simple possession of 30 grams or less of marijuana if—
 
         (1)
 
@@ -903,7 +903,7 @@
 
     (i) __Admission of immigrant inadmissible for fraud or willful misrepresentation of material fact__ 
 
-        (1) The Attorney General may, in the discretion of the Attorney General, waive the application of clause (i) of subsection (a)(6)(C) of this section in the case of an immigrant who is the spouse, son, or daughter of a United States citizen or of an alien lawfully admitted for permanent residence if it is established to the satisfaction of the Attorney General that the refusal of admission to the United States of such immigrant alien would result in extreme hardship to the citizen or lawfully resident spouse or parent of such an alien or, in the case of a VAWA self-petitioner, the alien demonstrates extreme hardship to the alien or the alien’s United States citizen, lawful permanent resident, or qualified alien parent or child.
+        (1) The Attorney General may, in the discretion of the Attorney General, waive the application of clause (i) of subsection (a)(6)(C) in the case of an immigrant who is the spouse, son, or daughter of a United States citizen or of an alien lawfully admitted for permanent residence if it is established to the satisfaction of the Attorney General that the refusal of admission to the United States of such immigrant alien would result in extreme hardship to the citizen or lawfully resident spouse or parent of such an alien or, in the case of a VAWA self-petitioner, the alien demonstrates extreme hardship to the alien or the alien’s United States citizen, lawful permanent resident, or qualified alien parent or child.
 
         (2) No court shall have jurisdiction to review a decision or action of the Attorney General regarding a waiver under paragraph (1).
 
@@ -947,7 +947,7 @@
 
     (k) __Attorney General’s discretion to admit otherwise inadmissible aliens who possess immigrant visas__ 
 
-        Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(i) of subsection (a) of this section, who is in possession of an immigrant visa may, if otherwise admissible, be admitted in the discretion of the Attorney General if the Attorney General is satisfied that inadmissibility was not known to, and could not have been ascertained by the exercise of reasonable diligence by, the immigrant before the time of departure of the vessel or aircraft from the last port outside the United States and outside foreign contiguous territory or, in the case of an immigrant coming from foreign contiguous territory, before the time of the immigrant’s application for admission.
+        Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(i) of subsection (a), who is in possession of an immigrant visa may, if otherwise admissible, be admitted in the discretion of the Attorney General if the Attorney General is satisfied that inadmissibility was not known to, and could not have been ascertained by the exercise of reasonable diligence by, the immigrant before the time of departure of the vessel or aircraft from the last port outside the United States and outside foreign contiguous territory or, in the case of an immigrant coming from foreign contiguous territory, before the time of the immigrant’s application for admission.
 
     (l) __Guam and Northern Mariana Islands visa waiver program__ 
 
@@ -1427,7 +1427,7 @@
 
         (1)
 
-         In computing the prevailing wage level for an occupational classification in an area of employment for purposes of subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section in the case of an employee of—
+         In computing the prevailing wage level for an occupational classification in an area of employment for purposes of subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) in the case of an employee of—
 
             (A) an institution of higher education (as defined in [section 1001(a) of title 20][/us/usc/t20/s1001/a]), or a related or affiliated nonprofit entity; or
 
@@ -1435,19 +1435,19 @@
 
             the prevailing wage level shall only take into account employees at such institutions and organizations in the area of employment.
 
-        (2) With respect to a professional athlete (as defined in subsection (a)(5)(A)(iii)(II) of this section) when the job opportunity is covered by professional sports league rules or regulations, the wage set forth in those rules or regulations shall be considered as not adversely affecting the wages of United States workers similarly employed and be considered the prevailing wage.
+        (2) With respect to a professional athlete (as defined in subsection (a)(5)(A)(iii)(II)) when the job opportunity is covered by professional sports league rules or regulations, the wage set forth in those rules or regulations shall be considered as not adversely affecting the wages of United States workers similarly employed and be considered the prevailing wage.
 
-        (3) The prevailing wage required to be paid pursuant to subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section shall be 100 percent of the wage determined pursuant to those sections.
+        (3) The prevailing wage required to be paid pursuant to subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) shall be 100 percent of the wage determined pursuant to those sections.
 
         (4) Where the Secretary of Labor uses, or makes available to employers, a governmental survey to determine the prevailing wage, such survey shall provide at least 4 levels of wages commensurate with experience, education, and the level of supervision. Where an existing government survey has only 2 levels, 2 intermediate levels may be created by dividing by 3, the difference between the 2 levels offered, adding the quotient thus obtained to the first level and subtracting that quotient from the second level.
 
     (q) __Academic honoraria__ 
 
-        Any alien admitted under [section 1101(a)(15)(B) of this title][/us/usc/t8/s1101/a/15/B] may accept an honorarium payment and associated incidental expenses for a usual academic activity or activities (lasting not longer than 9 days at any single institution), as defined by the Attorney General in consultation with the Secretary of Education, if such payment is offered by an institution or organization described in subsection (p)(1) of this section and is made for services conducted for the benefit of that institution or entity and if the alien has not accepted such payment or expenses from more than 5 institutions or organizations in the previous 6-month period.
+        Any alien admitted under [section 1101(a)(15)(B) of this title][/us/usc/t8/s1101/a/15/B] may accept an honorarium payment and associated incidental expenses for a usual academic activity or activities (lasting not longer than 9 days at any single institution), as defined by the Attorney General in consultation with the Secretary of Education, if such payment is offered by an institution or organization described in subsection (p)(1) and is made for services conducted for the benefit of that institution or entity and if the alien has not accepted such payment or expenses from more than 5 institutions or organizations in the previous 6-month period.
 
     (r) __Exception for certain alien nurses__ 
 
-    Subsection (a)(5)(C) of this section shall not apply to an alien who seeks to enter the United States for the purpose of performing labor as a nurse who presents to the consular officer (or in the case of an adjustment of status, the Attorney General) a certified statement from the Commission on Graduates of Foreign Nursing Schools (or an equivalent independent credentialing organization approved for the certification of nurses under subsection (a)(5)(C) of this section by the Attorney General in consultation with the Secretary of Health and Human Services) that—
+    Subsection (a)(5)(C) shall not apply to an alien who seeks to enter the United States for the purpose of performing labor as a nurse who presents to the consular officer (or in the case of an adjustment of status, the Attorney General) a certified statement from the Commission on Graduates of Foreign Nursing Schools (or an equivalent independent credentialing organization approved for the certification of nurses under subsection (a)(5)(C) by the Attorney General in consultation with the Secretary of Health and Human Services) that—
 
         (1) the alien has a valid and unrestricted license as a nurse in a State where the alien intends to be employed and such State verifies that the foreign licenses of alien nurses are authentic and unencumbered;
 
@@ -1465,17 +1465,17 @@
 
                 (i) designated by such commission not later than 30 days after November 12, 1999, based on such commission’s assessment that the quality of nursing education in that country, and the English language proficiency of those who complete such programs in that country, justify the country’s designation; or
 
-                (ii) designated on the basis of such an assessment by unanimous agreement of such commission and any equivalent credentialing organizations which have been approved under subsection (a)(5)(C) of this section for the certification of nurses under this subsection; and
+                (ii) designated on the basis of such an assessment by unanimous agreement of such commission and any equivalent credentialing organizations which have been approved under subsection (a)(5)(C) for the certification of nurses under this subsection; and
 
             (C)
 
                 (i) which was in operation on or before November 12, 1999; or
 
-                (ii) has been approved by unanimous agreement of such commission and any equivalent credentialing organizations which have been approved under subsection (a)(5)(C) of this section for the certification of nurses under this subsection.
+                (ii) has been approved by unanimous agreement of such commission and any equivalent credentialing organizations which have been approved under subsection (a)(5)(C) for the certification of nurses under this subsection.
 
     (s) __Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge__ 
 
-        In determining whether an alien described in subsection (a)(4)(C)(i) of this section is inadmissible under subsection (a)(4) of this section or ineligible to receive an immigrant visa or otherwise to adjust to the status of permanent resident by reason of subsection (a)(4) of this section, the consular officer or the Attorney General shall not consider any benefits the alien may have received that were authorized under [section 1641(c) of this title][/us/usc/t8/s1641/c].
+        In determining whether an alien described in subsection (a)(4)(C)(i) is inadmissible under subsection (a)(4) or ineligible to receive an immigrant visa or otherwise to adjust to the status of permanent resident by reason of subsection (a)(4), the consular officer or the Attorney General shall not consider any benefits the alien may have received that were authorized under [section 1641(c) of this title][/us/usc/t8/s1641/c].
 
     (t)  __ <sup>\[__  __11__  __\]</sup> __  __ <sup><sup> __  __11__  __ So in original. Two subsecs. (t) have been enacted.__  __ </sup></sup> __  __Nonimmigrant professionals; labor attestations__ 
 
@@ -1757,11 +1757,11 @@
 
     2003—Subsec. (d)(13). [Pub. L. 108–193, § 8(a)(2)][/us/pl/108/193/s8/a/2], redesignated par. (13), relating to Attorney General’s determination whether a ground for inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(U) of this title][/us/usc/t8/s1101/a/15/U], as (14).
 
-    Subsec. (d)(13)(A). [Pub. L. 108–193, § 4(b)(4)(A)][/us/pl/108/193/s4/b/4/A], inserted “, except that the ground for inadmissibility described in subsection (a)(4) of this section shall not apply with respect to such a nonimmigrant” before period at end.
+    Subsec. (d)(13)(A). [Pub. L. 108–193, § 4(b)(4)(A)][/us/pl/108/193/s4/b/4/A], inserted “, except that the ground for inadmissibility described in subsection (a)(4) shall not apply with respect to such a nonimmigrant” before period at end.
 
     Subsec. (d)(13)(B)(i). [Pub. L. 108–193, § 4(b)(4)(B)(i)][/us/pl/108/193/s4/b/4/B/i], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “paragraphs (1) and (4) of subsection (a) of this section; and”.
 
-    Subsec. (d)(13)(B)(ii). [Pub. L. 108–193, § 4(b)(4)(B)(ii)][/us/pl/108/193/s4/b/4/B/ii], substituted “subsection (a) of this section” for “such subsection” and inserted “(4),” after “(3),”.
+    Subsec. (d)(13)(B)(ii). [Pub. L. 108–193, § 4(b)(4)(B)(ii)][/us/pl/108/193/s4/b/4/B/ii], substituted “subsection (a)” for “such subsection” and inserted “(4),” after “(3),”.
 
     Subsec. (d)(14). [Pub. L. 108–193, § 8(a)(2)][/us/pl/108/193/s8/a/2], redesignated par. (13), relating to Attorney General’s determination whether a ground for inadmissibility exists with respect to a nonimmigrant described in [section 1101(a)(15)(U) of this title][/us/usc/t8/s1101/a/15/U], as (14).
 
@@ -1843,7 +1843,7 @@
 
     1999—Subsec. (a)(2)(C). [Pub. L. 106–120][/us/pl/106/120] amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Any alien who the consular or immigration officer knows or has reason to believe is or has been an illicit trafficker in any such controlled substance or is or has been a knowing assister, abettor, conspirator, or colluder with others in the illicit trafficking in any such controlled substance, is inadmissible.”
 
-    Subsec. (a)(5)(C). [Pub. L. 106–95, § 4(a)(2)][/us/pl/106/95/s4/a/2], substituted “Subject to subsection (r) of this section, any alien who seeks” for “Any alien who seeks” in introductory provisions.
+    Subsec. (a)(5)(C). [Pub. L. 106–95, § 4(a)(2)][/us/pl/106/95/s4/a/2], substituted “Subject to subsection (r), any alien who seeks” for “Any alien who seeks” in introductory provisions.
 
     Subsec. (m). [Pub. L. 106–95, § 2(b)][/us/pl/106/95/s2/b], amended subsec. (m) generally, adding provisions providing that no more than 33 percent of a facility’s workforce may be nonimmigrant aliens and making issuance of visas dependent upon State populations, and revising period of admission from a maximum of 6 years to 3 years.
 
@@ -2149,7 +2149,7 @@
 
     Subsec. (d)(1), (2). [Pub. L. 101–649, § 601(d)(2)(A)][/us/pl/101/649/s601/d/2/A], struck out pars. (1) and (2) which related to applicability of subsec. (a)(11), (25), and (28).
 
-    Subsec. (d)(3). [Pub. L. 101–649, § 601(d)(2)(B)][/us/pl/101/649/s601/d/2/B], substituted “under subsection (a) of this section (other than paragraphs (3)(A), (3)(C), and (3)(D) of such subsection)” for “under one or more of the paragraphs enumerated in subsection (a) of this section (other than paragraphs (27), (29), and (33))” wherever appearing, and inserted at end “The Attorney General shall prescribe conditions, including exaction of such bonds as may be necessary, to control and regulate the admission and return of excludable aliens applying for temporary admission under this paragraph.”
+    Subsec. (d)(3). [Pub. L. 101–649, § 601(d)(2)(B)][/us/pl/101/649/s601/d/2/B], substituted “under subsection (a) (other than paragraphs (3)(A), (3)(C), and (3)(D) of such subsection)” for “under one or more of the paragraphs enumerated in subsection (a) (other than paragraphs (27), (29), and (33))” wherever appearing, and inserted at end “The Attorney General shall prescribe conditions, including exaction of such bonds as may be necessary, to control and regulate the admission and return of excludable aliens applying for temporary admission under this paragraph.”
 
     Subsec. (d)(4). [Pub. L. 101–649, § 601(d)(2)(C)][/us/pl/101/649/s601/d/2/C], substituted “(7)(B)(i)” for “(26)”.
 

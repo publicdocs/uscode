@@ -85,7 +85,7 @@
 
                 (i) meets the goals of a comprehensive entry and exit screening system, including both entry and exit biometric; and
 
-                (ii) fulfills the statutory obligations under subsection (b) of this section.
+                (ii) fulfills the statutory obligations under subsection (b).
 
     (d) __Collection of biometric exit data__ 
 
@@ -229,7 +229,7 @@
 
     (i) __Dedicated specialists and front line personnel training__ 
 
-    In implementing the provisions of subsections (g) and (h) of this section, the Department of Homeland Security and the Department of State shall—
+    In implementing the provisions of subsections (g) and (h), the Department of Homeland Security and the Department of State shall—
 
         (1) develop cross-training programs that focus on the scope and procedures of the entry and exit data system;
 

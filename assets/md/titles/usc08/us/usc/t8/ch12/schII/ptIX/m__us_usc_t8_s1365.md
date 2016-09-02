@@ -21,7 +21,7 @@
 
     (b) __Illegal aliens convicted of a felony__ 
 
-    An illegal alien referred to in subsection (a) of this section is any alien who is any alien convicted of a felony who is in the United States unlawfully and—
+    An illegal alien referred to in subsection (a) is any alien who is any alien convicted of a felony who is in the United States unlawfully and—
 
         (1) whose most recent entry into the United States was without inspection, or
 
@@ -37,7 +37,7 @@
 
     (c) __Marielito Cubans convicted of a felony__ 
 
-    A Marielito Cuban convicted of a felony referred to in subsection (a) of this section is a national of Cuba who—
+    A Marielito Cuban convicted of a felony referred to in subsection (a) is a national of Cuba who—
 
         (1) was allowed by the Attorney General to come to the United States in 1980,
 

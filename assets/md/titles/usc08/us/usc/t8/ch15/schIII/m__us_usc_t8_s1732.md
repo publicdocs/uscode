@@ -21,9 +21,9 @@
 
         Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State, and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
 
-            (A) implementation of the requirements of subsections (b) and (c) of this section; and
+            (A) implementation of the requirements of subsections (b) and (c); and
 
-            (B) deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c) of this section.
+            (B) deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c).
 
         (2) __Estimates__ 
 
@@ -39,7 +39,7 @@
 
             (A) __In general__ 
 
-                Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1) of this section.
+                Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1).
 
             (B) __Use of readers and scanners__ 
 
@@ -47,7 +47,7 @@
 
                 (i) domestic and international standards organizations determine to be highly accurate when used to verify identity;
 
-                (ii) can read the biometric identifiers utilized under subsections (b)(1) and (c)(1) of this section; and
+                (ii) can read the biometric identifiers utilized under subsections (b)(1) and (c)(1); and
 
                 (iii) can authenticate the document presented to verify identity.
 

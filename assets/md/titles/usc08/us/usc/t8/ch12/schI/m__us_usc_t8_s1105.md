@@ -31,7 +31,7 @@
 
     (c) __Reconsideration upon development of more cost effective means of sharing information__ 
 
-        The provision of the extracts described in subsection (b) of this section may be reconsidered by the Attorney General and the receiving agency upon the development and deployment of a more cost-effective and efficient means of sharing the information.
+        The provision of the extracts described in subsection (b) may be reconsidered by the Attorney General and the receiving agency upon the development and deployment of a more cost-effective and efficient means of sharing the information.
 
     (d) __Regulations__ 
 

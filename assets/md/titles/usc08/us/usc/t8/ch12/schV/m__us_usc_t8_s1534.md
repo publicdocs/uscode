@@ -41,11 +41,11 @@
 
         (2) __Introduction of evidence__ 
 
-            Subject to the limitations in subsection (e) of this section, the alien shall have a reasonable opportunity to introduce evidence on the alien’s own behalf.
+            Subject to the limitations in subsection (e), the alien shall have a reasonable opportunity to introduce evidence on the alien’s own behalf.
 
         (3) __Examination of witnesses__ 
 
-            Subject to the limitations in subsection (e) of this section, the alien shall have a reasonable opportunity to examine the evidence against the alien and to cross-examine any witness.
+            Subject to the limitations in subsection (e), the alien shall have a reasonable opportunity to examine the evidence against the alien and to cross-examine any witness.
 
         (4) __Record__ 
 
@@ -63,7 +63,7 @@
 
         (2) __Payment for attendance__ 
 
-            If an application for a subpoena by the alien also makes a showing that the alien is financially unable to pay for the attendance of a witness so requested, the court may order the costs incurred by the process and the fees of the witness so subpoenaed to be paid from funds appropriated for the enforcement of subchapter II of this chapter.
+            If an application for a subpoena by the alien also makes a showing that the alien is financially unable to pay for the attendance of a witness so requested, the court may order the costs incurred by the process and the fees of the witness so subpoenaed to be paid from funds appropriated for the enforcement of subchapter II.
 
         (3) __Nationwide service__ 
 
@@ -169,7 +169,7 @@
 
     (j) __Written order__ 
 
-        At the time of issuing a decision as to whether the alien shall be removed, the judge shall prepare a written order containing a statement of facts found and conclusions of law. Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) of this section shall not be made available to the alien or the public.
+        At the time of issuing a decision as to whether the alien shall be removed, the judge shall prepare a written order containing a statement of facts found and conclusions of law. Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public.
 
     (k) __No right to ancillary relief__ 
 
@@ -221,7 +221,7 @@
 
     Subsec. (f). [Pub. L. 104–208, § 354(b)(2)][/us/pl/104/208/s354/b/2], inserted at end “The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.”
 
-    Subsec. (j). [Pub. L. 104–208, § 354(b)(3)][/us/pl/104/208/s354/b/3], inserted at end “Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) of this section shall not be made available to the alien or the public.”
+    Subsec. (j). [Pub. L. 104–208, § 354(b)(3)][/us/pl/104/208/s354/b/3], inserted at end “Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public.”
 
     Subsec. (k)(2). [Pub. L. 104–208, § 308(g)(7)(B)][/us/pl/104/208/s308/g/7/B], substituted “by withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3]” for “withholding of deportation under [section 1253(h) of this title][/us/usc/t8/s1253/h]”.
 

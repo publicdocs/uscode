@@ -49,7 +49,7 @@
 
             (B) __Application of regular procedures__ 
 
-                Subparagraph (A) shall not prevent the arrest and detention of the alien pursuant to subchapter II of this chapter.
+                Subparagraph (A) shall not prevent the arrest and detention of the alien pursuant to subchapter II.
 
     (b) __Conditional release if order denied and review sought__ 
 

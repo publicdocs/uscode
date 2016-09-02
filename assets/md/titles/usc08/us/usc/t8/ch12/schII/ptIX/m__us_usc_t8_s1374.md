@@ -25,7 +25,7 @@
 
     (b) __Limitation__ 
 
-        In consultation with the Secretary of State, the Commissioner of Immigration and Naturalization shall identify those countries in which female genital mutilation is commonly practiced and, to the extent practicable, limit the provision of information under subsection (a) of this section to aliens from such countries.
+        In consultation with the Secretary of State, the Commissioner of Immigration and Naturalization shall identify those countries in which female genital mutilation is commonly practiced and, to the extent practicable, limit the provision of information under subsection (a) to aliens from such countries.
 
     (c) __“Female genital mutilation” defined__ 
 

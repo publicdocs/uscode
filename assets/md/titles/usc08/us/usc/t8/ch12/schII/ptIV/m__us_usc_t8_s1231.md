@@ -253,17 +253,17 @@
 
             (A) __In general__ 
 
-            Except as provided in subparagraph (B) and subsection (d)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be subsection “(e)”. </sup></sup>  of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+            Except as provided in subparagraph (B) and subsection (d), <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be subsection “(e),”. </sup></sup>  an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
 
-                (i) while the alien is detained under subsection (d)(1) of this section, and
+                (i) while the alien is detained under subsection (d)(1), and
 
                 (ii)
 
                  in the case of an alien who is a stowaway, while the alien is being detained pursuant to—
 
-                    (I) subsection (d)(2)(A) or (d)(2)(B)(i) of this section,
+                    (I) subsection (d)(2)(A) or (d)(2)(B)(i),
 
-                    (II) subsection (d)(2)(B)(ii) or (iii) of this section for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
+                    (II) subsection (d)(2)(B)(ii) or (iii) for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
 
                     (III) [section 1225(b)(1)(B)(ii) of this title][/us/usc/t8/s1225/b/1/B/ii], for a period not to exceed 15 days (excluding Saturdays, Sundays, and holidays) commencing on the first such day which begins on the earlier of 72 hours after the time of the initial presentation of the stowaway for inspection or at the time the stowaway is determined to have a credible fear of persecution.
 

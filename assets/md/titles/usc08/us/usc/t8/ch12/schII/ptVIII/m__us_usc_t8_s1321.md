@@ -25,13 +25,13 @@
 
     (c) __Liability of owners and operators of international bridges and toll roads__ 
 
-        (1) Any owner or operator of a railroad line, international bridge, or toll road who establishes to the satisfaction of the Attorney General that the person has acted diligently and reasonably to fulfill the duty imposed by subsection (a) of this section shall not be liable for the penalty described in such subsection, notwithstanding the failure of the person to prevent the unauthorized landing of any alien.
+        (1) Any owner or operator of a railroad line, international bridge, or toll road who establishes to the satisfaction of the Attorney General that the person has acted diligently and reasonably to fulfill the duty imposed by subsection (a) shall not be liable for the penalty described in such subsection, notwithstanding the failure of the person to prevent the unauthorized landing of any alien.
 
         (2)
 
-            (A) At the request of any person described in paragraph (1), the Attorney General shall inspect any facility established, or any method utilized, at a point of entry into the United States by such person for the purpose of complying with subsection (a) of this section. The Attorney General shall approve any such facility or method (for such period of time as the Attorney General may prescribe) which the Attorney General determines is satisfactory for such purpose.
+            (A) At the request of any person described in paragraph (1), the Attorney General shall inspect any facility established, or any method utilized, at a point of entry into the United States by such person for the purpose of complying with subsection (a). The Attorney General shall approve any such facility or method (for such period of time as the Attorney General may prescribe) which the Attorney General determines is satisfactory for such purpose.
 
-            (B) Proof that any person described in paragraph (1) has diligently maintained any facility, or utilized any method, which has been approved by the Attorney General under subparagraph (A) (within the period for which the approval is effective) shall be prima facie evidence that such person acted diligently and reasonably to fulfill the duty imposed by subsection (a) of this section (within the meaning of paragraph (1) of this subsection).
+            (B) Proof that any person described in paragraph (1) has diligently maintained any facility, or utilized any method, which has been approved by the Attorney General under subparagraph (A) (within the period for which the approval is effective) shall be prima facie evidence that such person acted diligently and reasonably to fulfill the duty imposed by subsection (a) (within the meaning of paragraph (1) of this subsection).
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 271, [66 Stat. 226][/us/stat/66/226]; [Pub. L. 99–603, title I, § 114][/us/pl/99/603/s114], Nov. 6, 1986, [100 Stat. 3383][/us/stat/100/3383]; [Pub. L. 101–649, title V, § 543(a)(8)][/us/pl/101/649/s543/a/8], Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058]; [Pub. L. 104–208, div. C, title III, § 308(g)(1)][/us/pl/104/208/s308/g/1], Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
 

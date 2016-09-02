@@ -41,7 +41,7 @@
 
     (c) __Adopted children__ 
 
-        Subsections (a) and (b) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
+        Subsections (a) and (b) shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
 
     (d) __Children of Armed Forces members__ 
 

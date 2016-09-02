@@ -239,7 +239,7 @@
 
                     (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-                    (V) an alien  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “alien is”. </sup></sup>  admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 of this section until 5 years after the date of such alien’s entry into the United States.
+                    (V) an alien  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “alien is”. </sup></sup>  admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 until 5 years after the date of such alien’s entry into the United States.
 
                 (ii) __Other designated Federal programs__ 
 
@@ -253,7 +253,7 @@
 
                     (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-                    (V) an alien 3 admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 of this section until 5 years after the date of such alien’s entry into the United States.
+                    (V) an alien 3 admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 until 5 years after the date of such alien’s entry into the United States.
 
             (B) __Certain permanent resident aliens__ 
 
@@ -281,11 +281,11 @@
 
             (E) __Medicaid exception for certain Indians__ 
 
-                With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), [section 1611(a) of this title][/us/usc/t8/s1611/a] and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G) of this section.
+                With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), [section 1611(a) of this title][/us/usc/t8/s1611/a] and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G).
 
             (F) __Medicaid exception for aliens receiving SSI__ 
 
-                An alien who is receiving benefits under the program defined in subsection (a)(3)(A) of this section (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
+                An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
         (3) __“Designated Federal program” defined__ 
 

@@ -71,7 +71,7 @@
 
             (A) __In general__ 
 
-                Any alien who, after written notice required under paragraph (1) or (2) of [section 1229(a) of this title][/us/usc/t8/s1229/a] has been provided to the alien or the alien’s counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under [section 1229(a)(1)(F) of this title][/us/usc/t8/s1229/a/1/F].
+                Any alien who, after written notice required under paragraph (1) or (2) of [section 1229(a) of this title][/us/usc/t8/s1229/a] has been provided to the alien or the alien’s counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2)). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under [section 1229(a)(1)(F) of this title][/us/usc/t8/s1229/a/1/F].
 
             (B) __No notice if failure to provide address information__ 
 
@@ -81,7 +81,7 @@
 
             Such an order may be rescinded only—
 
-                (i) upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1) of this section), or
+                (i) upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1)), or
 
                 (ii) upon a motion to reopen filed at any time if the alien demonstrates that the alien did not receive notice in accordance with paragraph (1) or (2) of [section 1229(a) of this title][/us/usc/t8/s1229/a] or the alien demonstrates that the alien was in Federal or State custody and the failure to appear was through no fault of the alien.
 
@@ -109,7 +109,7 @@
 
         (7) __Limitation on discretionary relief for failure to appear__ 
 
-            Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of [section 1229(a) of this title][/us/usc/t8/s1229/a], was provided oral notice, either in the alien’s native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1) of this section) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
+            Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of [section 1229(a) of this title][/us/usc/t8/s1229/a], was provided oral notice, either in the alien’s native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1)) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
 
     (c) __Decision and burden of proof__ 
 
@@ -225,7 +225,7 @@
 
                 (iii) __Failure to appear__ 
 
-                    The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
+                    The filing of a motion to reopen an order entered pursuant to subsection (b)(5) is subject to the deadline specified in subparagraph (C) of such subsection.
 
                 (iv) __Special rule for battered spouses, children, and parents__ 
 

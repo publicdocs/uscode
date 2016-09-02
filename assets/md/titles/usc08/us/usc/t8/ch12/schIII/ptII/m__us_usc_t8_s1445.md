@@ -29,7 +29,7 @@
 
     (d) __Filing of application__ 
 
-        Except as provided in subsection (e) of this section, an application for naturalization shall be filed in the office of the Attorney General.
+        Except as provided in subsection (e), an application for naturalization shall be filed in the office of the Attorney General.
 
     (e) __Substitute filing place and administering oath other than before Attorney General__ 
 

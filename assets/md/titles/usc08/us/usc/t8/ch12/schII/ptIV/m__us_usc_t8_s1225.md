@@ -23,7 +23,7 @@
 
         (2) __Stowaways__ 
 
-            An arriving alien who is a stowaway is not eligible to apply for admission or to be admitted and shall be ordered removed upon inspection by an immigration officer. Upon such inspection if the alien indicates an intention to apply for asylum under [section 1158 of this title][/us/usc/t8/s1158] or a fear of persecution, the officer shall refer the alien for an interview under subsection (b)(1)(B) of this section. A stowaway may apply for asylum only if the stowaway is found to have a credible fear of persecution under subsection (b)(1)(B) of this section. In no case may a stowaway be considered an applicant for admission or eligible for a hearing under [section 1229a of this title][/us/usc/t8/s1229a].
+            An arriving alien who is a stowaway is not eligible to apply for admission or to be admitted and shall be ordered removed upon inspection by an immigration officer. Upon such inspection if the alien indicates an intention to apply for asylum under [section 1158 of this title][/us/usc/t8/s1158] or a fear of persecution, the officer shall refer the alien for an interview under subsection (b)(1)(B). A stowaway may apply for asylum only if the stowaway is found to have a credible fear of persecution under subsection (b)(1)(B). In no case may a stowaway be considered an applicant for admission or eligible for a hearing under [section 1229a of this title][/us/usc/t8/s1229a].
 
         (3) __Inspection__ 
 

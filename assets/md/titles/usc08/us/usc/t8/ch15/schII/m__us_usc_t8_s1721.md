@@ -17,7 +17,7 @@
 
     (a) __Interim directive__ 
 
-        Until the plan required by subsection (c) of this section is implemented, Federal law enforcement agencies and the intelligence community shall, to the maximum extent practicable, share any information with the Department of State and the Immigration and Naturalization Service relevant to the admissibility and deportability of aliens, consistent with the plan described in subsection (c) of this section.
+        Until the plan required by subsection (c) is implemented, Federal law enforcement agencies and the intelligence community shall, to the maximum extent practicable, share any information with the Department of State and the Immigration and Naturalization Service relevant to the admissibility and deportability of aliens, consistent with the plan described in subsection (c).
 
     (b) __Report identifying law enforcement and intelligence information__ 
 
@@ -31,7 +31,7 @@
 
         (1) __Requirement for plan__ 
 
-            Not later than one year after October 26, 2001, the President shall develop and implement a plan based on the findings of the report under subsection (b) of this section that requires Federal law enforcement agencies and the intelligence community to provide to the Department of State and the Immigration and Naturalization Service all information identified in that report as expeditiously as practicable.
+            Not later than one year after October 26, 2001, the President shall develop and implement a plan based on the findings of the report under subsection (b) that requires Federal law enforcement agencies and the intelligence community to provide to the Department of State and the Immigration and Naturalization Service all information identified in that report as expeditiously as practicable.
 
         (2) __Consultation requirement__ 
 
@@ -39,7 +39,7 @@
 
         (3) __Protections regarding information and uses thereof__ 
 
-        The plan under this subsection shall establish conditions for using the information described in subsection (b) of this section received by the Department of State and Immigration and Naturalization Service—
+        The plan under this subsection shall establish conditions for using the information described in subsection (b) received by the Department of State and Immigration and Naturalization Service—
 
             (A) to limit the redissemination of such information;
 

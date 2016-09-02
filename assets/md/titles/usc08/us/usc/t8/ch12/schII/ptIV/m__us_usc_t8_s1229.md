@@ -29,7 +29,7 @@
 
             (D) The charges against the alien and the statutory provisions alleged to have been violated.
 
-            (E) The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) of this section and (ii) a current list of counsel prepared under subsection (b)(2) of this section.
+            (E) The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) and (ii) a current list of counsel prepared under subsection (b)(2).
 
             (F)
 
@@ -71,7 +71,7 @@
 
         (2) __Current lists of counsel__ 
 
-            The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under [section 1229a of this title][/us/usc/t8/s1229a]. Such lists shall be provided under subsection (a)(1)(E) of this section and otherwise made generally available.
+            The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under [section 1229a of this title][/us/usc/t8/s1229a]. Such lists shall be provided under subsection (a)(1)(E) and otherwise made generally available.
 
         (3) __Rule of construction__ 
 
@@ -79,7 +79,7 @@
 
     (c) __Service by mail__ 
 
-        Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F) of this section.
+        Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F).
 
     (d) __Prompt initiation of removal__ 
 

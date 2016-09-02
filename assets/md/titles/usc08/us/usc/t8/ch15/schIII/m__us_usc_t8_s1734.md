@@ -21,7 +21,7 @@
 
     (b) __Use of foreign intelligence information__ 
 
-        As an ongoing component of the training required in subsection (a) of this section, the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
+        As an ongoing component of the training required in subsection (a), the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
 
     (c) __Authorization of appropriations__ 
 

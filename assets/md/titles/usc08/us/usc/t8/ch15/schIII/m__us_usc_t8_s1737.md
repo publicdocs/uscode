@@ -27,7 +27,7 @@
 
     (b) __Transition period__ 
 
-        Until such time as the law enforcement and intelligence data system described in [section 1722 of this title][/us/usc/t8/s1722] is fully implemented, the Attorney General shall enter the data described in subsection (a) of this section into an existing data system being used to determine the admissibility or deportability of aliens.
+        Until such time as the law enforcement and intelligence data system described in [section 1722 of this title][/us/usc/t8/s1722] is fully implemented, the Attorney General shall enter the data described in subsection (a) into an existing data system being used to determine the admissibility or deportability of aliens.
 
 ([Pub. L. 107–173, title III, § 308][/us/pl/107/173/s308], May 14, 2002, [116 Stat. 556][/us/stat/116/556].)
 

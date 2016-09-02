@@ -19,17 +19,17 @@
 
         (1) __Conditional basis for status__ 
 
-            Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+            Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
         (2) __Notice of requirements__ 
 
             (A) __At time of obtaining permanent residence__ 
 
-                At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
+                At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
 
             (B) __At time of required petition__ 
 
-                In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsection (c)(1) of this section.
+                In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).
 
             (C) __Effect of failure to provide notice__ 
 
@@ -39,7 +39,7 @@
 
         (1) __In general__ 
 
-        In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a) of this section, if the Attorney General determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—
+        In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a), if the Attorney General determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—
 
             (A) the investment in the commercial enterprise was intended solely as a means of evading the immigration laws of the United States,
 
@@ -61,21 +61,21 @@
 
         (1) __In general__ 
 
-        In order for the conditional basis established under subsection (a) of this section for an alien entrepreneur, alien spouse, or alien child to be removed—
+        In order for the conditional basis established under subsection (a) for an alien entrepreneur, alien spouse, or alien child to be removed—
 
-            (A) the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2) of this section, a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1) of this section, and
+            (A) the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and
 
-            (B) in accordance with subsection (d)(3) of this section, the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1) of this section.
+            (B) in accordance with subsection (d)(3), the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1).
 
         (2) __Termination of permanent resident status for failure to file petition or have personal interview__ 
 
             (A) __In general__ 
 
-            In the case of an alien with permanent resident status on a conditional basis under subsection (a) of this section, if—
+            In the case of an alien with permanent resident status on a conditional basis under subsection (a), if—
 
                 (i) no petition is filed with respect to the alien in accordance with the provisions of paragraph (1)(A), or
 
-                (ii) unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3) of this section),
+                (ii) unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),
 
                 the Attorney General shall terminate the permanent resident status of the alien (and the alien’s spouse and children if it was obtained on a conditional basis under this section or [section 1186a of this title][/us/usc/t8/s1186a]) as of the second anniversary of the alien’s lawful admission for permanent residence.
 
@@ -93,7 +93,7 @@
 
                 (ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
 
-                the Attorney General shall make a determination, within 90 days of the date of the such filing  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
+                the Attorney General shall make a determination, within 90 days of the date of the such filing  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
             (B) __Removal of conditional basis if favorable determination__ 
 
@@ -105,13 +105,13 @@
 
             (D) __Hearing in removal proceeding__ 
 
-                Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying commercial enterprise.
+                Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.
 
     (d) __Details of petition and interview__ 
 
         (1) __Contents of petition__ 
 
-        Each petition under subsection (c)(1)(A) of this section shall contain facts and information demonstrating that the alien—
+        Each petition under subsection (c)(1)(A) shall contain facts and information demonstrating that the alien—
 
             (A)
 
@@ -125,7 +125,7 @@
 
             (A) __90-day period before second anniversary__ 
 
-                Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) of this section must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.
+                Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.
 
             (B) __Date petitions for good cause__ 
 
@@ -137,7 +137,7 @@
 
         (3) __Personal interview__ 
 
-            The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+            The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 
     (e) __Treatment of period for purposes of naturalization__ 
 

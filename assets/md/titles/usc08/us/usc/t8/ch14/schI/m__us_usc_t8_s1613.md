@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d) of this section, an alien who is a qualified alien (as defined in [section 1641 of this title][/us/usc/t8/s1641]) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien’s entry into the United States with a status within the meaning of the term “qualified alien”.
+        Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d), an alien who is a qualified alien (as defined in [section 1641 of this title][/us/usc/t8/s1641]) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien’s entry into the United States with a status within the meaning of the term “qualified alien”.
 
     (b) __Exceptions__ 
 
-    The limitation under subsection (a) of this section shall not apply to the following aliens:
+    The limitation under subsection (a) shall not apply to the following aliens:
 
         (1) __Exception for refugees and asylees__ 
 
@@ -47,7 +47,7 @@
 
     (c) __Application of term Federal means-tested public benefit__ 
 
-        (1) The limitation under subsection (a) of this section shall not apply to assistance or benefits under paragraph (2).
+        (1) The limitation under subsection (a) shall not apply to assistance or benefits under paragraph (2).
 
         (2)
 
@@ -63,7 +63,7 @@
 
             (E) Public health assistance (not including any assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-            (F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for a parent or a child who would, in the absence of subsection (a) of this section, be eligible to have such payments made on the child’s behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in [section 1641 of this title][/us/usc/t8/s1641]).
+            (F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for a parent or a child who would, in the absence of subsection (a), be eligible to have such payments made on the child’s behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in [section 1641 of this title][/us/usc/t8/s1641]).
 
             (G) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General’s sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient’s income or resources; and (iii) are necessary for the protection of life or safety.
 
@@ -79,7 +79,7 @@
 
     (d) __Benefits for certain groups__ 
 
-    Notwithstanding any other provision of law, the limitations under [section 1611(a) of this title][/us/usc/t8/s1611/a] and subsection (a) of this section shall not apply to—
+    Notwithstanding any other provision of law, the limitations under [section 1611(a) of this title][/us/usc/t8/s1611/a] and subsection (a) shall not apply to—
 
         (1) an individual described in [section 1612(a)(2)(G) of this title][/us/usc/t8/s1612/a/2/G], but only with respect to the programs specified in subsections (a)(3) and (b)(3)(C) of [section 1612 of this title][/us/usc/t8/s1612]; or
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -271,6 +271,8 @@
 [/us/pl/105/33/s5303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5303%2Fc
 [/us/pl/105/33/s5302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5302%2Fc%2F1%2FB
 [/us/usc/t8/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1521
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/107/171/s4401/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F2%2FA
 [/us/pl/107/171/s4401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F3

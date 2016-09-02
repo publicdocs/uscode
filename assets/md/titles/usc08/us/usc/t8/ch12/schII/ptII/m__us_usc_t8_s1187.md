@@ -29,7 +29,7 @@
 
             (A) extends (or agrees to extend), either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions, reciprocal privileges to citizens and nationals of the United States, and
 
-            (B) is designated as a pilot program country under subsection (c) of this section.
+            (B) is designated as a pilot program country under subsection (c).
 
         (3) __Machine readable passport__ 
 
@@ -39,7 +39,7 @@
 
             (B) __Limited waiver authority__ 
 
-            For the period beginning October 1, 2003, and ending September 30, 2007, the Secretary of State may waive the requirement of subparagraph (A) with respect to nationals of a program country (as designated under subsection (c) of this section), if the Secretary of State finds that the program country—
+            For the period beginning October 1, 2003, and ending September 30, 2007, the Secretary of State may waive the requirement of subparagraph (A) with respect to nationals of a program country (as designated under subsection (c)), if the Secretary of State finds that the program country—
 
                 (i) is making progress toward ensuring that passports meeting the requirement of subparagraph (A) are generally available to its nationals; and
 
@@ -51,7 +51,7 @@
 
         (5) __Entry into the United States__ 
 
-            If arriving by sea or air, the alien arrives at the port of entry into the United States on a carrier, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement.
+            If arriving by sea or air, the alien arrives at the port of entry into the United States on a carrier, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement.
 
         (6) __Not a safety threat__ 
 
@@ -93,7 +93,7 @@
 
         (2) __Qualifications__ 
 
-        Except as provided in subsection (f) of this section, a country may not be designated as a program country unless the following requirements are met:
+        Except as provided in subsection (f), a country may not be designated as a program country unless the following requirements are met:
 
             (A) __Low nonimmigrant visa refusal rate__ 
 
@@ -173,7 +173,7 @@
 
         (4) __Initial period__ 
 
-            For purposes of paragraphs (2) and (3), the term “initial period” means the period beginning at the end of the 30-day period described in subsection (b)(1) of this section and ending on the last day of the first fiscal year which begins after such 30-day period.
+            For purposes of paragraphs (2) and (3), the term “initial period” means the period beginning at the end of the 30-day period described in subsection (b)(1) and ending on the last day of the first fiscal year which begins after such 30-day period.
 
         (5) __Written reports on continuing qualification; designation terminations__ 
 
@@ -185,7 +185,7 @@
 
                     (I) shall evaluate the effect of each program country’s continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
-                    (II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d) of this section;
+                    (II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d);
 
                     (III) shall submit a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country’s designation that includes an explanation of such determination and the effects described in subclause (I); and
 
@@ -197,7 +197,7 @@
 
                 (iii) __Redesignation__ 
 
-                    In the case of a termination under this subparagraph, the Secretary of Homeland Security shall redesignate the country as a program country, without regard to subsection (f) of this section or paragraph (2) or (3), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that all causes of the termination have been eliminated.
+                    In the case of a termination under this subparagraph, the Secretary of Homeland Security shall redesignate the country as a program country, without regard to subsection (f) or paragraph (2) or (3), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that all causes of the termination have been eliminated.
 
             (B) __Emergency termination__ 
 
@@ -221,7 +221,7 @@
 
                 (iii) __Redesignation__ 
 
-                The Secretary of Homeland Security may redesignate the country as a program country, without regard to subsection (f) of this section or paragraph (2) or (3), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that—
+                The Secretary of Homeland Security may redesignate the country as a program country, without regard to subsection (f) or paragraph (2) or (3), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that—
 
                     (I) at least 6 months have elapsed since the effective date of the termination;
 
@@ -243,9 +243,9 @@
 
             For purposes of this paragraph—
 
-                (i) nationals of a country whose designation is terminated under subparagraph (A) or (B) shall remain eligible for a waiver under subsection (a) of this section until the effective date of such termination; and
+                (i) nationals of a country whose designation is terminated under subparagraph (A) or (B) shall remain eligible for a waiver under subsection (a) until the effective date of such termination; and
 
-                (ii) a waiver under this section that is provided to such a national for a period described in subsection (a)(1) of this section shall not, by such termination, be deemed to have been rescinded or otherwise rendered invalid, if the waiver is granted prior to such termination.
+                (ii) a waiver under this section that is provided to such a national for a period described in subsection (a)(1) shall not, by such termination, be deemed to have been rescinded or otherwise rendered invalid, if the waiver is granted prior to such termination.
 
         (6) __Computation of visa refusal rates__ 
 
@@ -387,15 +387,15 @@
 
         (1) __In general__ 
 
-        The agreement referred to in subsection (a)(4) of this section is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Attorney General under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
+        The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Attorney General under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
-            (A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A) of this section,
+            (A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
 
             (B) to submit daily to immigration officers any immigration forms received with respect to nonimmigrant visitors provided a waiver under the program,
 
             (C) to be subject to the imposition of fines resulting from the transporting into the United States of a national of a designated country without a passport pursuant to regulations promulgated by the Attorney General, and
 
-            (D) to collect, provide, and share passenger data as required under subsection (h)(1)(B) of this section.
+            (D) to collect, provide, and share passenger data as required under subsection (h)(1)(B).
 
         (2) __Termination of agreements__ 
 
@@ -431,11 +431,11 @@
 
             (A) __In general__ 
 
-                If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection”. </sup></sup>  (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a program country.
+                If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection”. </sup></sup>  (c)(2)(C), or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a program country.
 
             (B) __Effective date__ 
 
-                A termination of the designation of a country under subparagraph (A) shall take effect on the first day of the first fiscal year following the fiscal year in which the determination under such subparagraph is made. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a) of this section.
+                A termination of the designation of a country under subparagraph (A) shall take effect on the first day of the first fiscal year following the fiscal year in which the determination under such subparagraph is made. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a).
 
         (3) __Nonapplicability of certain provisions__ 
 
@@ -457,11 +457,11 @@
 
         (5) __Failure to report passport thefts__ 
 
-            If the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not reporting the theft or loss of passports, as required by subsection (c)(2)(D) of this section, the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+            If the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not reporting the theft or loss of passports, as required by subsection (c)(2)(D), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
 
     (g) __Visa application sole method to dispute denial of waiver based on a ground of inadmissibility__ 
 
-        In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in [section 1182(a) of this title][/us/usc/t8/s1182/a] that is discovered at the time of the alien’s application for the waiver or through the use of an automated electronic database required under subsection (a)(9) of this section, the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
+        In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in [section 1182(a) of this title][/us/usc/t8/s1182/a] that is discovered at the time of the alien’s application for the waiver or through the use of an automated electronic database required under subsection (a)(9), the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
 
     (h) __Use of information technology systems__ 
 
@@ -477,7 +477,7 @@
 
                 (i) __Data collection by carriers__ 
 
-                    Not later than October 1, 2001, the records of arrival and departure described in subparagraph (A) shall be based, to the maximum extent practicable, on passenger data collected and electronically transmitted to the automated entry and exit control system by each carrier that has an agreement under subsection (a)(4) of this section.
+                    Not later than October 1, 2001, the records of arrival and departure described in subparagraph (A) shall be based, to the maximum extent practicable, on passenger data collected and electronically transmitted to the automated entry and exit control system by each carrier that has an agreement under subsection (a)(4).
 
                 (ii) __Data provision by carriers__ 
 
@@ -695,7 +695,7 @@
 
     Subsec. (a)(3), (4). [Pub. L. 106–396, § 202(a)][/us/pl/106/396/s202/a], added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 106–396, § 403(a)][/us/pl/106/396/s403/a], substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
+    Subsec. (a)(5). [Pub. L. 106–396, § 403(a)][/us/pl/106/396/s403/a], substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
 
     [Pub. L. 106–396, § 202(a)(1)][/us/pl/106/396/s202/a/1], redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -759,7 +759,7 @@
 
     1996—Subsec. (a). [Pub. L. 104–208, § 635(a)(1)][/us/pl/104/208/s635/a/1], in introductory provisions, substituted “Attorney General, in consultation with the Secretary of State” for “Attorney General and the Secretary of State, acting jointly”.
 
-    Subsec. (a)(2)(B). [Pub. L. 104–208, § 635(c)(3)][/us/pl/104/208/s635/c/3], struck out “or is designated as a pilot program country with probationary status under subsection (g) of this section” after “subsection (c) of this section”.
+    Subsec. (a)(2)(B). [Pub. L. 104–208, § 635(c)(3)][/us/pl/104/208/s635/c/3], struck out “or is designated as a pilot program country with probationary status under subsection (g) of this section” after “subsection (c)”.
 
     Subsec. (b)(2). [Pub. L. 104–208, § 308(e)(9)][/us/pl/104/208/s308/e/9], substituted “removal of” for “deportation against”.
 

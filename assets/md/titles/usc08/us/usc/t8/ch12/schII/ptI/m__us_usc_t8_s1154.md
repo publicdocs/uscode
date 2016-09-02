@@ -177,7 +177,7 @@
 
                 (i)
 
-                    (I) Any child who attains 21 years of age who has filed a petition under clause (iv) of subsection (a)(1)(A) of this section or subsection (a)(1)(B)(iii) of this section that was filed or approved before the date on which the child attained 21 years of age shall be considered (if the child has not been admitted or approved for lawful permanent residence by the date the child attained 21 years of age) a petitioner for preference status under paragraph (1), (2), or (3) of [section 1153(a) of this title][/us/usc/t8/s1153/a], whichever paragraph is applicable, with the same priority date assigned to the self-petition filed under clause (iv) of subsection (a)(1)(A) of this section or subsection (a)(1)(B)(iii) of this section. No new petition shall be required to be filed.
+                    (I) Any child who attains 21 years of age who has filed a petition under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii) that was filed or approved before the date on which the child attained 21 years of age shall be considered (if the child has not been admitted or approved for lawful permanent residence by the date the child attained 21 years of age) a petitioner for preference status under paragraph (1), (2), or (3) of [section 1153(a) of this title][/us/usc/t8/s1153/a], whichever paragraph is applicable, with the same priority date assigned to the self-petition filed under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii). No new petition shall be required to be filed.
 
                     (II) Any individual described in subclause (I) is eligible for deferred action and work authorization.
 
@@ -251,13 +251,13 @@
 
     (c) __Limitation on orphan petitions approved for a single petitioner; prohibition against approval in cases of marriages entered into in order to evade immigration laws; restriction on future entry of aliens involved with marriage fraud__ 
 
-        Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined that the alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
+        Notwithstanding the provisions of subsection (b) no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined that the alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
 
     (d) __Recommendation of valid home-study__ 
 
-        (1) Notwithstanding the provisions of subsections (a) and (b) of this section no petition may be approved on behalf of a child defined in subparagraph (F) or (G) of [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1] unless a valid home-study has been favorably recommended by an agency of the State of the child’s proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
+        (1) Notwithstanding the provisions of subsections (a) and (b) no petition may be approved on behalf of a child defined in subparagraph (F) or (G) of [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1] unless a valid home-study has been favorably recommended by an agency of the State of the child’s proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
 
-        (2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined in [section 1101(b)(1)(G) of this title][/us/usc/t8/s1101/b/1/G] unless the Secretary of State has certified that the central authority of the child’s country of origin has notified the United States central authority under the convention referred to in such [section 1101(b)(1)(G) of this title][/us/usc/t8/s1101/b/1/G] that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[[42 U.S.C. 14901][/us/usc/t42/s14901] et seq.\].
+        (2) Notwithstanding the provisions of subsections (a) and (b), no petition may be approved on behalf of a child defined in [section 1101(b)(1)(G) of this title][/us/usc/t8/s1101/b/1/G] unless the Secretary of State has certified that the central authority of the child’s country of origin has notified the United States central authority under the convention referred to in such [section 1101(b)(1)(G) of this title][/us/usc/t8/s1101/b/1/G] that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[[42 U.S.C. 14901][/us/usc/t42/s14901] et seq.\].
 
     (e) __Subsequent finding of non-entitlement to preference classification__ 
 
@@ -299,17 +299,17 @@
 
     (g) __Restriction on petitions based on marriages entered while in exclusion or deportation proceedings__ 
 
-        Notwithstanding subsection (a) of this section, except as provided in [section 1255(e)(3) of this title][/us/usc/t8/s1255/e/3], a petition may not be approved to grant an alien immediate relative status or preference status by reason of a marriage which was entered into during the period described in [section 1255(e)(2) of this title][/us/usc/t8/s1255/e/2], until the alien has resided outside the United States for a 2-year period beginning after the date of the marriage.
+        Notwithstanding subsection (a), except as provided in [section 1255(e)(3) of this title][/us/usc/t8/s1255/e/3], a petition may not be approved to grant an alien immediate relative status or preference status by reason of a marriage which was entered into during the period described in [section 1255(e)(2) of this title][/us/usc/t8/s1255/e/2], until the alien has resided outside the United States for a 2-year period beginning after the date of the marriage.
 
     (h) __Survival of rights to petition__ 
 
-        The legal termination of a marriage may not be the sole basis for revocation under [section 1155 of this title][/us/usc/t8/s1155] of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under [section 1155 of this title][/us/usc/t8/s1155].
+        The legal termination of a marriage may not be the sole basis for revocation under [section 1155 of this title][/us/usc/t8/s1155] of a petition filed under subsection (a)(1)(A)(iii) or a petition filed under subsection (a)(1)(B)(ii) pursuant to conditions described in subsection (a)(1)(A)(iii)(I). Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) or in subsection (a)(1)(B)(iii) shall not be the basis for revocation of a petition approval under [section 1155 of this title][/us/usc/t8/s1155].
 
     (i) __Professional athletes__ 
 
         (1) __In general__ 
 
-            A petition under subsection (a)(4)(D)  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
+            A petition under subsection (a)(4)(D)  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
 
         (2) __“Professional athlete” defined__ 
 
@@ -321,7 +321,7 @@
 
     (j) __Job flexibility for long delayed applicants for adjustment of status to permanent residence__ 
 
-        A petition under subsection (a)(1)(D) 4 of this section for an individual whose application for adjustment of status pursuant to [section 1255 of this title][/us/usc/t8/s1255] has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
+        A petition under subsection (a)(1)(D) 4 for an individual whose application for adjustment of status pursuant to [section 1255 of this title][/us/usc/t8/s1255] has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
 
     (k) __Procedures for unmarried sons and daughters of citizens__ 
 
@@ -397,7 +397,7 @@
 
     [Pub. L. 109–162, § 805(c)(1)][/us/pl/109/162/s805/c/1], added cl. (v).
 
-    Subsec. (a)(1)(D)(i)(I). [Pub. L. 109–162, § 805(a)(1)(A)][/us/pl/109/162/s805/a/1/A], inserted “or subsection (a)(1)(B)(iii) of this section” after “subsection (a)(1)(A) of this section” in two places.
+    Subsec. (a)(1)(D)(i)(I). [Pub. L. 109–162, § 805(a)(1)(A)][/us/pl/109/162/s805/a/1/A], inserted “or subsection (a)(1)(B)(iii)” after “subsection (a)(1)(A)” in two places.
 
     Subsec. (a)(1)(D)(i)(III). [Pub. L. 109–162, § 805(a)(1)(B)][/us/pl/109/162/s805/a/1/B], substituted “a VAWA self-petitioner” for “a petitioner for preference status under paragraph (1), (2), or (3) of [section 1153(a) of this title][/us/usc/t8/s1153/a], whichever paragraph is applicable,”.
 
@@ -445,7 +445,7 @@
 
     Subsec. (d). [Pub. L. 106–279][/us/pl/106/279] designated existing provisions as par. (1), substituted “subparagraph (F) or (G) of section 1101(b)(1)” for “section 1101(b)(1)(F)”, and added par. (2).
 
-    Subsec. (h). [Pub. L. 106–386, § 1507(b)][/us/pl/106/386/s1507/b], inserted at end “Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under [section 1155 of this title][/us/usc/t8/s1155].”
+    Subsec. (h). [Pub. L. 106–386, § 1507(b)][/us/pl/106/386/s1507/b], inserted at end “Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) or in subsection (a)(1)(B)(iii) shall not be the basis for revocation of a petition approval under [section 1155 of this title][/us/usc/t8/s1155].”
 
     Subsec. (j). [Pub. L. 106–313][/us/pl/106/313] added subsec. (j).
 
@@ -485,7 +485,7 @@
 
     Subsec. (f)(1). [Pub. L. 101–649, § 162(b)(4)][/us/pl/101/649/s162/b/4], substituted reference to [section 1153(a)(3) of this title][/us/usc/t8/s1153/a/3] for reference to [section 1153(a)(4) of this title][/us/usc/t8/s1153/a/4].
 
-    Subsec. (g). [Pub. L. 101–649, § 702(b)][/us/pl/101/649/s702/b], as amended by [Pub. L. 102–232, § 308(b)][/us/pl/102/232/s308/b], inserted “except as provided in [section 1255(e)(3) of this title][/us/usc/t8/s1255/e/3],” after “Notwithstanding subsection (a) of this section,”.
+    Subsec. (g). [Pub. L. 101–649, § 702(b)][/us/pl/101/649/s702/b], as amended by [Pub. L. 102–232, § 308(b)][/us/pl/102/232/s308/b], inserted “except as provided in [section 1255(e)(3) of this title][/us/usc/t8/s1255/e/3],” after “Notwithstanding subsection (a),”.
 
     [Pub. L. 101–649, § 162(b)(6)][/us/pl/101/649/s162/b/6], redesignated subsec. (h) as (g). Former subsec. (g) redesignated as (f).
 
@@ -511,7 +511,7 @@
 
     1980—Subsec. (d). [Pub. L. 96–470][/us/pl/96/470] substituted provision requiring the Attorney General to forward to Congress a statistical summary of approved petitions for professional or occupational preferences for provision requiring the Attorney General to forward to Congress a report on each petition approved for professional or occupational preference stating the basis for his approval and the facts pertinent in establishing qualifications for preferential status.
 
-    1978—Subsec. (c). [Pub. L. 95–417, § 2][/us/pl/95/417/s2], struck out “no more than two petitions may be approved for one petitioner on behalf of a child as defined in section 1101(b)(1)(E) or 1101(b)(1)(F) of this title unless necessary to prevent the separation of brothers and sisters and” after “subsection (b) of this section”.
+    1978—Subsec. (c). [Pub. L. 95–417, § 2][/us/pl/95/417/s2], struck out “no more than two petitions may be approved for one petitioner on behalf of a child as defined in section 1101(b)(1)(E) or 1101(b)(1)(F) of this title unless necessary to prevent the separation of brothers and sisters and” after “subsection (b)”.
 
     Subsecs. (e), (f). [Pub. L. 95–417, § 3][/us/pl/95/417/s3], added subsec. (e) and redesignated former subsec. (e), relating to subsequent finding of non-entitlement, as subsec. (f) without regard to existing subsec. (f), relating to provisions applicable to qualified immigrants, added by [Pub. L. 94–571][/us/pl/94/571].
 

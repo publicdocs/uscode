@@ -17,7 +17,7 @@
 
     (a)
 
-     The Secretary of Homeland Security may, under such conditions as he may prescribe, authorize a change from any nonimmigrant classification to any other nonimmigrant classification in the case of any alien lawfully admitted to the United States as a nonimmigrant who is continuing to maintain that status and who is not inadmissible under [section 1182(a)(9)(B)(i) of this title][/us/usc/t8/s1182/a/9/B/i] (or whose inadmissibility under such section is waived under [section 1182(a)(9)(B)(v) of this title][/us/usc/t8/s1182/a/9/B/v]), except (subject to subsection (b) of this section) in the case of—
+     The Secretary of Homeland Security may, under such conditions as he may prescribe, authorize a change from any nonimmigrant classification to any other nonimmigrant classification in the case of any alien lawfully admitted to the United States as a nonimmigrant who is continuing to maintain that status and who is not inadmissible under [section 1182(a)(9)(B)(i) of this title][/us/usc/t8/s1182/a/9/B/i] (or whose inadmissibility under such section is waived under [section 1182(a)(9)(B)(v) of this title][/us/usc/t8/s1182/a/9/B/v]), except (subject to subsection (b)) in the case of—
 
         (1) an alien classified as a nonimmigrant under subparagraph (C), (D), (K), or (S) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15],
 
@@ -27,13 +27,13 @@
 
         (4) an alien admitted as a nonimmigrant visitor without a visa under section 1182(l) of this title or [section 1187 of this title][/us/usc/t8/s1187].
 
-    (b) The exceptions specified in paragraphs (1) through (4) of subsection (a) of this section shall not apply to a change of nonimmigrant classification to that of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
+    (b) The exceptions specified in paragraphs (1) through (4) of subsection (a) shall not apply to a change of nonimmigrant classification to that of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 248, [66 Stat. 218][/us/stat/66/218]; [Pub. L. 87–256, § 109(d)][/us/pl/87/256/s109/d], Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 97–116, § 10][/us/pl/97/116/s10], Dec. 29, 1981, [95 Stat. 1617][/us/stat/95/1617]; [Pub. L. 99–603, title III, § 313(d)][/us/pl/99/603/s313/d], Nov. 6, 1986, [100 Stat. 3439][/us/stat/100/3439]; [Pub. L. 103–322, title XIII, § 130003(b)(3)][/us/pl/103/322/s130003/b/3], Sept. 13, 1994, [108 Stat. 2025][/us/stat/108/2025]; [Pub. L. 104–208, div. C, title III, § 301(b)(2)][/us/pl/104/208/s301/b/2], title VI, § 671(a)(2), Sept. 30, 1996, [110 Stat. 3009–578][/us/stat/110/3009-578], 3009–721; [Pub. L. 109–162, title VIII, § 821(c)(1)][/us/pl/109/162/s821/c/1], Jan. 5, 2006, [119 Stat. 3062][/us/stat/119/3062].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–162][/us/pl/109/162] designated existing provisions as subsec. (a), substituted “Secretary of Homeland Security” for “Attorney General”, inserted “(subject to subsection (b) of this section)” after “except” in introductory provisions, and added subsec. (b).
+    2006—[Pub. L. 109–162][/us/pl/109/162] designated existing provisions as subsec. (a), substituted “Secretary of Homeland Security” for “Attorney General”, inserted “(subject to subsection (b))” after “except” in introductory provisions, and added subsec. (b).
 
     1996—[Pub. L. 104–208, § 301(b)(2)][/us/pl/104/208/s301/b/2], in introductory provisions, inserted “and who is not inadmissible under [section 1182(a)(9)(B)(i) of this title][/us/usc/t8/s1182/a/9/B/i] (or whose inadmissibility under such section is waived under [section 1182(a)(9)(B)(v) of this title][/us/usc/t8/s1182/a/9/B/v])” after “maintain that status”.
 

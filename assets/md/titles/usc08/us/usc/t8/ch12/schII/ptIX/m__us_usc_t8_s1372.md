@@ -19,11 +19,11 @@
 
         (1) __Program__ 
 
-        The Attorney General, in consultation with the Secretary of State and the Secretary of Education, shall develop and conduct a program to collect from approved institutions of higher education, other approved educational institutions, and designated exchange visitor programs in the United States the information described in subsection (c) of this section with respect to aliens who—
+        The Attorney General, in consultation with the Secretary of State and the Secretary of Education, shall develop and conduct a program to collect from approved institutions of higher education, other approved educational institutions, and designated exchange visitor programs in the United States the information described in subsection (c) with respect to aliens who—
 
             (A) have the status, or are applying for the status, of nonimmigrants under subparagraph (F), (J), or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15]; and
 
-            (B) are nationals of the countries designated under subsection (b) of this section.
+            (B) are nationals of the countries designated under subsection (b).
 
         (2) __Deadline__ 
 
@@ -53,13 +53,13 @@
 
     (b) __Covered countries__ 
 
-        The Attorney General, in consultation with the Secretary of State, shall designate countries for purposes of subsection (a)(1)(B) of this section. The Attorney General shall initially designate not less than 5 countries and may designate additional countries at any time while the program is being conducted.
+        The Attorney General, in consultation with the Secretary of State, shall designate countries for purposes of subsection (a)(1)(B). The Attorney General shall initially designate not less than 5 countries and may designate additional countries at any time while the program is being conducted.
 
     (c) __Information to be collected__ 
 
         (1) __In general__ 
 
-        The information for collection under subsection (a) of this section with respect to an alien consists of—
+        The information for collection under subsection (a) with respect to an alien consists of—
 
             (A) the identity and current address in the United States of the alien;
 
@@ -79,7 +79,7 @@
 
         (2) __FERPA__ 
 
-            The Family Educational Rights and Privacy Act of 1974 \[[20 U.S.C. 1232g][/us/usc/t20/s1232g]\] shall not apply to aliens described in subsection (a) of this section to the extent that the Attorney General determines necessary to carry out the program under subsection (a) of this section.
+            The Family Educational Rights and Privacy Act of 1974 \[[20 U.S.C. 1232g][/us/usc/t20/s1232g]\] shall not apply to aliens described in subsection (a) to the extent that the Attorney General determines necessary to carry out the program under subsection (a).
 
         (3) __Electronic collection__ 
 
@@ -103,7 +103,7 @@
 
         (1) __Condition__ 
 
-        The information described in subsection (c) of this section shall be provided by institutions of higher education, other approved educational institutions, or exchange visitor programs as a condition of—
+        The information described in subsection (c) shall be provided by institutions of higher education, other approved educational institutions, or exchange visitor programs as a condition of—
 
             (A) in the case of an approved institution of higher education, or other approved educational institution,,1 the continued approval of the institution under subparagraph (F) or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15]; and
 
@@ -117,7 +117,7 @@
 
         (1) __In general__ 
 
-            Beginning on April 1, 1997, the Attorney General shall impose on, and collect from, each alien described in paragraph (3), with respect to whom the institution or program is required by subsection (a) of this section to collect information, a fee established by the Attorney General under paragraph (4) at a time prior to the alien being classified under subparagraph (F), (J), or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
+            Beginning on April 1, 1997, the Attorney General shall impose on, and collect from, each alien described in paragraph (3), with respect to whom the institution or program is required by subsection (a) to collect information, a fee established by the Attorney General under paragraph (4) at a time prior to the alien being classified under subparagraph (F), (J), or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
 
         (2) __Remittance__ 
 
@@ -131,11 +131,11 @@
 
             (A) __Establishment of amount__ 
 
-                The Attorney General shall establish the amount of the fee to be imposed on, and collected from, an alien under paragraph (1). Except as provided in subsection (g)(2) of this section, the fee imposed on any individual may not exceed $100, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35. <sup>\[3\]</sup>  <sup><sup> 3 So in original. See 2000 amendment notes below. </sup></sup>  The amount of the fee shall be based on the Attorney General’s estimate of the cost per alien of conducting the information collection program described in this section.
+                The Attorney General shall establish the amount of the fee to be imposed on, and collected from, an alien under paragraph (1). Except as provided in subsection (g)(2), the fee imposed on any individual may not exceed $100, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35. <sup>\[3\]</sup>  <sup><sup> 3 So in original. See 2000 amendment notes below. </sup></sup>  The amount of the fee shall be based on the Attorney General’s estimate of the cost per alien of conducting the information collection program described in this section.
 
             (B) __Use__ 
 
-                Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under [section 1356(m) of this title][/us/usc/t8/s1356/m]) and shall remain available until expended for the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
+                Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under [section 1356(m) of this title][/us/usc/t8/s1356/m]) and shall remain available until expended for the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a).
 
         (5) __Proof of payment__ 
 
@@ -151,17 +151,17 @@
 
     (f) __Joint report__ 
 
-        Not later than 4 years after the commencement of the program established under subsection (a) of this section, the Attorney General, the Secretary of State, and the Secretary of Education shall jointly submit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the operations of the program and the feasibility of expanding the program to cover the nationals of all countries.
+        Not later than 4 years after the commencement of the program established under subsection (a), the Attorney General, the Secretary of State, and the Secretary of Education shall jointly submit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the operations of the program and the feasibility of expanding the program to cover the nationals of all countries.
 
     (g) __Worldwide applicability of program__ 
 
         (1) __Expansion of program__ 
 
-            Not later than 12 months after the submission of the report required by subsection (f) of this section, the Attorney General, in consultation with the Secretary of State and the Secretary of Education, shall commence expansion of the program to cover the nationals of all countries.
+            Not later than 12 months after the submission of the report required by subsection (f), the Attorney General, in consultation with the Secretary of State and the Secretary of Education, shall commence expansion of the program to cover the nationals of all countries.
 
         (2) __Revision of fee__ 
 
-            After the program has been expanded, as provided in paragraph (1), the Attorney General may, on a periodic basis, revise the amount of the fee imposed and collected under subsection (e) of this section in order to take into account changes in the cost of carrying out the program.
+            After the program has been expanded, as provided in paragraph (1), the Attorney General may, on a periodic basis, revise the amount of the fee imposed and collected under subsection (e) in order to take into account changes in the cost of carrying out the program.
 
     (h) __Definitions__ 
 
@@ -233,7 +233,7 @@
 
     [Pub. L. 106–396, § 404(4)(A)][/us/pl/106/396/s404/4/A], inserted before period at end of second sentence “, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40”. See amendment note above.
 
-    Subsec. (e)(4)(B). [Pub. L. 106–396, § 404(4)(B)][/us/pl/106/396/s404/4/B], inserted at end “Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.”
+    Subsec. (e)(4)(B). [Pub. L. 106–396, § 404(4)(B)][/us/pl/106/396/s404/4/B], inserted at end “Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a).”
 
     Subsec. (e)(5), (6). [Pub. L. 106–396, § 404(5)][/us/pl/106/396/s404/5], added pars. (5) and (6).
 

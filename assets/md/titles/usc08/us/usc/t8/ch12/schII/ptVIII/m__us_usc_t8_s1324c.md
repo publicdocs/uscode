@@ -59,7 +59,7 @@
 
             (A) __In general__ 
 
-                Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
+                Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a), the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
 
             (B) __Conduct of hearing__ 
 
@@ -67,15 +67,15 @@
 
             (C) __Issuance of orders__ 
 
-                If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity has violated subsection (a) of this section, the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (3).
+                If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity has violated subsection (a), the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (3).
 
         (3) __Cease and desist order with civil money penalty__ 
 
-        With respect to a violation of subsection (a) of this section, the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
+        With respect to a violation of subsection (a), the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
 
-            (A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a) of this section, or
+            (A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a), or
 
-            (B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a) of this section.
+            (B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a).
 
             In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
@@ -93,11 +93,11 @@
 
         (7) __Waiver by Attorney General__ 
 
-            The Attorney General may waive the penalties imposed by this section with respect to an alien who knowingly violates subsection (a)(6) of this section if the alien is granted asylum under [section 1158 of this title][/us/usc/t8/s1158] or withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3].
+            The Attorney General may waive the penalties imposed by this section with respect to an alien who knowingly violates subsection (a)(6) if the alien is granted asylum under [section 1158 of this title][/us/usc/t8/s1158] or withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3].
 
     (e) __Criminal penalties for failure to disclose role as document preparer__ 
 
-        (1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f) of this section) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
+        (1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f)) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
 
         (2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
 
@@ -125,7 +125,7 @@
 
     Subsec. (d)(1)(C). [Pub. L. 104–208, § 220][/us/pl/104/208/s220], added subpar. (C).
 
-    Subsec. (d)(3)(A), (B). [Pub. L. 104–208, § 212(c)][/us/pl/104/208/s212/c], substituted “each document that is the subject of a violation under subsection (a) of this section” for “each document used, accepted, or created and each instance of use, acceptance, or creation”.
+    Subsec. (d)(3)(A), (B). [Pub. L. 104–208, § 212(c)][/us/pl/104/208/s212/c], substituted “each document that is the subject of a violation under subsection (a)” for “each document used, accepted, or created and each instance of use, acceptance, or creation”.
 
     Subsec. (d)(4). [Pub. L. 104–208, § 379(a)(2)][/us/pl/104/208/s379/a/2], substituted “the final agency decision and order under this subsection” for “a final order under this subsection”.
 

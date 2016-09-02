@@ -131,7 +131,7 @@
 
     (f) __Judicial review__ 
 
-        No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b) of this section, nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.
+        No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b), nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240B, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)][/us/pl/104/208/s304/a/3], Sept. 30, 1996, [110 Stat. 3009–596][/us/stat/110/3009-596]; amended [Pub. L. 106–406, § 2][/us/pl/106/406/s2], Nov. 1, 2000, [114 Stat. 1755][/us/stat/114/1755]; [Pub. L. 109–162, title VIII, § 812][/us/pl/109/162/s812], Jan. 5, 2006, [119 Stat. 3057][/us/stat/119/3057].)
 

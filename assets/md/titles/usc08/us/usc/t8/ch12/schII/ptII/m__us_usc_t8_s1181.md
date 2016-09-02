@@ -17,7 +17,7 @@
 
     (a) __Documents required; admission under quotas before__  __June 30, 1968__ 
 
-        Except as provided in subsection (b) and subsection (c) of this section no immigrant shall be admitted into the United States unless at the time of application for admission he (1) has a valid unexpired immigrant visa or was born subsequent to the issuance of such visa of the accompanying parent, and (2) presents a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Attorney General. With respect to immigrants to be admitted under quotas of quota areas prior to June 30, 1968, no immigrant visa shall be deemed valid unless the immigrant is properly chargeable to the quota area under the quota of which the visa is issued.
+        Except as provided in subsection (b) and subsection (c) no immigrant shall be admitted into the United States unless at the time of application for admission he (1) has a valid unexpired immigrant visa or was born subsequent to the issuance of such visa of the accompanying parent, and (2) presents a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Attorney General. With respect to immigrants to be admitted under quotas of quota areas prior to June 30, 1968, no immigrant visa shall be deemed valid unless the immigrant is properly chargeable to the quota area under the quota of which the visa is issued.
 
     (b) __Readmission without required documents; Attorney General’s discretion__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Nonapplicability to aliens admitted as refugees__ 
 
-        The provisions of subsection (a) of this section shall not apply to an alien whom the Attorney General admits to the United States under [section 1157 of this title][/us/usc/t8/s1157].
+        The provisions of subsection (a) shall not apply to an alien whom the Attorney General admits to the United States under [section 1157 of this title][/us/usc/t8/s1157].
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 211, [66 Stat. 181][/us/stat/66/181]; [Pub. L. 89–236, § 9][/us/pl/89/236/s9], Oct. 3, 1965, [79 Stat. 917][/us/stat/79/917]; [Pub. L. 94–571, § 7(c)][/us/pl/94/571/s7/c], Oct. 20, 1976, [90 Stat. 2706][/us/stat/90/2706]; [Pub. L. 96–212, title II, § 202][/us/pl/96/212/s202], Mar. 17, 1980, [94 Stat. 106][/us/stat/94/106]; [Pub. L. 101–649, title VI, § 603(a)(7)][/us/pl/101/649/s603/a/7], Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083].)
 

@@ -21,7 +21,7 @@
 
     (b) __Limitation on rate of pay__ 
 
-        Except as otherwise provided by law, no employee compensated under subsection (a) of this section may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule.
+        Except as otherwise provided by law, no employee compensated under subsection (a) may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule.
 
     (c) __Limitation on total calendar year payments__ 
 

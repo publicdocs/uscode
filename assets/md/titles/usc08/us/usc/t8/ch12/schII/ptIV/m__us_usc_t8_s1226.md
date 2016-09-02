@@ -17,7 +17,7 @@
 
     (a) __Arrest, detention, and release__ 
 
-    On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) of this section and pending such decision, the Attorney General—
+    On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) and pending such decision, the Attorney General—
 
         (1) may continue to detain the arrested alien; and
 
@@ -33,7 +33,7 @@
 
     (b) __Revocation of bond or parole__ 
 
-        The Attorney General at any time may revoke a bond or parole authorized under subsection (a) of this section, rearrest the alien under the original warrant, and detain the alien.
+        The Attorney General at any time may revoke a bond or parole authorized under subsection (a), rearrest the alien under the original warrant, and detain the alien.
 
     (c) __Detention of criminal aliens__ 
 

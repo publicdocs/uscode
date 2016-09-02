@@ -49,7 +49,7 @@
 
     (b) __Establishment of carrier consultant program and immigration security initiative__ 
 
-        The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3) of this section, served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.
+        The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3), served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 235A, as added [Pub. L. 104–208, div. C, title I, § 123(a)][/us/pl/104/208/s123/a], Sept. 30, 1996, [110 Stat. 3009–560][/us/stat/110/3009-560]; amended [Pub. L. 108–458, title VII][/us/pl/108/458], §§ 7206(a), 7210(d)(1), Dec. 17, 2004, [118 Stat. 3817][/us/stat/118/3817], 3825.)
 

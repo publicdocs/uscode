@@ -69,7 +69,7 @@
 
     (e) __Annual report__ 
 
-        (1) The Commissioner shall submit to Congress annually a report which contains a summary of the information collected under subsection (d) of this section and an analysis of trends in immigration and naturalization.
+        (1) The Commissioner shall submit to Congress annually a report which contains a summary of the information collected under subsection (d) and an analysis of trends in immigration and naturalization.
 
         (2) Each annual report shall include information on the number, and rate of denial administratively, of applications for naturalization, for each district office of the Service and by national origin group.
 

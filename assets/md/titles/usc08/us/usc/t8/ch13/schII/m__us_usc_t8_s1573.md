@@ -29,7 +29,7 @@
 
         (1) __In general__ 
 
-            There is authorized to be appropriated to the Department of Justice from time to time such sums as may be necessary for the Attorney General to carry out subsection (a) of this section.
+            There is authorized to be appropriated to the Department of Justice from time to time such sums as may be necessary for the Attorney General to carry out subsection (a).
 
         (2) __Designation of account in treasury__ 
 

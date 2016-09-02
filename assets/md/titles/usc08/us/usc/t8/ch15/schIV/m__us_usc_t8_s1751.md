@@ -21,7 +21,7 @@
 
     (b) __Study elements__ 
 
-    In conducting the study required by subsection (a) of this section, the President shall consider the following:
+    In conducting the study required by subsection (a), the President shall consider the following:
 
         (1) __Preclearance__ 
 
@@ -37,7 +37,7 @@
 
     (c) __Report__ 
 
-        Not later than 1 year after May 14, 2002, the President shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a) of this section.
+        Not later than 1 year after May 14, 2002, the President shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
     (d) __Authorization of appropriations__ 
 

@@ -71,7 +71,7 @@
 
             (B) __Authority of Attorney General__ 
 
-                Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) of this section during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
+                Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
 
             (C) __Waiver of exclusive authority__ 
 

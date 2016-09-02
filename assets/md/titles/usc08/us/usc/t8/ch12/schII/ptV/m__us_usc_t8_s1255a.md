@@ -65,7 +65,7 @@
 
         The alien must establish that he—
 
-            (A) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section,
+            (A) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2),
 
             (B) has not been convicted of any felony or of three or more misdemeanors committed in the United States,
 
@@ -79,7 +79,7 @@
 
         (1) __Adjustment to permanent residence__ 
 
-        The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) of this section to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
+        The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
 
             (A) __Timely application after one year’s residence__ 
 
@@ -99,7 +99,7 @@
 
             The alien must establish that he—
 
-                (i) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, and
+                (i) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2), and
 
                 (ii) has not been convicted of any felony or three or more misdemeanors committed in the United States.
 
@@ -119,21 +119,21 @@
 
                 (iii) __Relation to naturalization examination__ 
 
-                    In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of [section 1423(a) of this title][/us/usc/t8/s1423/a] may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
+                    In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of [section 1423(a) of this title][/us/usc/t8/s1423/a] may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III.
 
         (2) __Termination of temporary residence__ 
 
-        The Attorney General shall provide for termination of temporary resident status granted an alien under subsection (a) of this section—
+        The Attorney General shall provide for termination of temporary resident status granted an alien under subsection (a)—
 
             (A) if it appears to the Attorney General that the alien was in fact not eligible for such status;
 
-            (B) if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
+            (B) if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2), or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
 
             (C) at the end of the 43rd month beginning after the date the alien is granted such status, unless the alien has filed an application for adjustment of such status pursuant to paragraph (1) and such application has not been denied.
 
         (3) __Authorized travel and employment during temporary residence__ 
 
-        During the period an alien is in lawful temporary resident status granted under subsection (a) of this section—
+        During the period an alien is in lawful temporary resident status granted under subsection (a)—
 
             (A) __Authorization of travel abroad__ 
 
@@ -147,7 +147,7 @@
 
         (1) __To whom may be made__ 
 
-        The Attorney General shall provide that applications for adjustment of status under subsection (a) of this section may be filed—
+        The Attorney General shall provide that applications for adjustment of status under subsection (a) may be filed—
 
             (A) with the Attorney General, or
 
@@ -213,7 +213,7 @@
 
             (A) __Fee schedule__ 
 
-                The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
+                The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1). The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) after the end of the first year of the 2-year period described in subsection (b)(1)(A).
 
             (B) __Use of fees__ 
 
@@ -231,7 +231,7 @@
 
         (2) __Waiver of grounds for exclusion__ 
 
-        In the determination of an alien’s admissibility under subsections (a)(4)(A), (b)(1)(C)(i), and (b)(2)(B) of this section—
+        In the determination of an alien’s admissibility under subsections (a)(4)(A), (b)(1)(C)(i), and (b)(2)(B)—
 
             (A) __Grounds of exclusion not applicable__ 
 
@@ -269,7 +269,7 @@
 
         (1) __Before application period__ 
 
-        The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) of this section and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) of this section (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
+        The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
 
             (A) may not be deported, and
 
@@ -277,7 +277,7 @@
 
         (2) __During application period__ 
 
-        The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+        The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
 
             (A) may not be deported, and
 
@@ -315,7 +315,7 @@
 
             (C) __Jurisdiction of courts__ 
 
-                Notwithstanding any other provision of law, no court shall have jurisdiction of any cause of action or claim by or on behalf of any person asserting an interest under this section unless such person in fact filed an application under this section within the period specified by subsection (a)(1) of this section, or attempted to file a complete application and application fee with an authorized legalization officer of the Service but had the application and fee refused by that officer.
+                Notwithstanding any other provision of law, no court shall have jurisdiction of any cause of action or claim by or on behalf of any person asserting an interest under this section unless such person in fact filed an application under this section within the period specified by subsection (a)(1), or attempted to file a complete application and application fee with an authorized legalization officer of the Service but had the application and fee refused by that officer.
 
     (g) __Implementation of section__ 
 
@@ -363,7 +363,7 @@
 
         (1) __In general__ 
 
-        During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law—
+        During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a), and notwithstanding any other provision of law—
 
             (A)
 
@@ -377,7 +377,7 @@
 
             (B) a State or political subdivision therein may, to the extent consistent with subparagraph (A) and paragraphs (2) and (3), provide that the alien is not eligible for the programs of financial assistance or for medical assistance described in subparagraph (A)(ii) furnished under the law of that State or political subdivision.
 
-            Unless otherwise specifically provided by this section or other law, an alien in temporary lawful residence status granted under subsection (a) of this section shall not be considered (for purposes of any law of a State or political subdivision providing for a program of financial assistance) to be permanently residing in the United States under color of law.
+            Unless otherwise specifically provided by this section or other law, an alien in temporary lawful residence status granted under subsection (a) shall not be considered (for purposes of any law of a State or political subdivision providing for a program of financial assistance) to be permanently residing in the United States under color of law.
 
         (2) __Exceptions__ 
 
@@ -445,7 +445,7 @@
 
     (i) __Dissemination of information on legalization program__ 
 
-        Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
+        Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A), the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 245A, as added [Pub. L. 99–603, title II, § 201(a)(1)][/us/pl/99/603/s201/a/1], Nov. 6, 1986, [100 Stat. 3394][/us/stat/100/3394]; amended [Pub. L. 100–525, § 2(h)(1)][/us/pl/100/525/s2/h/1], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–649, title VI, § 603(a)(13)][/us/pl/101/649/s603/a/13], title VII, § 703, Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083], 5086; [Pub. L. 102–140, title I][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 785][/us/stat/105/785]; [Pub. L. 102–232, title III, § 307][/us/pl/102/232/s307](l)(6), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756]; [Pub. L. 103–382, title III, § 394(g)][/us/pl/103/382/s394/g], Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028]; [Pub. L. 103–416, title I, § 108(b)][/us/pl/103/416/s108/b], title II, § 219(l)(1), Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], 4317; [Pub. L. 104–132, title IV, § 431(a)][/us/pl/104/132/s431/a], Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–193, title I, § 110(s)(2)][/us/pl/104/193/s110/s/2], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, § 623(a), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622], 3009–623, 3009–649, 3009–653, 3009–696; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(4), (f)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 105–332, § 3(a)][/us/pl/105/332/s3/a], Oct. 31, 1998, [112 Stat. 3125][/us/stat/112/3125]; [Pub. L. 106–78, title VII, § 752(b)(5)][/us/pl/106/78/s752/b/5], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 109–270, § 2(a)][/us/pl/109/270/s2/a], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(J), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(J), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–128, title V, § 512(q)][/us/pl/113/128/s512/q], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
 

@@ -25,7 +25,7 @@
 
     (b) __Duration of attribution period__ 
 
-    Subsection (a) of this section shall apply with respect to an alien until such time as the alien—
+    Subsection (a) shall apply with respect to an alien until such time as the alien—
 
         (1) achieves United States citizenship through naturalization pursuant to chapter 2 of title III of the Immigration and Nationality Act \[[8 U.S.C. 1421][/us/usc/t8/s1421] et seq.\]; or
 
@@ -35,7 +35,7 @@
 
     (c) __Review of income and resources of alien upon reapplication__ 
 
-        Whenever an alien is required to reapply for benefits under any Federal means-tested public benefits program, the applicable agency shall review the income and resources attributed to the alien under subsection (a) of this section.
+        Whenever an alien is required to reapply for benefits under any Federal means-tested public benefits program, the applicable agency shall review the income and resources attributed to the alien under subsection (a).
 
     (d) __Application__ 
 
@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-        Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) of this section shall not apply to benefits—
+        Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) shall not apply to benefits—
 
             (A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent’s family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien’s child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse’s or parent’s family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent’s spouse, or by a member of the spouse’s family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
 

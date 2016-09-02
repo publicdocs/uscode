@@ -17,11 +17,11 @@
 
     (a) __Permitting granting of posthumous citizenship__ 
 
-        Notwithstanding any other provision of this subchapter, the Secretary of Homeland Security shall provide, in accordance with this section, for the granting of posthumous citizenship at the time of death to a person described in subsection (b) of this section if the Secretary of Homeland Security approves an application for that posthumous citizenship under subsection (c) of this section.
+        Notwithstanding any other provision of this subchapter, the Secretary of Homeland Security shall provide, in accordance with this section, for the granting of posthumous citizenship at the time of death to a person described in subsection (b) if the Secretary of Homeland Security approves an application for that posthumous citizenship under subsection (c).
 
     (b) __Noncitizens eligible for posthumous citizenship__ 
 
-    A person referred to in subsection (a) of this section is a person who, while an alien or a noncitizen national of the United States—
+    A person referred to in subsection (a) is a person who, while an alien or a noncitizen national of the United States—
 
         (1) served honorably in an active-duty status in the military, air, or naval forces of the United States during any period described in the first sentence of [section 1440(a) of this title][/us/usc/t8/s1440/a],
 
@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-        A request for the granting of posthumous citizenship to a person described in subsection (b) of this section may be filed on behalf of that person—
+        A request for the granting of posthumous citizenship to a person described in subsection (b) may be filed on behalf of that person—
 
             (A) upon locating the next-of-kin, and if so requested by the next-of-kin, by the Secretary of Defense or the Secretary’s designee with the Bureau of Citizenship and Immigration Services in the Department of Homeland Security immediately upon the death of that person; or
 
@@ -55,13 +55,13 @@
 
                 whichever date is later;
 
-            (B) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b) of this section; and
+            (B) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
 
-            (C) the Director finds that the person satisfied the requirement of subsection (b)(3) of this section.
+            (C) the Director finds that the person satisfied the requirement of subsection (b)(3).
 
     (d) __Documentation of posthumous citizenship__ 
 
-        If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c) of this section, the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.
+        If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c), the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 329A, as added [Pub. L. 101–249, § 2(a)][/us/pl/101/249/s2/a], Mar. 6, 1990, [104 Stat. 94][/us/stat/104/94]; [Pub. L. 107–273, div. C, title I, § 11030(b)][/us/pl/107/273/s11030/b], Nov. 2, 2002, [116 Stat. 1836][/us/stat/116/1836]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136], §§ 1703(g), 1704, Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], 1696.)
 

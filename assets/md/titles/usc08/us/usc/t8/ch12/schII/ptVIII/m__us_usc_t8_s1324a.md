@@ -21,11 +21,11 @@
 
         It is unlawful for a person or other entity—
 
-            (A) to hire, or to recruit or refer for a fee, for employment in the United States an alien knowing the alien is an unauthorized alien (as defined in subsection (h)(3) of this section) with respect to such employment, or
+            (A) to hire, or to recruit or refer for a fee, for employment in the United States an alien knowing the alien is an unauthorized alien (as defined in subsection (h)(3)) with respect to such employment, or
 
             (B)
 
-                (i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) of this section or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in [section 1802 of title 29][/us/usc/t29/s1802]), to hire, or to recruit or refer for a fee, for employment in the United States an individual without complying with the requirements of subsection (b) of this section.
+                (i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in [section 1802 of title 29][/us/usc/t29/s1802]), to hire, or to recruit or refer for a fee, for employment in the United States an individual without complying with the requirements of subsection (b).
 
         (2) __Continuing employment__ 
 
@@ -33,15 +33,15 @@
 
         (3) __Defense__ 
 
-            A person or entity that establishes that it has complied in good faith with the requirements of subsection (b) of this section with respect to the hiring, recruiting, or referral for employment of an alien in the United States has established an affirmative defense that the person or entity has not violated paragraph (1)(A) with respect to such hiring, recruiting, or referral.
+            A person or entity that establishes that it has complied in good faith with the requirements of subsection (b) with respect to the hiring, recruiting, or referral for employment of an alien in the United States has established an affirmative defense that the person or entity has not violated paragraph (1)(A) with respect to such hiring, recruiting, or referral.
 
         (4) __Use of labor through contract__ 
 
-            For purposes of this section, a person or other entity who uses a contract, subcontract, or exchange, entered into, renegotiated, or extended after November 6, 1986, to obtain the labor of an alien in the United States knowing that the alien is an unauthorized alien (as defined in subsection (h)(3) of this section) with respect to performing such labor, shall be considered to have hired the alien for employment in the United States in violation of paragraph (1)(A).
+            For purposes of this section, a person or other entity who uses a contract, subcontract, or exchange, entered into, renegotiated, or extended after November 6, 1986, to obtain the labor of an alien in the United States knowing that the alien is an unauthorized alien (as defined in subsection (h)(3)) with respect to performing such labor, shall be considered to have hired the alien for employment in the United States in violation of paragraph (1)(A).
 
         (5) __Use of State employment agency documentation__ 
 
-            For purposes of paragraphs (1)(B) and (3), a person or entity shall be deemed to have complied with the requirements of subsection (b) of this section with respect to the hiring of an individual who was referred for such employment by a State employment agency (as defined by the Attorney General), if the person or entity has and retains (for the period and in the manner described in subsection (b)(3) of this section) appropriate documentation of such referral by that agency, which documentation certifies that the agency has complied with the procedures specified in subsection (b) of this section with respect to the individual’s referral.
+            For purposes of paragraphs (1)(B) and (3), a person or entity shall be deemed to have complied with the requirements of subsection (b) with respect to the hiring of an individual who was referred for such employment by a State employment agency (as defined by the Attorney General), if the person or entity has and retains (for the period and in the manner described in subsection (b)(3)) appropriate documentation of such referral by that agency, which documentation certifies that the agency has complied with the procedures specified in subsection (b) with respect to the individual’s referral.
 
         (6) __Treatment of documentation for certain employees__ 
 
@@ -51,9 +51,9 @@
 
                 (i) an individual is a member of a collective-bargaining unit and is employed, under a collective bargaining agreement entered into between one or more employee organizations and an association of two or more employers, by an employer that is a member of such association, and
 
-                (ii) within the period specified in subparagraph (B), another employer that is a member of the association (or an agent of such association on behalf of the employer) has complied with the requirements of subsection (b) of this section with respect to the employment of the individual,
+                (ii) within the period specified in subparagraph (B), another employer that is a member of the association (or an agent of such association on behalf of the employer) has complied with the requirements of subsection (b) with respect to the employment of the individual,
 
-                the subsequent employer shall be deemed to have complied with the requirements of subsection (b) of this section with respect to the hiring of the employee and shall not be liable for civil penalties described in subsection (e)(5) of this section.
+                the subsequent employer shall be deemed to have complied with the requirements of subsection (b) with respect to the hiring of the employee and shall not be liable for civil penalties described in subsection (e)(5).
 
             (B) __Period__ 
 
@@ -63,7 +63,7 @@
 
                 (i) __In general__ 
 
-                    If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) of this section and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
+                    If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
 
                 (ii) __Rebuttal of presumption__ 
 
@@ -71,7 +71,7 @@
 
                 (iii) __Exception__ 
 
-                    Clause (i) shall not apply in any prosecution under subsection (f)(1) of this section.
+                    Clause (i) shall not apply in any prosecution under subsection (f)(1).
 
         (7) __Application to Federal Government__ 
 
@@ -79,7 +79,7 @@
 
     (b) __Employment verification system__ 
 
-    The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of this section are, in the case of a person or other entity hiring, recruiting, or referring an individual for employment in the United States, the requirements specified in the following three paragraphs:
+    The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are, in the case of a person or other entity hiring, recruiting, or referring an individual for employment in the United States, the requirements specified in the following three paragraphs:
 
         (1) __Attestation after examination of documentation__ 
 
@@ -175,7 +175,7 @@
 
             (C) __Exception for pattern or practice violators__ 
 
-                Subparagraph (A) shall not apply to a person or entity that has or is engaging in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2) of this section.
+                Subparagraph (A) shall not apply to a person or entity that has or is engaging in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2).
 
     (c) __No authorization of national identification cards__ 
 
@@ -187,11 +187,11 @@
 
             (A) __Monitoring__ 
 
-                The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
+                The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
 
             (B) __Improvements to establish secure system__ 
 
-                To the extent that the system established under subsection (b) of this section is found not to be a secure system to determine employment eligibility in the United States, the President shall, subject to paragraph (3) and taking into account the results of any demonstration projects conducted under paragraph (4), implement such changes in (including additions to) the requirements of subsection (b) of this section as may be necessary to establish a secure system to determine employment eligibility in the United States. Such changes in the system may be implemented only if the changes conform to the requirements of paragraph (2).
+                To the extent that the system established under subsection (b) is found not to be a secure system to determine employment eligibility in the United States, the President shall, subject to paragraph (3) and taking into account the results of any demonstration projects conducted under paragraph (4), implement such changes in (including additions to) the requirements of subsection (b) as may be necessary to establish a secure system to determine employment eligibility in the United States. Such changes in the system may be implemented only if the changes conform to the requirements of paragraph (2).
 
         (2) __Restrictions on changes in system__ 
 
@@ -265,7 +265,7 @@
 
                 (ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to a Federal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
 
-                (iii) require any change in any card used for accounting purposes under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[[42 U.S.C. 405(c)(2)(D)][/us/usc/t42/s405/c/2/D]\].
+                (iii) require any change in any card used for accounting purposes under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[[42 U.S.C. 405(c)(2)(D)][/us/usc/t42/s405/c/2/D]\].
 
             (E) __General revenue funding of social security card changes__ 
 
@@ -275,7 +275,7 @@
 
             (A) __Authority__ 
 
-                The President may undertake demonstration projects (consistent with paragraph (2)) of different changes in the requirements of subsection (b) of this section. No such project may extend over a period of longer than five years.
+                The President may undertake demonstration projects (consistent with paragraph (2)) of different changes in the requirements of subsection (b). No such project may extend over a period of longer than five years.
 
             (B) __Reports on projects__ 
 
@@ -287,13 +287,13 @@
 
         The Attorney General shall establish procedures—
 
-            (A) for individuals and entities to file written, signed complaints respecting potential violations of subsection (a) or (g)(1) of this section,
+            (A) for individuals and entities to file written, signed complaints respecting potential violations of subsection (a) or (g)(1),
 
             (B) for the investigation of those complaints which, on their face, have a substantial probability of validity,
 
-            (C) for the investigation of such other violations of subsection (a) or (g)(1) of this section as the Attorney General determines to be appropriate, and
+            (C) for the investigation of such other violations of subsection (a) or (g)(1) as the Attorney General determines to be appropriate, and
 
-            (D) for the designation in the Service of a unit which has, as its primary duty, the prosecution of cases of violations of subsection (a) or (g)(1) of this section under this subsection.
+            (D) for the designation in the Service of a unit which has, as its primary duty, the prosecution of cases of violations of subsection (a) or (g)(1) under this subsection.
 
         (2) __Authority in investigations__ 
 
@@ -311,7 +311,7 @@
 
             (A) __In general__ 
 
-                Before imposing an order described in paragraph (4), (5), or (6) against a person or entity under this subsection for a violation of subsection (a) or (g)(1) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
+                Before imposing an order described in paragraph (4), (5), or (6) against a person or entity under this subsection for a violation of subsection (a) or (g)(1), the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
 
             (B) __Conduct of hearing__ 
 
@@ -319,11 +319,11 @@
 
             (C) __Issuance of orders__ 
 
-                If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated subsection (a) or (g)(1) of this section, the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (4), (5), or (6).
+                If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated subsection (a) or (g)(1), the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (4), (5), or (6).
 
         (4) __Cease and desist order with civil money penalty for hiring, recruiting, and referral violations__ 
 
-        With respect to a violation of subsection (a)(1)(A) or (a)(2) of this section, the order under this subsection—
+        With respect to a violation of subsection (a)(1)(A) or (a)(2), the order under this subsection—
 
             (A)
 
@@ -339,7 +339,7 @@
 
              may require the person or entity—
 
-                (i) to comply with the requirements of subsection (b) of this section (or subsection (d) of this section if applicable) with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years, and
+                (i) to comply with the requirements of subsection (b) (or subsection (d) if applicable) with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years, and
 
                 (ii) to take such other remedial action as is appropriate.
 
@@ -347,11 +347,11 @@
 
         (5) __Order for civil money penalty for paperwork violations__ 
 
-            With respect to a violation of subsection (a)(1)(B) of this section, the order under this subsection shall require the person or entity to pay a civil penalty in an amount of not less than $100 and not more than $1,000 for each individual with respect to whom such violation occurred. In determining the amount of the penalty, due consideration shall be given to the size of the business of the employer being charged, the good faith of the employer, the seriousness of the violation, whether or not the individual was an unauthorized alien, and the history of previous violations.
+            With respect to a violation of subsection (a)(1)(B), the order under this subsection shall require the person or entity to pay a civil penalty in an amount of not less than $100 and not more than $1,000 for each individual with respect to whom such violation occurred. In determining the amount of the penalty, due consideration shall be given to the size of the business of the employer being charged, the good faith of the employer, the seriousness of the violation, whether or not the individual was an unauthorized alien, and the history of previous violations.
 
         (6) __Order for prohibited indemnity bonds__ 
 
-            With respect to a violation of subsection (g)(1) of this section, the order under this subsection may provide for the remedy described in subsection (g)(2) of this section.
+            With respect to a violation of subsection (g)(1), the order under this subsection may provide for the remedy described in subsection (g)(2).
 
         (7) __Administrative appellate review__ 
 
@@ -369,11 +369,11 @@
 
         (1) __Criminal penalty__ 
 
-            Any person or entity which engages in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2) of this section shall be fined not more than $3,000 for each unauthorized alien with respect to whom such a violation occurs, imprisoned for not more than six months for the entire pattern or practice, or both, notwithstanding the provisions of any other Federal law relating to fine levels.
+            Any person or entity which engages in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2) shall be fined not more than $3,000 for each unauthorized alien with respect to whom such a violation occurs, imprisoned for not more than six months for the entire pattern or practice, or both, notwithstanding the provisions of any other Federal law relating to fine levels.
 
         (2) __Enjoining of pattern or practice violations__ 
 
-            Whenever the Attorney General has reasonable cause to believe that a person or entity is engaged in a pattern or practice of employment, recruitment, or referral in violation of paragraph (1)(A) or (2) of subsection (a) of this section, the Attorney General may bring a civil action in the appropriate district court of the United States requesting such relief, including a permanent or temporary injunction, restraining order, or other order against the person or entity, as the Attorney General deems necessary.
+            Whenever the Attorney General has reasonable cause to believe that a person or entity is engaged in a pattern or practice of employment, recruitment, or referral in violation of paragraph (1)(A) or (2) of subsection (a), the Attorney General may bring a civil action in the appropriate district court of the United States requesting such relief, including a permanent or temporary injunction, restraining order, or other order against the person or entity, as the Attorney General deems necessary.
 
     (g) __Prohibition of indemnity bonds__ 
 
@@ -383,7 +383,7 @@
 
         (2) __Civil penalty__ 
 
-            Any person or entity which is determined, after notice and opportunity for an administrative hearing under subsection (e) of this section, to have violated paragraph (1) shall be subject to a civil penalty of $1,000 for each violation and to an administrative order requiring the return of any amounts received in violation of such paragraph to the employee or, if the employee cannot be located, to the general fund of the Treasury.
+            Any person or entity which is determined, after notice and opportunity for an administrative hearing under subsection (e), to have violated paragraph (1) shall be subject to a civil penalty of $1,000 for each violation and to an administrative order requiring the return of any amounts received in violation of such paragraph to the employee or, if the employee cannot be located, to the general fund of the Treasury.
 
     (h) __Miscellaneous provisions__ 
 
@@ -451,7 +451,7 @@
 
     Subsec. (b)(3). [Pub. L. 102–232, § 306(b)(2)][/us/pl/102/232/s306/b/2], as amended by [Pub. L. 103–416, § 219(z)(4)][/us/pl/103/416/s219/z/4], made technical correction to [Pub. L. 101–649, § 538(a)][/us/pl/101/649/s538/a]. See 1990 Amendment note below.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–649, § 521(a)][/us/pl/101/649/s521/a], struck out “to hire, or to recruit or refer for a fee, for employment in the United States” after “or other entity” in introductory provisions, inserted “to hire, or to recruit or refer for a fee, for employment in the United States” after “(A)” in subpar. (A), and inserted “(i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) of this section or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in [section 1802 of title 29][/us/usc/t29/s1802]), to hire, or to recruit or refer for a fee, for employment in the United States” after “(B)” in subpar. (B).
+    1990—Subsec. (a)(1). [Pub. L. 101–649, § 521(a)][/us/pl/101/649/s521/a], struck out “to hire, or to recruit or refer for a fee, for employment in the United States” after “or other entity” in introductory provisions, inserted “to hire, or to recruit or refer for a fee, for employment in the United States” after “(A)” in subpar. (A), and inserted “(i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in [section 1802 of title 29][/us/usc/t29/s1802]), to hire, or to recruit or refer for a fee, for employment in the United States” after “(B)” in subpar. (B).
 
     Subsec. (b)(3). [Pub. L. 101–649, § 538(a)][/us/pl/101/649/s538/a], as amended by [Pub. L. 102–232, § 306(b)(2)][/us/pl/102/232/s306/b/2], as amended by [Pub. L. 103–416, § 219(z)(4)][/us/pl/103/416/s219/z/4], inserted “, the Special Counsel for Immigration-Related Unfair Employment Practices,” after “officers of the Service”.
 

@@ -31,7 +31,7 @@
 
     (c) __History and projections__ 
 
-    The information (referred to in subsection (b) of this section) contained in each report shall be—
+    The information (referred to in subsection (b)) contained in each report shall be—
 
         (1) described for the preceding three-year period, and
 

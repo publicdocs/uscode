@@ -17,7 +17,7 @@
 
     (a) __Optional application to State programs__ 
 
-    Except as provided in subsection (b) of this section, in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
+    Except as provided in subsection (b), in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
 
         (1) the income and resources of any individual who executed an affidavit of support pursuant to [section 1183a of this title][/us/usc/t8/s1183a] (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien, and
 
@@ -25,7 +25,7 @@
 
     (b) __Exceptions__ 
 
-    Subsection (a) of this section shall not apply with respect to the following State public benefits:
+    Subsection (a) shall not apply with respect to the following State public benefits:
 
         (1) Assistance described in [section 1621(b)(1) of this title][/us/usc/t8/s1621/b/1].
 

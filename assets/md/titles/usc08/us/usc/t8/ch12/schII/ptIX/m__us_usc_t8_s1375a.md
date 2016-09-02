@@ -39,11 +39,11 @@
 
             (G) A warning concerning the potential use of K nonimmigrant visas by United States citizens who have a history of committing domestic violence, sexual assault, child abuse, or other crimes and an explanation that such acts may not have resulted in a criminal record for such a citizen.
 
-            (H) Notification of the requirement under subsection (d)(3)(A) of this section that international marriage brokers provide foreign national clients with background information gathered on United States clients from searches of the National Sex Offender Public Website and collected from United States clients regarding their marital history and domestic violence or other violent criminal history, but that such information may not be complete or accurate because the United States client may not have a criminal record or may not have truthfully reported their marital or criminal record.
+            (H) Notification of the requirement under subsection (d)(3)(A) that international marriage brokers provide foreign national clients with background information gathered on United States clients from searches of the National Sex Offender Public Website and collected from United States clients regarding their marital history and domestic violence or other violent criminal history, but that such information may not be complete or accurate because the United States client may not have a criminal record or may not have truthfully reported their marital or criminal record.
 
         (3) __Summaries__ 
 
-            The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b) of this section.
+            The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b).
 
         (4) __Translation__ 
 
@@ -107,15 +107,15 @@
 
         During an interview with an applicant for a K nonimmigrant visa, a consular officers shall—
 
-            (A) provide information, in the primary language of the visa applicant, on protection orders and criminal convictions collected under subsection (a)(5)(A)(iii) of this section;
+            (A) provide information, in the primary language of the visa applicant, on protection orders and criminal convictions collected under subsection (a)(5)(A)(iii);
 
-            (B) provide a copy of the pamphlet developed under subsection (a)(1) of this section in English or another appropriate language and provide an oral summary, in the primary language of the visa applicant, of that pamphlet; and
+            (B) provide a copy of the pamphlet developed under subsection (a)(1) in English or another appropriate language and provide an oral summary, in the primary language of the visa applicant, of that pamphlet; and
 
-            (C) ask the applicant, in the primary language of the applicant, whether an international marriage broker has facilitated the relationship between the applicant and the United States petitioner, and, if so, obtain the identity of the international marriage broker from the applicant and confirm that the international marriage broker provided to the applicant the information and materials required under subsection (d)(3)(A)(iii) of this section.
+            (C) ask the applicant, in the primary language of the applicant, whether an international marriage broker has facilitated the relationship between the applicant and the United States petitioner, and, if so, obtain the identity of the international marriage broker from the applicant and confirm that the international marriage broker provided to the applicant the information and materials required under subsection (d)(3)(A)(iii).
 
         (2) __Family-based applicants__ 
 
-            The pamphlet developed under subsection (a)(1) of this section shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant’s primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
+            The pamphlet developed under subsection (a)(1) shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant’s primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
 
     (c) __Confidentiality__ 
 
@@ -197,7 +197,7 @@
 
                     (II) in the foreign national client’s primary language, a copy of the signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B); and
 
-                    (III) in the foreign national client’s primary language (or in English or other appropriate language if there is no translation available into the client’s primary language), the pamphlet developed under subsection (a)(1) of this section; and
+                    (III) in the foreign national client’s primary language (or in English or other appropriate language if there is no translation available into the client’s primary language), the pamphlet developed under subsection (a)(1); and
 
                 (iv) received from the foreign national client a signed, written consent, in the foreign national client’s primary language, to release the foreign national client’s personal contact information to the specific United States client.
 
@@ -277,7 +277,7 @@
 
             (B) __Additional time allowed for information pamphlet__ 
 
-                The requirement for the distribution of the pamphlet developed under subsection (a)(1) of this section shall not apply until 30 days after the date of its development and initial distribution under subsection (a)(6) of this section.
+                The requirement for the distribution of the pamphlet developed under subsection (a)(1) shall not apply until 30 days after the date of its development and initial distribution under subsection (a)(6).
 
     (e) __Definitions__ 
 
@@ -361,7 +361,7 @@
 
                 (iii) the annual number of waiver applications submitted under such a subsection, the number (and percentage) of such applications granted or denied, and the reasons for such decisions;
 
-                (iv) the annual number (and percentage) of cases in which the criminal background information collected and provided to the applicant as required by subsection (a)(5)(A)(iii) of this section contains one or more convictions;
+                (iv) the annual number (and percentage) of cases in which the criminal background information collected and provided to the applicant as required by subsection (a)(5)(A)(iii) contains one or more convictions;
 
                 (v) the annual number and percentage of cases described in clause (iv) that were granted or were denied waivers under [section 1184(d)(2) of this title][/us/usc/t8/s1184/d/2], as amended by this Act;
 
@@ -375,7 +375,7 @@
 
             (C) that assesses the accuracy and completeness of information gathered under section 832 2 and this section from clients and petitioners by international marriage brokers, the Department of State, or the Department of Homeland Security;
 
-            (D) that examines, based on the information gathered, the extent to which persons with a history of violence are using either the K nonimmigrant visa process or the services of international marriage brokers, or both, and the extent to which such persons are providing accurate and complete information to the Department of State or the Department of Homeland Security and to international marriage brokers in accordance with subsections (a) and (d)(2)(B) of this section; and
+            (D) that examines, based on the information gathered, the extent to which persons with a history of violence are using either the K nonimmigrant visa process or the services of international marriage brokers, or both, and the extent to which such persons are providing accurate and complete information to the Department of State or the Department of Homeland Security and to international marriage brokers in accordance with subsections (a) and (d)(2)(B); and
 
             (E) that assesses the accuracy and completeness of the criminal background check performed by the Secretary of Homeland Security at identifying past instances of domestic violence.
 

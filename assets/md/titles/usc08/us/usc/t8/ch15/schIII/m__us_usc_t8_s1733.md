@@ -21,7 +21,7 @@
 
     (b) __Purpose__ 
 
-    The purpose of each committee established under subsection (a) of this section shall be—
+    The purpose of each committee established under subsection (a) shall be—
 
         (1) to utilize the cooperative resources of all elements of the United States mission in the country in which the consular post is located to identify known or potential terrorists and to develop information on those individuals;
 
@@ -35,11 +35,11 @@
 
     (d) __Meetings__ 
 
-        Each committee established under subsection (a) of this section shall meet at least monthly to share information pertaining to the committee’s purpose as described in subsection (b)(2) of this section.
+        Each committee established under subsection (a) shall meet at least monthly to share information pertaining to the committee’s purpose as described in subsection (b)(2).
 
     (e) __Periodic reports to the Secretary of State__ 
 
-        Each committee established under subsection (a) of this section shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
+        Each committee established under subsection (a) shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
 
     (f) __Repealed.__  __[__  __Pub. L. 113–235, div. J, title VII, § 7034(i)__  __][/us/pl/113/235/s7034/i]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2624__  __][/us/stat/128/2624]__ 
 
