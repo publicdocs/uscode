@@ -15,7 +15,7 @@
 
 ## § 3546. Federal information security incident center
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director shall ensure the operation of a central Federal information security incident center to—
 
@@ -27,7 +27,7 @@
 
         (4) consult with the National Institute of Standards and Technology, agencies or offices operating or exercising control of national security systems (including the National Security Agency), and such other agencies or offices in accordance with law and as directed by the President regarding information security incidents and related matters.
 
-    (b) __National Security Systems.—__ 
+    (b)  __National Security Systems__  __.—__ 
 
     Each agency operating or exercising control of a national security system shall share information about information security incidents, threats, and vulnerabilities with the Federal information security incident center to the extent consistent with standards and guidelines for national security systems, issued in accordance with law and as directed by the President.
 

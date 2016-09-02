@@ -57,11 +57,11 @@
 
 [Pub. L. 110–404, § 7][/us/pl/110/404/s7], Oct. 13, 2008, [122 Stat. 4285][/us/stat/122/4285], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Archivist of the United States may preserve relevant records and establish, as part of the National Archives and Records Administration, an electronically searchable national database consisting of historic records of servitude, emancipation, and post-Civil War reconstruction, including the Refugees, Freedman, and Abandoned Land Records, Southern Claims Commission Records, Records of the Freedmen’s Bank, Slave Impressments Records, Slave Payroll Records, Slave Manifest, and others, contained within the agencies and departments of the Federal Government to assist African Americans and others in conducting genealogical and historical research.
 
->     “(b) __Maintenance.—__ 
+>     “(b)  __Maintenance__  __.—__ 
 
 >     Any database established under this section shall be maintained by the National Archives and Records Administration or an entity within the National Archives and Records Administration designated by the Archivist of the United States.”
 
@@ -75,7 +75,7 @@
 
 > “SEC. 2. __FINDINGS, DECLARATIONS, AND PURPOSES.__ 
 
->     “(a) __Findings and Declarations.—__ 
+>     “(a)  __Findings and Declarations__  __.—__ 
 
 >     The Congress finds and declares that—
 
@@ -93,7 +93,7 @@
 
 >         “(7) most of the records related to the assassination of President John F. Kennedy are almost 30 years old, and only in the rarest cases is there any legitimate need for continued protection of such records.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act are—
 
@@ -173,7 +173,7 @@
 
 > “SEC. 4. __PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS COLLECTION AT THE NATIONAL ARCHIVES AND RECORDS ADMINISTRATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) Not later than 60 days after the date of enactment of this Act \[Oct. 26, 1992\], the National Archives and Records Administration shall commence establishment of a collection of records to be known as the President John F. Kennedy Assassination Records Collection. In so doing, the Archivist shall ensure the physical integrity and original provenance of all records. The Collection shall consist of record copies of all Government records relating to the assassination of President John F. Kennedy, which shall be transmitted to the National Archives in accordance with [section 2107 of title 44][/us/usc/t44/s2107], United States Code. The Archivist shall prepare and publish a subject guidebook and index to the collection.
 
@@ -195,11 +195,11 @@
 
 >             “(C) all Review Board records as required by this Act.
 
->     “(b) __Disclosure of Records.—__ 
+>     “(b)  __Disclosure of Records__  __.—__ 
 
 >     All assassination records transmitted to the National Archives for disclosure to the public shall be included in the Collection and shall be available to the public for inspection and copying at the National Archives within 30 days after their transmission to the National Archives.
 
->     “(c) __Fees for Copying.—__ 
+>     “(c)  __Fees for Copying__  __.—__ 
 
 >     The Archivist shall—
 
@@ -207,19 +207,19 @@
 
 >         “(2) grant waivers of such fees pursuant to the standards established by [section 552(a)(4) of title 5][/us/usc/t5/s552/a/4], United States Code.
 
->     “(d) __Additional Requirements.—__ 
+>     “(d)  __Additional Requirements__  __.—__ 
 
 >         (1) The Collection shall be preserved, protected, archived, and made available to the public at the National Archives using appropriations authorized, specified, and restricted for use under the terms of this Act.
 
 >         “(2) The National Archives, in consultation with the Information Security Oversight Office, shall ensure the security of the postponed assassination records in the Collection.
 
->     “(e) __Oversight.—__ 
+>     “(e)  __Oversight__  __.—__ 
 
 >     The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 > “SEC. 5. __REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) As soon as practicable after the date of enactment of this Act \[Oct. 26, 1992\], each Government office shall identify and organize its records relating to the assassination of President John F. Kennedy and prepare them for transmission to the Archivist for inclusion in the Collection.
 
@@ -229,7 +229,7 @@
 
 >         “(4) No assassination record created by a person or entity outside government (excluding names or identities consistent with the requirements of section 6) shall be withheld, redacted, postponed for public disclosure, or reclassified.
 
->     “(b) __Custody of Assassination Records Pending Review.—__ 
+>     “(b)  __Custody of Assassination Records Pending Review__  __.—__ 
 
 >     During the review by Government offices and pending review activity by the Review Board, each Government office shall retain custody of its assassination records for purposes of preservation, security, and efficiency, unless—
 
@@ -239,7 +239,7 @@
 
 >         “(3) it is a third agency record described in subsection (c)(2)(C).
 
->     “(c) __Review.—__ 
+>     “(c)  __Review__  __.—__ 
 
 >         (1) Not later than 300 days after the date of enactment of this Act \[Oct. 26, 1992\], each Government office shall review, identify and organize each assassination record in its custody or possession for disclosure to the public, review by the Review Board, and transmission to the Archivist.
 
@@ -279,7 +279,7 @@
 
 >         “(3) The Director of each archival depository established under [section 2112 of title 44][/us/usc/t44/s2112], United States Code, shall have as a priority the expedited review for public disclosure of assassination records in the possession and custody of the depository, and shall make such records available to the Review Board as required by this Act.
 
->     “(d) __Identification Aids.—__ 
+>     “(d)  __Identification Aids__  __.—__ 
 
 >         (1)
 
@@ -299,7 +299,7 @@
 
 >         “(3) Assassination records which are in the possession of the National Archives on the date of enactment of this Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by the Review Board or another authorized office under this Act, and shall not be required to have such an identification aid unless required by the Archivist.
 
->     “(e) __Transmission to the National Archives.—__ 
+>     “(e)  __Transmission to the National Archives__  __.—__ 
 
 >     Each Government office shall—
 
@@ -307,11 +307,11 @@
 
 >         “(2) transmit to the Archivist upon approval for postponement by the Review Board or upon completion of other action authorized by this Act, all assassination records the public disclosure of which has been postponed, in whole or in part, under the standards of this Act, to become part of the protected Collection.
 
->     “(f) __Custody of Postponed Assassination Records.—__ 
+>     “(f)  __Custody of Postponed Assassination Records__  __.—__ 
 
 >     An assassination record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until such time as the information security program has been established at the National Archives as required in section 4(e)(2).
 
->     “(g) __Periodic Review of Postponed Assassination Records.—__ 
+>     “(g)  __Periodic Review of Postponed Assassination Records__  __.—__ 
 
 >         (1) All postponed or redacted records shall be reviewed periodically by the originating agency and the Archivist consistent with the recommendations of the Review Board under section 9(c)(3)(B).
 
@@ -331,7 +331,7 @@
 
 >                 “(ii) the identifiable harm is of such gravity that it outweighs the public interest in disclosure.
 
->     “(h) __Fees for Copying.—__ 
+>     “(h)  __Fees for Copying__  __.—__ 
 
 >     Executive branch agencies shall—
 
@@ -363,11 +363,11 @@
 
 > “SEC. 7. __ESTABLISHMENT AND POWERS OF THE ASSASSINATION RECORDS REVIEW BOARD.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established as an independent agency a board to be known as the Assassinations Records Review Board.
 
->     “(b) __Appointment.—__ 
+>     “(b)  __Appointment__  __.—__ 
 
 >         (1) The President, by and with the advice and consent of the Senate, shall appoint, without regard to political affiliation, 5 citizens to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of Government records related to the assassination of President John F. Kennedy.
 
@@ -393,13 +393,13 @@
 
 >             “(C) shall include at least 1 professional historian and 1 attorney.
 
->     “(c) __Security Clearances.—__ 
+>     “(c)  __Security Clearances__  __.—__ 
 
 >         (1) All Review Board nominees shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
 >         “(2) All nominees shall qualify for the necessary security clearance prior to being considered for confirmation by the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate.
 
->     “(d) __Confirmation Hearings.—__ 
+>     “(d)  __Confirmation Hearings__  __.—__ 
 
 >         (1) The Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
 
@@ -407,15 +407,15 @@
 
 >         “(3) The Senate shall vote on each nominee to confirm or reject within 14 days in which the Senate is in session after reported by the Committee on Governmental Affairs.
 
->     “(e) __Vacancy.—__ 
+>     “(e)  __Vacancy__  __.—__ 
 
 >     A vacancy on the Review Board shall be filled in the same manner as specified for original appointment within 30 days of the occurrence of the vacancy.
 
->     “(f) __Chairperson.—__ 
+>     “(f)  __Chairperson__  __.—__ 
 
 >     The Members of the Review Board shall elect one of its members as chairperson at its initial meeting.
 
->     “(g) __Removal of Review Board Member.—__ 
+>     “(g)  __Removal of Review Board Member__  __.—__ 
 
 >         (1)
 
@@ -437,13 +437,13 @@
 
 >             “(B) The member may be reinstated or granted other appropriate relief by order of the court.
 
->     “(h) __Compensation of Members.—__ 
+>     “(h)  __Compensation of Members__  __.—__ 
 
 >         (1) A member of the Review Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Review Board.
 
 >         “(2) A member of the Review Board shall be allowed reasonable travel expenses, including per diem in lieu of subsistence, at rates for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the member’s home or regular place of business in the performance of services for the Review Board.
 
->     “(i) __Duties of the Review Board.—__ 
+>     “(i)  __Duties of the Review Board__  __.—__ 
 
 >         (1) The Review Board shall consider and render decisions on a determination by a Government office to seek to postpone the disclosure of assassination records.
 
@@ -455,7 +455,7 @@
 
 >             “(B) whether an assassination record or particular information in a record qualifies for postponement of disclosure under this Act.
 
->     “(j) __Powers.—__ 
+>     “(j)  __Powers__  __.—__ 
 
 >         (1)
 
@@ -485,25 +485,25 @@
 
 >         “(2) A subpoena issued under paragraph (1)(C)(iii) may be enforced by any appropriate Federal court acting pursuant to a lawful request of the Review Board.
 
->     “(k) __Witness Immunity.—__ 
+>     “(k)  __Witness Immunity__  __.—__ 
 
 >     The Review Board shall be considered to be an agency of the United States for purposes of [section 6001 of title 18][/us/usc/t18/s6001], United States Code.
 
->     “(l) __Oversight.—__ 
+>     “(l)  __Oversight__  __.—__ 
 
 >         (1) The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 >         “(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
->     “(m) __Support Services.—__ 
+>     “(m)  __Support Services__  __.—__ 
 
 >     The Administrator of the General Services Administration shall provide administrative services for the Review Board on a reimbursable basis.
 
->     “(n) __Interpretive Regulations.—__ 
+>     “(n)  __Interpretive Regulations__  __.—__ 
 
 >     The Review Board may issue interpretive regulations.
 
->     “(o) __Termination and Winding Up.—__ 
+>     “(o)  __Termination and Winding Up__  __.—__ 
 
 >         (1) The Review Board and the terms of its members shall terminate not later than September 30, 1998.
 
@@ -513,7 +513,7 @@
 
 > “SEC. 8. __ASSASSINATION RECORDS REVIEW BOARD PERSONNEL.__ 
 
->     “(a) __Executive Director.—__ 
+>     “(a)  __Executive Director__  __.—__ 
 
 >         (1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
 
@@ -539,7 +539,7 @@
 
 >         “(5) The Executive Director shall not be removed for reasons other than by a majority vote of the Review Board for cause on the grounds of inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the responsibilities of the Executive Director or the staff of the Review Board.
 
->     “(b) __Staff.—__ 
+>     “(b)  __Staff__  __.—__ 
 
 >         (1) The Review Board, without regard to the civil service laws, may appoint and terminate additional personnel as are necessary to enable the Review Board and its Executive Director to perform the duties of the Review Board.
 
@@ -559,7 +559,7 @@
 
 >                 “(ii) If a person hired on a conditional basis under clause (i) is denied or otherwise does not qualify for all security clearances necessary to carry out the responsibilities of the position for which conditional employment has been offered, the Review Board shall immediately terminate the person’s employment.
 
->     “(c) __Compensation.—__ 
+>     “(c)  __Compensation__  __.—__ 
 
 >     Subject to such rules as may be adopted by the Review Board, the chairperson, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, may—
 
@@ -567,19 +567,19 @@
 
 >         “(2) appoint and fix compensation of such other personnel as may be necessary to carry out this Act.
 
->     “(d) __Advisory Committees.—__ 
+>     “(d)  __Advisory Committees__  __.—__ 
 
 >         (1) The Review Board shall have the authority to create advisory committees to assist in fulfilling the responsibilities of the Review Board under this Act.
 
 >         “(2) Any advisory committee created by the Review Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
->     “(e) __Security Clearance Required.—__ 
+>     “(e)  __Security Clearance Required__  __.—__ 
 
 >     An individual employed in any position by the Review Board (including an individual appointed as Executive Director) shall be required to qualify for any necessary security clearance prior to taking office in that position, but may be employed conditionally in accordance with subsection (b)(3)(B) before qualifying for that clearance.
 
 > “SEC. 9. __REVIEW OF RECORDS BY THE ASSASSINATION RECORDS REVIEW BOARD.__ 
 
->     “(a) __Custody of Records Reviewed by Board.—__ 
+>     “(a)  __Custody of Records Reviewed by Board__  __.—__ 
 
 >     Pending the outcome of the Review Board’s review activity, a Government office shall retain custody of its assassination records for purposes of preservation, security, and efficiency, unless—
 
@@ -587,7 +587,7 @@
 
 >         “(2) such transfer is necessary for an administrative hearing or other official Review Board function.
 
->     “(b) __Startup Requirements.—__ 
+>     “(b)  __Startup Requirements__  __.—__ 
 
 >     The Review Board shall—
 
@@ -595,7 +595,7 @@
 
 >         “(2) not later than 180 days after the date of enactment of this Act \[Oct. 26, 1992\], begin its review of assassination records under this Act.
 
->     “(c) __Determinations of the Review Board.—__ 
+>     “(c)  __Determinations of the Review Board__  __.—__ 
 
 >         (1)
 
@@ -637,23 +637,23 @@
 
 >     “(d) __Presidential Authority Over Review Board Determination.—__ 
 
->         “(1) __Public disclosure or postponement of disclosure.—__ 
+>         “(1)  __Public disclosure or postponement of disclosure__  __.—__ 
 
 >         After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch assassination record or information within such a record, or of any information contained in an assassination record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 6, and the President shall provide the Review Board with an unclassified written certification specifying the President’s decision within 30 days after the Review Board’s determination and notice to the executive branch agency as required under this Act, stating the justification for the President’s decision, including the applicable grounds for postponement under section 6, accompanied by a copy of the identification aid required under section 4.
 
->         “(2) __Periodic review.—__ 
+>         “(2)  __Periodic review__  __.—__ 
 
 >         Any executive branch assassination record postponed by the President shall be subject to the requirements of periodic review, downgrading and declassification of classified information, and public disclosure in the collection set forth in section 4.
 
->         “(3) __Record of presidential postponement.—__ 
+>         “(3)  __Record of presidential postponement__  __.—__ 
 
 >         The Review Board shall, upon its receipt, publish in the Federal Register a copy of any unclassified written certification, statement, and other materials transmitted by or on behalf of the President with regard to postponement of assassination records.
 
->     “(e) __Notice to Public.—__ 
+>     “(e)  __Notice to Public__  __.—__ 
 
 >     Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Register a notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
 
->     “(f) __Reports by the Review Board.—__ 
+>     “(f)  __Reports by the Review Board__  __.—__ 
 
 >         (1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
@@ -691,7 +691,7 @@
 
 >             “(B) A request for disclosure of assassination materials under this Act shall be deemed to constitute a showing of particularized need under Rule 6 of the Federal Rules of Criminal Procedure \[18 U.S.C. App.\].
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -703,23 +703,23 @@
 
 > “SEC. 11. __RULES OF CONSTRUCTION.__ 
 
->     “(a) __Precedence Over Other Law.—__ 
+>     “(a)  __Precedence Over Other Law__  __.—__ 
 
 >     When this Act requires transmission of a record to the Archivist or public disclosure, it shall take precedence over any other law (except section 6103 of the Internal Revenue Code \[[26 U.S.C. 6103][/us/usc/t26/s6103]\]), judicial decision construing such law, or common law doctrine that would otherwise prohibit such transmission or disclosure, with the exception of deeds governing access to or transfer or release of gifts and donations of records to the United States Government.
 
->     “(b) __Freedom of Information Act.—__ 
+>     “(b)  __Freedom of Information Act__  __.—__ 
 
 >     Nothing in this Act shall be construed to eliminate or limit any right to file requests with any executive agency or seek judicial review of the decisions pursuant to [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
->     “(c) __Judicial Review.—__ 
+>     “(c)  __Judicial Review__  __.—__ 
 
 >     Nothing in this Act shall be construed to preclude judicial review, under chapter 7 of title 5, United States Code, of final actions taken or required to be taken under this Act.
 
->     “(d) __Existing Authority.—__ 
+>     “(d)  __Existing Authority__  __.—__ 
 
 >     Nothing in this Act revokes or limits the existing authority of the President, any executive agency, the Senate, or the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
 
->     “(e) __Rules of the Senate and House of Representatives.—__ 
+>     “(e)  __Rules of the Senate and House of Representatives__  __.—__ 
 
 >     To the extent that any provision of this Act establishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
 
@@ -729,21 +729,21 @@
 
 > “SEC. 12. __TERMINATION OF EFFECT OF ACT.__ 
 
->     “(a) __Provisions Pertaining to the Review Board.—__ 
+>     “(a)  __Provisions Pertaining to the Review Board__  __.—__ 
 
 >     The provisions of this Act that pertain to the appointment and operation of the Review Board shall cease to be effective when the Review Board and the terms of its members have terminated pursuant to section 7(o).
 
->     “(b) __Other Provisions.—__ 
+>     “(b)  __Other Provisions__  __.—__ 
 
 >     The remaining provisions of this Act shall continue in effect until such time as the Archivist certifies to the President and the Congress that all assassination records have been made available to the public in accordance with this Act.
 
 > “SEC. 13. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated to carry out the provisions of this Act $1,600,000 for fiscal year 1998.
 
->     “(b) __Interim Funding.—__ 
+>     “(b)  __Interim Funding__  __.—__ 
 
 >     Until such time as funds are appropriated pursuant to subsection (a), the President may use such sums as are available for discretionary use to carry out this Act.
 

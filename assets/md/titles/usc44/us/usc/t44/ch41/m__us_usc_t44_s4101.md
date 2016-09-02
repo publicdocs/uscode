@@ -15,7 +15,7 @@
 
 ## § 4101. Electronic directory; online access to publications; electronic storage facility
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Superintendent of Documents, under the direction of the Public Printer, shall—
 
@@ -25,11 +25,11 @@
 
         (3) operate an electronic storage facility for Federal electronic information to which online access is made available under paragraph (2).
 
-    (b) __Departmental Requests.—__ 
+    (b)  __Departmental Requests__  __.—__ 
 
     To the extent practicable, the Superintendent of Documents shall accommodate any request by the head of a department or agency to include in the system of access referred to in subsection (a)(2) information that is under the control of the department or agency involved.
 
-    (c) __Consultation.—__ 
+    (c)  __Consultation__  __.—__ 
 
     In carrying out this section, the Superintendent of Documents shall consult—
 

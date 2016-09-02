@@ -103,7 +103,7 @@
 
 [Pub. L. 106–58, title IV][/us/pl/106/58], \[(a)–(e)\], Sept. 29, 1999, [113 Stat. 460][/us/stat/113/460], 461, as amended by [Pub. L. 108–383, § 3][/us/pl/108/383/s3], Oct. 30, 2004, [118 Stat. 2218][/us/stat/118/2218], provided that:
 
->     “(a) __Establishment of Fund.—__ 
+>     “(a)  __Establishment of Fund__  __.—__ 
 
 >     There is hereby established in the Treasury a revolving fund to be available for expenses (including expenses for uniforms or allowances for uniforms as authorized by subchapter I of chapter 59 of title 5 \[United States Code\]) and equipment necessary to provide for storage and related services for all temporary and pre-archival Federal records, which are to be stored or stored at Federal National and Regional Records Centers by agencies and other instrumentalities of the Federal Government. The Fund shall be available without fiscal year limitation for expenses necessary for operation of these activities.
 
@@ -113,7 +113,7 @@
 
 >         “(2) In addition, the initial capital of the Fund shall include the fair and reasonable value at the Fund’s inception of the inventories, equipment, receivables, and other assets, less the liabilities, transferred to the Fund. The Archivist of the United States is authorized to accept inventories, equipment, receivables and other assets from other Federal entities that were used to provide for storage and related services for temporary and pre-archival Federal records.
 
->     “(c) __User Charges.—__ 
+>     “(c)  __User Charges__  __.—__ 
 
 >     The Fund shall be credited with user charges received from other Federal Government accounts as payment for providing personnel, storage, materials, supplies, equipment, and services as authorized by subsection (a). Such payments may be made in advance or by way of reimbursement. The rates charged will return in full the expenses of operation, including reserves for accrued annual leave, worker’s compensation, depreciation of capitalized equipment and shelving, and amortization of information technology software and systems.
 
@@ -123,7 +123,7 @@
 
 >         “(2) Funds in excess of the 4 percent at the close of each fiscal year shall be returned to the Treasury of the United States as miscellaneous receipts.
 
->     “(e) __Reporting Requirement.—__ 
+>     “(e)  __Reporting Requirement__  __.—__ 
 
 >     The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform \[now Oversight and Government Reform\] of the House of Representatives on the operation of the Records Center Revolving Fund.”
 

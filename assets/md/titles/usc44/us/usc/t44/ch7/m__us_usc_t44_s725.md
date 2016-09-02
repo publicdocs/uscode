@@ -15,13 +15,17 @@
 
 ## § 725. Statement of appropriations; “usual number”
 
-    Of the statements of appropriations required to be prepared by [section 105 of Title 2][/us/usc/t2/s105], there shall be printed, after the close of each regular session of Congress, the usual number of copies.
+    Of the statements of appropriations required to be prepared by [section 105 of Title 2][/us/usc/t2/s105], <sup>\[1\]</sup>  <sup><sup> 1 So in original. See References in Text note below. </sup></sup>  there shall be printed, after the close of each regular session of Congress, the usual number of copies.
 
 ([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1252][/us/stat/82/1252].)
 
  __Historical and Revision Notes__ 
 
     Based on 44 U.S. Code, 1964 ed., § 153 ([Mar. 2, 1895, ch. 189, § 1][/us/act/1895-03-02/ch189/s1], [28 Stat. 958][/us/stat/28/958]).
+
+ __References in Text__ 
+
+    [Section 105 of Title 2][/us/usc/t2/s105], referred to in text, was editorially reclassified as [section 4303 of Title 2][/us/usc/t2/s4303], The Congress.
 
 ----------
 
@@ -35,5 +39,7 @@
 [/us/stat/82/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1252
 [/us/act/1895-03-02/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189%2Fs1
 [/us/stat/28/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F958
+[/us/usc/t2/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs105
+[/us/usc/t2/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4303
 
 

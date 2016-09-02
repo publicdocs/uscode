@@ -15,7 +15,9 @@
 
 ## § 1505. Documents to be published in Federal Register
 
-    (a) __Proclamations and Executive Orders; Documents Having General Applicability and Legal Effect; Documents Required To Be Published by Congress. There shall be published in the Federal Register—__ 
+    (a)  __Proclamations and Executive Orders; Documents Having General Applicability and Legal Effect; Documents Required To Be Published by Congress__  __.__ 
+
+     There shall be published in the Federal Register—
 
         (1) Presidential proclamations and Executive orders, except those not having general applicability and legal effect or effective only against Federal agencies or persons in their capacity as officers, agents, or employees thereof;
 
@@ -25,9 +27,13 @@
 
         For the purposes of this chapter every document or order which prescribes a penalty has general applicability and legal effect.
 
-    (b) __Documents Authorized To Be Published by Regulations; Comments and News Items Excluded. In addition to the foregoing there shall also be published in the Federal Register other documents or classes of documents authorized to be published by regulations prescribed under this chapter with the approval of the President, but comments or news items of any character may not be published in the Federal Register.__ 
+    (b)  __Documents Authorized To Be Published by Regulations; Comments and News Items Excluded__  __.__ 
 
-    (c) __Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents; Preservation of Originals. In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—__ 
+     In addition to the foregoing there shall also be published in the Federal Register other documents or classes of documents authorized to be published by regulations prescribed under this chapter with the approval of the President, but comments or news items of any character may not be published in the Federal Register.
+
+    (c)  __Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents; Preservation of Originals__  __.__ 
+
+     In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—
 
         (1) publication of the Federal Register or filing of documents with the Office of the Federal Register is impracticable, or
 
@@ -47,7 +53,7 @@
 
  __Ex. Ord. No. 11030. Preparation, Presentation, Filing, and Publication of Executive Orders and Proclamations__ 
 
-    Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, § 1, May 12, 2006, 71 F.R. 28543, provided:
+    Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. No. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, § 1, May 12, 2006, 71 F.R. 28543, provided:
 
     By virtue of the authority vested in me by the Federal Register Act ([49 Stat. 500][/us/stat/49/500], as amended; [44 U.S.C. 301][/us/usc/t44/s301] et seq.) \[now this chapter\], and as President of the United States, I hereby prescribe the following regulations governing the preparation, presentation, filing, and publication of Executive orders and proclamations:
 

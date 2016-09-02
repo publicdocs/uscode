@@ -41,11 +41,11 @@
 
 [Pub. L. 100–504, title II, § 203][/us/pl/100/504/s203], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is transferred to the Office of Inspector General established pursuant to this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\], the office of the Government Printing Office referred to as the ‘Office of Inspector General’.
 
->     “(b) __Related Provisions.—__ 
+>     “(b)  __Related Provisions__  __.—__ 
 
 >     With respect to such transferred office—
 
@@ -53,7 +53,7 @@
 
 >         “(2) all the functions, powers, and duties of the office transferred by subsection (a) shall lapse.
 
->     “(c) __Personnel.—__ 
+>     “(c)  __Personnel__  __.—__ 
 
 >     Any person who, on the effective date of this title \[see Effective Date note above\], held a position compensated in accordance with the applicable laws and regulations that govern selections, appointments, and employment within the Government Printing Office, and who, without a break in service, is appointed in the Office of Inspector General established by this title to a position having duties comparable to those performed immediately preceding such appointment shall continue to be compensated in the new position at not less than the rate provided for the previous position, for the duration of service in the new position.”
 

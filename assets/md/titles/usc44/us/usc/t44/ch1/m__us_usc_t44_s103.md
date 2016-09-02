@@ -31,7 +31,7 @@
 
 [Pub. L. 95–94, title I][/us/pl/95/94], Aug. 5, 1977, [91 Stat. 669][/us/stat/91/669], provided in part: 
 
-> “That, effective October 1, 1977, the Joint Committee is authorized (1) to procure the temporary or intermittent services of individual consultants, or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under subsection (i) of section 202 of the Legislative Reorganization Act of 1946, as amended \[[section 72a(i) of Title 2][/us/usc/t2/s72a/i], The Congress\], and (2) with the prior consent of the agency concerned, to use on a reimbursable basis the services of personnel, information, and facilities of any such agency: Provided further, That, prior to the employment of any consultants or the procurement of services by contract relative to any review and analysis of the operation of the Government Printing Office, the Joint Committee shall consult with the Legislative Branch Appropriations Subcommittees of the House and Senate; and that periodic reports on the progress of any such review and analysis be submitted to the Joint Committee on Printing and the Legislative Branch Appropriations Subcommittees of the House and Senate.”
+> “That, effective October 1, 1977, the Joint Committee is authorized (1) to procure the temporary or intermittent services of individual consultants, or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under subsection (i) of section 202 of the Legislative Reorganization Act of 1946, as amended \[[section 4301(i) of Title 2][/us/usc/t2/s4301/i], The Congress\], and (2) with the prior consent of the agency concerned, to use on a reimbursable basis the services of personnel, information, and facilities of any such agency: Provided further, That, prior to the employment of any consultants or the procurement of services by contract relative to any review and analysis of the operation of the Government Printing Office, the Joint Committee shall consult with the Legislative Branch Appropriations Subcommittees of the House and Senate; and that periodic reports on the progress of any such review and analysis be submitted to the Joint Committee on Printing and the Legislative Branch Appropriations Subcommittees of the House and Senate.”
 
     Prior similar provisions were contained in [Pub. L. 94–303, title I][/us/pl/94/303], June 1, 1976, [90 Stat. 616][/us/stat/90/616].
 
@@ -52,7 +52,7 @@
 [/us/stat/40/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1270
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/stat/91/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F669
-[/us/usc/t2/s72a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%2Fi
+[/us/usc/t2/s4301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301%2Fi
 [/us/pl/94/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303
 [/us/stat/90/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F616
 

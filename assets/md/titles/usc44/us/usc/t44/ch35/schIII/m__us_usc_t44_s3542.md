@@ -15,11 +15,11 @@
 
 ## § 3542. Definitions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided under subsection (b), the definitions under section 3502 shall apply to this subchapter.
 
-    (b) __Additional Definitions.—__ 
+    (b)  __Additional Definitions__  __.—__ 
 
     As used in this subchapter:
 

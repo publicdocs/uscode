@@ -237,7 +237,7 @@
 
 [Pub. L. 110–404, § 6(a)][/us/pl/110/404/s6/a], Oct. 13, 2008, [122 Stat. 4284][/us/stat/122/4284], provided that:
 
->     “(1) __Provision of plan.—__ 
+>     “(1)  __Provision of plan__  __.—__ 
 
 >     The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives a 10-year capital improvement plan, in accordance with paragraph (2), for all Presidential archival depositories (as defined in [section 2101 of title 44][/us/usc/t44/s2101], United States Code), which shall include—
 
@@ -247,11 +247,11 @@
 
 >         “(C) the basis upon which each cost estimate was developed.
 
->     “(2) __Provided to congress.—__ 
+>     “(2)  __Provided to congress__  __.—__ 
 
 >     The capital improvement plan shall be provided to the committees, as described in paragraph (1), at the same time as the first Budget of the United States Government after the date of enactment of this Act \[Oct. 13, 2008\] is submitted to Congress.
 
->     “(3) __Annual updates and explanation of changes in cost estimates.—__ 
+>     “(3)  __Annual updates and explanation of changes in cost estimates__  __.—__ 
 
 >     The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives—
 

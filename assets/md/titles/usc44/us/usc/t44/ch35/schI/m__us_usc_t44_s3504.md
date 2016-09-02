@@ -271,11 +271,11 @@
 
 > “SEC. 1703. __PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES BY EXECUTIVE AGENCIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]) \[see Short Title of 1996 Act note set out under [section 101 of Title 41][/us/usc/t41/s101], Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
->     “(b) __Requirements for Procedures.—__ 
+>     “(b)  __Requirements for Procedures__  __.—__ 
 
 >         (1)
 
@@ -307,7 +307,7 @@
 
 > “SEC. 1706. __STUDY ON USE OF ELECTRONIC SIGNATURES.__ 
 
->     “(a) __Ongoing Study Required.—__ 
+>     “(a)  __Ongoing Study Required__  __.—__ 
 
 >     In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]) \[see Short Title of 1996 Act note set out under [section 101 of Title 41][/us/usc/t41/s101]\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
 
@@ -317,7 +317,7 @@
 
 >         “(3) the security and authenticity of transactions.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     The Director shall submit to Congress on a periodic basis a report describing the results of the study carried out under subsection (a).
 
@@ -341,7 +341,7 @@
 
 > “For purposes of this title:
 
->     “(1) __Electronic signature.—__ 
+>     “(1)  __Electronic signature__  __.—__ 
 
 >     The term ‘electronic signature’ means a method of signing an electronic message that—
 
@@ -349,7 +349,7 @@
 
 >         “(B) indicates such person’s approval of the information contained in the electronic message.
 
->     “(2) __Executive agency.—__ 
+>     “(2)  __Executive agency__  __.—__ 
 
 >     The term ‘Executive agency’ has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105], United States Code.”
 

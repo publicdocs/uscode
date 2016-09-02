@@ -79,11 +79,11 @@
 
 [Pub. L. 107–347, title IV, § 402(a)][/us/pl/107/347/s402/a], Dec. 17, 2002, [116 Stat. 2961][/us/stat/116/2961], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided under paragraph (2), titles I \[enacting this chapter, [section 507 of Title 31][/us/usc/t31/s507], Money and Finance, and [section 305 of Title 40][/us/usc/t40/s305], Public Buildings, Property, and Works, and amending [section 503 of Title 31][/us/usc/t31/s503]\] and II \[enacting chapter 37 of Title 5, Government Organization and Employees, [section 2332 of Title 10][/us/usc/t10/s2332], Armed Forces, and [section 266a of Title 41][/us/usc/t41/s266a], Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and [section 423 of Title 41][/us/usc/t41/s423], repealing [section 11521 of Title 40][/us/usc/t40/s11521], directing the renumbering of [section 11522 of Title 40][/us/usc/t40/s11522] as section 11521, enacting provisions set out as notes under [section 3501 of this title][/us/usc/t44/s3501], and amending provisions set out as notes under [section 8432 of Title 5][/us/usc/t5/s8432] and [section 1913 of Title 28][/us/usc/t28/s1913], Judiciary and Judicial Procedure\] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act \[Dec. 17, 2002\].
 
->     “(2) __Immediate enactment.—__ 
+>     “(2)  __Immediate enactment__  __.—__ 
 
 >     Sections 207, 214, and 215 \[set out in a note under [section 3501 of this title][/us/usc/t44/s3501]\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\].”
 
@@ -121,7 +121,7 @@
 
 [Pub. L. 107–347, § 2][/us/pl/107/347/s2], Dec. 17, 2002, [116 Stat. 2900][/us/stat/116/2900], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -139,7 +139,7 @@
 
 >         “(7) To take full advantage of the improved Government performance that can be achieved through the use of Internet-based technology requires strong leadership, better organization, improved interagency collaboration, and more focused oversight of agency compliance with statutes related to information resource management.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Tables for classification\] are the following:
 

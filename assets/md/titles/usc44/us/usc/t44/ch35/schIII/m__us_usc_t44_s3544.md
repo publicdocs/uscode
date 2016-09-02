@@ -15,7 +15,7 @@
 
 ## § 3544. Federal agency responsibilities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The head of each agency shall—
 
@@ -81,7 +81,7 @@
 
         (5) ensure that the agency Chief Information Officer, in coordination with other senior agency officials, reports annually to the agency head on the effectiveness of the agency information security program, including progress of remedial actions.
 
-    (b) __Agency Program.—__ 
+    (b)  __Agency Program__  __.—__ 
 
     Each agency shall develop, document, and implement an agencywide information security program, approved by the Director under section 3543(a)(5), to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source, that includes—
 
@@ -149,7 +149,7 @@
 
         (8) plans and procedures to ensure continuity of operations for information systems that support the operations and assets of the agency.
 
-    (c) __Agency Reporting.—__ 
+    (c)  __Agency Reporting__  __.—__ 
 
     Each agency shall—
 
@@ -181,7 +181,7 @@
 
             (B) if relating to financial management systems, as an instance of a lack of substantial compliance under the Federal Financial Management Improvement Act ([31 U.S.C. 3512][/us/usc/t31/s3512] note).
 
-    (d) __Performance Plan.—__ 
+    (d)  __Performance Plan__  __.—__ 
 
         (1)
 
@@ -195,7 +195,7 @@
 
         (2) The description under paragraph (1) shall be based on the risk assessments required under subsection (b)(2)(1).
 
-    (e) __Public Notice and Comment.—__ 
+    (e)  __Public Notice and Comment__  __.—__ 
 
     Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
 

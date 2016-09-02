@@ -15,15 +15,15 @@
 
 ## § 3605. Program to encourage innovative solutions to enhance electronic Government services and processes
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Administrator shall establish and promote a Governmentwide program to encourage contractor innovation and excellence in facilitating the development and enhancement of electronic Government services and processes.
 
-    (b) __Issuance of Announcements Seeking Innovative Solutions.—__ 
+    (b)  __Issuance of Announcements Seeking Innovative Solutions__  __.—__ 
 
     Under the program, the Administrator, in consultation with the Council and the Administrator for Federal Procurement Policy, shall issue announcements seeking unique and innovative solutions to facilitate the development and enhancement of electronic Government services and processes.
 
-    (c) __Multiagency Technical Assistance Team.—__ 
+    (c)  __Multiagency Technical Assistance Team__  __.—__ 
 
         (1) The Administrator, in consultation with the Council and the Administrator for Federal Procurement Policy, shall convene a multiagency technical assistance team to assist in screening proposals submitted to the Administrator to provide unique and innovative solutions to facilitate the development and enhancement of electronic Government services and processes. The team shall be composed of employees of the agencies represented on the Council who have expertise in scientific and technical disciplines that would facilitate the assessment of the feasibility of the proposals.
 

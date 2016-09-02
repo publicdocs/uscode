@@ -15,7 +15,7 @@
 
 ## § 3543. Authority and functions of the Director
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director shall oversee agency information security policies and practices, including—
 
@@ -53,11 +53,11 @@
 
             (E) a summary of, and the views of the Director on, the report prepared by the National Institute of Standards and Technology under section 20(d)(10) of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3]).
 
-    (b) __National Security Systems.—__ 
+    (b)  __National Security Systems__  __.—__ 
 
     Except for the authorities described in paragraphs (4) and (8) of subsection (a), the authorities of the Director under this section shall not apply to national security systems.
 
-    (c) __Department of Defense and Central Intelligence Agency Systems.—__ 
+    (c)  __Department of Defense and Central Intelligence Agency Systems__  __.—__ 
 
         (1) The authorities of the Director described in paragraphs (1) and (2) of subsection (a) shall be delegated to the Secretary of Defense in the case of systems described in paragraph (2) and to the Director of Central Intelligence in the case of systems described in paragraph (3).
 

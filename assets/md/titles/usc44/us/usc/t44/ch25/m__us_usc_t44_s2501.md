@@ -69,7 +69,7 @@
 
     (c) The Commission shall meet at least annually and at call of the Chairman.
 
-    (d) __Recusal.—__ 
+    (d)  __Recusal__  __.—__ 
 
     Members of the Commission shall recuse themselves from voting on any matter that poses, or could potentially pose, a conflict of interest, including a matter that could benefit them or an entity they represent.
 

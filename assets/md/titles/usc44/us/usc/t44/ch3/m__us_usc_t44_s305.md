@@ -41,11 +41,11 @@
 
 [Pub. L. 105–275, title III, § 309][/us/pl/105/275/s309], Oct. 21, 1998, [112 Stat. 2454][/us/stat/112/2454], as amended by [Pub. L. 107–68, title II, § 210(a)][/us/pl/107/68/s210/a], Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590]; [Pub. L. 112–10, div. B, title IX, § 1926(a)][/us/pl/112/10/s1926/a], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172], provided that:
 
->     “(a) __Severance Pay.—__ 
+>     “(a)  __Severance Pay__  __.—__ 
 
 >     \[Amended [section 5595 of Title 5][/us/usc/t5/s5595], Government Organization and Employees.\]
 
->     “(b) __Early Retirement.—__ 
+>     “(b)  __Early Retirement__  __.—__ 
 
 >         (1)
 
@@ -63,7 +63,7 @@
 
 >         “(2) Notwithstanding any provision of chapter 83 or 84 of title 5, United States Code, an employee described under paragraph (1) is entitled to an annuity which shall be computed consistent with the provisions of law applicable to annuities under section 8336(d) or 8414(b) of title 5, United States Code.
 
->     “(c) __Voluntary Separation Incentive Payments.—__ 
+>     “(c)  __Voluntary Separation Incentive Payments__  __.—__ 
 
 >         (1)
 
@@ -113,7 +113,7 @@
 
 >         “(7) Not later than January 15, 1999, the Public Printer shall prescribe regulations to carry out this subsection.
 
->     “(d) __Retraining, Job Placement, and Counseling Services.—__ 
+>     “(d)  __Retraining, Job Placement, and Counseling Services__  __.—__ 
 
 >         (1)
 
@@ -141,7 +141,7 @@
 
 >         “(4) Retraining costs for the program established under this subsection may not exceed $5,000 for each employee or former employee.
 
->     “(e) __Administrative Provisions.—__ 
+>     “(e)  __Administrative Provisions__  __.—__ 
 
 >         (1)
 

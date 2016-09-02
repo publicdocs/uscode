@@ -35,11 +35,11 @@
 
 [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title V, § 515\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–153, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall, by not later than September 30, 2001, and with public and Federal agency involvement, issue guidelines under sections 3504(d)(1) and 3516 of title 44, United States Code, that provide policy and procedural guidance to Federal agencies for ensuring and maximizing the quality, objectivity, utility, and integrity of information (including statistical information) disseminated by Federal agencies in fulfillment of the purposes and provisions of chapter 35 of title 44, United States Code, commonly referred to as the Paperwork Reduction Act.
 
->     “(b) __Content of Guidelines.—__ 
+>     “(b)  __Content of Guidelines__  __.—__ 
 
 >     The guidelines under subsection (a) shall—
 

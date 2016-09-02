@@ -25,7 +25,7 @@
 
         (2) improve agency performance and the accomplishment of agency missions.
 
-    (c) __Comparable Treatment.—__ 
+    (c)  __Comparable Treatment__  __.—__ 
 
     Notwithstanding any other provision of law, the Director shall treat or review a rule or order prescribed or proposed by the Director of the Bureau of Consumer Financial Protection on the same terms and conditions as apply to any rule or order prescribed or proposed by the Board of Governors of the Federal Reserve System.
 

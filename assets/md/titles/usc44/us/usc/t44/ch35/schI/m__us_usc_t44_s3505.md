@@ -55,7 +55,7 @@
 
     (b) For purposes of any pilot project conducted under subsection (a)(2), the Director may, after consultation with the agency head, waive the application of any administrative directive issued by an agency with which the project is conducted, including any directive requiring a collection of information, after giving timely notice to the public and the Congress regarding the need for such waiver.
 
-    (c)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (c) have been enacted.__  __ </sup></sup> __  __Inventory of Major Information Systems.—__ 
+    (c)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (c) have been enacted.__  __ </sup></sup> __   __Inventory of Major Information Systems__  __.—__ 
 
         (1) The head of each agency shall develop and maintain an inventory of major information systems (including major national security systems) operated by or under the control of such agency.
 
@@ -85,7 +85,7 @@
 
         (4) The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
 
-    (c)  __1__  __Inventory of Information Systems.—__ 
+    (c)  __1__   __Inventory of Information Systems__  __.—__ 
 
         (1) The head of each agency shall develop and maintain an inventory of the information systems (including national security systems) operated by or under the control of such agency;
 

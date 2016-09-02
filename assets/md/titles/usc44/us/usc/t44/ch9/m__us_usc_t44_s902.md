@@ -37,11 +37,11 @@
 
 [Pub. L. 108–102, § 1(b)][/us/pl/108/102/s1/b], Oct. 29, 2003, [117 Stat. 1198][/us/stat/117/1198], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Any individual who is an employee of the Congressional Record Index Office as of the effective date of this Act \[see Effective Date of 2003 Amendment note above\] shall be transferred to the Government Printing Office, subject to the provisions of this title \[probably means Title 44, United States Code\] governing the selection and appointment of employees of the Government Printing Office and any applicable regulations.
 
->     “(2) __Treatment of accrued leave.—__ 
+>     “(2)  __Treatment of accrued leave__  __.—__ 
 
 >     Any annual and sick leave accrued by such an individual prior to such date shall be transferred and made available to the individual as an employee of the Government Printing Office, subject to applicable regulations of the Government Printing Office governing the use of such leave.”
 

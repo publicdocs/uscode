@@ -27,11 +27,11 @@
 
     (f) __Grants for Presidential Centers of Historical Excellence.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the “Presidential Libraries Act of 1955”).
 
-        (2) __Eligible entity.—__ 
+        (2)  __Eligible entity__  __.—__ 
 
         For purposes of this subsection, an eligible entity is—
 
@@ -39,21 +39,21 @@
 
             (B) a State or local government of the United States.
 
-        (3) __Use of funds.—__ 
+        (3)  __Use of funds__  __.—__ 
 
         Amounts received by an eligible entity under paragraph (1) shall be used to promote the historical preservation of, and public access to, historical records or historical documents relating to any former President covered under paragraph (1).
 
-        (4) __Prohibition on use of funds.—__ 
+        (4)  __Prohibition on use of funds__  __.—__ 
 
         Amounts received by an eligible entity under paragraph (1) may not be used for the maintenance, operating costs, or construction of any facility to house the historical records or historical documents relating to any former President covered under paragraph (1).
 
         (5) __Application.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An eligible entity seeking a grant under this subsection shall submit to the Commission an application at such time, in such manner, and containing or accompanied by such information as the Commission may require, including a description of the activities for which a grant under this subsection is sought.
 
-            (B) __Approval of application.—__ 
+            (B)  __Approval of application__  __.—__ 
 
             The Commission shall not consider or recommend a grant application submitted under subparagraph (A) unless an eligible entity establishes that such entity—
 
@@ -167,11 +167,11 @@
 
 [Pub. L. 110–404, § 8][/us/pl/110/404/s8], Oct. 13, 2008, [122 Stat. 4285][/us/stat/122/4285], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Executive Director of the National Historical Publications and Records Commission of the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
 
->     “(b) __Maintenance.—__ 
+>     “(b)  __Maintenance__  __.—__ 
 
 >     Any database established using a grant under this section shall be maintained by appropriate agencies or institutions designated by the Executive Director of the National Historical Publications and Records Commission.”
 

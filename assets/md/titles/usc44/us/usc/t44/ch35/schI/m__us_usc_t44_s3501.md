@@ -73,15 +73,15 @@
 
 [Pub. L. 104–13, § 4][/us/pl/104/13/s4], May 22, 1995, [109 Stat. 185][/us/stat/109/185], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, this Act \[enacting this chapter, amending [section 91 of Title 13][/us/usc/t13/s91], Census, and enacting provisions set out as a note under [section 101 of this title][/us/usc/t44/s101]\] and the amendments made by this Act shall take effect on October 1, 1995.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     Section 3520 \[now 3521\] of title 44, United States Code, as amended by this Act, shall take effect on the date of enactment of this Act \[May 22, 1995\].
 
->     “(c) __Delayed Application.—__ 
+>     “(c)  __Delayed Application__  __.—__ 
 
 >     In the case of a collection of information for which there is in effect on September 30, 1995, a control number issued by the Office of Management and Budget under chapter 35 of title 44, United States Code—
 
@@ -109,7 +109,7 @@
 
 > “SEC. 202. __FEDERAL AGENCY RESPONSIBILITIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The head of each agency shall be responsible for—
 
@@ -139,7 +139,7 @@
 
 >         “(5) As appropriate, agencies shall work collectively in linking their performance goals to groups identified under paragraph (4) and shall use information technology in delivering Government information and services to those groups.
 
->     “(c) __Avoiding Diminished Access.—__ 
+>     “(c)  __Avoiding Diminished Access__  __.—__ 
 
 >     When promulgating policies and implementing programs regarding the provision of Government information and services over the Internet, agency heads shall consider the impact on persons without access to the Internet, and shall, to the extent practicable—
 
@@ -147,15 +147,15 @@
 
 >         “(2) pursue alternate modes of delivery that make Government information and services more accessible to individuals who do not own computers or lack access to the Internet.
 
->     “(d) __Accessibility to People With Disabilities.—__ 
+>     “(d)  __Accessibility to People With Disabilities__  __.—__ 
 
 >     All actions taken by Federal departments and agencies under this Act \[see Tables for classification\] shall be in compliance with section 508 of the Rehabilitation Act of 1973 ([29 U.S.C. 794d][/us/usc/t29/s794d]).
 
->     “(e) __Sponsored Activities.—__ 
+>     “(e)  __Sponsored Activities__  __.—__ 
 
 >     Agencies shall sponsor activities that use information technology to engage the public in the development and implementation of policies and programs.
 
->     “(f) __Chief Information Officers.—__ 
+>     “(f)  __Chief Information Officers__  __.—__ 
 
 >     The Chief Information Officer of each of the agencies designated under chapter 36 of title 44, United States Code (as added by this Act) shall be responsible for—
 
@@ -165,7 +165,7 @@
 
 >     “(g) __E-Government Status Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each agency shall compile and submit to the Director an annual E-Government Status Report on—
 
@@ -175,7 +175,7 @@
 
 >             “(C) how electronic Government initiatives of the agency improve performance in delivering programs to constituencies.
 
->         “(2) __Submission.—__ 
+>         “(2)  __Submission__  __.—__ 
 
 >         Each agency shall submit an annual report under this subsection—
 
@@ -185,35 +185,35 @@
 
 >             “(C) which addresses any section in this title relevant to that agency.
 
->     “(h) __Use of Technology.—__ 
+>     “(h)  __Use of Technology__  __.—__ 
 
 >     Nothing in this Act \[see Tables for classification\] supersedes the responsibility of an agency to use or manage information technology to deliver Government information and services that fulfill the statutory mission and programs of the agency.
 
 >     “(i) __National Security Systems.—__ 
 
->         “(1) __Inapplicability.—__ 
+>         “(1)  __Inapplicability__  __.—__ 
 
 >         Except as provided under paragraph (2), this title does not apply to national security systems as defined in [section 11103 of title 40][/us/usc/t40/s11103], United States Code.
 
->         “(2) __Applicability.—__ 
+>         “(2)  __Applicability__  __.—__ 
 
 >         This section, section 203, and section 214 do apply to national security systems to the extent practicable and consistent with law.
 
 > “SEC. 203. __COMPATIBILITY OF EXECUTIVE AGENCY METHODS FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to achieve interoperable implementation of electronic signatures for appropriately secure electronic transactions with Government.
 
->     “(b) __Electronic Signatures.—__ 
+>     “(b)  __Electronic Signatures__  __.—__ 
 
 >     In order to fulfill the objectives of the Government Paperwork Elimination Act ([Public Law 105–277][/us/pl/105/277]; [112 Stat. 2681–749][/us/stat/112/2681-749] through 2681–751) \[[44 U.S.C. 3504][/us/usc/t44/s3504] note\], each Executive agency (as defined under [section 105 of title 5][/us/usc/t5/s105], United States Code) shall ensure that its methods for use and acceptance of electronic signatures are compatible with the relevant policies and procedures issued by the Director.
 
->     “(c) __Authority for Electronic Signatures.—__ 
+>     “(c)  __Authority for Electronic Signatures__  __.—__ 
 
 >     The Administrator of General Services shall support the Director by establishing a framework to allow efficient interoperability among Executive agencies when using electronic signatures, including processing of digital signatures.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the General Services Administration, to ensure the development and operation of a Federal bridge certification authority for digital signature compatibility, and for other activities consistent with this section, $8,000,000 or such sums as are necessary in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
 
@@ -221,11 +221,11 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Public access.—__ 
+>         “(1)  __Public access__  __.—__ 
 
 >         The Director shall work with the Administrator of the General Services Administration and other agencies to maintain and promote an integrated Internet-based system of providing the public with access to Government information and services.
 
->         “(2) __Criteria.—__ 
+>         “(2)  __Criteria__  __.—__ 
 
 >         To the extent practicable, the integrated system shall be designed and operated according to the following criteria:
 
@@ -237,13 +237,13 @@
 
 >             “(D) Access to Federal Government information held by 1 or more agencies shall be made available in a manner that protects privacy, consistent with law.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the General Services Administration $15,000,000 for the maintenance, improvement, and promotion of the integrated Internet-based system for fiscal year 2003, and such sums as are necessary for fiscal years 2004 through 2007.
 
 > “SEC. 205. __FEDERAL COURTS.__ 
 
->     “(a) __Individual Court Websites.—__ 
+>     “(a)  __Individual Court Websites__  __.—__ 
 
 >     The Chief Justice of the United States, the chief judge of each circuit and district and of the Court of Federal Claims, and the chief bankruptcy judge of each district shall cause to be established and maintained, for the court of which the judge is chief justice or judge, a website that contains the following information or links to websites with the following information:
 
@@ -263,21 +263,21 @@
 
 >     “(b) __Maintenance of Data Online.—__ 
 
->         “(1) __Update of information.—__ 
+>         “(1)  __Update of information__  __.—__ 
 
 >         The information and rules on each website shall be updated regularly and kept reasonably current.
 
->         “(2) __Closed cases.—__ 
+>         “(2)  __Closed cases__  __.—__ 
 
 >         Electronic files and docket information for cases closed for more than 1 year are not required to be made available online, except all written opinions with a date of issuance after the effective date of this section \[see Effective Date note set out under [section 3601 of this title][/us/usc/t44/s3601]\] shall remain available online.
 
 >     “(c) __Electronic Filings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided under paragraph (2) or in the rules prescribed under paragraph (3), each court shall make any document that is filed electronically publicly available online. A court may convert any document that is filed in paper form to electronic form. To the extent such conversions are made, all such electronic versions of the document shall be made available online.
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         Documents that are filed that are not otherwise available to the public, such as documents filed under seal, shall not be made available online.
 
@@ -315,15 +315,15 @@
 
 >             “(C) Not later than 1 year after the rules prescribed under subparagraph (A) take effect, and every 2 years thereafter, the Judicial Conference shall submit to Congress a report on the adequacy of those rules to protect privacy and security.
 
->     “(d) __Dockets With Links to Documents.—__ 
+>     “(d)  __Dockets With Links to Documents__  __.—__ 
 
 >     The Judicial Conference of the United States shall explore the feasibility of technology to post online dockets with links allowing all filings, decisions, and rulings in each case to be obtained from the docket sheet of that case.
 
->     “(e) __Cost of Providing Electronic Docketing Information.—__ 
+>     “(e)  __Cost of Providing Electronic Docketing Information__  __.—__ 
 
 >     \[Amended [section 303(a) of Pub. L. 102–140][/us/pl/102/140/s303/a], set out as a note under [section 1913 of Title 28][/us/usc/t28/s1913], Judiciary and Judicial Procedure.\]
 
->     “(f) __Time Requirements.—__ 
+>     “(f)  __Time Requirements__  __.—__ 
 
 >     Not later than 2 years after the effective date of this title \[see Effective Date note set out under [section 3601 of this title][/us/usc/t44/s3601]\], the websites under subsection (a) shall be established, except that access to documents filed in electronic form shall be established not later than 4 years after that effective date.
 
@@ -333,11 +333,11 @@
 
 >             “(A) __Election.—__ 
 
->                 “(i) __Notification.—__ 
+>                 “(i)  __Notification__  __.—__ 
 
 >                 The Chief Justice of the United States, a chief judge, or chief bankruptcy judge may submit a notification to the Administrative Office of the United States Courts to defer compliance with any requirement of this section with respect to the Supreme Court, a court of appeals, district, or the bankruptcy court of a district.
 
->                 “(ii) __Contents.—__ 
+>                 “(ii)  __Contents__  __.—__ 
 
 >                 A notification submitted under this subparagraph shall state—
 
@@ -345,11 +345,11 @@
 
 >                          “(II) the online methods, if any, or any alternative methods, such court or district is using to provide greater public access to information.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             To the extent that the Supreme Court, a court of appeals, district, or bankruptcy court of a district maintains a website under subsection (a), the Supreme Court or that court of appeals or district shall comply with subsection (b)(1).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 1 year after the effective date of this title \[see Effective Date note set out under [section 3601 of this title][/us/usc/t44/s3601]\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Government Reform\] and the Judiciary of the House of Representatives that—
 
@@ -359,7 +359,7 @@
 
 > “SEC. 206. __REGULATORY AGENCIES.__ 
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are to—
 
@@ -367,21 +367,21 @@
 
 >         “(2) enhance public participation in Government by electronic means, consistent with requirements under subchapter II of chapter 5 of title 5, United States Code, (commonly referred to as the ‘Administrative Procedures Act’).
 
->     “(b) __Information Provided by Agencies Online.—__ 
+>     “(b)  __Information Provided by Agencies Online__  __.—__ 
 
 >     To the extent practicable as determined by the agency in consultation with the Director, each agency (as defined under [section 551 of title 5][/us/usc/t5/s551], United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of [section 552(a) of title 5][/us/usc/t5/s552/a], United States Code.
 
->     “(c) __Submissions by Electronic Means.—__ 
+>     “(c)  __Submissions by Electronic Means__  __.—__ 
 
 >     To the extent practicable, agencies shall accept submissions under [section 553(c) of title 5][/us/usc/t5/s553/c], United States Code, by electronic means.
 
 >     “(d) __Electronic Docketing.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To the extent practicable, as determined by the agency in consultation with the Director, agencies shall ensure that a publicly accessible Federal Government website contains electronic dockets for rulemakings under [section 553 of title 5][/us/usc/t5/s553], United States Code.
 
->         “(2) __Information available.—__ 
+>         “(2)  __Information available__  __.—__ 
 
 >         Agency electronic dockets shall make publicly available online to the extent practicable, as determined by the agency in consultation with the Director—
 
@@ -389,17 +389,17 @@
 
 >             “(B) other materials that by agency rule or practice are included in the rulemaking docket under [section 553(c) of title 5][/us/usc/t5/s553/c], United States Code, whether or not submitted electronically.
 
->     “(e) __Time Limitation.—__ 
+>     “(e)  __Time Limitation__  __.—__ 
 
 >     Agencies shall implement the requirements of this section consistent with a timetable established by the Director and reported to Congress in the first annual report under [section 3606 of title 44][/us/usc/t44/s3606] (as added by this Act).
 
 > “SEC. 207. __ACCESSIBILITY, USABILITY, AND PRESERVATION OF GOVERNMENT INFORMATION.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to improve the methods by which Government information, including information on the Internet, is organized, preserved, and made accessible to the public.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section, the term—
 
@@ -415,11 +415,11 @@
 
 >     “(c) __Interagency Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this title \[Dec. 17, 2002\], the Director shall establish the Interagency Committee on Government Information.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The Committee shall be chaired by the Director or the designee of the Director and—
 
@@ -435,7 +435,7 @@
 
 >             “(B) may include representatives from the Federal legislative and judicial branches.
 
->         “(3) __Functions.—__ 
+>         “(3)  __Functions__  __.—__ 
 
 >         The Committee shall—
 
@@ -445,13 +445,13 @@
 
 >             “(C) share effective practices for access to, dissemination of, and retention of Federal information.
 
->         “(4) __Termination.—__ 
+>         “(4)  __Termination__  __.—__ 
 
 >         The Committee may be terminated on a date determined by the Director, except the Committee may not terminate before the Committee submits all recommendations required under this section.
 
 >     “(d) __Categorizing of Information.—__ 
 
->         “(1) __Committee functions.—__ 
+>         “(1)  __Committee functions__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Dec. 17, 2002\], the Committee shall submit recommendations to the Director on—
 
@@ -467,7 +467,7 @@
 
 >             “(C) determining priorities and developing schedules for the initial implementation of the standards by agencies.
 
->         “(2) __Functions of the director.—__ 
+>         “(2)  __Functions of the director__  __.—__ 
 
 >         Not later than 1 year after the submission of recommendations under paragraph (1), the Director shall issue policies—
 
@@ -485,17 +485,17 @@
 
 >             “(C) determining priorities and developing schedules for the initial implementation of the standards by agencies.
 
->         “(3) __Modification of policies.—__ 
+>         “(3)  __Modification of policies__  __.—__ 
 
 >         After the submission of agency reports under paragraph (4), the Director shall modify the policies, as needed, in consultation with the Committee and interested parties.
 
->         “(4) __Agency functions.—__ 
+>         “(4)  __Agency functions__  __.—__ 
 
 >         Each agency shall report annually to the Director, in the report established under section 202(g), on compliance of that agency with the policies issued under paragraph (2)(A).
 
 >     “(e) __Public Access to Electronic Information.—__ 
 
->         “(1) __Committee functions.—__ 
+>         “(1)  __Committee functions__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Dec. 17, 2002\], the Committee shall submit recommendations to the Director and the Archivist of the United States on—
 
@@ -503,7 +503,7 @@
 
 >             “(B) the imposition of timetables for the implementation of the policies and procedures by agencies.
 
->         “(2) __Functions of the archivist.—__ 
+>         “(2)  __Functions of the archivist__  __.—__ 
 
 >         Not later than 1 year after the submission of recommendations by the Committee under paragraph (1), the Archivist of the United States shall issue policies—
 
@@ -511,17 +511,17 @@
 
 >             “(B) imposing timetables for the implementation of the policies, procedures, and technologies by agencies.
 
->         “(3) __Modification of policies.—__ 
+>         “(3)  __Modification of policies__  __.—__ 
 
 >         After the submission of agency reports under paragraph (4), the Archivist of the United States shall modify the policies, as needed, in consultation with the Committee and interested parties.
 
->         “(4) __Agency functions.—__ 
+>         “(4)  __Agency functions__  __.—__ 
 
 >         Each agency shall report annually to the Director, in the report established under section 202(g), on compliance of that agency with the policies issued under paragraph (2)(A).
 
 >     “(f) __Agency Websites.—__ 
 
->         “(1) __Standards for agency websites.—__ 
+>         “(1)  __Standards for agency websites__  __.—__ 
 
 >         Not later than 2 years after the effective date of this title \[see Effective Date note set out under [section 3601 of this title][/us/usc/t44/s3601]\], the Director shall promulgate guidance for agency websites that includes—
 
@@ -549,7 +549,7 @@
 
 >                 “(iv) security protocols to protect information.
 
->         “(2) __Agency requirements.—__ 
+>         “(2)  __Agency requirements__  __.—__ 
 
 >             (A)
 
@@ -571,7 +571,7 @@
 
 >         “(3) __Public domain directory of public federal government websites.—__ 
 
->             “(A) __Establishment.—__ 
+>             “(A)  __Establishment__  __.—__ 
 
 >             Not later than 2 years after the effective date of this title \[see Effective Date note set out under [section 3601 of this title][/us/usc/t44/s3601]\], the Director and each agency shall—
 
@@ -579,7 +579,7 @@
 
 >                 “(ii) post the directory on the Internet with a link to the integrated Internet-based system established under section 204.
 
->             “(B) __Development.—__ 
+>             “(B)  __Development__  __.—__ 
 
 >             With the assistance of each agency, the Director shall—
 
@@ -601,7 +601,7 @@
 
 >                 “(ii) develop a public domain taxonomy of subjects used to review and categorize public Federal Government websites.
 
->             “(C) __Update.—__ 
+>             “(C)  __Update__  __.—__ 
 
 >             With the assistance of each agency, the Administrator of the Office of Electronic Government shall—
 
@@ -613,7 +613,7 @@
 
 >         “(1) __Development and maintenance of governmentwide repository and website.—__ 
 
->             “(A) __Repository and website.—__ 
+>             “(A)  __Repository and website__  __.—__ 
 
 >             The Director of the Office of Management and Budget (or the Director’s delegate), in consultation with the Director of the Office of Science and Technology Policy and other relevant agencies, shall ensure the development and maintenance of—
 
@@ -657,15 +657,15 @@
 
 >                          “(IV) access by policymakers and the public to information concerning Federal research and development activities.
 
->             “(B) __Oversight.—__ 
+>             “(B)  __Oversight__  __.—__ 
 
 >             The Director of the Office of Management and Budget shall issue any guidance determined necessary to ensure that agencies provide all information requested under this subsection.
 
->         “(2) __Agency functions.—__ 
+>         “(2)  __Agency functions__  __.—__ 
 
 >         Any agency that funds Federal research and development under this subsection shall provide the information required to populate the repository in the manner prescribed by the Director of the Office of Management and Budget.
 
->         “(3) __Committee functions.—__ 
+>         “(3)  __Committee functions__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[Dec. 17, 2002\], working with the Director of the Office of Science and Technology Policy, and after consultation with interested parties, the Committee shall submit recommendations to the Director on—
 
@@ -673,11 +673,11 @@
 
 >             “(B) policies to improve dissemination of the results of research performed by Federal agencies and federally funded research and development centers.
 
->         “(4) __Functions of the director.—__ 
+>         “(4)  __Functions of the director__  __.—__ 
 
 >         After submission of recommendations by the Committee under paragraph (3), the Director shall report on the recommendations of the Committee and Director to Congress, in the E-Government report under [section 3606 of title 44][/us/usc/t44/s3606] (as added by this Act).
 
->         “(5) __Authorization of appropriations.—__ 
+>         “(5)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated for the development, maintenance, and operation of the Governmentwide repository and website under this subsection—
 
@@ -687,7 +687,7 @@
 
 > “SEC. 208. __PRIVACY PROVISIONS.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to ensure sufficient protections for the privacy of personal information as agencies implement citizen-centered electronic Government.
 
@@ -695,7 +695,7 @@
 
 >         “(1) __Responsibilities of agencies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An agency shall take actions described under subparagraph (B) before—
 
@@ -709,7 +709,7 @@
 
 >                          “(II) includes any information in an identifiable form permitting the physical or online contacting of a specific individual, if identical questions have been posed to, or identical reporting requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the Federal Government.
 
->             “(B) __Agency activities.—__ 
+>             “(B)  __Agency activities__  __.—__ 
 
 >             To the extent required under subparagraph (A), each agency shall—
 
@@ -719,21 +719,21 @@
 
 >                 “(iii) if practicable, after completion of the review under clause (ii), make the privacy impact assessment publicly available through the website of the agency, publication in the Federal Register, or other means.
 
->             “(C) __Sensitive information.—__ 
+>             “(C)  __Sensitive information__  __.—__ 
 
 >             Subparagraph (B)(iii) may be modified or waived for security reasons, or to protect classified, sensitive, or private information contained in an assessment.
 
->             “(D) __Copy to director.—__ 
+>             “(D)  __Copy to director__  __.—__ 
 
 >             Agencies shall provide the Director with a copy of the privacy impact assessment for each system for which funding is requested.
 
 >         “(2) __Contents of a privacy impact assessment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Director shall issue guidance to agencies specifying the required contents of a privacy impact assessment.
 
->             “(B) __Guidance.—__ 
+>             “(B)  __Guidance__  __.—__ 
 
 >             The guidance shall—
 
@@ -757,7 +757,7 @@
 
 >                          “(VII) whether a system of records is being created under [section 552a of title 5][/us/usc/t5/s552a], United States Code, (commonly referred to as the ‘Privacy Act’).
 
->         “(3) __Responsibilities of the director.—__ 
+>         “(3)  __Responsibilities of the director__  __.—__ 
 
 >         The Director shall—
 
@@ -771,11 +771,11 @@
 
 >         “(1) __Privacy policies on websites.—__ 
 
->             “(A) __Guidelines for notices.—__ 
+>             “(A)  __Guidelines for notices__  __.—__ 
 
 >             The Director shall develop guidance for privacy notices on agency websites used by the public.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             The guidance shall require that a privacy notice address, consistent with [section 552a of title 5][/us/usc/t5/s552a], United States Code—
 
@@ -793,23 +793,23 @@
 
 >                 “(vii) the rights of the individual under [section 552a of title 5][/us/usc/t5/s552a], United States Code (commonly referred to as the ‘Privacy Act’), and other laws relevant to the protection of the privacy of an individual.
 
->         “(2) __Privacy policies in machine-readable formats.—__ 
+>         “(2)  __Privacy policies in machine-readable formats__  __.—__ 
 
 >         The Director shall issue guidance requiring agencies to translate privacy policies into a standardized machine-readable format.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     In this section, the term ‘identifiable form’ means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.
 
 > “SEC. 209. __FEDERAL INFORMATION TECHNOLOGY WORKFORCE DEVELOPMENT.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to improve the skills of the Federal workforce in using information technology to deliver Government information and services.
 
 >     “(b) __Workforce Development.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In consultation with the Director of the Office of Management and Budget, the Chief Information Officers Council, and the Administrator of General Services, the Director of the Office of Personnel Management shall—
 
@@ -821,7 +821,7 @@
 
 >             “(D) assess the training of Federal employees in information technology disciplines in order to ensure that the information resource management needs of the Federal Government are addressed.
 
->         “(2) __Information technology training programs.—__ 
+>         “(2)  __Information technology training programs__  __.—__ 
 
 >         The head of each Executive agency, after consultation with the Director of the Office of Personnel Management, the Chief Information Officers Council, and the Administrator of General Services, shall establish and operate information technology training programs consistent with the requirements of this subsection. Such programs shall—
 
@@ -831,45 +831,45 @@
 
 >             “(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever such features can be applied without reducing the effectiveness of the training or negatively impacting academic standards.
 
->         “(3) __Governmentwide policies and evaluation.—__ 
+>         “(3)  __Governmentwide policies and evaluation__  __.—__ 
 
 >         The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards for training and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
 
->         “(4) __Chief information officer authorities and responsibilities.—__ 
+>         “(4)  __Chief information officer authorities and responsibilities__  __.—__ 
 
 >         Subject to the authority, direction, and control of the head of an Executive agency, the chief information officer of such agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementation of this subsection. The chief information officer shall ensure that the policies of the agency head established in accordance with this subsection are implemented throughout the agency.
 
->         “(5) __Information technology training reporting.—__ 
+>         “(5)  __Information technology training reporting__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall ensure that the heads of Executive agencies collect and maintain standardized information on the information technology and information resources management workforce related to the implementation of this subsection.
 
->         “(6) __Authority to detail employees to non-Federal employers.—__ 
+>         “(6)  __Authority to detail employees to non-Federal employers__  __.—__ 
 
 >         In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a program under which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
 
->         “(7) __Coordination provision.—__ 
+>         “(7)  __Coordination provision__  __.—__ 
 
 >         An assignment described in [section 3703 of title 5][/us/usc/t5/s3703], United States Code, may not be made unless a program under paragraph (6) is established, and the assignment is made in accordance with the requirements of such program.
 
->         “(8) __Employee participation.—__ 
+>         “(8)  __Employee participation__  __.—__ 
 
 >         Subject to information resource management needs and the limitations imposed by resource needs in other occupational areas, and consistent with their overall workforce development strategies, agencies shall encourage employees to participate in occupational information technology training.
 
->         “(9) __Authorization of Appropriations.—__ 
+>         “(9)  __Authorization of Appropriations__  __.—__ 
 
 >         There are authorized to be appropriated to the Office of Personnel Management for the implementation of this subsection, $15,000,000 in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
 
->         “(10) __Executive agency defined.—__ 
+>         “(10)  __Executive agency defined__  __.—__ 
 
 >         For purposes of this subsection, the term ‘Executive agency’ has the meaning given the term ‘agency’ under [section 3701 of title 5][/us/usc/t5/s3701], United States Code (as added by subsection (c)).
 
->     “(c) __Information Technology Exchange Program.—__ 
+>     “(c)  __Information Technology Exchange Program__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Enacted chapter 37 of Title 5, Government Organization and Employees.\]
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Government Accountability Office shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
 
@@ -877,31 +877,31 @@
 
 >             “(B) a recommendation as to whether such program should be continued (with or without modification) or allowed to lapse.
 
->         “(3) __Clerical Amendment.—__ 
+>         “(3)  __Clerical Amendment__  __.—__ 
 
 >         \[Amended analysis for part III of Title 5.\]
 
 >     “(d) __Ethics Provisions.—__ 
 
->         “(1) __One-year restriction on certain communications.—__ 
+>         “(1)  __One-year restriction on certain communications__  __.—__ 
 
 >         \[Amended [section 207 of Title 18][/us/usc/t18/s207], Crimes and Criminal Procedure.\]
 
->         “(2) __Disclosure of confidential information.—__ 
+>         “(2)  __Disclosure of confidential information__  __.—__ 
 
 >         \[Amended [section 1905 of Title 18][/us/usc/t18/s1905].\]
 
->         “(3) __Contract advice.—__ 
+>         “(3)  __Contract advice__  __.—__ 
 
 >         \[Amended [section 207 of Title 18][/us/usc/t18/s207].\]
 
->         “(4) __Restriction on disclosure of procurement information.—__ 
+>         “(4)  __Restriction on disclosure of procurement information__  __.—__ 
 
 >         \[Amended [section 423 of Title 41][/us/usc/t41/s423], Public Contracts.\]
 
 >     “(e) __Report on Existing Exchange Programs.—__ 
 
->         “(1) __Exchange program defined.—__ 
+>         “(1)  __Exchange program defined__  __.—__ 
 
 >         For purposes of this subsection, the term ‘exchange program’ means an executive exchange program, the program under subchapter VI of chapter 33 of title 5, United States Code, and any other program which allows for—
 
@@ -911,11 +911,11 @@
 
 >             “(C) both.
 
->         “(2) __Reporting requirement.—__ 
+>         “(2)  __Reporting requirement__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
 
->         “(3) __Specific information.—__ 
+>         “(3)  __Specific information__  __.—__ 
 
 >         The report shall, for each such program, include—
 
@@ -929,7 +929,7 @@
 
 >     “(f) __Report on the Establishment of a Governmentwide Information Technology Training Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a written report on the following:
 
@@ -943,39 +943,39 @@
 
 >             “(C) With respect to any recommendations under subparagraph (B), how the program under chapter 37 of title 5, United States Code, might be used to help carry them out.
 
->         “(2) __Cost estimate.—__ 
+>         “(2)  __Cost estimate__  __.—__ 
 
 >         The report shall, for any recommended program (or improvements) under paragraph (1)(B), include the estimated costs associated with the implementation and operation of such program as so established (or estimated difference in costs of any such program as so improved).
 
->     “(g) __Technical and Conforming Amendments.—__ 
+>     “(g)  __Technical and Conforming Amendments__  __.—__ 
 
->         “(1) __Amendments to title 5, united states code.—__ 
+>         “(1)  __Amendments to title 5, united states code__  __.—__ 
 
 >         \[Amended sections 3111, 4108, and 7353 of Title 5.\]
 
->         “(2) __Amendment to title 18, united states code.—__ 
+>         “(2)  __Amendment to title 18, united states code__  __.—__ 
 
 >         \[Amended [section 209 of Title 18][/us/usc/t18/s209].\]
 
->         “(3) __Other amendments.—__ 
+>         “(3)  __Other amendments__  __.—__ 
 
 >         \[Amended [section 125(c)(1) of Pub. L. 100–238][/us/pl/100/238/s125/c/1], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432].\]
 
 > “SEC. 210. __SHARE-IN-SAVINGS INITIATIVES.__ 
 
->     “(a) __Defense Contracts.—__ 
+>     “(a)  __Defense Contracts__  __.—__ 
 
 >     \[Enacted [section 2332 of Title 10][/us/usc/t10/s2332], Armed Forces.\]
 
->     “(b) __Other Contracts.—__ 
+>     “(b)  __Other Contracts__  __.—__ 
 
 >     \[Enacted [section 266a of Title 41][/us/usc/t41/s266a].\]
 
->     “(c) __Development of Incentives.—__ 
+>     “(c)  __Development of Incentives__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor’s share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Dec. 17, 2002\], the Federal Acquisition Regulation shall be revised to implement the provisions enacted by this section. Such revisions shall—
 
@@ -989,7 +989,7 @@
 
 >         “(2) allow appropriate regulatory flexibility to facilitate the use of share-in-savings contracts by executive agencies, including the use of innovative provisions for technology refreshment and nonstandard Federal Acquisition Regulation contract clauses.
 
->     “(e) __Additional Guidance.—__ 
+>     “(e)  __Additional Guidance__  __.—__ 
 
 >     The Administrator of General Services shall—
 
@@ -997,7 +997,7 @@
 
 >         “(2) in consultation with the Director of the Office of Management and Budget, provide guidance to executive agencies for determining mutually beneficial savings share ratios and baselines from which savings may be measured.
 
->     “(f) __OMB Report to Congress.—__ 
+>     “(f) __OMB__  __Report to Congress__  __.—__ 
 
 >     In consultation with executive agencies, the Director of the Office of Management and Budget shall, not later than 2 years after the date of the enactment of this Act \[Dec. 17, 2002\], submit to Congress a report containing—
 
@@ -1015,7 +1015,7 @@
 
 >         “(3) any recommendations, as the Director deems appropriate, regarding additional changes in law that may be necessary to ensure effective use of share-in-savings contracts by executive agencies.
 
->     “(g) __GAO Report to Congress.—__ 
+>     “(g) __GAO__  __Report to Congress__  __.—__ 
 
 >     The Comptroller General shall, not later than 6 months after the report required under subsection (f) is submitted to Congress, conduct a review of that report and submit to Congress a report containing—
 
@@ -1025,41 +1025,41 @@
 
 >         “(3) a recommendation on whether the authority to enter into share-in-savings contracts should be continued.
 
->     “(h) __Repeal of Share-in-Savings Pilot Program.—__ 
+>     “(h)  __Repeal of Share-in-Savings Pilot Program__  __.—__ 
 
->         “(1) __Repeal.—__ 
+>         “(1)  __Repeal__  __.—__ 
 
 >         \[Repealed [section 11521 of Title 40][/us/usc/t40/s11521], Public Buildings, Property, and Works.\]
 
->         “(2) __Conforming amendments to pilot program authority.—__ 
+>         “(2)  __Conforming amendments to pilot program authority__  __.—__ 
 
 >         \[Amended sections 11501 to 11505 of Title 40.\]
 
->         “(3) __Additional conforming amendments.—__ 
+>         “(3)  __Additional conforming amendments__  __.—__ 
 
 >         \[Redesignated 11522 of Title 40 as 11521 and amended headings and analysis.\]
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘contractor’, ‘savings’, and ‘share-in-savings contract’ have the meanings given those terms in section 317 of the Federal Property and Administrative Services Act of 1949 \[former [41 U.S.C. 266a][/us/usc/t41/s266a]; now 41 U.S.C. note prec. 3901\] (as added by subsection (b)).
 
 > “SEC. 211. __AUTHORIZATION FOR ACQUISITION OF INFORMATION TECHNOLOGY BY STATE AND LOCAL GOVERNMENTS THROUGH FEDERAL SUPPLY SCHEDULES.__ 
 
->     “(a) __Authority To Use Certain Supply Schedules.—__ 
+>     “(a)  __Authority To Use Certain Supply Schedules__  __.—__ 
 
 >     \[Amended [section 502 of Title 40][/us/usc/t40/s502].\]
 
->     “(b) __Procedures.—__ 
+>     “(b)  __Procedures__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2002\], the Administrator of General Services shall establish procedures to implement [section 501(c) of title 40][/us/usc/t40/s501/c], United States Code (as added by subsection (a)).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
 
 > “SEC. 212. __INTEGRATED REPORTING STUDY AND PILOT PROJECTS.__ 
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are to—
 
@@ -1069,7 +1069,7 @@
 
 >         “(3) enable any person to integrate and obtain similar information held by 1 or more agencies under 1 or more Federal requirements without violating the privacy rights of an individual.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section, the term—
 
@@ -1079,11 +1079,11 @@
 
 >     “(c) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives on progress toward integrating Federal information systems across agencies.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report under this section shall—
 
@@ -1105,17 +1105,17 @@
 
 >     “(d) __Pilot Projects To Encourage Integrated Collection and Management of Data and Interoperability of Federal Information Systems.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In order to provide input to the study under subsection (c), the Director shall designate, in consultation with agencies, a series of no more than 5 pilot projects that integrate data elements. The Director shall consult with agencies, the regulated community, public interest organizations, and the public on the implementation of the pilot projects.
 
 >         “(2) __Goals of pilot projects.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each goal described under subparagraph (B) shall be addressed by at least 1 pilot project each.
 
->             “(B) __Goals.—__ 
+>             “(B)  __Goals__  __.—__ 
 
 >             The goals under this paragraph are to—
 
@@ -1125,11 +1125,11 @@
 
 >                 “(iii) develop, or enable the development of, software to reduce errors in electronically submitted information.
 
->         “(3) __Input.—__ 
+>         “(3)  __Input__  __.—__ 
 
 >         Each pilot project shall seek input from users on the utility of the pilot project and areas for improvement. To the extent practicable, the Director shall consult with relevant agencies and State, tribal, and local governments in carrying out the report and pilot projects under this section.
 
->     “(e) __Protections.—__ 
+>     “(e)  __Protections__  __.—__ 
 
 >     The activities authorized under this section shall afford protections for—
 
@@ -1143,7 +1143,7 @@
 
 > “SEC. 213. __COMMUNITY TECHNOLOGY CENTERS.__ 
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are to—
 
@@ -1151,7 +1151,7 @@
 
 >         “(2) promote awareness of the availability of on-line government information and services, to users of community technology centers, public libraries, and other public facilities that provide access to computer technology and Internet access to the public.
 
->     “(b) __Study and Report.—__ 
+>     “(b)  __Study and Report__  __.—__ 
 
 >     Not later than 2 years after the effective date of this title \[see Effective Date note set out under [section 3601 of this title][/us/usc/t44/s3601]\], the Administrator shall—
 
@@ -1169,7 +1169,7 @@
 
 >             “(D) the Committee on Education and the Workforce of the House of Representatives.
 
->     “(c) __Contents.—__ 
+>     “(c)  __Contents__  __.—__ 
 
 >     The report under subsection (b) may consider—
 
@@ -1203,13 +1203,13 @@
 
 >             “(B) establish a network to share information and resources.
 
->     “(d) __Cooperation.—__ 
+>     “(d)  __Cooperation__  __.—__ 
 
 >     All agencies that fund community technology centers shall provide to the Administrator any information and assistance necessary for the completion of the study and the report under this section.
 
 >     “(e) __Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator, in consultation with the Secretary of Education, shall work with other relevant Federal agencies, and other interested persons in the private and nonprofit sectors to—
 
@@ -1217,7 +1217,7 @@
 
 >             “(B) identify other ways to assist community technology centers, public libraries, and other institutions that provide computer and Internet access to the public.
 
->         “(2) __Types of assistance.—__ 
+>         “(2)  __Types of assistance__  __.—__ 
 
 >         Assistance under this subsection may include—
 
@@ -1229,7 +1229,7 @@
 
 >     “(f) __Online Tutorial.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator, in consultation with the Secretary of Education, the Director of the Institute of Museum and Library Services, other relevant agencies, and the public, shall develop an online tutorial that—
 
@@ -1237,15 +1237,15 @@
 
 >             “(B) provides a guide to available online resources.
 
->         “(2) __Distribution.—__ 
+>         “(2)  __Distribution__  __.—__ 
 
 >         The Administrator, with assistance from the Secretary of Education, shall distribute information on the tutorial to community technology centers, public libraries, and other institutions that afford Internet access to the public.
 
->     “(g) __Promotion of Community Technology Centers.—__ 
+>     “(g)  __Promotion of Community Technology Centers__  __.—__ 
 
 >     The Administrator, with assistance from the Department of Education and in consultation with other agencies and organizations, shall promote the availability of community technology centers to raise awareness within each community where such a center is located.
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for the study of best practices at community technology centers, for the development and dissemination of the online tutorial, and for the promotion of community technology centers under this section—
 
@@ -1257,17 +1257,17 @@
 
 > “SEC. 214. __ENHANCING CRISIS MANAGEMENT THROUGH ADVANCED INFORMATION TECHNOLOGY.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to improve how information technology is used in coordinating and facilitating information on disaster preparedness, response, and recovery, while ensuring the availability of such information across multiple access channels.
 
 >     “(b) __In General.—__ 
 
->         “(1) __Study on enhancement of crisis response.—__ 
+>         “(1)  __Study on enhancement of crisis response__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Dec. 17, 2002\], the Administrator, in consultation with the Federal Emergency Management Agency, shall ensure that a study is conducted on using information technology to enhance crisis preparedness, response, and consequence management of natural and manmade disasters.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The study under this subsection shall address—
 
@@ -1281,7 +1281,7 @@
 
 >             “(B) opportunities for research and development on enhanced technologies into areas of potential improvement as determined during the course of the study.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 2 years after the date on which a contract is entered into under paragraph (1), the Administrator shall submit a report on the study, including findings and recommendations to—
 
@@ -1289,15 +1289,15 @@
 
 >             “(B) the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives.
 
->         “(4) __Interagency cooperation.—__ 
+>         “(4)  __Interagency cooperation__  __.—__ 
 
 >         Other Federal departments and agencies with responsibility for disaster relief and emergency assistance shall fully cooperate with the Administrator in carrying out this section.
 
->         “(5) __Authorization of appropriations.—__ 
+>         “(5)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated for research under this subsection, such sums as are necessary for fiscal year 2003.
 
->     “(c) __Pilot Projects.—__ 
+>     “(c)  __Pilot Projects__  __.—__ 
 
 >     Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further the goal of maximizing the utility of information technology in disaster management. The Administrator shall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
 
@@ -1305,15 +1305,15 @@
 
 >     “(a) __Study and Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Dec. 17, 2002\], the Administrator of General Services shall request that the National Academy of Sciences, acting through the National Research Council, enter into a contract to conduct a study on disparities in Internet access for online Government services.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report under subsection (a) shall include a study of—
 
@@ -1333,17 +1333,17 @@
 
 >         “(3) related societal effects arising from the interplay of disparities in Internet access and the increase in online Government services.
 
->     “(c) __Recommendations.—__ 
+>     “(c)  __Recommendations__  __.—__ 
 
 >     The report shall include recommendations on actions to ensure that online Government initiatives shall not have the unintended result of increasing any deficiency in public access to Government services.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $950,000 in fiscal year 2003 to carry out this section.
 
 > “SEC. 216. __COMMON PROTOCOLS FOR GEOGRAPHIC INFORMATION SYSTEMS.__ 
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are to—
 
@@ -1351,21 +1351,21 @@
 
 >         “(2) promote collaboration and use of standards for government geographic information.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘geographic information’ means information systems that involve locational data, such as maps or other geospatial information resources.
 
 >     “(c) __In General.—__ 
 
->         “(1) __Common protocols.—__ 
+>         “(1)  __Common protocols__  __.—__ 
 
 >         The Administrator, in consultation with the Secretary of the Interior, working with the Director and through an interagency group, and working with private sector experts, State, local, and tribal governments, commercial and international standards groups, and other interested parties, shall facilitate the development of common protocols for the development, acquisition, maintenance, distribution, and application of geographic information. If practicable, the Administrator shall incorporate intergovernmental and public private geographic information partnerships into efforts under this subsection.
 
->         “(2) __Interagency group.—__ 
+>         “(2)  __Interagency group__  __.—__ 
 
 >         The interagency group referred to under paragraph (1) shall include representatives of the National Institute of Standards and Technology and other agencies.
 
->     “(d) __Director.—__ 
+>     “(d)  __Director__  __.—__ 
 
 >     The Director shall oversee—
 
@@ -1375,7 +1375,7 @@
 
 >         “(3) the adoption of common standards relating to the protocols.
 
->     “(e) __Common Protocols.—__ 
+>     “(e)  __Common Protocols__  __.—__ 
 
 >     The common protocols shall be designed to—
 
@@ -1389,7 +1389,7 @@
 
 >             “(B) enable the enhancement of services using geographic data.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section, for each of the fiscal years 2003 through 2007.”
 
@@ -1471,15 +1471,15 @@
 
 > “SEC. 503. __COORDINATION AND OVERSIGHT OF POLICIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall coordinate and oversee the confidentiality and disclosure policies established by this title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
 
->     “(b) __Agency Rules.—__ 
+>     “(b)  __Agency Rules__  __.—__ 
 
 >     Subject to subsection (c), agencies may promulgate rules to implement this title. Rules governing disclosures of information that are authorized by this title shall be promulgated by the agency that originally collected the information.
 
->     “(c) __Review and Approval of Rules.—__ 
+>     “(c)  __Review and Approval of Rules__  __.—__ 
 
 >     The Director shall review any rules proposed by an agency pursuant to this title for consistency with the provisions of this title and chapter 35 of title 44, United States Code, and such rules shall be subject to the approval of the Director.
 
@@ -1493,19 +1493,19 @@
 
 > “SEC. 504. __EFFECT ON OTHER LAWS.__ 
 
->     “(a) __Title 44, United States Code.—__ 
+>     “(a)  __Title__  __44,__  __United States Code__  __.—__ 
 
 >     This title, including amendments made by this title, does not diminish the authority under [section 3510 of title 44][/us/usc/t44/s3510], United States Code, of the Director of the Office of Management and Budget to direct, and of an agency to make, disclosures that are not inconsistent with any applicable law.
 
->     “(b) __Title 13 and Title 44, United States Code.—__ 
+>     “(b)  __Title__  __13__  __and Title__  __44,__  __United States Code__  __.—__ 
 
 >     This title, including amendments made by this title, does not diminish the authority of the Bureau of the Census to provide information in accordance with sections 8, 16, 301, and 401 of title 13, United States Code, and [section 2108 of title 44][/us/usc/t44/s2108], United States Code.
 
->     “(c) __Title 13, United States Code.—__ 
+>     “(c)  __Title__  __13,__  __United States Code__  __.—__ 
 
 >     This title, including amendments made by this title, shall not be construed as authorizing the disclosure for nonstatistical purposes of demographic data or information collected by the Census Bureau pursuant to [section 9 of title 13][/us/usc/t13/s9], United States Code.
 
->     “(d) __Various Energy Statutes.—__ 
+>     “(d)  __Various Energy Statutes__  __.—__ 
 
 >     Data or information acquired by the Energy Information Administration under a pledge of confidentiality and designated by the Energy Information Administration to be used for exclusively statistical purposes shall not be disclosed in identifiable form for nonstatistical purposes under—
 
@@ -1515,21 +1515,21 @@
 
 >         “(3) section 205 or 407 of the Department of the Energy Organization Act of 1977 ([42 U.S.C. 7135][/us/usc/t42/s7135], 7177).
 
->     “(e) __Section 201 of Congressional Budget Act of 1974 \[__  __[__  __2 U.S.C. 601__  __][/us/usc/t2/s601]__  __\].—This title, including amendments made by this title, shall not be construed to limit any authorities of the Congressional Budget Office to work (consistent with laws governing the confidentiality of information the disclosure of which would be a violation of law) with databases of Designated Statistical Agencies (as defined in section 522), either separately or, for data that may be shared pursuant to__  __[__  __section 524 of this title__  __][/us/usc/t44/s524]__  __or other authority, jointly in order to improve the general utility of these databases for the statistical purpose of analyzing pension and health care financing issues.__ 
+>     “(e)  __Section__  __201__  __of Congressional Budget Act of__  __1974 \[__  __[__  __2 U.S.C. 601__  __][/us/usc/t2/s601]__  __\].—This title, including amendments made by this title, shall not be construed to limit any authorities of the Congressional Budget Office to work (consistent with laws governing the confidentiality of information the disclosure of which would be a violation of law) with databases of Designated Statistical Agencies (as defined in section 522), either separately or, for data that may be shared pursuant to__  __[__  __section 524 of this title__  __][/us/usc/t44/s524]__  __or other authority, jointly in order to improve the general utility of these databases for the statistical purpose of analyzing pension and health care financing issues.__ 
 
->     “(f) __Preemption of State Law.—__ 
+>     “(f)  __Preemption of State Law__  __.—__ 
 
 >     Nothing in this title shall preempt applicable State law regarding the confidentiality of data collected by the States.
 
->     “(g) __Statutes Regarding False Statements.—__ 
+>     “(g)  __Statutes Regarding False Statements__  __.—__ 
 
 >     Notwithstanding section 512, information collected by an agency for exclusively statistical purposes under a pledge of confidentiality may be provided by the collecting agency to a law enforcement agency for the prosecution of submissions to the collecting agency of false statistical information under statutes that authorize criminal penalties (such as [section 221 of title 13][/us/usc/t13/s221], United States Code) or civil penalties for the provision of false statistical information, unless such disclosure or use would otherwise be prohibited under Federal law.
 
->     “(h) __Construction.—__ 
+>     “(h)  __Construction__  __.—__ 
 
 >     Nothing in this title shall be construed as restricting or diminishing any confidentiality protections or penalties for unauthorized disclosure that otherwise apply to data or information collected for statistical purposes or nonstatistical purposes, including, but not limited to, section 6103 of the Internal Revenue Code of 1986 ([26 U.S.C. 6103][/us/usc/t26/s6103]).
 
->     “(i) __Authority of Congress.—__ 
+>     “(i)  __Authority of Congress__  __.—__ 
 
 >     Nothing in this title shall be construed to affect the authority of the Congress, including its committees, members, or agents, to obtain data or information for a statistical purpose, including for oversight of an agency’s statistical activities.
 
@@ -1537,7 +1537,7 @@
 
 > “SEC. 511. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -1551,7 +1551,7 @@
 
 >         “(5) Ensuring that information provided under a pledge of confidentiality for statistical purposes receives protection is essential in continuing public cooperation in statistical programs.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this subtitle are the following:
 
@@ -1563,7 +1563,7 @@
 
 > “SEC. 512. __LIMITATIONS ON USE AND DISCLOSURE OF DATA AND INFORMATION.__ 
 
->     “(a) __Use of Statistical Data or Information.—__ 
+>     “(a)  __Use of Statistical Data or Information__  __.—__ 
 
 >     Data or information acquired by an agency under a pledge of confidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
 
@@ -1575,11 +1575,11 @@
 
 >         “(3) This section does not restrict or diminish any confidentiality protections in law that otherwise apply to data or information acquired by an agency under a pledge of confidentiality for exclusively statistical purposes.
 
->     “(c) __Rule for Use of Data or Information for Nonstatistical Purposes.—__ 
+>     “(c)  __Rule for Use of Data or Information for Nonstatistical Purposes__  __.—__ 
 
 >     A statistical agency or unit shall clearly distinguish any data or information it collects for nonstatistical purposes (as authorized by law) and provide notice to the public, before the data or information is collected, that the data or information could be used for nonstatistical purposes.
 
->     “(d) __Designation of Agents.—__ 
+>     “(d)  __Designation of Agents__  __.—__ 
 
 >     A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
 
@@ -1591,7 +1591,7 @@
 
 > “SEC. 521. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -1607,7 +1607,7 @@
 
 >         “(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this subtitle are the following:
 
@@ -1653,7 +1653,7 @@
 
 > “SEC. 524. __SHARING OF BUSINESS DATA AMONG DESIGNATED STATISTICAL AGENCIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     A Designated Statistical Agency may provide business data in an identifiable form to another Designated Statistical Agency under the terms of a written agreement among the agencies sharing the business data that specifies—
 
@@ -1665,11 +1665,11 @@
 
 >         “(4) appropriate security procedures to safeguard the confidentiality of the business data.
 
->     “(b) __Responsibilities of Agencies Under Other Laws.—__ 
+>     “(b)  __Responsibilities of Agencies Under Other Laws__  __.—__ 
 
 >     The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including [section 552 of title 5][/us/usc/t5/s552], United States Code (popularly known as the Freedom of Information Act), and [section 552b of title 5][/us/usc/t5/s552b], United States Code (popularly known as the Privacy Act of 1974 \[[Pub. L. 93–579][/us/pl/93/579], see Short Title note set out under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
 
->     “(c) __Responsibilities of Officers, Employees, and Agents.—__ 
+>     “(c)  __Responsibilities of Officers, Employees, and Agents__  __.—__ 
 
 >     Examination of business data in identifiable form shall be limited to the officers, employees, and agents authorized to examine the individual reports in accordance with written agreements pursuant to this section. Officers, employees, and agents of a Designated Statistical Agency who receive data pursuant to this subtitle shall be subject to all provisions of law, including penalties, that relate—
 
@@ -1677,27 +1677,27 @@
 
 >         “(2) to the unlawful disclosure of the business data that would apply to officers, employees, and agents of the agency that originally obtained the information.
 
->     “(d) __Notice.—__ 
+>     “(d)  __Notice__  __.—__ 
 
 >     Whenever a written agreement concerns data that respondents were required by law to report and the respondents were not informed that the data could be shared among the Designated Statistical Agencies, for exclusively statistical purposes, the terms of such agreement shall be described in a public notice issued by the agency that intends to provide the data. Such notice shall allow a minimum of 60 days for public comment.
 
 > “SEC. 525. __LIMITATIONS ON USE OF BUSINESS DATA PROVIDED BY DESIGNATED STATISTICAL AGENCIES.__ 
 
->     “(a) __Use, Generally.—__ 
+>     “(a)  __Use, Generally__  __.—__ 
 
 >     Business data provided by a Designated Statistical Agency pursuant to this subtitle shall be used exclusively for statistical purposes.
 
->     “(b) __Publication.—__ 
+>     “(b)  __Publication__  __.—__ 
 
 >     Publication of business data acquired by a Designated Statistical Agency shall occur in a manner whereby the data furnished by any particular respondent are not in identifiable form.
 
 > “SEC. 526. __CONFORMING AMENDMENTS.__ 
 
->     “(a) __Department of Commerce.—__ 
+>     “(a)  __Department of Commerce__  __.—__ 
 
 >     \[Amended [section 176a of Title 15][/us/usc/t15/s176a], Commerce and Trade.\]
 
->     “(b) __Title 13.—__ 
+>     “(b)  __Title__  __13.—__ 
 
 >     \[Enacted [section 402 of Title 13][/us/usc/t13/s402], Census.\]”.
 

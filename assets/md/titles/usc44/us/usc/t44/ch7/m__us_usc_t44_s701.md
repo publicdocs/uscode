@@ -39,29 +39,29 @@
 
 >     “(a) __Congressional Printing and Binding For the House Through Clerk of House.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any provision of title 44, United States Code, or any other law, there are authorized to be appropriated to the Clerk of the House of Representatives such sums as may be necessary for congressional printing and binding services for the House of Representatives.
 
->         “(2) __Preparation of estimates.—__ 
+>         “(2)  __Preparation of estimates__  __.—__ 
 
 >         Estimated expenditures and proposed appropriations for congressional printing and binding services shall be prepared and submitted by the Clerk of the House of Representatives in accordance with title 31, United States Code, in the same manner as estimates and requests are prepared for other legislative branch services under such title, except that such requests shall be based upon the results of the study conducted under subsection (b) (with respect to any fiscal year covered by such study).
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         This subsection shall apply with respect to fiscal year 2003 and each succeeding fiscal year.
 
 >     “(b) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         During fiscal year 2001, the Clerk of the House of Representatives shall conduct a comprehensive study of the needs of the House for congressional printing and binding services during fiscal year 2003 and succeeding fiscal years (including transitional issues during fiscal year 2002), and shall include in the study an analysis of the most cost-effective program or programs for providing printed or other media-based publications for House uses.
 
->         “(2) __Submission to committees.—__ 
+>         “(2)  __Submission to committees__  __.—__ 
 
 >         The Clerk shall submit the study conducted under paragraph (1) to the Committee on House Administration of the House of Representatives, who shall review the study and prepare such regulations or other materials (including proposals for legislation) as it considers appropriate to enable the Clerk to carry out congressional printing and binding services for the House in accordance with this section.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘congressional printing and binding services’ means the following services:
 

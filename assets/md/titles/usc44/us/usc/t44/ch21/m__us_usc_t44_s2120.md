@@ -37,11 +37,11 @@
 
 [Pub. L. 110–404, § 4(b)][/us/pl/110/404/s4/b], Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Archivist of the United States, in the role as chairman of the National Historical Publications and Records Commission may enter into cooperative agreements pursuant to [section 6305 of title 31][/us/usc/t31/s6305], United States Code, that involve the transfer of funds from the National Historical Publications and Records Commission to State and local governments, tribal governments, other public entities, educational institutions, or private nonprofit organizations for the public purpose of carrying out [section 2120 of title 44][/us/usc/t44/s2120], United States Codes \[sic\].
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than December 31st of each year, the Archivist of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the provisions, amount, and duration of each cooperative agreement entered into as authorized by paragraph (1) during the preceding fiscal year.”
 

@@ -31,7 +31,7 @@
 
 [Pub. L. 110–404, § 5][/us/pl/110/404/s5], Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Archivist of the United States may establish an advisory committee to—
 
@@ -43,7 +43,7 @@
 
 >         “(4) recommend to the Archivist measures that would aid or encourage the projects in meeting such goals.
 
->     “(b) __Reports to the Advisory Committee.—__ 
+>     “(b)  __Reports to the Advisory Committee__  __.—__ 
 
 >     Each of the projects described in subsection (a)(1) shall provide annually to the advisory committee established under subsection (a) a report on the progress of the project toward accomplishing the completion goals and any assistance needed to achieve such goals, including the following:
 
@@ -63,7 +63,7 @@
 
 >         “(3) Any and all information related to performance goals for the funding year in which the report is submitted.
 
->     “(c) __Composition; Meetings; Report; Sunset; Action.—__ 
+>     “(c)  __Composition; Meetings; Report; Sunset; Action__  __.—__ 
 
 >     The advisory committee established under subsection (a) shall—
 

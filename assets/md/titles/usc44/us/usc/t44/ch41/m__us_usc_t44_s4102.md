@@ -15,11 +15,11 @@
 
 ## § 4102. Fees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Superintendent of Documents, under the direction of the Public Printer, may charge reasonable fees for use of the directory and the system of access provided for under section 4101, except that use of the directory and the system shall be made available to depository libraries without charge. The fees received shall be treated in the same manner as moneys received from sale of documents under [section 1702 of this title][/us/usc/t44/s1702].
 
-    (b) __Cost Recovery.—__ 
+    (b)  __Cost Recovery__  __.—__ 
 
     The fees charged under this section shall be set so as to recover the incremental cost of dissemination of the information involved, with the cost to be computed without regard to [section 1708 of this title][/us/usc/t44/s1708].
 
