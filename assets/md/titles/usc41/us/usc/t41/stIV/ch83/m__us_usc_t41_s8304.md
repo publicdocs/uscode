@@ -91,6 +91,8 @@ Pub. L. 103–160, div. A, title VIII, § 849(c), (d), Nov. 30, 1993, 107 Stat
 
 Provisions similar to those in this section and [section 8305 of this title][/us/usc/t41/s8305] were contained in the following acts:
 
+    [Pub. L. 114–113, div. C, title VIII, § 8028][/us/pl/114/113/s8028], Dec. 18, 2015, [129 Stat. 2357][/us/stat/129/2357].
+
     [Pub. L. 113–235, div. C, title VIII, § 8028][/us/pl/113/235/s8028], Dec. 16, 2014, [128 Stat. 2258][/us/stat/128/2258].
 
     [Pub. L. 113–76, div. C, title VIII, § 8027][/us/pl/113/76/s8027], Jan. 17, 2014, [128 Stat. 110][/us/stat/128/110].
@@ -153,6 +155,8 @@ Provisions similar to those in this section and [section 8305 of this title][/us
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3833
 [/us/usc/t41/s8305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8305
+[/us/pl/114/113/s8028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8028
+[/us/stat/129/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2357
 [/us/pl/113/235/s8028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8028
 [/us/stat/128/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2258
 [/us/pl/113/76/s8027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8027
