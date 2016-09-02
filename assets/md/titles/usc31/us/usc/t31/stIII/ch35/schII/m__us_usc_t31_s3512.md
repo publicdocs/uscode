@@ -17,7 +17,7 @@
 
     (a)
 
-        (1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress a financial management status report and a governmentwide 5-year financial management plan.
+        (1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
 
         (2)
 
@@ -159,7 +159,7 @@
 
     (g) The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 97–452, § 1(12)][/us/pl/97/452/s1/12], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 101–576, title III, § 301(a)][/us/pl/101/576/s301/a], Nov. 15, 1990, [104 Stat. 2847][/us/stat/104/2847]; [Pub. L. 103–272, § 4(f)(1)(J)][/us/pl/103/272/s4/f/1/J], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII, § 805(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–392.)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 959][/us/stat/96/959]; [Pub. L. 97–452, § 1(12)][/us/pl/97/452/s1/12], Jan. 12, 1983, [96 Stat. 2468][/us/stat/96/2468]; [Pub. L. 101–576, title III, § 301(a)][/us/pl/101/576/s301/a], Nov. 15, 1990, [104 Stat. 2847][/us/stat/104/2847]; [Pub. L. 103–272, § 4(f)(1)(J)][/us/pl/103/272/s4/f/1/J], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VIII, § 805(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–392; [Pub. L. 113–101, § 4][/us/pl/113/101/s4], May 9, 2014, [128 Stat. 1153][/us/stat/128/1153].)
 
 <table>
 
@@ -408,6 +408,8 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
     The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of [Pub. L. 101–576][/us/pl/101/576], which added subsec. (a) and was approved Nov. 15, 1990.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–101][/us/pl/113/101], which directed the insertion of “and make available on the website described under section 1122” after “appropriate committees of Congress” was executed by making the insertion after “appropriate committees of the Congress” to reflect the probable intent of Congress.
 
     1996—Subsec. (a)(2)(E), (F). [Pub. L. 104–208][/us/pl/104/208] added subpar. (E) and redesignated former subpar. (E) as (F).
 
@@ -663,6 +665,8 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362
 [/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
+[/us/pl/113/101/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs4
+[/us/stat/128/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1153
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t31/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3511
 [/us/pl/97/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F255
@@ -672,6 +676,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 [/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/101/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/272/s4/f/1/J/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FJ%2Fi
 [/us/pl/103/272/s4/f/1/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FJ%2Fii

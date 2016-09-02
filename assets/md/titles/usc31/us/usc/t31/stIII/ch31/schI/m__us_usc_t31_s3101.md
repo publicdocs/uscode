@@ -225,7 +225,7 @@ June 30, 1967, Pub. L. 90–39, § 2, 81 Stat. 99.  </td>
 
 >     If there is enacted into law within 22 calendar days after Congress receives a written certification by the President under subsection (b) a joint resolution disapproving the President’s exercise of authority to suspend the debt ceiling under subsection (e), effective on the date of enactment of the joint resolution, subsection (c) is amended to read as follows:    “ ‘(c) Suspension.—
 
->         “ ‘(1) In general.—[Section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall not apply for the period beginning on the date on which the President submits to Congress a certification under subsection (b) and ending on the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[[Pub. L. 113–46][/us/pl/113/46]; [31 U.S.C. 3101][/us/usc/t31/s3101] note\].
+>         “ ‘(1) In general.—[Section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall not apply for the period beginning on the date on which the President submits to Congress a certification under subsection (b) and ending on the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[[Pub. L. 113–46][/us/pl/113/46]; subsec. (e) of this note\].
 
 >         “ ‘(2) Special rule relating to obligations issued during suspension period.—Effective on the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014, the limitation in [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, as increased by section 3101A of such title and section 2 of the No Budget, No Pay Act of 2013 \[[Pub. L. 113–3][/us/pl/113/3]\] ([31 U.S.C. 3101][/us/usc/t31/s3101] note), is increased to the extent that—
 
@@ -233,7 +233,7 @@ June 30, 1967, Pub. L. 90–39, § 2, 81 Stat. 99.  </td>
 
 >         “ ‘(B) the face amount of such obligations outstanding on the date of enactment of this Act \[Oct. 17, 2013\].
 
->         An obligation shall not be taken into account under subparagraph (A) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[[Pub. L. 113–46][/us/pl/113/46]; [31 U.S.C. 3101][/us/usc/t31/s3101] note\].’.
+>         An obligation shall not be taken into account under subparagraph (A) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[[Pub. L. 113–46][/us/pl/113/46]; subsec. (e) of this note\].’.
 
 >     “(e) __Disapproval Process.—__ 
 
@@ -577,12 +577,10 @@ Provisions requiring the Secretary of the Treasury to restore certain Federal tr
 [/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
 [/us/pl/113/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46
-[/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
 [/us/pl/113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3
 [/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/pl/113/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46
-[/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/pl/113/3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3%2Fs2
 [/us/stat/127/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F51
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb

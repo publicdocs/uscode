@@ -205,7 +205,7 @@ Oct. 28, 1977, Pub. L. 95–147, § 4(c), 91 Stat. 1229.  </td>
 
  __Constitutionality__ 
 
-For information regarding constitutionality of section 1 of act June 5, 1933, cited as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of section 1 of act June 5, 1933, cited in the Historical and Revision Notes as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
 

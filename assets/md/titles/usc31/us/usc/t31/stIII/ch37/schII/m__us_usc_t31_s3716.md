@@ -89,7 +89,11 @@
 
         (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-        (6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+        (6)
+
+            (A) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 120 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+
+            (B) The Secretary of the Treasury shall notify Congress of any instance in which an agency fails to notify the Secretary as required under subparagraph (A).
 
         (7)
 
@@ -147,7 +151,7 @@
 
         (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added [Pub. L. 97–452, § 1(16)(A)][/us/pl/97/452/s1/16/A], Jan. 12, 1983, [96 Stat. 2471][/us/stat/96/2471]; amended [Pub. L. 104–134, title III, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (d)(2), (e), (f), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–362; [Pub. L. 106–169, title II, § 251(b)(10)][/us/pl/106/169/s251/b/10], Dec. 14, 1999, [113 Stat. 1856][/us/stat/113/1856]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title XIV, § 14219(a)][/us/pl/110/234/s14219/a], May 22, 2008, [122 Stat. 1482][/us/stat/122/1482]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14219(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2244; [Pub. L. 110–275, title I, § 189(b)][/us/pl/110/275/s189/b], July 15, 2008, [122 Stat. 2590][/us/stat/122/2590].)
+(Added [Pub. L. 97–452, § 1(16)(A)][/us/pl/97/452/s1/16/A], Jan. 12, 1983, [96 Stat. 2471][/us/stat/96/2471]; amended [Pub. L. 104–134, title III, § 31001(c)(1)][/us/pl/104/134/s31001/c/1], (d)(2), (e), (f), Apr. 26, 1996, [110 Stat. 1321–359][/us/stat/110/1321-359], 1321–362; [Pub. L. 106–169, title II, § 251(b)(10)][/us/pl/106/169/s251/b/10], Dec. 14, 1999, [113 Stat. 1856][/us/stat/113/1856]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title XIV, § 14219(a)][/us/pl/110/234/s14219/a], May 22, 2008, [122 Stat. 1482][/us/stat/122/1482]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14219(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2244; [Pub. L. 110–275, title I, § 189(b)][/us/pl/110/275/s189/b], July 15, 2008, [122 Stat. 2590][/us/stat/122/2590]; [Pub. L. 113–101, § 5][/us/pl/113/101/s5], May 9, 2014, [128 Stat. 1153][/us/stat/128/1153].)
 
 <table>
 
@@ -262,6 +266,8 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(6). [Pub. L. 113–101][/us/pl/113/101] designated existing provisions as subpar. (A), substituted “120 days” for “180 days”, and added subpar. (B).
 
     2008—Subsec. (c)(1)(A). [Pub. L. 110–275, § 189(b)(1)][/us/pl/110/275/s189/b/1], inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
 
@@ -413,6 +419,8 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/275/s189/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fb
 [/us/stat/122/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2590
+[/us/pl/113/101/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs5
+[/us/stat/128/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1153
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
@@ -427,6 +435,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101
 [/us/pl/110/275/s189/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fb%2F1
 [/us/pl/110/275/s189/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs189%2Fb%2F2
 [/us/pl/110/246/s14219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14219%2Fa

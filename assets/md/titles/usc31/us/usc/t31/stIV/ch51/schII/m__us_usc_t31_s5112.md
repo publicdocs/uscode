@@ -1939,7 +1939,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 
     [Pub. L. 112–181][/us/pl/112/181], Oct. 5, 2012, [126 Stat. 1416][/us/stat/126/1416].—Lions Clubs International century of service.
 
-    [Pub. L. 112–152][/us/pl/112/152], Aug. 3, 2012, [126 Stat. 1155][/us/stat/126/1155]; [Pub. L. 113–10][/us/pl/113/10], May 17, 2013, [127 Stat. 445][/us/stat/127/445].—National Baseball Hall of Fame.
+    [Pub. L. 112–152][/us/pl/112/152], Aug. 3, 2012, [126 Stat. 1155][/us/stat/126/1155]; [Pub. L. 113–10, § 1][/us/pl/113/10/s1], May 17, 2013, [127 Stat. 445][/us/stat/127/445].—National Baseball Hall of Fame.
 
     [Pub. L. 112–104][/us/pl/112/104], Apr. 2, 2012, [126 Stat. 286][/us/stat/126/286].—United States Marshals Service 225th anniversary.
 
@@ -2257,7 +2257,7 @@ Provisions authorizing commemorative coins were contained in the following acts:
 [/us/stat/126/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1416
 [/us/pl/112/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F152
 [/us/stat/126/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1155
-[/us/pl/113/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F10
+[/us/pl/113/10/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F10%2Fs1
 [/us/stat/127/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F445
 [/us/pl/112/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F104
 [/us/stat/126/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F286

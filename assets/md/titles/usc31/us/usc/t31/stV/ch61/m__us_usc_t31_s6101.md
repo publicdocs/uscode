@@ -193,11 +193,33 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
     [Pub. L. 104–287, § 6(a)][/us/pl/104/287/s6/a], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398], provided that the amendment made by that section is effective July 5, 1994.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–101, § 1][/us/pl/113/101/s1], May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that: 
+
+> “This Act \[amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Digital Accountability and Transparency Act of 2014’ or the ‘DATA Act’.”
+
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–252, title VI, § 6201][/us/pl/110/252/s6201], June 30, 2008, [122 Stat. 2387][/us/stat/122/2387], provided that: 
 
 > “This chapter \[chapter 2 (§§ 6201, 6202) of title VI of [Pub. L. 110–252][/us/pl/110/252], enacting and amending provisions set out as notes under this section\] may be cited as the ‘Government Funding Transparency Act of 2008’.”
+
+ __Purposes__ 
+
+[Pub. L. 113–101, § 2][/us/pl/113/101/s2], May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that: 
+
+> “The purposes of this Act \[see Short Title of 2014 Amendment note above\] are to—
+
+>     “(1) expand the Federal Funding Accountability and Transparency Act of 2006 \[[Pub. L. 109–282][/us/pl/109/282]\] ([31 U.S.C. 6101][/us/usc/t31/s6101] note) by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies to enable taxpayers and policy makers to track Federal spending more effectively;
+
+>     “(2) establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
+
+>     “(3) simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency;
+
+>     “(4) improve the quality of data submitted to USASpending.gov by holding Federal agencies accountable for the completeness and accuracy of the data submitted; and
+
+>     “(5) apply approaches developed by the Recovery Accountability and Transparency Board to spending across the Federal Government.”
 
  __Requirements and Limitations for Suspension and Debarment Officials of the Department of Defense, the Department of State, and the United States Agency for International Development__ 
 
@@ -295,7 +317,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 > “The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter \[amending [Pub. L. 109–282][/us/pl/109/282], set out below\]. Such regulations shall include a definition of ‘total compensation’ that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation).”
 
-[Pub. L. 109–282][/us/pl/109/282], Sept. 26, 2006, [120 Stat. 1186][/us/stat/120/1186], as amended by [Pub. L. 110–252, title VI, § 6202(a)][/us/pl/110/252/s6202/a], June 30, 2008, [122 Stat. 2387][/us/stat/122/2387], provided that:
+[Pub. L. 109–282][/us/pl/109/282], Sept. 26, 2006, [120 Stat. 1186][/us/stat/120/1186], as amended by [Pub. L. 110–252, title VI, § 6202(a)][/us/pl/110/252/s6202/a], June 30, 2008, [122 Stat. 2387][/us/stat/122/2387]; [Pub. L. 113–101, § 3][/us/pl/113/101/s3], May 9, 2014, [128 Stat. 1146][/us/stat/128/1146], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -305,9 +327,13 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >     “(a)  __Definitions__  __.—__ 
 
->     In this section:
+>     In this Act:
 
->         “(1)  __Entity__  __.—__ 
+>         “(1)  __Director__  __.—__ 
+
+>         The term ‘Director’ means the Director of the Office of Management and Budget.
+
+>         “(2)  __Entity__  __.—__ 
 
 >         The term ‘entity’—
 
@@ -343,7 +369,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >                 “(ii) a Federal employee.
 
->         “(2)  __Federal award__  __.—__ 
+>         “(3)  __Federal agency__  __.—__ 
+
+>         The term ‘Federal agency’ has the meaning given the term ‘Executive agency’ under [section 105 of title 5][/us/usc/t5/s105], United States Code.
+
+>         “(4)  __Federal award__  __.—__ 
 
 >         The term ‘Federal award’—
 
@@ -359,7 +389,15 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(C) before October 1, 2008, does not include credit card transactions.
 
->         “(3)  __Searchable website__  __.—__ 
+>         “(5)  __Object class__  __.—__ 
+
+>         The term ‘object class’ means the category assigned for purposes of the annual budget of the President submitted under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, to the type of property or services purchased by the Federal Government.
+
+>         “(6)  __Program activity__  __.—__ 
+
+>         The term ‘program activity’ has the meaning given that term under [section 1115(h) of title 31][/us/usc/t31/s1115/h], United States Code.
+
+>         “(7)  __Searchable website__  __.—__ 
 
 >         The term ‘searchable website’ means a website that allows the public to—
 
@@ -370,6 +408,10 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 >             “(C) ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(ii), by fiscal year; and
 
 >             “(D) download data included in subparagraph (A) included in the outcome from searches.
+
+>         “(8)  __Secretary__  __.—__ 
+
+>         The term ‘Secretary’ means the Secretary of the Treasury.
 
 >     “(b) __In General.—__ 
 
@@ -409,11 +451,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(3)  __Designation of agencies__  __.—__ 
 
->         The Director of the Office of Management and Budget is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
+>         The Director is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
 
 >         “(4)  __Agency responsibilities__  __.—__ 
 
->         Federal agencies shall comply with the instructions and guidance issued by the Director of the Office of Management and Budget under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
+>         Federal agencies shall comply with the instructions and guidance issued by the Director under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
 
 >     “(c)  __Website__  __.—__ 
 
@@ -431,9 +473,21 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(3) shall provide an opportunity for the public to provide input about the utility of the site and recommendations for improvements;
 
->         “(4) shall be updated not later than 30 days after the award of any Federal award requiring a posting; and
+>         “(4) shall be updated not later than 30 days after the award of any Federal award requiring a posting;
 
->         “(5) shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii).
+>         “(5) shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii);
+
+>         “(6) shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and
+
+>         “(7)
+
+>          shall ensure that all information published under this section is available—
+
+>             “(A) in machine-readable and open formats;
+
+>             “(B) to be downloaded in bulk; and
+
+>             “(C) to the extent practicable, for automated processing.
 
 >     “(d) __Subaward Data.—__ 
 
@@ -441,7 +495,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(A)  __In general__  __.—__ 
 
->             Not later than July 1, 2007, the Director of the Office of Management and Budget shall commence a pilot program to—
+>             Not later than July 1, 2007, the Director shall commence a pilot program to—
 
 >                 “(i) test the collection and accession of data about subgrants and subcontracts; and
 
@@ -461,7 +515,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(A)  __In general__  __.—__ 
 
->             Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director of the Office of Management and Budget—
+>             Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director—
 
 >                 “(i) shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and
 
@@ -477,11 +531,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(B)  __Extension of deadline__  __.—__ 
 
->             For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director of the Office of Management and Budget may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+>             For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
 
 >     “(e)  __Exception__  __.—__ 
 
->     Any entity that demonstrates to the Director of the Office of Management and Budget that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
+>     Any entity that demonstrates to the Director that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
 
 >     “(f)  __Construction__  __.—__ 
 
@@ -491,7 +545,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
+>         The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
 
 >         “(2)  __Contents__  __.—__ 
 
@@ -505,15 +559,275 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(3)  __Publication__  __.—__ 
 
->         The Director of the Office of Management and Budget shall make each report submitted under paragraph (1) publicly available on the website established under this section.
+>         The Director shall make each report submitted under paragraph (1) publicly available on the website established under this section.
 
-> “SEC. 3. __CLASSIFIED INFORMATION.__ 
+> “SEC. 3. __FULL DISCLOSURE OF FEDERAL FUNDS.__ 
 
->     “Nothing in this Act shall require the disclosure of classified information.
+>     “(a)  __In General__  __.—__ 
 
-> “SEC. 4. __GOVERNMENT ACCOUNTABILITY OFFICE REPORTING REQUIREMENT.__ 
+>     Not later than 3 years after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], and monthly when practicable but not less than quarterly thereafter, the Secretary, in consultation with the Director, shall ensure that the information in subsection (b) is posted on the website established under section 2.
 
->     “Not later than January 1, 2010, the Comptroller General shall submit to Congress a report on compliance with this Act.”
+>     “(b)  __Information To Be Posted__  __.—__ 
+
+>     For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
+
+>         “(1)
+
+>          for each appropriations account, including an expired or unexpired appropriations account, the amount—
+
+>             “(A) of budget authority appropriated;
+
+>             “(B) that is obligated;
+
+>             “(C) of unobligated balances; and
+
+>             “(D) of any other budgetary resources;
+
+>         “(2)
+
+>          from which accounts and in what amount—
+
+>             “(A) appropriations are obligated for each program activity; and
+
+>             “(B) outlays are made for each program activity;
+
+>         “(3)
+
+>          from which accounts and in what amount—
+
+>             “(A) appropriations are obligated for each object class; and
+
+>             “(B) outlays are made for each object class; and
+
+>         “(4)
+
+>          for each program activity, the amount—
+
+>             “(A) obligated for each object class; and
+
+>             “(B) of outlays made for each object class.
+
+> “SEC. 4. __DATA STANDARDS.__ 
+
+>     “(a) __In General.—__ 
+
+>         “(1)  __Establishment of standards__  __.—__ 
+
+>         The Secretary and the Director, in consultation with the heads of Federal agencies, shall establish Government-wide financial data standards for any Federal funds made available to or expended by Federal agencies and entities receiving Federal funds.
+
+>         “(2)  __Data elements__  __.—__ 
+
+>         The financial data standards established under paragraph (1) shall include common data elements for financial and payment information required to be reported by Federal agencies and entities receiving Federal funds.
+
+>     “(b)  __Requirements__  __.—__ 
+
+>     The data standards established under subsection (a) shall, to the extent reasonable and practicable—
+
+>         “(1)
+
+>          incorporate widely accepted common data elements, such as those developed and maintained by—
+
+>             “(A) an international voluntary consensus standards body;
+
+>             “(B) Federal agencies with authority over contracting and financial assistance; and
+
+>             “(C) accounting standards organizations;
+
+>         “(2) incorporate a widely accepted, nonproprietary, searchable, platform-independent computer-readable format;
+
+>         “(3) include unique identifiers for Federal awards and entities receiving Federal awards that can be consistently applied Government-wide;
+
+>         “(4) be consistent with and implement applicable accounting principles;
+
+>         “(5) be capable of being continually upgraded as necessary;
+
+>         “(6) produce consistent and comparable data, including across program activities; and
+
+>         “(7) establish a standard method of conveying the reporting period, reporting entity, unit of measure, and other associated attributes.
+
+>     “(c) __Deadlines.—__ 
+
+>         “(1)  __Guidance__  __.—__ 
+
+>         Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], the Director and the Secretary shall issue guidance to Federal agencies on the data standards established under subsection (a).
+
+>         “(2) __Agencies.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued, each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
+
+>             “(B) __Noninterference with auditability of department of defense financial statements.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Upon request by the Secretary of Defense, the Director may grant an extension of the deadline under subparagraph (A) to the Department of Defense for a period of not more than 6 months to report financial and payment information data in accordance with the data standards established under subsection (a).
+
+>                 “(ii)  __Limitation__  __.—__ 
+
+>                 The Director may not grant more than 3 extensions to the Secretary of Defense under clause (i).
+
+>                 “(iii)  __Notification__  __.—__ 
+
+>                 The Director of the Office of Management and Budget shall notify the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives of—
+
+>                          “(I) each grant of an extension under clause (i); and
+
+>                          “(II) the reasons for granting such an extension.
+
+>         “(3)  __Website__  __.—__ 
+
+>         Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) are applied to the data made available on the website established under section 2.
+
+>     “(d)  __Consultation__  __.—__ 
+
+>     The Director and the Secretary shall consult with public and private stakeholders in establishing data standards under this section.
+
+> “SEC. 5. __SIMPLIFYING FEDERAL AWARD REPORTING.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Director, in consultation with relevant Federal agencies, recipients of Federal awards, including State and local governments, and institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002][/us/usc/t20/s1002])), shall review the information required to be reported by recipients of Federal awards to identify—
+
+>         “(1) common reporting elements across the Federal Government;
+
+>         “(2) unnecessary duplication in financial reporting; and
+
+>         “(3) unnecessarily burdensome reporting requirements for recipients of Federal awards.
+
+>     “(b) __Pilot Program.—__ 
+
+>         “(1)  __Establishment__  __.—__ 
+
+>         Not later than 1 year after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], the Director, or a Federal agency designated by the Director, shall establish a pilot program (in this section referred to as the ‘pilot program’) with the participation of appropriate Federal agencies to facilitate the development of recommendations for—
+
+>             “(A) standardized reporting elements across the Federal Government;
+
+>             “(B) the elimination of unnecessary duplication in financial reporting; and
+
+>             “(C) the reduction of compliance costs for recipients of Federal awards.
+
+>         “(2)  __Requirements__  __.—__ 
+
+>         The pilot program shall—
+
+>             “(A) include a combination of Federal contracts, grants, and subawards, the aggregate value of which is not less than $1,000,000,000 and not more than $2,000,000,000;
+
+>             “(B) include a diverse group of recipients of Federal awards; and
+
+>             “(C) to the extent practicable, include recipients who receive Federal awards from multiple programs across multiple agencies.
+
+>         “(3)  __Data collection__  __.—__ 
+
+>         The pilot program shall include data collected during a 12-month reporting cycle.
+
+>         “(4)  __Reporting and evaluation requirements__  __.—__ 
+
+>         Each recipient of a Federal award participating in the pilot program shall submit to the Office of Management and Budget or the Federal agency designated under paragraph (1), as appropriate, any requested reports of the selected Federal awards.
+
+>         “(5)  __Termination__  __.—__ 
+
+>         The pilot program shall terminate on the date that is 2 years after the date on which the pilot program is established.
+
+>         “(6)  __Report to congress__  __.—__ 
+
+>         Not later than 90 days after the date on which the pilot program terminates under paragraph (5), the Director shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Budget of the Senate and the Committee on Oversight and Government Reform and the Committee on the Budget of the House of Representatives a report on the pilot program, which shall include—
+
+>             “(A) a description of the data collected under the pilot program, the usefulness of the data provided, and the cost to collect the data from recipients; and
+
+>             “(B)
+
+>              a discussion of any legislative action required and recommendations for—
+
+>                 “(i) consolidating aspects of Federal financial reporting to reduce the costs to recipients of Federal awards;
+
+>                 “(ii) automating aspects of Federal financial reporting to increase efficiency and reduce the costs to recipients of Federal awards;
+
+>                 “(iii) simplifying the reporting requirements for recipients of Federal awards; and
+
+>                 “(iv) improving financial transparency.
+
+>         “(7)  __Government-wide implementation__  __.—__ 
+
+>         Not later than 1 year after the date on which the Director submits the report under paragraph (6), the Director shall issue guidance to the heads of Federal agencies as to how the Government-wide financial data standards established under section 4(a) shall be applied to the information required to be reported by entities receiving Federal awards to—
+
+>             “(A) reduce the burden of complying with reporting requirements; and
+
+>             “(B) simplify the reporting process, including by reducing duplicative reports.
+
+> “SEC. 6. __ACCOUNTABILITY FOR FEDERAL FUNDING.__ 
+
+>     “(a) __Inspector General Reports.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In accordance with paragraph (2), the Inspector General of each Federal agency, in consultation with the Comptroller General of the United States, shall—
+
+>             “(A) review a statistically valid sampling of the spending data submitted under this Act by the Federal agency; and
+
+>             “(B) submit to Congress and make publically available a report assessing the completeness, timeliness, quality, and accuracy of the data sampled and the implementation and use of data standards by the Federal agency.
+
+>         “(2) __Deadlines.—__ 
+
+>             “(A)  __First report__  __.—__ 
+
+>             Not later than 18 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), the Inspector General of each Federal agency shall submit and make publically available a report as described in paragraph (1).
+
+>             “(B)  __Subsequent reports__  __.—__ 
+
+>             On the same date as the Inspector General of each Federal agency submits the second and fourth reports under sections 3521(f) and 9105(a)(3) of title 31, United States Code, that are submitted after the report under subparagraph (A), the Inspector General shall submit and make publically available a report as described in paragraph (1). The report submitted under this subparagraph may be submitted as a part of the report submitted under section 3521(f) or 9105(a)(3) of title 31, United States Code.
+
+>     “(b) __Comptroller General Reports.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In accordance with paragraph (2) and after a review of the reports submitted under subsection (a), the Comptroller General of the United States shall submit to Congress and make publically available a report assessing and comparing the data completeness, timeliness, quality, and accuracy of the data submitted under this Act by Federal agencies and the implementation and use of data standards by Federal agencies.
+
+>         “(2)  __Deadlines__  __.—__ 
+
+>         Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4 years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
+
+>     “(c) __Recovery Accountability and Transparency Board Data Analysis Center.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary may establish a data analysis center or expand an existing service to provide data, analytic tools, and data management techniques to support—
+
+>             “(A) the prevention and reduction of improper payments by Federal agencies; and
+
+>             “(B) improving efficiency and transparency in Federal spending.
+
+>         “(2)  __Data availability__  __.—__ 
+
+>         The Secretary shall enter into memoranda of understanding with Federal agencies, including Inspectors General and Federal law enforcement agencies—
+
+>             “(A)
+
+>              under which the Secretary may provide data from the data analysis center for—
+
+>                 “(i) the purposes set forth under paragraph (1);
+
+>                 “(ii) the identification, prevention, and reduction of waste, fraud, and abuse relating to Federal spending; and
+
+>                 “(iii) use in the conduct of criminal and other investigations; and
+
+>             “(B) which may require the Federal agency, Inspector General, or Federal law enforcement agency to provide reimbursement to the Secretary for the reasonable cost of carrying out the agreement.
+
+>         “(3)  __Transfer__  __.—__ 
+
+>         Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under [section 1531 of title 31][/us/usc/t31/s1531], United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+
+> “SEC. 7. __CLASSIFIED AND PROTECTED INFORMATION.__ 
+
+> “Nothing in this Act shall require the disclosure to the public of—
+
+>     “(1) information that would be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly known as the ‘Freedom of Information Act’); or
+
+>     “(2) information protected under [section 552a of title 5][/us/usc/t5/s552a], United States Code (commonly known as the ‘Privacy Act of 1974’), or section 6103 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6103][/us/usc/t26/s6103]\].
+
+> “SEC. 8. __NO PRIVATE RIGHT OF ACTION.__ 
+
+>     “Nothing in this Act shall be construed to create a private right of action for enforcement of any provision of this Act.”
 
  __Federal Financial Assistance Management Improvement__ 
 
@@ -826,9 +1140,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/pl/98/169/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F169%2Fs3%2Fa
 [/us/pl/104/287/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs6%2Fa
 [/us/stat/110/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3398
+[/us/pl/113/101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs1
+[/us/stat/128/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1146
 [/us/pl/110/252/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs6201
 [/us/stat/122/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2387
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/113/101/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs2
+[/us/stat/128/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1146
+[/us/pl/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F282
+[/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
 [/us/pl/112/239/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs861
 [/us/stat/126/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1857
 [/us/pl/110/417/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs873
@@ -846,10 +1166,20 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/stat/120/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1186
 [/us/pl/110/252/s6202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs6202%2Fa
 [/us/stat/122/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2387
+[/us/pl/113/101/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F101%2Fs3
+[/us/stat/128/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1146
+[/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
+[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/usc/t31/s1115/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fh
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t15/s78m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fa
+[/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
+[/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
+[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/pl/106/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F107
 [/us/stat/113/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1486
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
