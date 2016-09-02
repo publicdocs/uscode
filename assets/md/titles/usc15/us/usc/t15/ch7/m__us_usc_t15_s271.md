@@ -63,6 +63,12 @@
 
     [Act Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736], created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. B, title VII, § 701][/us/pl/113/235/s701], Dec. 16, 2014, [128 Stat. 2220][/us/stat/128/2220], provided that: 
+
+> “This title \[enacting [section 278s of this title][/us/usc/t15/s278s], amending [section 3722 of this title][/us/usc/t15/s3722] and [section 6622 of Title 42][/us/usc/t42/s6622], The Public Health and Welfare, enacting provisions set out as a note under [section 278s of this title][/us/usc/t15/s278s], and amending provisions set out as a note under this section\] may be cited as the ‘Revitalize American Manufacturing and Innovation Act of 2014’.”
+
  __Short Title of 2011 Amendment__ 
 
 [Pub. L. 111–358, title VII, § 701][/us/pl/111/358/s701], Jan. 4, 2011, [124 Stat. 4041][/us/stat/124/4041], provided that: 
@@ -95,7 +101,7 @@
 
  __Short Title__ 
 
-[Act Mar. 3, 1901, ch. 872, § 34][/us/act/1901-03-03/ch872/s34], formerly § 23, as added Jan. 8, 1988, [Pub. L. 100–235, § 3(3)][/us/pl/100/235/s3/3], [101 Stat. 1728][/us/stat/101/1728]; renumbered § 31 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5114(1), 5115(a)(2), Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432], 1433; renumbered § 32, [Pub. L. 105–309, § 4(a)][/us/pl/105/309/s4/a], Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935]; renumbered § 34, [Pub. L. 110–69, title III, § 3007(1)][/us/pl/110/69/s3007/1], Aug. 9, 2007, [121 Stat. 590][/us/stat/121/590], provided that: 
+[Act Mar. 3, 1901, ch. 872, § 35][/us/act/1901-03-03/ch872/s35], formerly § 23, as added Jan. 8, 1988, [Pub. L. 100–235, § 3(3)][/us/pl/100/235/s3/3], [101 Stat. 1728][/us/stat/101/1728]; renumbered § 31 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5114(1), 5115(a)(2), Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432], 1433; renumbered § 32, [Pub. L. 105–309, § 4(a)][/us/pl/105/309/s4/a], Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935]; renumbered § 34, [Pub. L. 110–69, title III, § 3007(1)][/us/pl/110/69/s3007/1], Aug. 9, 2007, [121 Stat. 590][/us/stat/121/590], renumbered § 35, [Pub. L. 113–235, div. B, title VII, § 703(1)][/us/pl/113/235/s703/1], Dec. 16, 2014, [128 Stat. 2221][/us/stat/128/2221], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act.”
 
@@ -122,6 +128,12 @@
 [/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
 [/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
+[/us/pl/113/235/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs701
+[/us/stat/128/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2220
+[/us/usc/t15/s278s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278s
+[/us/usc/t15/s3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3722
+[/us/usc/t42/s6622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6622
+[/us/usc/t15/s278s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278s
 [/us/pl/111/358/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs701
 [/us/stat/124/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4041
 [/us/usc/t15/s278k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k
@@ -141,7 +153,7 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t30/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1803
-[/us/act/1901-03-03/ch872/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs34
+[/us/act/1901-03-03/ch872/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs35
 [/us/pl/100/235/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235%2Fs3%2F3
 [/us/stat/101/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1728
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -150,6 +162,8 @@
 [/us/stat/112/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2935
 [/us/pl/110/69/s3007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3007%2F1
 [/us/stat/121/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F590
+[/us/pl/113/235/s703/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs703%2F1
+[/us/stat/128/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2221
 [/us/act/1901-03-03/ch872/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs29
 [/us/pl/100/418/s5161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5161
 [/us/stat/102/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1449

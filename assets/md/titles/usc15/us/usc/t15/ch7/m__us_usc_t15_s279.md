@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278r.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s281a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs279)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278s.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s281a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs279)
 
 ## § 279. Absence of Director
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278r.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s281a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs279)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278s.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s281a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs279)
 
 ----------
 ----------

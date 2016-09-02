@@ -75,7 +75,7 @@
 
         (2) cooperate and coordinate its operations with other Government scientific, technical, and engineering information programs;
 
-        (3) make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Printing Office;
+        (3) make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Publishing Office;
 
         (4) in conjunction with the private sector as appropriate, collect, translate into English, and disseminate unclassified foreign scientific, technical, and engineering information;
 
@@ -113,7 +113,7 @@
 
             (C) any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
 
-([Pub. L. 100–519, title II, § 212][/us/pl/100/519/s212], Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594]; [Pub. L. 102–140, title II][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 804][/us/stat/105/804]; [Pub. L. 102–245, title V, § 506(c)][/us/pl/102/245/s506/c], Feb. 14, 1992, [106 Stat. 27][/us/stat/106/27]; [Pub. L. 110–161, div. B, title I, § 109][/us/pl/110/161/s109], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893].)
+([Pub. L. 100–519, title II, § 212][/us/pl/100/519/s212], Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594]; [Pub. L. 102–140, title II][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 804][/us/stat/105/804]; [Pub. L. 102–245, title V, § 506(c)][/us/pl/102/245/s506/c], Feb. 14, 1992, [106 Stat. 27][/us/stat/106/27]; [Pub. L. 110–161, div. B, title I, § 109][/us/pl/110/161/s109], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -136,6 +136,10 @@
     1992—Subsec. (e)(5). [Pub. L. 102–245][/us/pl/102/245] inserted “, including producing and disseminating information products in electronic format” after “engineering information”.
 
     1991—Subsec. (a)(1)(E). [Pub. L. 102–140][/us/pl/102/140] added subpar. (E).
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(3) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Termination of Advisory Boards__ 
 
@@ -164,6 +168,8 @@
 [/us/stat/106/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F27
 [/us/pl/110/161/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs109
 [/us/stat/121/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1893
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
 [/us/stat/102/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2594
 [/us/usc/t15/s3704b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3704b
@@ -177,6 +183,8 @@
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/pl/102/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278q.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s279.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278r)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278q.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278s.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278r)
 
 ## § 278r. Collaborative manufacturing research pilot grants
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278q.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s279.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278r)
+[Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278q.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278s.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278r)
 
 ----------
 ----------
