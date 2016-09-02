@@ -259,7 +259,7 @@ Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat
 
     <td> 
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421.  </td>
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347.  </td>
 
   </tr>
 
@@ -340,6 +340,14 @@ Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 50
     <td> 
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, § 1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Peace Corps Memorial.—Pub. L. 113–78, Jan. 24, 2014, 128 Stat. 647.  </td>
 
   </tr>
 
