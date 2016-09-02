@@ -81,7 +81,7 @@
 
     The Classified Information Procedures Act, referred to in subsec. (b)(1), is [Pub. L. 96–456][/us/pl/96/456], Oct. 15, 1980, [94 Stat. 2025][/us/stat/94/2025], which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-    [Section 1681u(h)(2) of title 15][/us/usc/t15/s1681u/h/2], referred to in subsec. (b)(2), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 626(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 626 by [section 358(g)(1)(A) of Pub. L. 107–56][/us/pl/107/56/s358/g/1/A] and [section 214(a)(1) of Pub. L. 108–159][/us/pl/108/159/s214/a/1].
+    [Section 1681u(h)(2) of title 15][/us/usc/t15/s1681u/h/2], referred to in subsec. (b)(2), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 626(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 626 by [section 358(g)(1)(A) of Pub. L. 107–56][/us/pl/107/56/s358/g/1/A] and [section 214(a)(1) of Pub. L. 108–159][/us/pl/108/159/s214/a/1]. [Section 1681u(h) of title 15][/us/usc/t15/s1681u/h] was subsequently redesignated [section 1681u(i) of title 15][/us/usc/t15/s1681u/i] by [Pub. L. 114–23, title V, § 503(c)(1)][/us/pl/114/23/s503/c/1], June 2, 2015, [129 Stat. 290][/us/stat/129/290].
 
  __Codification__ 
 
@@ -253,6 +253,10 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t15/s1681u/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fh%2F2
 [/us/pl/107/56/s358/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FA
 [/us/pl/108/159/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F1
+[/us/usc/t15/s1681u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fh
+[/us/usc/t15/s1681u/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fi
+[/us/pl/114/23/s503/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs503%2Fc%2F1
+[/us/stat/129/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F290
 [/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b
 [/us/pl/113/126/s329/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F3%2FA
 [/us/usc/t50/s3050/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3050%2Fb

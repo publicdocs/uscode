@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptB/m__us_usc_t50_s2602.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptB/m__us_usc_t50_s2603.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptC)
 
 #### Part C—Hanford Reservation, Washington
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptB/m__us_usc_t50_s2602.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t50/ch42/schIV/ptB/m__us_usc_t50_s2603.md) | [Next](./../../../../../..//us/usc/t50/ch42/schIV/ptC/m__us_usc_t50_s2621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch42%2FschIV%2FptC)
 
 ----------
 ----------

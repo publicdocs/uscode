@@ -201,9 +201,17 @@ SUBCHAPTER III—MATTERS RELATING TO PERSONNEL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2442" data-uslm-ref="/us/usc/t50/s2442">2442</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2443" data-uslm-ref="/us/usc/t50/s2443">2443.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2442" data-uslm-ref="/us/usc/t50/s2442">2442.</a>  </td>
 
     <td> Repealed.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2443" data-uslm-ref="/us/usc/t50/s2443">2443.</a>  </td>
+
+    <td> Notification of employee practices affecting national security.  </td>
 
   </tr>
 
@@ -212,6 +220,22 @@ SUBCHAPTER III—MATTERS RELATING TO PERSONNEL  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2444" data-uslm-ref="/us/usc/t50/s2444">2444.</a>  </td>
 
     <td> Nonproliferation and national security scholarship and fellowship program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2445" data-uslm-ref="/us/usc/t50/s2445">2445.</a>  </td>
+
+    <td> Limitation on bonuses for employees who engage in improper program management.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2446" data-uslm-ref="/us/usc/t50/s2446">2446.</a>  </td>
+
+    <td> Treatment of contractors who engage in improper program management.  </td>
 
   </tr>
 

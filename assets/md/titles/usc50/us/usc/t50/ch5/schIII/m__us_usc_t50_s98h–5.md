@@ -53,7 +53,7 @@
 
         The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
 
-([June 7, 1939, ch. 190, § 14][/us/act/1939-06-07/ch190/s14], as added [Pub. L. 100–180, div. C, title II, § 3202(c)][/us/pl/100/180/s3202/c], Dec. 4, 1987, [101 Stat. 1246][/us/stat/101/1246]; amended [Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(1)][/us/pl/102/190/s3313/b/1], (2), Dec. 5, 1991, [105 Stat. 1585][/us/stat/105/1585]; [Pub. L. 103–160, div. C, title XXXIII, § 3314][/us/pl/103/160/s3314], Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962]; [Pub. L. 104–201, div. C, title XXXIII, § 3313(a)][/us/pl/104/201/s3313/a], Sept. 23, 1996, [110 Stat. 2856][/us/stat/110/2856].)
+([June 7, 1939, ch. 190, § 14][/us/act/1939-06-07/ch190/s14], as added [Pub. L. 100–180, div. C, title II, § 3202(c)][/us/pl/100/180/s3202/c], Dec. 4, 1987, [101 Stat. 1246][/us/stat/101/1246]; amended [Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(1)][/us/pl/102/190/s3313/b/1], (2), Dec. 5, 1991, [105 Stat. 1585][/us/stat/105/1585]; [Pub. L. 103–160, div. C, title XXXIII, § 3314][/us/pl/103/160/s3314], Nov. 30, 1993, [107 Stat. 1962][/us/stat/107/1962]; [Pub. L. 104–201, div. C, title XXXIII, § 3311(a)][/us/pl/104/201/s3311/a], Sept. 23, 1996, [110 Stat. 2856][/us/stat/110/2856].)
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 [/us/stat/105/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1585
 [/us/pl/103/160/s3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3314
 [/us/stat/107/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1962
-[/us/pl/104/201/s3313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3313%2Fa
+[/us/pl/104/201/s3311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3311%2Fa
 [/us/stat/110/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2856
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160

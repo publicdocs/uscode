@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptB/m__us_usc_t50_ch42_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538a)
+[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538a)
 
 ## § 2538a. Plutonium pit production capacity
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptB/m__us_usc_t50_ch42_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538a)
+[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538a)
 
 ----------
 ----------

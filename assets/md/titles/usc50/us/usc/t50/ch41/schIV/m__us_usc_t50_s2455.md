@@ -21,7 +21,7 @@
 
         (2)
 
-         Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
+         Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
 
             (A) the findings of such study; and
 
@@ -35,9 +35,11 @@
 
         (2) The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
 
-([Pub. L. 106–65, div. C, title XXXII, § 3255][/us/pl/106/65/s3255], as added [Pub. L. 111–84, div. C, title XXXI, § 3116(a)][/us/pl/111/84/s3116/a], Oct. 28, 2009, [123 Stat. 2707][/us/stat/123/2707]; amended [Pub. L. 111–383, div. C, title XXXI, § 3113(a)][/us/pl/111/383/s3113/a], Jan. 7, 2011, [124 Stat. 4509][/us/stat/124/4509]; [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(2)][/us/pl/112/239/s3132/a/2], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185].)
+([Pub. L. 106–65, div. C, title XXXII, § 3255][/us/pl/106/65/s3255], as added [Pub. L. 111–84, div. C, title XXXI, § 3116(a)][/us/pl/111/84/s3116/a], Oct. 28, 2009, [123 Stat. 2707][/us/stat/123/2707]; amended [Pub. L. 111–383, div. C, title XXXI, § 3113(a)][/us/pl/111/383/s3113/a], Jan. 7, 2011, [124 Stat. 4509][/us/stat/124/4509]; [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(2)][/us/pl/112/239/s3132/a/2], Jan. 2, 2013, [126 Stat. 2185][/us/stat/126/2185]; [Pub. L. 114–92, div. A, title X, § 1062(a)][/us/pl/114/92/s1062/a], Nov. 25, 2015, [129 Stat. 988][/us/stat/129/988].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92] inserted “in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year” before “, the Comptroller General” in introductory provisions.
 
     2013—Subsec. (a). [Pub. L. 112–239, § 3132(a)(2)(A)][/us/pl/112/239/s3132/a/2/A], substituted “nuclear security enterprise” for “nuclear security complex” wherever appearing.
 
@@ -61,6 +63,9 @@
 [/us/stat/124/4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4509
 [/us/pl/112/239/s3132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F2
 [/us/stat/126/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2185
+[/us/pl/114/92/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1062%2Fa
+[/us/stat/129/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F988
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s3132/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F2%2FA
 [/us/pl/112/239/s3132/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3132%2Fa%2F2%2FB
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

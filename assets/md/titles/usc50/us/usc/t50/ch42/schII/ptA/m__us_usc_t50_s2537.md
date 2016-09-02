@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2536.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2538.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2537)
 
-## § 2537. Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities
+## § 2537. Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities
 
     (a) __Selected Acquisition Reports__ 
 
-        (1) At the end of each fiscal-year quarter, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension. The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
+        (1) At the end of each fiscal-year quarter, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension or a major alteration project (as defined in [section 2753(a)(2) of this title][/us/usc/t50/s2753/a/2]). The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
 
         (2) The information contained in the Selected Acquisition Report for a fiscal-year quarter for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for such fiscal-year quarter for a major defense acquisition program under [section 2432 of title 10][/us/usc/t10/s2432], expressed in terms of the nuclear weapon system.
 
@@ -37,6 +37,8 @@
 
                 (iii) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
 
+                (iv) Each nuclear weapons system undergoing a major alteration project (as defined in [section 2753(a)(2) of this title][/us/usc/t50/s2753/a/2]).
+
             (B) An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2, relating to study of feasibility and down-select.
 
         (2) A cost estimate or review submitted under this subsection before October 1, 2015, may not be prepared by the Department of Energy or the Administration.
@@ -47,9 +49,15 @@
 
         Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
 
-([Pub. L. 107–314, div. D, title XLII, § 4217][/us/pl/107/314/s4217], as added [Pub. L. 112–239, div. C, title XXXI, § 3162(a)][/us/pl/112/239/s3162/a], Jan. 2, 2013, [126 Stat. 2204][/us/stat/126/2204]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3112(b), 3146(a)(2)(C), Dec. 26, 2013, [127 Stat. 1053][/us/stat/127/1053], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3114(a)][/us/pl/113/291/s3114/a], (b), Dec. 19, 2014, [128 Stat. 3887][/us/stat/128/3887], 3888.)
+([Pub. L. 107–314, div. D, title XLII, § 4217][/us/pl/107/314/s4217], as added [Pub. L. 112–239, div. C, title XXXI, § 3162(a)][/us/pl/112/239/s3162/a], Jan. 2, 2013, [126 Stat. 2204][/us/stat/126/2204]; amended [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3112(b), 3146(a)(2)(C), Dec. 26, 2013, [127 Stat. 1053][/us/stat/127/1053], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3114(a)][/us/pl/113/291/s3114/a], (b), Dec. 19, 2014, [128 Stat. 3887][/us/stat/128/3887], 3888; [Pub. L. 114–92, div. C, title XXXI, § 3113(b)(1)][/us/pl/114/92/s3113/b/1], (2)(A), Nov. 25, 2015, [129 Stat. 1192][/us/stat/129/1192].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 3113(b)(2)(A)][/us/pl/114/92/s3113/b/2/A], substituted “certain programs and facilities” for “life extension programs and new nuclear facilities” in section catchline.
+
+    Subsec. (a)(1). [Pub. L. 114–92, § 3113(b)(1)(A)][/us/pl/114/92/s3113/b/1/A], inserted “or a major alteration project (as defined in [section 2753(a)(2) of this title][/us/usc/t50/s2753/a/2])” after “life extension”.
+
+    Subsec. (b)(1)(A)(iv). [Pub. L. 114–92, § 3113(b)(1)(B)][/us/pl/114/92/s3113/b/1/B], added cl. (iv).
 
     2014—[Pub. L. 113–291, § 3114(b)(1)][/us/pl/113/291/s3114/b/1], substituted “estimates and reviews of” for “estimates on” in section catchline.
 
@@ -76,7 +84,9 @@
 ----------
 ----------
 
+[/us/usc/t50/s2753/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2753%2Fa%2F2
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
+[/us/usc/t50/s2753/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2753%2Fa%2F2
 [/us/pl/107/314/s4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4217
 [/us/pl/112/239/s3162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3162%2Fa
 [/us/stat/126/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2204
@@ -84,6 +94,12 @@
 [/us/stat/127/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1053
 [/us/pl/113/291/s3114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fa
 [/us/stat/128/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3887
+[/us/pl/114/92/s3113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3113%2Fb%2F1
+[/us/stat/129/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1192
+[/us/pl/114/92/s3113/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3113%2Fb%2F2%2FA
+[/us/pl/114/92/s3113/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3113%2Fb%2F1%2FA
+[/us/usc/t50/s2753/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2753%2Fa%2F2
+[/us/pl/114/92/s3113/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3113%2Fb%2F1%2FB
 [/us/pl/113/291/s3114/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fb%2F1
 [/us/pl/113/291/s3114/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fb%2F2%2FA
 [/us/pl/113/291/s3114/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3114%2Fa%2F3

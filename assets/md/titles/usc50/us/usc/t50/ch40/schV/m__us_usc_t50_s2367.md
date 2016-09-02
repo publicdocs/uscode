@@ -75,6 +75,32 @@
 
     2013—[Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section related to annual report on threat posed to United States by weapons of mass destruction, ballistic missiles, and cruise missiles.
 
+ __Development of Strategy on Risks to Nonproliferation Caused by Additive Manufacturing__ 
+
+[Pub. L. 114–92, div. C, title XXXI, § 3139][/us/pl/114/92/s3139], Nov. 25, 2015, [129 Stat. 1215][/us/stat/129/1215], provided that:
+
+>     “(a)  __Strategy__  __.—__ 
+
+>     The President shall develop and pursue a strategy to address the risks to the goals and policies of the United States regarding nuclear nonproliferation that are caused by the increased use of additive manufacture technology (commonly referred to as ‘3D printing’), including such technology that does not originate in the United States.
+
+>     “(b)  __Briefings__  __.—__ 
+
+>     Not later than March 31, 2016, and the end of each 120-day period thereafter through January 1, 2019, the President shall provide to the appropriate congressional committees a briefing on the strategy developed under subsection (a).
+
+>     “(c)  __Pursuit of Strategy__  __.—__ 
+
+>     The President shall pursue the strategy developed under subsection (a) at the Nuclear Security Summit in Chicago, Illinois, in 2016.
+
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means the following:
+
+>         “(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+>         “(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+>         “(3) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
+
  __Report on Iran’s Capability To Produce Nuclear Weapons__ 
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1234, Oct. 14, 2008, [122 Stat. 4640][/us/stat/122/4640], provided that:
@@ -122,6 +148,8 @@
 [/us/pl/112/239/s1065/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1065%2Fa
 [/us/stat/126/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1941
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/114/92/s3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3139
+[/us/stat/129/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1215
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4640
 

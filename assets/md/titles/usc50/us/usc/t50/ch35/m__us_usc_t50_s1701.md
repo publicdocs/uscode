@@ -4897,6 +4897,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13224 were contained in the following:
 
+    Notice of President of the United States, dated Sept. 18, 2015, 80 F.R. 57281.
+
     Notice of President of the United States, dated Sept. 17, 2014, 79 F.R. 56475.
 
     Notice of President of the United States, dated Sept. 18, 2013, 78 F.R. 58151.

@@ -137,7 +137,7 @@
 
  __Implementation Plan for Whole-of-Government Vision Prescribed in the National Security Strategy__ 
 
-[Pub. L. 112–81, div. A, title X, § 1072][/us/pl/112/81/s1072], Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592], provided that:
+[Pub. L. 112–81, div. A, title X, § 1072][/us/pl/112/81/s1072], Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592], as amended by [Pub. L. 114–92, div. A, title X, § 1076(d)][/us/pl/114/92/s1076/d], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998], provided that:
 
 >     “(a)  __Implementation Plan__  __.—__ 
 
@@ -153,15 +153,7 @@
 
 >         “(5) such other information as the President determines is necessary to understand progress in implementing each component of the whole-of-government vision prescribed in the National Security Strategy.
 
->     “(b)  __Annual Updates__  __.—__ 
-
->     Not later than December 1 of each subsequent year that the National Security Strategy of May 2010 remains the policy of the President, the President shall submit to the appropriate congressional committees an update of the implementation plan required under subsection (a). Each such update shall include an explanation of—
-
->         “(1) any progress made and challenges or obstacles encountered in implementing each component of the whole-of-government vision prescribed in the National Security Strategy since the submission of the implementation plan or most recent update; and
-
->         “(2) any modifications to the implementation plan.
-
->     “(c)  __Definitions__  __.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -206,6 +198,8 @@
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/pl/112/81/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1072
 [/us/stat/125/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1592
+[/us/pl/114/92/s1076/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1076%2Fd
+[/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/pl/102/172/s8132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8132
 [/us/stat/105/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1208

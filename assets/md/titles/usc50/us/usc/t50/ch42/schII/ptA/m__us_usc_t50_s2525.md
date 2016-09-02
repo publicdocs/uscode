@@ -87,9 +87,11 @@
 
          In the case of a report submitted by the Commander of the United States Strategic Command—
 
-            (A) a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types; and
+            (A) a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types;
 
-            (B) a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles.
+            (B) a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles; and
+
+            (C) the views of the Commander on the stockpile responsiveness program under [section 2538b of this title][/us/usc/t50/s2538b], the activities conducted under such program, and any suggestions to improve such program.
 
         (5) An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 
@@ -123,13 +125,15 @@
 
         (2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-([Pub. L. 107–314, div. D, title XLII, § 4205][/us/pl/107/314/s4205], formerly div. C, title XXXI, § 3141, Dec. 2, 2002, [116 Stat. 2730][/us/stat/116/2730]; renumbered div. D, title XLII, § 4205, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(6)][/us/pl/108/136/s3141/e/6], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3114(a)(2)][/us/pl/111/84/s3114/a/2]–(d), Oct. 28, 2009, [123 Stat. 2706][/us/stat/123/2706], 2707; [Pub. L. 112–239, div. C, title XXXI, § 3131(c)][/us/pl/112/239/s3131/c], Jan. 2, 2013, [126 Stat. 2180][/us/stat/126/2180]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3122, 3146(c)(3), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1074; [Pub. L. 113–291, div. C, title XXXI, § 3142(d)][/us/pl/113/291/s3142/d], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
+([Pub. L. 107–314, div. D, title XLII, § 4205][/us/pl/107/314/s4205], formerly div. C, title XXXI, § 3141, Dec. 2, 2002, [116 Stat. 2730][/us/stat/116/2730]; renumbered div. D, title XLII, § 4205, and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(6)][/us/pl/108/136/s3141/e/6], Nov. 24, 2003, [117 Stat. 1759][/us/stat/117/1759]; [Pub. L. 111–84, div. C, title XXXI, § 3114(a)(2)][/us/pl/111/84/s3114/a/2]–(d), Oct. 28, 2009, [123 Stat. 2706][/us/stat/123/2706], 2707; [Pub. L. 112–239, div. C, title XXXI, § 3131(c)][/us/pl/112/239/s3131/c], Jan. 2, 2013, [126 Stat. 2180][/us/stat/126/2180]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3122, 3146(c)(3), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1074; [Pub. L. 113–291, div. C, title XXXI, § 3142(d)][/us/pl/113/291/s3142/d], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900]; [Pub. L. 114–92, div. C, title XXXI, § 3112(d)][/us/pl/114/92/s3112/d], Nov. 25, 2015, [129 Stat. 1191][/us/stat/129/1191].)
 
  __Codification__ 
 
     Section was formerly classified to [section 7274s of Title 42][/us/usc/t42/s7274s], The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
  __Amendments__ 
+
+    2015—Subsec. (e)(4)(C). [Pub. L. 114–92][/us/pl/114/92] added subpar. (C).
 
     2014—Subsec. (b)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “Commander” for “commander”.
 
@@ -185,6 +189,7 @@
 ----------
 
 [/us/usc/t50/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2532
+[/us/usc/t50/s2538b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538b
 [/us/pl/107/314/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4205
 [/us/stat/116/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2730
 [/us/pl/108/136/s3141/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F6
@@ -197,8 +202,11 @@
 [/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
 [/us/pl/113/291/s3142/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fd
 [/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
+[/us/pl/114/92/s3112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fd
+[/us/stat/129/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1191
 [/us/usc/t42/s7274s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274s
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s3146/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F3%2FA
 [/us/pl/113/66/s3122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3122%2Fa%2F1

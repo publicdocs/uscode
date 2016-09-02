@@ -25,7 +25,7 @@
 
         (2) If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
 
-        (3) For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2017.
+        (3) For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023.
 
     (c) __Initiation of demilitarization operations__ 
 
@@ -313,7 +313,7 @@
 
             (B) the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
 
-([Pub. L. 99–145, title XIV, § 1412][/us/pl/99/145/s1412], Nov. 8, 1985, [99 Stat. 747][/us/stat/99/747]; [Pub. L. 100–456, div. A, title I, § 118][/us/pl/100/456/s118], Sept. 29, 1988, [102 Stat. 1934][/us/stat/102/1934]; [Pub. L. 101–510, div. A, title I][/us/pl/101/510], §§ 171, 172, Nov. 5, 1990, [104 Stat. 1507][/us/stat/104/1507]; [Pub. L. 102–190, div. A, title I, § 151][/us/pl/102/190/s151], Dec. 5, 1991, [105 Stat. 1313][/us/stat/105/1313]; [Pub. L. 102–484, div. A, title I][/us/pl/102/484], §§ 171, 179, Oct. 23, 1992, [106 Stat. 2341][/us/stat/106/2341], 2347; [Pub. L. 103–160, div. A, title I, § 107(c)][/us/pl/103/160/s107/c], Nov. 30, 1993, [107 Stat. 1564][/us/stat/107/1564]; [Pub. L. 103–337, div. A, title I, § 142][/us/pl/103/337/s142], Oct. 5, 1994, [108 Stat. 2689][/us/stat/108/2689]; [Pub. L. 104–106, div. A, title I, § 153(b)][/us/pl/104/106/s153/b], (c), title XV, § 1502(c)(6), Feb. 10, 1996, [110 Stat. 216][/us/stat/110/216], 508; [Pub. L. 104–201, div. A, title X, § 1074(d)(2)][/us/pl/104/201/s1074/d/2], Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661]; [Pub. L. 105–85, div. A, title X, § 1041(d)][/us/pl/105/85/s1041/d], Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885]; [Pub. L. 105–261, div. A, title I, § 141][/us/pl/105/261/s141], Oct. 17, 1998, [112 Stat. 1942][/us/stat/112/1942]; [Pub. L. 106–65, div. A, title I, § 141(b)][/us/pl/106/65/s141/b], title X, § 1067(11), Oct. 5, 1999, [113 Stat. 537][/us/stat/113/537], 775; [Pub. L. 107–107, div. A, title X, § 1048(i)(4)][/us/pl/107/107/s1048/i/4], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 108–375, div. A, title IX, § 931][/us/pl/108/375/s931], Oct. 28, 2004, [118 Stat. 2031][/us/stat/118/2031]; [Pub. L. 109–163, div. A, title IX, § 921(a)][/us/pl/109/163/s921/a], Jan. 6, 2006, [119 Stat. 3410][/us/stat/119/3410]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181], §§ 923, 924, Jan. 28, 2008, [122 Stat. 284][/us/stat/122/284]; [Pub. L. 111–383, div. A, title XIV, § 1421(a)][/us/pl/111/383/s1421/a], Jan. 7, 2011, [124 Stat. 4412][/us/stat/124/4412]; [Pub. L. 112–239, div. A, title XIV, § 1421(a)][/us/pl/112/239/s1421/a], Jan. 2, 2013, [126 Stat. 2049][/us/stat/126/2049].)
+([Pub. L. 99–145, title XIV, § 1412][/us/pl/99/145/s1412], Nov. 8, 1985, [99 Stat. 747][/us/stat/99/747]; [Pub. L. 100–456, div. A, title I, § 118][/us/pl/100/456/s118], Sept. 29, 1988, [102 Stat. 1934][/us/stat/102/1934]; [Pub. L. 101–510, div. A, title I][/us/pl/101/510], §§ 171, 172, Nov. 5, 1990, [104 Stat. 1507][/us/stat/104/1507]; [Pub. L. 102–190, div. A, title I, § 151][/us/pl/102/190/s151], Dec. 5, 1991, [105 Stat. 1313][/us/stat/105/1313]; [Pub. L. 102–484, div. A, title I][/us/pl/102/484], §§ 171, 179, Oct. 23, 1992, [106 Stat. 2341][/us/stat/106/2341], 2347; [Pub. L. 103–160, div. A, title I, § 107(c)][/us/pl/103/160/s107/c], Nov. 30, 1993, [107 Stat. 1564][/us/stat/107/1564]; [Pub. L. 103–337, div. A, title I, § 142][/us/pl/103/337/s142], Oct. 5, 1994, [108 Stat. 2689][/us/stat/108/2689]; [Pub. L. 104–106, div. A, title I, § 153(b)][/us/pl/104/106/s153/b], (c), title XV, § 1502(c)(6), Feb. 10, 1996, [110 Stat. 216][/us/stat/110/216], 508; [Pub. L. 104–201, div. A, title X, § 1074(d)(2)][/us/pl/104/201/s1074/d/2], Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661]; [Pub. L. 105–85, div. A, title X, § 1041(d)][/us/pl/105/85/s1041/d], Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885]; [Pub. L. 105–261, div. A, title I, § 141][/us/pl/105/261/s141], Oct. 17, 1998, [112 Stat. 1942][/us/stat/112/1942]; [Pub. L. 106–65, div. A, title I, § 141(b)][/us/pl/106/65/s141/b], title X, § 1067(11), Oct. 5, 1999, [113 Stat. 537][/us/stat/113/537], 775; [Pub. L. 107–107, div. A, title X, § 1048(i)(4)][/us/pl/107/107/s1048/i/4], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 108–375, div. A, title IX, § 931][/us/pl/108/375/s931], Oct. 28, 2004, [118 Stat. 2031][/us/stat/118/2031]; [Pub. L. 109–163, div. A, title IX, § 921(a)][/us/pl/109/163/s921/a], Jan. 6, 2006, [119 Stat. 3410][/us/stat/119/3410]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181], §§ 923, 924, Jan. 28, 2008, [122 Stat. 284][/us/stat/122/284]; [Pub. L. 111–383, div. A, title XIV, § 1421(a)][/us/pl/111/383/s1421/a], Jan. 7, 2011, [124 Stat. 4412][/us/stat/124/4412]; [Pub. L. 112–239, div. A, title XIV, § 1421(a)][/us/pl/112/239/s1421/a], Jan. 2, 2013, [126 Stat. 2049][/us/stat/126/2049]; [Pub. L. 114–92, div. A, title XIV, § 1411][/us/pl/114/92/s1411], Nov. 25, 2015, [129 Stat. 1083][/us/stat/129/1083].)
 
  __References in Text__ 
 
@@ -328,6 +328,8 @@
     Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of [Pub. L. 91–121, title IV, § 409][/us/pl/91/121/s409], Nov. 19, 1969, [83 Stat. 209][/us/stat/83/209], which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3). [Pub. L. 114–92][/us/pl/114/92] substituted “December 31, 2023” for “December 31, 2017”.
 
     2013—Subsec. (i)(2)(E). [Pub. L. 112–239, § 1421(a)(1)][/us/pl/112/239/s1421/a/1], added subpar. (E).
 
@@ -580,6 +582,8 @@
 [/us/stat/124/4412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4412
 [/us/pl/112/239/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa
 [/us/stat/126/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2049
+[/us/pl/114/92/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1411
+[/us/stat/129/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1083
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
 [/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
@@ -592,6 +596,7 @@
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/91/121/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs409
 [/us/stat/83/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F209
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s1421/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa%2F1
 [/us/pl/112/239/s1421/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa%2F2
 [/us/pl/112/239/s1421/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1421%2Fa%2F3

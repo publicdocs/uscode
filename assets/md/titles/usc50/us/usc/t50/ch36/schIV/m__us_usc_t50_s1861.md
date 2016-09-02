@@ -45,17 +45,27 @@
 
          shall include—
 
-            (A)
+            (A) a specific selection term to be used as the basis for the production of the tangible things sought;
 
-             a statement of facts showing that there are reasonable grounds to believe that the tangible things sought are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, such things being presumptively relevant to an authorized investigation if the applicant shows in the statement of the facts that they pertain to—
+            (B)
+
+             in the case of an application other than an application described in subparagraph (C) (including an application for the production of call detail records other than in the manner described in subparagraph (C)), a statement of facts showing that there are reasonable grounds to believe that the tangible things sought are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, such things being presumptively relevant to an authorized investigation if the applicant shows in the statement of the facts that they pertain to—
 
                 (i) a foreign power or an agent of a foreign power;
 
                 (ii) the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or
 
-                (iii) an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation; and
+                (iii) an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation;
 
-            (B) an enumeration of the minimization procedures adopted by the Attorney General under subsection (g) that are applicable to the retention and dissemination by the Federal Bureau of Investigation of any tangible things to be made available to the Federal Bureau of Investigation based on the order requested in such application.
+            (C)
+
+             in the case of an application for the production on an ongoing basis of call detail records created before, on, or after the date of the application relating to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to protect against international terrorism, a statement of facts showing that—
+
+                (i) there are reasonable grounds to believe that the call detail records sought to be produced based on the specific selection term required under subparagraph (A) are relevant to such investigation; and
+
+                (ii) there is a reasonable, articulable suspicion that such specific selection term is associated with a foreign power engaged in international terrorism or activities in preparation therefor, or an agent of a foreign power engaged in international terrorism or activities in preparation therefor; and
+
+            (D) an enumeration of the minimization procedures adopted by the Attorney General under subsection (g) that are applicable to the retention and dissemination by the Federal Bureau of Investigation of any tangible things to be made available to the Federal Bureau of Investigation based on the order requested in such application.
 
     (c) __Ex parte judicial order of approval__ 
 
@@ -65,33 +75,59 @@
 
          An order under this subsection—
 
-            (A) shall describe the tangible things that are ordered to be produced with sufficient particularity to permit them to be fairly identified;
+            (A) shall describe the tangible things that are ordered to be produced with sufficient particularity to permit them to be fairly identified, including each specific selection term to be used as the basis for the production;
 
             (B) shall include the date on which the tangible things must be provided, which shall allow a reasonable period of time within which the tangible things can be assembled and made available;
 
             (C) shall provide clear and conspicuous notice of the principles and procedures described in subsection (d);
 
-            (D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things; and
+            (D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things;
 
-            (E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a).
+            (E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a); and
+
+            (F)
+
+             in the case of an application described in subsection (b)(2)(C), shall—
+
+                (i) authorize the production on a daily basis of call detail records for a period not to exceed 180 days;
+
+                (ii) provide that an order for such production may be extended upon application under subsection (b) and the judicial finding under paragraph (1) of this subsection;
+
+                (iii) provide that the Government may require the prompt production of a first set of call detail records using the specific selection term that satisfies the standard required under subsection (b)(2)(C)(ii);
+
+                (iv) provide that the Government may require the prompt production of a second set of call detail records using session-identifying information or a telephone calling card number identified by the specific selection term used to produce call detail records under clause (iii);
+
+                (v) provide that, when produced, such records be in a form that will be useful to the Government;
+
+                (vi) direct each person the Government directs to produce call detail records under the order to furnish the Government forthwith all information, facilities, or technical assistance necessary to accomplish the production in such a manner as will protect the secrecy of the production and produce a minimum of interference with the services that such person is providing to each subject of the production; and
+
+                (vii)
+
+                 direct the Government to—
+
+                    (I) adopt minimization procedures that require the prompt destruction of all call detail records produced under the order that the Government determines are not foreign intelligence information; and
+
+                    (II) destroy all call detail records produced under the order as prescribed by such procedures.
+
+        (3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).
 
     (d) __Nondisclosure__ 
 
         (1)
 
-         No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section, other than to—
+         No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order issued or an emergency production required under this section, other than to—
 
-            (A) those persons to whom disclosure is necessary to comply with such order;
+            (A) those persons to whom disclosure is necessary to comply with such order or such emergency production;
 
-            (B) an attorney to obtain legal advice or assistance with respect to the production of things in response to the order; or
+            (B) an attorney to obtain legal advice or assistance with respect to the production of things in response to the order or the emergency production; or
 
             (C) other persons as permitted by the Director of the Federal Bureau of Investigation or the designee of the Director.
 
         (2)
 
-            (A) A person to whom disclosure is made pursuant to paragraph (1) shall be subject to the nondisclosure requirements applicable to a person to whom an order is directed under this section in the same manner as such person.
+            (A) A person to whom disclosure is made pursuant to paragraph (1) shall be subject to the nondisclosure requirements applicable to a person to whom an order or emergency production is directed under this section in the same manner as such person.
 
-            (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section shall notify such person of the nondisclosure requirements of this subsection.
+            (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order or emergency production under this section shall notify such person of the nondisclosure requirements of this subsection.
 
             (C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C) of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
 
@@ -165,7 +201,31 @@
 
         Information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures adopted pursuant to subsection (g). No otherwise privileged information acquired from tangible things received by the Federal Bureau of Investigation in accordance with the provisions of this subchapter shall lose its privileged character. No information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
-    (j)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Subsec. (i) was enacted by __  __[__  __section 102(a) of Pub. L. 114–23__  __][/us/pl/114/23/s102/a]__  __, effective 180 days after __  __June 2, 2015__  __. See Amendment of Section note and Effective Date of 2015 Amendment note below.__  __ </sup></sup> __  __Compensation__ 
+    (i) __Emergency authority for production of tangible things__ 
+
+        (1)
+
+         Notwithstanding any other provision of this section, the Attorney General may require the emergency production of tangible things if the Attorney General—
+
+            (A) reasonably determines that an emergency situation requires the production of tangible things before an order authorizing such production can with due diligence be obtained;
+
+            (B) reasonably determines that the factual basis for the issuance of an order under this section to approve such production of tangible things exists;
+
+            (C) informs, either personally or through a designee, a judge having jurisdiction under this section at the time the Attorney General requires the emergency production of tangible things that the decision has been made to employ the authority under this subsection; and
+
+            (D) makes an application in accordance with this section to a judge having jurisdiction under this section as soon as practicable, but not later than 7 days after the Attorney General requires the emergency production of tangible things under this subsection.
+
+        (2) If the Attorney General requires the emergency production of tangible things under paragraph (1), the Attorney General shall require that the minimization procedures required by this section for the issuance of a judicial order be followed.
+
+        (3) In the absence of a judicial order approving the production of tangible things under this subsection, the production shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time the Attorney General begins requiring the emergency production of such tangible things, whichever is earliest.
+
+        (4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title][/us/usc/t50/s1803].
+
+        (5) If such application for approval is denied, or in any other case where the production of tangible things is terminated and no order is issued approving the production, no information obtained or evidence derived from such production shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof, and no information concerning any United States person acquired from such production shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+
+        (6) The Attorney General shall assess compliance with the requirements of paragraph (5).
+
+    (j) __Compensation__ 
 
     The Government shall compensate a person for reasonable expenses incurred for—
 
@@ -233,108 +293,6 @@
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–23, title I][/us/pl/114/23], §§ 101–103, 109(a), June 2, 2015, [129 Stat. 269–272][/us/stat/129/269-272], 276, provided that, effective 180 days after June 2, 2015, this section is amended as follows:
-
-    (1) Subsection (b)(2) is amended—
-
-    (A) in subparagraph (A)—
-
-    (i) in the matter preceding clause (i), by striking “a statement” and inserting “in the case of an application other than an application described in subparagraph (C) (including an application for the production of call detail records other than in the manner described in subparagraph (C)), a statement”; and
-
-    (ii) in clause (iii), by striking “; and” and inserting a semicolon;
-
-    (B) by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (D), respectively;
-
-    (C) by inserting before subparagraph (B), as redesignated, the following new subparagraph:
-
-    “(A) a specific selection term to be used as the basis for the production of the tangible things sought;”; and
-
-    (D) by inserting after subparagraph (B), as redesignated, the following new subparagraph:
-
-    “(C) in the case of an application for the production on an ongoing basis of call detail records created before, on, or after the date of the application relating to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to protect against international terrorism, a statement of facts showing that—
-
-    “(i) there are reasonable grounds to believe that the call detail records sought to be produced based on the specific selection term required under subparagraph (A) are relevant to such investigation; and
-
-    “(ii) there is a reasonable, articulable suspicion that such specific selection term is associated with a foreign power engaged in international terrorism or activities in preparation therefor, or an agent of a foreign power engaged in international terrorism or activities in preparation therefor; and”.
-
-    (2) Subsection (c) is amended—
-
-    (A) in paragraph (2)—
-
-    (i) in subparagraph (A), by striking the semicolon and inserting “, including each specific selection term to be used as the basis for the production;”;
-
-    (ii) in subparagraph (D), by striking “; and” and inserting a semicolon;
-
-    (iii) in subparagraph (E), by striking the period and inserting “; and”; and
-
-    (iv) by adding at the end the following new subparagraph:
-
-    “(F) in the case of an application described in subsection (b)(2)(C), shall—
-
-    “(i) authorize the production on a daily basis of call detail records for a period not to exceed 180 days;
-
-    “(ii) provide that an order for such production may be extended upon application under subsection (b) and the judicial finding under paragraph (1) of this subsection;
-
-    “(iii) provide that the Government may require the prompt production of a first set of call detail records using the specific selection term that satisfies the standard required under subsection (b)(2)(C)(ii);
-
-    “(iv) provide that the Government may require the prompt production of a second set of call detail records using session-identifying information or a telephone calling card number identified by the specific selection term used to produce call detail records under clause (iii);
-
-    “(v) provide that, when produced, such records be in a form that will be useful to the Government;
-
-    “(vi) direct each person the Government directs to produce call detail records under the order to furnish the Government forthwith all information, facilities, or technical assistance necessary to accomplish the production in such a manner as will protect the secrecy of the production and produce a minimum of interference with the services that such person is providing to each subject of the production; and
-
-    “(vii) direct the Government to—
-
-    “(I) adopt minimization procedures that require the prompt destruction of all call detail records produced under the order that the Government determines are not foreign intelligence information; and
-
-    “(II) destroy all call detail records produced under the order as prescribed by such procedures.”; and
-
-    (B) by adding at the end the following new paragraph:
-
-    “(3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).”
-
-    (3) Subsection (d) is amended—
-
-    (A) in paragraph (1)—
-
-    (i) in the matter preceding subparagraph (A), by striking “pursuant to an order” and inserting “pursuant to an order issued or an emergency production required”;
-
-    (ii) in subparagraph (A), by striking “such order” and inserting “such order or such emergency production”; and
-
-    (iii) in subparagraph (B), by striking “the order” and inserting “the order or the emergency production”; and
-
-    (B) in paragraph (2)—
-
-    (i) in subparagraph (A), by striking “an order” and inserting “an order or emergency production”; and
-
-    (ii) in subparagraph (B), by striking “an order” and inserting “an order or emergency production”.
-
-    (4) The following new subsection is added at the end:
-
-    “(i) Emergency authority for production of tangible things
-
-    “(1) Notwithstanding any other provision of this section, the Attorney General may require the emergency production of tangible things if the Attorney General—
-
-    “(A) reasonably determines that an emergency situation requires the production of tangible things before an order authorizing such production can with due diligence be obtained;
-
-    “(B) reasonably determines that the factual basis for the issuance of an order under this section to approve such production of tangible things exists;
-
-    “(C) informs, either personally or through a designee, a judge having jurisdiction under this section at the time the Attorney General requires the emergency production of tangible things that the decision has been made to employ the authority under this subsection; and
-
-    “(D) makes an application in accordance with this section to a judge having jurisdiction under this section as soon as practicable, but not later than 7 days after the Attorney General requires the emergency production of tangible things under this subsection.
-
-    “(2) If the Attorney General requires the emergency production of tangible things under paragraph (1), the Attorney General shall require that the minimization procedures required by this section for the issuance of a judicial order be followed.
-
-    “(3) In the absence of a judicial order approving the production of tangible things under this subsection, the production shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time the Attorney General begins requiring the emergency production of such tangible things, whichever is earliest.
-
-    “(4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title][/us/usc/t50/s1803].
-
-    “(5) If such application for approval is denied, or in any other case where the production of tangible things is terminated and no order is issued approving the production, no information obtained or evidence derived from such production shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof, and no information concerning any United States person acquired from such production shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
-
-    “(6) The Attorney General shall assess compliance with the requirements of paragraph (5).”
-
-    See 2015 Amendment notes below.
-
     [Pub. L. 109–177, title I, § 102(b)][/us/pl/109/177/s102/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII, § 705(a)][/us/pl/114/23/s705/a], (c), June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that, effective Dec. 15, 2019, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
 
     § 1861. Definitions
@@ -359,7 +317,7 @@
 
     Executive Order No. 12333, referred to in subsec. (a)(2)(A), is set out as a note under [section 3001 of this title][/us/usc/t50/s3001].
 
-    The USA FREEDOM Act of 2015, referred to in subsecs. (e)(1)(B) and (j)(2), also known as the Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015, is [Pub. L. 114–23][/us/pl/114/23], June 2, 2015, [129 Stat. 268][/us/stat/129/268]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
+    The USA FREEDOM Act of 2015, referred to in subsecs. (e)(1)(B) and (j)(2), also known as the Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015, is [Pub. L. 114–23][/us/pl/114/23], June 2, 2015, [129 Stat. 268][/us/stat/129/268]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
 
  __Codification__ 
 
@@ -433,13 +391,13 @@
 
     Subsec. (a)(3). [Pub. L. 109–177, § 106(a)(2)][/us/pl/109/177/s106/a/2], added par. (3).
 
-    Subsec. (b)(2). [Pub. L. 109–177, § 106(b)][/us/pl/109/177/s106/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall specify that the records concerned are sought for an authorized investigation conducted in accordance with subsection (a)(2) of this section to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities.”
+    Subsec. (b)(2). [Pub. L. 109–177, § 106(b)][/us/pl/109/177/s106/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall specify that the records concerned are sought for an authorized investigation conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities.”
 
     Subsec. (c). [Pub. L. 109–177, § 106(c)][/us/pl/109/177/s106/c], (d), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) Upon an application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application meets the requirements of this section.
 
-    “(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a) of this section.”
+    “(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).”
 
     Subsec. (d). [Pub. L. 109–177, § 106(e)][/us/pl/109/177/s106/e], amended subsec. (d) generally. Prior to amendment, text read as follows: “No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section.”
 
@@ -487,7 +445,7 @@
 [/us/usc/t50/s1803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fb
 [/us/usc/t50/s1801/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fe%2F1
 [/us/usc/t50/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fa
-[/us/pl/114/23/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs102%2Fa
+[/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t18/s2510/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510%2F8
 [/us/usc/t50/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881
@@ -511,9 +469,6 @@
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/stat/129/269-273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F269-273
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/stat/129/269-272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F269-272
-[/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
 [/us/pl/109/177/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fb
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
 [/us/pl/111/118/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1004%2Fa

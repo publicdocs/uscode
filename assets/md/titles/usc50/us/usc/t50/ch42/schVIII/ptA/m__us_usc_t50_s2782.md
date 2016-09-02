@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2781.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2783.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2782)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2781.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2782a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2782)
 
 ## § 2782. Prohibition and report on bonuses to contractors operating defense nuclear facilities
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2781.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2783.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2782)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2781.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptA/m__us_usc_t50_s2782a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2782)
 
 ----------
 ----------

@@ -45,10 +45,6 @@
 
 ([Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], title III, § 303, as added [Pub. L. 108–189, § 1][/us/pl/108/189/s1], Dec. 19, 2003, [117 Stat. 2847][/us/stat/117/2847]; amended [Pub. L. 110–289, div. B, title II, § 2203(a)][/us/pl/110/289/s2203/a], July 30, 2008, [122 Stat. 2849][/us/stat/122/2849]; [Pub. L. 111–275, title III, § 303(b)(4)][/us/pl/111/275/s303/b/4], Oct. 13, 2010, [124 Stat. 2878][/us/stat/124/2878]; [Pub. L. 112–154, title VII, § 710(a)][/us/pl/112/154/s710/a], (b), (d)(3), Aug. 6, 2012, [126 Stat. 1208][/us/stat/126/1208].)
 
- __Amendment of Subsections (b) and (c)__ 
-
-    For termination of amendment and revival of prior provisions by section 710(d)(1), (3) of [Pub. L. 112–154][/us/pl/112/154], see Effective and Termination Dates of 2012 Amendment; Revival notes below.
-
  __Codification__ 
 
     Section was formerly classified to section 533 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -106,7 +102,6 @@
 [/us/stat/124/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2878
 [/us/pl/112/154/s710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs710%2Fa
 [/us/stat/126/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1208
-[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/act/1942-10-06/ch581/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-06%2Fch581%2Fs12
 [/us/stat/56/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F772

@@ -115,7 +115,7 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2523" data-uslm-ref="/us/usc/t50/s2523">2523.</a>  </td>
 
-    <td> Nuclear weapons stockpile stewardship, management, and infrastructure plan.  </td>
+    <td> Nuclear weapons stockpile stewardship, management, and responsiveness plan.  </td>
 
   </tr>
 
@@ -259,7 +259,7 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2537" data-uslm-ref="/us/usc/t50/s2537">2537.</a>  </td>
 
-    <td> Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities.  </td>
+    <td> Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities.  </td>
 
   </tr>
 
@@ -276,6 +276,22 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2538a" data-uslm-ref="/us/usc/t50/s2538a">2538a.</a>  </td>
 
     <td> Plutonium pit production capacity.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2538b" data-uslm-ref="/us/usc/t50/s2538b">2538b.</a>  </td>
+
+    <td> Stockpile responsiveness program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2538c" data-uslm-ref="/us/usc/t50/s2538c">2538c.</a>  </td>
+
+    <td> Long-term plan for meeting national security requirements for unencumbered uranium.  </td>
 
   </tr>
 
@@ -441,6 +457,14 @@ SUBCHAPTER III—PROLIFERATION MATTERS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2575" data-uslm-ref="/us/usc/t50/s2575">2575.</a>  </td>
+
+    <td> Defense nuclear nonproliferation management plan.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER IV—DEFENSE ENVIRONMENTAL CLEANUP MATTERS  </td>
@@ -561,6 +585,14 @@ Part B—Closure of Facilities  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2603" data-uslm-ref="/us/usc/t50/s2603">2603.</a>  </td>
+
+    <td> Plan for deactivation and decommissioning of nonoperational defense nuclear facilities.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part C—Hanford Reservation, Washington  </td>
@@ -604,6 +636,14 @@ Part C—Hanford Reservation, Washington  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2625" data-uslm-ref="/us/usc/t50/s2625">2625.</a>  </td>
 
     <td> Plan for tank farm waste at Hanford Nuclear Reservation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2626" data-uslm-ref="/us/usc/t50/s2626">2626.</a>  </td>
+
+    <td> Hanford Waste Treatment and Immobilization Plant contract oversight.  </td>
 
   </tr>
 
@@ -1164,6 +1204,14 @@ Part A—Contracts  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2782" data-uslm-ref="/us/usc/t50/s2782">2782.</a>  </td>
 
     <td> Prohibition and report on bonuses to contractors operating defense nuclear facilities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2782a" data-uslm-ref="/us/usc/t50/s2782a">2782a.</a>  </td>
+
+    <td> Assessments of emergency preparedness of defense nuclear facilities.  </td>
 
   </tr>
 

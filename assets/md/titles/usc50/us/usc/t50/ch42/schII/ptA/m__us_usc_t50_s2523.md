@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2522.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2523a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2523)
 
-## § 2523. Nuclear weapons stockpile stewardship, management, and infrastructure plan
+## § 2523. Nuclear weapons stockpile stewardship, management, and responsiveness plan
 
     (a) __Plan requirement__ 
 
-        The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
+        The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile responsiveness, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
 
     (b) __Submissions to Congress__ 
 
@@ -39,9 +39,11 @@
 
         (4) A summary of the status of the nuclear security enterprise, including programs and plans for infrastructure modernization and retention of human capital, as well as associated budgets and schedules.
 
-        (5) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+        (5) A summary of the status, plans, and budgets for carrying out the stockpile responsiveness program under [section 2538b of this title][/us/usc/t50/s2538b].
 
-        (6) Such other information as the Administrator considers appropriate.
+        (6) Identification of any modifications or updates to the plan since the previous summary or detailed report was submitted under subsection (b).
+
+        (7) Such other information as the Administrator considers appropriate.
 
     (d) __Elements of biennial detailed report__ 
 
@@ -49,7 +51,7 @@
 
         (1)
 
-         With respect to stockpile stewardship and management—
+         With respect to stockpile stewardship, stockpile management, and stockpile responsiveness—
 
             (A) the status of the nuclear weapons stockpile, including the number and age of warheads (including both active and inactive) for each warhead type;
 
@@ -77,9 +79,13 @@
 
             (J) mechanisms to ensure that each national security laboratory has full and complete access to all weapons data to enable a rigorous peer-review process to support the annual assessment of the condition of the nuclear weapons stockpile required under [section 2525 of this title][/us/usc/t50/s2525];
 
-            (K) mechanisms for allocating funds for activities under the stockpile management program required by [section 2524 of this title][/us/usc/t50/s2524], including allocations of funds by weapon type and facility; and
+            (K) mechanisms for allocating funds for activities under the stockpile management program required by [section 2524 of this title][/us/usc/t50/s2524], including allocations of funds by weapon type and facility;
 
-            (L) for each of the five fiscal years following the fiscal year in which the report is submitted, an identification of the funds needed to carry out the program required under [section 2524 of this title][/us/usc/t50/s2524].
+            (L) for each of the five fiscal years following the fiscal year in which the report is submitted, an identification of the funds needed to carry out the program required under [section 2524 of this title][/us/usc/t50/s2524];
+
+            (M) the status, plans, activities, budgets, and schedules for carrying out the stockpile responsiveness program under [section 2538b of this title][/us/usc/t50/s2538b]; and
+
+            (N) for each of the five fiscal years following the fiscal year in which the report is submitted, an identification of the funds needed to carry out the program required under [section 2538b of this title][/us/usc/t50/s2538b].
 
         (2)
 
@@ -179,9 +185,11 @@
 
              An analysis of the plan, including—
 
-                (i) whether the plan supports the requirements of the national security strategy of the United States or the most recent quadrennial defense review, as applicable under subsection (d)(4)(A), and the Nuclear Posture Review; and
+                (i) whether the plan supports the requirements of the national security strategy of the United States or the most recent quadrennial defense review, as applicable under subsection (d)(4)(A), and the Nuclear Posture Review;
 
-                (ii) whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) and the schedule described under subparagraph (B) of such subsection are adequate to support such requirements.
+                (ii) whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) and the schedule described under subparagraph (B) of such subsection are adequate to support such requirements; and
+
+                (iii) whether the plan supports the stockpile responsiveness program under [section 2538b of this title][/us/usc/t50/s2538b] in a manner that meets the objectives of such program and an identification of any improvements that may be made to the plan to better carry out such program.
 
             (B) An analysis of whether the plan adequately addresses the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
 
@@ -223,7 +231,7 @@
 
             (E) nuclear incident response.
 
-([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3142(c)][/us/pl/113/291/s3142/c], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900].)
+([Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], formerly [Pub. L. 105–85, div. C, title XXXI, § 3151][/us/pl/105/85/s3151], Nov. 18, 1997, [111 Stat. 2041][/us/stat/111/2041]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4203][/us/pl/107/314/s4203], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(4)][/us/pl/108/136/s3141/e/4], Nov. 24, 2003, [117 Stat. 1758][/us/stat/117/1758]; amended [Pub. L. 108–375, div. C, title XXXI, § 3115][/us/pl/108/375/s3115], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162]; [Pub. L. 112–239, div. C, title XXXI, § 3133(a)(1)][/us/pl/112/239/s3133/a/1], Jan. 2, 2013, [126 Stat. 2187][/us/stat/126/2187]; [Pub. L. 113–66, div. C, title XXXI][/us/pl/113/66], §§ 3123, 3146(a)(2)(A), Dec. 26, 2013, [127 Stat. 1061][/us/stat/127/1061], 1072; [Pub. L. 113–291, div. C, title XXXI, § 3142(c)][/us/pl/113/291/s3142/c], Dec. 19, 2014, [128 Stat. 3900][/us/stat/128/3900]; [Pub. L. 114–92, div. C, title XXXI, § 3112(c)(1)][/us/pl/114/92/s3112/c/1], Nov. 25, 2015, [129 Stat. 1190][/us/stat/129/1190].)
 
  __Codification__ 
 
@@ -236,6 +244,18 @@
     [Pub. L. 104–106, div. C, title XXXI, § 3153][/us/pl/104/106/s3153], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624]; repealed [Pub. L. 105–85, div. C, title XXXI, § 3152(c)][/us/pl/105/85/s3152/c], Nov. 18, 1997, [111 Stat. 2042][/us/stat/111/2042].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 3112(c)(1)(A)][/us/pl/114/92/s3112/c/1/A], substituted “responsiveness” for “infrastructure” in section catchline.
+
+    Subsec. (a). [Pub. L. 114–92, § 3112(c)(1)(B)][/us/pl/114/92/s3112/c/1/B], inserted “stockpile responsiveness,” after “stockpile management,”.
+
+    Subsec. (c)(5) to (7). [Pub. L. 114–92, § 3112(c)(1)(C)][/us/pl/114/92/s3112/c/1/C], added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+    Subsec. (d)(1). [Pub. L. 114–92, § 3112(c)(1)(D)(i)][/us/pl/114/92/s3112/c/1/D/i], substituted “stewardship, stockpile management, and stockpile responsiveness” for “stewardship and management” in introductory provisions.
+
+    Subsec. (d)(1)(M), (N). [Pub. L. 114–92, § 3112(c)(1)(D)(ii)][/us/pl/114/92/s3112/c/1/D/ii]–(iv), added subpars. (M) and (N).
+
+    Subsec. (e)(1)(A)(iii). [Pub. L. 114–92, § 3112(c)(1)(E)][/us/pl/114/92/s3112/c/1/E], added cl. (iii).
 
     2014—Subsec. (d)(4)(A)(i). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 3043 of this title][/us/usc/t50/s3043]” for “[section 404a of this title][/us/usc/t50/s404a]”.
 
@@ -332,15 +352,19 @@
 ----------
 ----------
 
+[/us/usc/t50/s2538b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538b
 [/us/usc/t50/s2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524
 [/us/usc/t50/s2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2525
 [/us/usc/t50/s2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524
 [/us/usc/t50/s2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524
+[/us/usc/t50/s2538b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538b
+[/us/usc/t50/s2538b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538b
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t50/s2522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2522%2Fa
 [/us/usc/t50/s2521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2521%2Fa
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
+[/us/usc/t50/s2538b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2538b
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t50/s2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2453
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
@@ -358,12 +382,20 @@
 [/us/stat/127/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1061
 [/us/pl/113/291/s3142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fc
 [/us/stat/128/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3900
+[/us/pl/114/92/s3112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1
+[/us/stat/129/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1190
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3153
 [/us/stat/110/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F624
 [/us/pl/105/85/s3152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3152%2Fc
 [/us/stat/111/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2042
+[/us/pl/114/92/s3112/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FA
+[/us/pl/114/92/s3112/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FB
+[/us/pl/114/92/s3112/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FC
+[/us/pl/114/92/s3112/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FD%2Fi
+[/us/pl/114/92/s3112/c/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FD%2Fii
+[/us/pl/114/92/s3112/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3112%2Fc%2F1%2FE
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
