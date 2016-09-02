@@ -19,6 +19,10 @@
 
 ([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3682][/us/stat/124/3682].)
 
+ __Adjustment of Simplified Acquisition Threshold__ 
+
+    For adjustment of dollar threshold pursuant to [section 1908 of this title][/us/usc/t41/s1908], see definition of simplified acquisition threshold in Federal Acquisition Regulation 2.101.
+
 <table>
 
   <tr>
@@ -74,5 +78,6 @@ Pub. L. 93–400, § 4(11), as added Pub. L. 101–510, title VIII, § 806(a
 
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3682
+[/us/usc/t41/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1908
 
 
