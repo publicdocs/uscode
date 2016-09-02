@@ -143,7 +143,7 @@
 
  __Iraq Refugee Crisis__ 
 
-[Pub. L. 110–181, div. A, title XII][/us/pl/110/181], subtitle C, Jan. 28, 2008, [122 Stat. 395][/us/stat/122/395], as amended by [Pub. L. 110–242, § 1][/us/pl/110/242/s1], June 3, 2008, [122 Stat. 1567][/us/stat/122/1567]; [Pub. L. 111–84, div. A, title VIII, § 813(d)][/us/pl/111/84/s813/d], Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407]; [Pub. L. 111–118, div. A, title VIII, § 8120(a)][/us/pl/111/118/s8120/a], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 111–383, div. A, title X, § 1075(f)(9)][/us/pl/111/383/s1075/f/9], (10), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 113–42, § 1][/us/pl/113/42/s1], Oct. 4, 2013, [127 Stat. 552][/us/stat/127/552], provided that:
+[Pub. L. 110–181, div. A, title XII][/us/pl/110/181], subtitle C, Jan. 28, 2008, [122 Stat. 395][/us/stat/122/395], as amended by [Pub. L. 110–242, § 1][/us/pl/110/242/s1], June 3, 2008, [122 Stat. 1567][/us/stat/122/1567]; [Pub. L. 111–84, div. A, title VIII, § 813(d)][/us/pl/111/84/s813/d], Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407]; [Pub. L. 111–118, div. A, title VIII, § 8120(a)][/us/pl/111/118/s8120/a], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 111–383, div. A, title X, § 1075(f)(9)][/us/pl/111/383/s1075/f/9], (10), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 113–42, § 1][/us/pl/113/42/s1], Oct. 4, 2013, [127 Stat. 552][/us/stat/127/552]; [Pub. L. 113–66, div. A, title XII, § 1218][/us/pl/113/66/s1218], Dec. 26, 2013, [127 Stat. 910][/us/stat/127/910], provided that:
 
 > “SEC. 1241. __SHORT TITLE.__ 
 
@@ -163,15 +163,19 @@
 
 >     If such is determined necessary, the Secretary of State, in consultation with the Secretary of Homeland Security, may suspend in-country processing under subsection (a) for a period not to exceed 90 days. Such suspension may be extended by the Secretary of State upon notification to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate. The Secretary of State shall submit to such committees a report outlining the basis of any such suspension and any extensions thereof.
 
->     “(c)  __Report__  __.—__ 
+>     “(c) __Improved Application Process.—__ 
 
->     Not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of State, in consultation with the Secretary of Homeland Security, shall submit to the committees specified in subsection (b) a report that—
+>         “(1)  __In general__  __.—__ 
 
->         “(1) describes the Secretary of State’s plans to establish the processing mechanisms required under subsection (a);
+>         Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall improve the efficiency by which applications for special immigrant visas under section 1244(a), are processed so that all steps under the control of the respective departments incidental to the issuance of such visas, including required screenings and background checks, should be completed not later than 9 months after the date on which an eligible alien submits all required materials to complete an application for such visa.
 
->         “(2) contains an assessment of in-country processing that makes use of videoconferencing; and
+>         “(2)  __Construction__  __.—__ 
 
->         “(3) describes the Secretary of State’s diplomatic efforts to improve issuance of exit permits to Iraqis who have been provided special immigrant status under section 1244 and Iraqi refugees under section 1243.
+>         Nothing in this section shall be construed to limit the ability of a Secretary referred to in paragraph (1) to take longer than 9 months to complete those steps incidental to the issuance of such visas in high-risk cases for which satisfaction of national security concerns requires additional time.
+
+>     “(d)  __Representation__  __.—__ 
+
+>     An alien applying for admission to the United States pursuant to this subtitle may be represented during the application process, including at relevant interviews and examinations, by an attorney or other accredited representative. Such representation shall not be at the expense of the United States Government.
 
 > “SEC. 1243. __UNITED STATES REFUGEE PROGRAM PROCESSING PRIORITIES.__ 
 
@@ -265,7 +269,39 @@
 
 >         “(4)  __Approval by chief of mission required__  __.—__ 
 
->         A recommendation or evaluation required under paragraph (1)(C) shall be accompanied by approval from the Chief of Mission, or the designee of the Chief of Mission, who shall conduct a risk assessment of the alien and an independent review of records maintained by the United States Government or hiring organization or entity to confirm employment and faithful and valuable service to the United States Government prior to approval of a petition under this section.
+>             “(A)  __In general__  __.—__ 
+
+>             Except as provided under subparagraph (B), a recommendation or evaluation required under paragraph (1)(C) shall be accompanied by approval from the Chief of Mission, or the designee of the Chief of Mission, who shall conduct a risk assessment of the alien and an independent review of records maintained by the United States Government or hiring organization or entity to confirm employment and faithful and valuable service to the United States Government prior to approval of a petition under this section.
+
+>             “(B) __Review process for denial by chief of mission.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 An applicant who has been denied Chief of Mission approval required by subparagraph (A) shall—
+
+>                          “(I) receive a written decision that provides, to the maximum extent feasible, information describing the basis for the denial, including the facts and inferences underlying the individual determination; and
+
+>                          “(II)
+
+>                      be provided not more than one written appeal—
+
+>                         “(aa) that shall be submitted not more than 120 days after the date that the applicant receives such decision in writing; and
+
+>                         “(bb) that may request reopening of such decision and provide additional information, clarify existing information, or explain any unfavorable information.
+
+>                 “(ii)  __Iraqi special immigrant visa coordinator__  __.—__ 
+
+>                 The Secretary of State shall designate, in the Embassy of the United States in Baghdad, Iraq, an Iraqi Special Immigrant Visa Coordinator responsible for overseeing the efficiency and integrity of the processing of special immigrant visas under this section, who shall be given—
+
+>                          “(I) sufficiently high security clearance to review information supporting Chief of Mission denials if an appeal of a denial is filed;
+
+>                          “(II) responsibility for ensuring that an applicant described in clause (i) receives the information described in clause (i)(I); and
+
+>                          “(III) responsibility for ensuring that every applicant is provided a reasonable opportunity to provide additional information, clarify existing information, or explain any unfavorable information pursuant to clause (i)(II).
+
+>         “(5)  __Evidence of serious threat__  __.—__ 
+
+>         A credible sworn statement depicting dangerous country conditions, together with official evidence of such country conditions from the United States Government, should be considered as a factor in determination of whether the alien has experienced or is experiencing an ongoing serious threat as a consequence of the alien’s employment by the United States Government for purposes of paragraph (1)(D).
 
 >     “(c) __Numerical Limitations.—__ 
 
@@ -295,15 +331,11 @@
 
 >                 “(ii) the number of principal aliens provided such status under this section during fiscal year 2012.
 
->             “(C) __Fiscal year 2014.—__ 
+>             “(C) __Limitation on number of visas.—__ 
 
 >                 “(i)  __In general__  __.—__ 
 
->                 Except as provided in clauses (ii) and (iii), the total number of principal aliens who may be provided special immigrant status under this section during the first 3 months of fiscal year 2014 shall be the sum of—
-
->                          “(I) the number of aliens described in subsection (b) whose application for special immigrant status under this section is pending on September 30, 2013; and
-
->                          “(II) 2,000.
+>                 The total number of principal aliens who may be provided special immigrant status under this section after January 1, 2014, shall be not more than 2500.
 
 >                 “(ii)  __Employment period__  __.—__ 
 
@@ -311,7 +343,7 @@
 
 >                 “(iii)  __Application deadline__  __.—__ 
 
->                 The principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(4) not later than December 31, 2013.
+>                 The principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(4) not later than September 30, 2014.
 
 >     “(d)  __Visa and Passport Issuance and Fees__  __.—__ 
 
@@ -420,6 +452,78 @@
 >         “(1) the inability or unwillingness of any contractor or grantee to provide the information requested under subsection (c)(1)(B); and
 
 >         “(2) the reasons for failing to provide such information.
+
+>     “(f) __Report on Improvements.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report, with a classified annex, if necessary, to—
+
+>             “(A) the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Armed Services of the Senate; and
+
+>             “(B) the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Armed Services of the House of Representatives.
+
+>         “(2)  __Contents__  __.—__ 
+
+>         The report submitted under paragraph (1) shall describe the implementation of improvements to the processing of applications for special immigrant visas under section 1244(a), including information relating to—
+
+>             “(A)
+
+>              enhancing existing systems for conducting background and security checks of persons applying for special immigrant status, which shall—
+
+>                 “(i) support immigration security; and
+
+>                 “(ii) provide for the orderly processing of such applications without significant delay;
+
+>             “(B) the financial, security, and personnel considerations and resources necessary to carry out this subtitle;
+
+>             “(C) the number of aliens who have applied for special immigrant visas under section 1244 during each month of the preceding fiscal year;
+
+>             “(D) the reasons for the failure to process any applications that have been pending for longer than 9 months;
+
+>             “(E)
+
+>              the total number of applications that are pending due to the failure—
+
+>                 “(i) to receive approval from the Chief of Mission;
+
+>                 “(ii) of U.S. Citizenship and Immigration Services to complete the adjudication of the Form I–360;
+
+>                 “(iii) to conduct a visa interview; or
+
+>                 “(iv) to issue the visa to an eligible alien;
+
+>             “(F) the average wait times for an applicant at each of the stages described in subparagraph (E);
+
+>             “(G) the number of denials or rejections at each of the stages described in subparagraph (E); and
+
+>             “(H) the reasons for denials by the Chief of Mission based on the categories already made available to denied special immigrant visa applicants in the denial letter sent to them by the Chief of Mission.
+
+>     “(g)  __Public Quarterly Reports__  __.—__ 
+
+>     Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], and every 3 months thereafter, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall publish a report on the website of the Department of State that describes the efficiency improvements made in the process by which applications for special immigrant visas under section 1244(a) are processed, including information described in subparagraphs (C) through (H) of subsection (f)(2).
+
+>     “(h) __Senior Coordinating Officials.—__ 
+
+>         “(1)  __Requirement to designate__  __.—__ 
+
+>         The Secretary of Homeland Security, the Secretary of State, and the Secretary of Defense shall each designate a senior coordinating official, with sufficient expertise, authority, and resources, to carry out the duties described in paragraph (2), with regard to the issuance of special immigrant visas under this subtitle and the Afghan Allies Protection Act of 2009 \[title VI of div. F of [Pub. L. 111–8][/us/pl/111/8]\] ([8 U.S.C. 1101][/us/usc/t8/s1101] note).
+
+>         “(2)  __Duties__  __.—__ 
+
+>         Each senior coordinating official designated under paragraph (1) shall—
+
+>             “(A) develop proposals to improve the efficiency and effectiveness of the process for issuing special immigrant visas under this subtitle and the Afghan Allies Protection Act of 2009;
+
+>             “(B) coordinate and monitor the implementation of such proposals;
+
+>             “(C) include such proposals in the report required by subsection (f) and in each quarterly report required by subsection (g); and
+
+>             “(D) implement appropriate actions as authorized by law to carry out the improvements described in the report required by subsection (f).
+
+>         “(3)  __Submission to congress__  __.—__ 
+
+>         Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of Homeland Security, the Secretary of State, and the Secretary of Defense shall each submit to the committees set out in subparagraphs (A) and (B) of subsection (f)(1) the name and title of the senior coordinating official designated under paragraph (1) by each such Secretary, along with a description of the relevant expertise, authority, and resources of such official.
 
 > “SEC. 1249. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
@@ -635,7 +739,7 @@
 
  __Establishing Categories of Aliens for Purposes of Refugee Determinations__ 
 
-[Pub. L. 101–167, title V, § 599D][/us/pl/101/167/s599D], Nov. 21, 1989, [103 Stat. 1261][/us/stat/103/1261], as amended by [Pub. L. 101–513, title V, § 598(a)][/us/pl/101/513/s598/a], Nov. 5, 1990, [104 Stat. 2063][/us/stat/104/2063]; [Pub. L. 102–391, title V, § 582(a)(1)][/us/pl/102/391/s582/a/1], (b)(1), (c), Oct. 6, 1992, [106 Stat. 1686][/us/stat/106/1686]; [Pub. L. 102–511, title IX, § 905(a)][/us/pl/102/511/s905/a], (b)(1), (c), Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356]; [Pub. L. 103–236, title V, § 512(1)][/us/pl/103/236/s512/1], Apr. 30, 1994, [108 Stat. 466][/us/stat/108/466]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 575(1)\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–168; [Pub. L. 104–319, title I, § 101(1)][/us/pl/104/319/s101/1], Oct. 19, 1996, [110 Stat. 3865][/us/stat/110/3865]; [Pub. L. 105–118, title V, § 574(1)][/us/pl/105/118/s574/1], Nov. 26, 1997, [111 Stat. 2432][/us/stat/111/2432]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 705(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II, § 214(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–240; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 212(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–27; [Pub. L. 107–116, title II, § 213(1)][/us/pl/107/116/s213/1], Jan. 10, 2002, [115 Stat. 2200][/us/stat/115/2200]; [Pub. L. 108–7, div. G, title II, § 213(1)][/us/pl/108/7/s213/1], Feb. 20, 2003, [117 Stat. 324][/us/stat/117/324]; [Pub. L. 108–199, div. E, title II, § 213(1)][/us/pl/108/199/s213/1], Jan. 23, 2004, [118 Stat. 253][/us/stat/118/253]; [Pub. L. 108–447, div. F, title II, § 213(1)][/us/pl/108/447/s213/1], Dec. 8, 2004, [118 Stat. 3139][/us/stat/118/3139]; [Pub. L. 109–102, title V, § 534(m)(1)][/us/pl/109/102/s534/m/1], Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211]; [Pub. L. 109–289, div. B, title II, § 20412(b)(1)][/us/pl/109/289/s20412/b/1], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 25][/us/stat/121/25]; [Pub. L. 110–161, div. J, title VI, § 634(k)(1)][/us/pl/110/161/s634/k/1], Dec. 26, 2007, [121 Stat. 2329][/us/stat/121/2329]; [Pub. L. 111–8, div. H, title VII, § 7034(g)(1)][/us/pl/111/8/s7034/g/1], Mar. 11, 2009, [123 Stat. 878][/us/stat/123/878]; [Pub. L. 111–117, div. F, title VII, § 7034(f)(1)][/us/pl/111/117/s7034/f/1], Dec. 16, 2009, [123 Stat. 3361][/us/stat/123/3361]; [Pub. L. 112–10, div. B, title XI, § 2121(m)(1)][/us/pl/112/10/s2121/m/1], Apr. 15, 2011, [125 Stat. 186][/us/stat/125/186]; [Pub. L. 112–74, div. I, title VII, § 7034(r)(1)][/us/pl/112/74/s7034/r/1], Dec. 23, 2011, [125 Stat. 1218][/us/stat/125/1218]; [Pub. L. 113–6, div. F, title VII, § 1706(h)(1)][/us/pl/113/6/s1706/h/1], Mar. 26, 2013, [127 Stat. 430][/us/stat/127/430], provided that:
+[Pub. L. 101–167, title V, § 599D][/us/pl/101/167/s599D], Nov. 21, 1989, [103 Stat. 1261][/us/stat/103/1261], as amended by [Pub. L. 101–513, title V, § 598(a)][/us/pl/101/513/s598/a], Nov. 5, 1990, [104 Stat. 2063][/us/stat/104/2063]; [Pub. L. 102–391, title V, § 582(a)(1)][/us/pl/102/391/s582/a/1], (b)(1), (c), Oct. 6, 1992, [106 Stat. 1686][/us/stat/106/1686]; [Pub. L. 102–511, title IX, § 905(a)][/us/pl/102/511/s905/a], (b)(1), (c), Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356]; [Pub. L. 103–236, title V, § 512(1)][/us/pl/103/236/s512/1], Apr. 30, 1994, [108 Stat. 466][/us/stat/108/466]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 575(1)\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–168; [Pub. L. 104–319, title I, § 101(1)][/us/pl/104/319/s101/1], Oct. 19, 1996, [110 Stat. 3865][/us/stat/110/3865]; [Pub. L. 105–118, title V, § 574(1)][/us/pl/105/118/s574/1], Nov. 26, 1997, [111 Stat. 2432][/us/stat/111/2432]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 705(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title II, § 214(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–240; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 212(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–27; [Pub. L. 107–116, title II, § 213(1)][/us/pl/107/116/s213/1], Jan. 10, 2002, [115 Stat. 2200][/us/stat/115/2200]; [Pub. L. 108–7, div. G, title II, § 213(1)][/us/pl/108/7/s213/1], Feb. 20, 2003, [117 Stat. 324][/us/stat/117/324]; [Pub. L. 108–199, div. E, title II, § 213(1)][/us/pl/108/199/s213/1], Jan. 23, 2004, [118 Stat. 253][/us/stat/118/253]; [Pub. L. 108–447, div. F, title II, § 213(1)][/us/pl/108/447/s213/1], Dec. 8, 2004, [118 Stat. 3139][/us/stat/118/3139]; [Pub. L. 109–102, title V, § 534(m)(1)][/us/pl/109/102/s534/m/1], Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211]; [Pub. L. 109–289, div. B, title II, § 20412(b)(1)][/us/pl/109/289/s20412/b/1], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 25][/us/stat/121/25]; [Pub. L. 110–161, div. J, title VI, § 634(k)(1)][/us/pl/110/161/s634/k/1], Dec. 26, 2007, [121 Stat. 2329][/us/stat/121/2329]; [Pub. L. 111–8, div. H, title VII, § 7034(g)(1)][/us/pl/111/8/s7034/g/1], Mar. 11, 2009, [123 Stat. 878][/us/stat/123/878]; [Pub. L. 111–117, div. F, title VII, § 7034(f)(1)][/us/pl/111/117/s7034/f/1], Dec. 16, 2009, [123 Stat. 3361][/us/stat/123/3361]; [Pub. L. 112–10, div. B, title XI, § 2121(m)(1)][/us/pl/112/10/s2121/m/1], Apr. 15, 2011, [125 Stat. 186][/us/stat/125/186]; [Pub. L. 112–74, div. I, title VII, § 7034(r)(1)][/us/pl/112/74/s7034/r/1], Dec. 23, 2011, [125 Stat. 1218][/us/stat/125/1218]; [Pub. L. 113–6, div. F, title VII, § 1706(h)(1)][/us/pl/113/6/s1706/h/1], Mar. 26, 2013, [127 Stat. 430][/us/stat/127/430]; [Pub. L. 113–76, div. K, title VII, § 7034(m)(8)(A)][/us/pl/113/76/s7034/m/8/A], Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -661,7 +765,7 @@
 
 >             “(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
->         “(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[[8 U.S.C. 1157(a)(3)][/us/usc/t8/s1157/a/3]\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, and 2013 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+>         “(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[[8 U.S.C. 1157(a)(3)][/us/usc/t8/s1157/a/3]\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, and 2014 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 >     “(c)  __Written Reasons for Denials of Refugee Status__  __.—__ 
 
@@ -673,11 +777,11 @@
 
 >     “(e) __Period of Application.—__ 
 
->         “(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2013.
+>         “(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2014.
 
->         “(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2013.
+>         “(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2014.
 
->         “(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2013.”
+>         “(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2014.”
 
     \[[Pub. L. 109–102, § 534(m)(1)(A)][/us/pl/109/102/s534/m/1/A], which directed amendment of [section 599D(b)(3) of Pub. L. 101–167][/us/pl/101/167/s599D/b/3], set out above, by substituting “2005, and 2006” for “and 2005”, could not be executed.\]
 
@@ -867,6 +971,8 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/pl/113/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F42%2Fs1
 [/us/stat/127/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F552
+[/us/pl/113/66/s1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1218
+[/us/stat/127/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F910
 [/us/usc/t8/s1151/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fb%2F2%2FA%2Fi
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
@@ -885,6 +991,8 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t8/s1229a/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229a%2Fc%2F7
 [/us/usc/t41/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F1
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/110/242/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F242%2Fs1%2F1
 [/us/pl/110/181/s1244/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1244%2Fc%2F1
 [/us/pl/106/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F484
@@ -953,6 +1061,8 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/stat/125/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1218
 [/us/pl/113/6/s1706/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1706%2Fh%2F1
 [/us/stat/127/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F430
+[/us/pl/113/76/s7034/m/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F8%2FA
+[/us/stat/128/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F516
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t8/s1157/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157%2Fa%2F3
 [/us/pl/109/102/s534/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs534%2Fm%2F1%2FA

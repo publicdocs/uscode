@@ -401,7 +401,7 @@
 
                 The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
 
-([Pub. L. 109–162, title VIII, § 833][/us/pl/109/162/s833], Jan. 5, 2006, [119 Stat. 3068][/us/stat/119/3068]; [Pub. L. 113–4, title VIII][/us/pl/113/4], §§ 807(b), § 808(b)–(d), Mar. 7, 2013, [127 Stat. 113–116][/us/stat/127/113-116].)
+([Pub. L. 109–162, title VIII, § 833][/us/pl/109/162/s833], Jan. 5, 2006, [119 Stat. 3068][/us/stat/119/3068]; [Pub. L. 113–4, title VIII][/us/pl/113/4], §§ 807(b), 808(b)–(d), Mar. 7, 2013, [127 Stat. 113–116][/us/stat/127/113-116].)
 
  __References in Text__ 
 
@@ -423,7 +423,7 @@
 
     Subsec. (a)(5)(A)(iii). [Pub. L. 113–4, § 807(b)(1)(A)][/us/pl/113/4/s807/b/1/A], substituted “State, for inclusion in the mailing described in clause (i), any” for “State any” in the first sentence and struck out the last sentence which read as follows: “Nothing in this clause shall be construed to authorize the Secretary of Homeland Security to conduct any new or additional criminal background check that is not otherwise conducted in the course of adjudicating such petitions.”
 
-    Subsec. (a)(5)(A)(iv), (v). [Pub. L. 113–4, § 807(b)(1)(B)][/us/pl/113/4/s807/b/1/B], added items (iv) and (v).
+    Subsec. (a)(5)(A)(iv), (v). [Pub. L. 113–4, § 807(b)(1)(B)][/us/pl/113/4/s807/b/1/B], added cls. (iv) and (v).
 
     Subsec. (b)(1)(A). [Pub. L. 113–4, § 807(b)(2)][/us/pl/113/4/s807/b/2], substituted “orders and criminal” for “orders or criminal”.
 
@@ -445,7 +445,7 @@
 
     Subsec. (d)(5)(C). [Pub. L. 113–4, § 808(c)(4)(C)][/us/pl/113/4/s808/c/4/C], substituted “including equitable remedies.” for period at end.
 
-    Subsec. (d)(6) to (8). [Pub. L. 113–4, § 808(c)(5)][/us/pl/113/4/s808/c/5], (6), added par. (6) and redesignated pars. (6) and (7) as (7) and (8), respectively
+    Subsec. (d)(6) to (8). [Pub. L. 113–4, § 808(c)(5)][/us/pl/113/4/s808/c/5], (6), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
     Subsec. (f). [Pub. L. 113–4, § 808(d)(1)][/us/pl/113/4/s808/d/1], substituted “studies and reports” for “study and report” in heading.
 

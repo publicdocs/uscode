@@ -213,7 +213,7 @@
 
             (B) __Food stamps__ 
 
-                The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977 1 \[[7 U.S.C. 2012][/us/usc/t7/s2012](l)\].
+                The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977 1 \[now [7 U.S.C. 2012(t)][/us/usc/t7/s2012/t]\].
 
     (b) __Limited eligibility for designated Federal programs__ 
 
@@ -319,7 +319,7 @@
 
     The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XIX (§ 1396 et seq.) and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
+    The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(l) of this Act, classified to section 2012(l) of Title 7, was struck out by [Pub. L. 113–79, title IV, § 4030(a)(3)][/us/pl/113/79/s4030/a/3], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813], and provisions similar to those in former subsec. (l) are now contained in section 3(t) of this Act, classified to [section 2012(t) of Title 7][/us/usc/t7/s2012/t]. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
     This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of [Pub. L. 104–193][/us/pl/104/193], Aug. 22, 1996, [110 Stat. 2260][/us/stat/110/2260], which enacted this chapter, [section 1183a of this title][/us/usc/t8/s1183a], and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended [section 1383 of this title][/us/usc/t8/s1383], sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under [section 1183a of this title][/us/usc/t8/s1183a] and [section 32 of Title 26][/us/usc/t26/s32]. For complete classification of title IV to the Code, see Tables.
 
@@ -524,7 +524,7 @@
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
-[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/usc/t7/s2012/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft
 [/us/usc/t8/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1613
 [/us/usc/t8/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1641
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
@@ -595,6 +595,9 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
+[/us/pl/113/79/s4030/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F3
+[/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
+[/us/usc/t7/s2012/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2260

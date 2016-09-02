@@ -53,11 +53,15 @@
 
  __Denial of Visas to Certain Representatives to United Nations__ 
 
-[Pub. L. 101–246, title IV, § 407][/us/pl/101/246/s407], Feb. 16, 1990, [104 Stat. 67][/us/stat/104/67], provided that:
+[Pub. L. 101–246, title IV, § 407][/us/pl/101/246/s407], Feb. 16, 1990, [104 Stat. 67][/us/stat/104/67], as amended by [Pub. L. 113–100, § 1][/us/pl/113/100/s1], Apr. 18, 2014, [128 Stat. 1145][/us/stat/128/1145], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
->     The President shall use his authority, including the authorities contained in section 6 of the United Nations Headquarters Agreement Act ([Public Law 80–357][/us/pl/80/357]) \[[Aug. 4, 1947, ch. 482][/us/act/1947-08-04/ch482], set out as a note under [22 U.S.C. 287][/us/usc/t22/s287]\], to deny any individual’s admission to the United States as a representative to the United Nations if the President determines that such individual has been found to have been engaged in espionage activities directed against the United States or its allies and may pose a threat to United States national security interests.
+>     The President shall use his authority, including the authorities contained in section 6 of the United Nations Headquarters Agreement Act ([Public Law 80–357][/us/pl/80/357]) \[[Aug. 4, 1947, ch. 482][/us/act/1947-08-04/ch482], set out as a note under [22 U.S.C. 287][/us/usc/t22/s287]\], to deny any individual’s admission to the United States as a representative to the United Nations if the President determines that such individual—
+
+>         “(1) has been found to have been engaged in espionage activities or a terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)(iii)][/us/usc/t8/s1182/a/3/B/iii])) directed against the United States or its allies; and
+
+>         “(2) may pose a threat to United States national security interests.
 
 >     “(b)  __Waiver__  __.—__ 
 
@@ -107,8 +111,11 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/101/246/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs407
 [/us/stat/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F67
+[/us/pl/113/100/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F100%2Fs1
+[/us/stat/128/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1145
 [/us/pl/80/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F357
 [/us/act/1947-08-04/ch482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch482
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287
+[/us/usc/t8/s1182/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB%2Fiii
 
 
