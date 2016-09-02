@@ -77,9 +77,11 @@
 
                 (vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986;
 
-                (viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act ([42 U.S.C. 402(x)(3)][/us/usc/t42/s402/x/3], 1382(e)(1)); or
+                (viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act ([42 U.S.C. 402(x)(3)][/us/usc/t42/s402/x/3], 1382(e)(1));
 
-                (ix) matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records;
+                (ix) matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records; or
+
+                (x) matches performed pursuant to section 3(d)(4) of the Achieving a Better Life Experience Act of 2014; 1
 
         (9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
@@ -553,7 +555,7 @@
 
     Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
 
-(Added [Pub. L. 93–579, § 3][/us/pl/93/579/s3], Dec. 31, 1974, [88 Stat. 1897][/us/stat/88/1897]; amended [Pub. L. 94–183, § 2(2)][/us/pl/94/183/s2/2], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 97–365, § 2][/us/pl/97/365/s2], Oct. 25, 1982, [96 Stat. 1749][/us/stat/96/1749]; [Pub. L. 97–375, title II, § 201(a)][/us/pl/97/375/s201/a], (b), Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821]; [Pub. L. 97–452, § 2(a)(1)][/us/pl/97/452/s2/a/1], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–477, § 2(c)][/us/pl/98/477/s2/c], Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211]; [Pub. L. 98–497, title I, § 107(g)][/us/pl/98/497/s107/g], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292]; [Pub. L. 100–503][/us/pl/100/503], §§ 2–6(a), 7, 8, Oct. 18, 1988, [102 Stat. 2507–2514][/us/stat/102/2507-2514]; [Pub. L. 101–508, title VII, § 7201(b)(1)][/us/pl/101/508/s7201/b/1], Nov. 5, 1990, [104 Stat. 1388–334][/us/stat/104/1388-334]; [Pub. L. 103–66, title XIII, § 13581(c)][/us/pl/103/66/s13581/c], Aug. 10, 1993, [107 Stat. 611][/us/stat/107/611]; [Pub. L. 104–193, title I, § 110(w)][/us/pl/104/193/s110/w], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–226, § 1(b)(3)][/us/pl/104/226/s1/b/3], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033]; [Pub. L. 104–316, title I, § 115(g)(2)(B)][/us/pl/104/316/s115/g/2/B], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–34, title X, § 1026(b)(2)][/us/pl/105/34/s1026/b/2], Aug. 5, 1997, [111 Stat. 925][/us/stat/111/925]; [Pub. L. 105–362, title XIII, § 1301(d)][/us/pl/105/362/s1301/d], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 106–170, title IV, § 402(a)(2)][/us/pl/106/170/s402/a/2], Dec. 17, 1999, [113 Stat. 1908][/us/stat/113/1908]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–148, title VI, § 6402(b)(2)][/us/pl/111/148/s6402/b/2], Mar. 23, 2010, [124 Stat. 756][/us/stat/124/756]; [Pub. L. 111–203, title X, § 1082][/us/pl/111/203/s1082], July 21, 2010, [124 Stat. 2080][/us/stat/124/2080].)
+(Added [Pub. L. 93–579, § 3][/us/pl/93/579/s3], Dec. 31, 1974, [88 Stat. 1897][/us/stat/88/1897]; amended [Pub. L. 94–183, § 2(2)][/us/pl/94/183/s2/2], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 97–365, § 2][/us/pl/97/365/s2], Oct. 25, 1982, [96 Stat. 1749][/us/stat/96/1749]; [Pub. L. 97–375, title II, § 201(a)][/us/pl/97/375/s201/a], (b), Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821]; [Pub. L. 97–452, § 2(a)(1)][/us/pl/97/452/s2/a/1], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–477, § 2(c)][/us/pl/98/477/s2/c], Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211]; [Pub. L. 98–497, title I, § 107(g)][/us/pl/98/497/s107/g], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292]; [Pub. L. 100–503][/us/pl/100/503], §§ 2–6(a), 7, 8, Oct. 18, 1988, [102 Stat. 2507–2514][/us/stat/102/2507-2514]; [Pub. L. 101–508, title VII, § 7201(b)(1)][/us/pl/101/508/s7201/b/1], Nov. 5, 1990, [104 Stat. 1388–334][/us/stat/104/1388-334]; [Pub. L. 103–66, title XIII, § 13581(c)][/us/pl/103/66/s13581/c], Aug. 10, 1993, [107 Stat. 611][/us/stat/107/611]; [Pub. L. 104–193, title I, § 110(w)][/us/pl/104/193/s110/w], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–226, § 1(b)(3)][/us/pl/104/226/s1/b/3], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033]; [Pub. L. 104–316, title I, § 115(g)(2)(B)][/us/pl/104/316/s115/g/2/B], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–34, title X, § 1026(b)(2)][/us/pl/105/34/s1026/b/2], Aug. 5, 1997, [111 Stat. 925][/us/stat/111/925]; [Pub. L. 105–362, title XIII, § 1301(d)][/us/pl/105/362/s1301/d], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 106–170, title IV, § 402(a)(2)][/us/pl/106/170/s402/a/2], Dec. 17, 1999, [113 Stat. 1908][/us/stat/113/1908]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–148, title VI, § 6402(b)(2)][/us/pl/111/148/s6402/b/2], Mar. 23, 2010, [124 Stat. 756][/us/stat/124/756]; [Pub. L. 111–203, title X, § 1082][/us/pl/111/203/s1082], July 21, 2010, [124 Stat. 2080][/us/stat/124/2080]; [Pub. L. 113–295, div. B, title I, § 102(d)][/us/pl/113/295/s102/d], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062].)
 
  __References in Text__ 
 
@@ -562,6 +564,8 @@
     Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (a)(8)(B)(iv), (vii), is classified to [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code.
 
     Sections 404, 464, and 1137 of the Social Security Act, referred to in subsec. (a)(8)(B)(iv), are classified to sections 604, 664, and 1320b–7, respectively, of Title 42, The Public Health and Welfare.
+
+    The Achieving a Better Life Experience Act of 2014, referred to in subsec. (a)(8)(B)(x), probably means [Pub. L. 113–295, div. B][/us/pl/113/295], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], known as the Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014 or the Stephen Beck, Jr., ABLE Act of 2014. The Act does not contain a section 3.
 
     For effective date of this section, referred to in subsecs. (k)(2), (5), (7), (l)(2), (3), and (m), see Effective Date note below.
 
@@ -576,6 +580,8 @@
     Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to [section 2244 of Title 7][/us/usc/t7/s2244], Agriculture.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(8)(B)(x). [Pub. L. 113–295][/us/pl/113/295] added cl. (x).
 
     2010—Subsec. (a)(8)(B)(ix). [Pub. L. 111–148][/us/pl/111/148] added cl. (ix).
 
@@ -646,6 +652,12 @@
     Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
     Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by [section 1(a) of Pub. L. 104–14][/us/pl/104/14/s1/a], set out as a note under [section 21 of Title 2][/us/usc/t2/s21], The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. B, title I, § 102(f)(1)][/us/pl/113/295/s102/f/1], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062], provided that: 
+
+> “The amendments made by this section \[enacting [section 529A of Title 26][/us/usc/t26/s529A], Internal Revenue Code, and amending this section, [section 5517 of Title 12][/us/usc/t12/s5517], Banks and Banking, and sections 26, 877A, 4965, 4973, and 6693 of Title 26\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -945,16 +957,21 @@
 [/us/stat/124/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F756
 [/us/pl/111/203/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1082
 [/us/stat/124/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2080
+[/us/pl/113/295/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fd
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
 [/us/usc/t5/s552/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fe
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
 [/us/pl/99/570/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1802%2Fb
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
 [/us/pl/93/579/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F579%2Fs6
 [/us/pl/100/503/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F503%2Fs6%2Fc
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/usc/t7/s2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2244
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
@@ -993,6 +1010,10 @@
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
+[/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
+[/us/usc/t26/s529A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs529A
+[/us/usc/t12/s5517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5517
 [/us/pl/111/203/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1082
 [/us/stat/124/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2080
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
