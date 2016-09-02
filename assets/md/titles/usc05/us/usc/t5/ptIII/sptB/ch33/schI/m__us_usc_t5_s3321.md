@@ -33,9 +33,9 @@
 
         shall be returned to a position of no lower grade and pay than the position from which the individual was transferred, assigned, or promoted. Nothing in this section prohibits an agency from taking an action against an individual serving a probationary period under subsection (a)(2) of this section for cause unrelated to supervisory or managerial performance.
 
-    (c) Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+    (c) Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or any individual covered by [section 1599e of title 10][/us/usc/t10/s1599e].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 422][/us/stat/80/422]; [Pub. L. 95–454, title III, § 303(a)][/us/pl/95/454/s303/a], Oct. 13, 1978, [92 Stat. 1146][/us/stat/92/1146]; [Pub. L. 100–325, § 2(d)][/us/pl/100/325/s2/d], May 30, 1988, [102 Stat. 581][/us/stat/102/581].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 422][/us/stat/80/422]; [Pub. L. 95–454, title III, § 303(a)][/us/pl/95/454/s303/a], Oct. 13, 1978, [92 Stat. 1146][/us/stat/92/1146]; [Pub. L. 100–325, § 2(d)][/us/pl/100/325/s2/d], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 114–92, div. A, title XI, § 1105(c)(1)][/us/pl/114/92/s1105/c/1], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
 
 <table>
 
@@ -89,6 +89,8 @@ Jan. 16, 1883, ch. 27. § 2(2)4, 22 Stat. 404.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92] inserted “, or any individual covered by [section 1599e of title 10][/us/usc/t10/s1599e]” before period at end.
+
     1988—Subsec. (c). [Pub. L. 100–325][/us/pl/100/325] inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
     1978—[Pub. L. 95–454][/us/pl/95/454] substituted “probationary period” for “probation; period of” in section catchline, designated existing provisions as subsec. (a), substituted provisions authorizing the President to take necessary action, for provisions authorizing the President to prescribe rules, and added subsecs. (b) and (c).
@@ -104,12 +106,17 @@ Jan. 16, 1883, ch. 27. § 2(2)4, 22 Stat. 404.  </td>
 ----------
 ----------
 
+[/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F422
 [/us/pl/95/454/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs303%2Fa
 [/us/stat/92/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1146
 [/us/pl/100/325/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fd
 [/us/stat/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F581
+[/us/pl/114/92/s1105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1105%2Fc%2F1
+[/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

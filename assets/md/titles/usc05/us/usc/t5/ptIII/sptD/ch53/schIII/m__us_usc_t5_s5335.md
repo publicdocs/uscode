@@ -233,6 +233,18 @@ Oct. 29, 1965, Pub. L. 89–301, § 3, 79 Stat. 1112.  </td>
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Delay of Periodic Step Increase for Civilian Employees of the Department of Defense Based Upon Unacceptable Performance__ 
+
+[Pub. L. 114–92, div. A, title XI, § 1106][/us/pl/114/92/s1106], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024], provided that:
+
+>     “(a)  __Delay__  __.—__ 
+
+>     Under procedures established by the Secretary of Defense, upon a determination by the Secretary that the work of an employee is not at an acceptable level of competence, the period of time during which the work of the employee is not at an acceptable level of competence shall not count toward completion of the period of service required for purposes of subsection (a) of [section 5335 of title 5][/us/usc/t5/s5335], United States Code, or subsection (e)(1) or (e)(2) of section 5343 of such title.
+
+>     “(b)  __Applicability to Periods of Service__  __.—__ 
+
+>     Subsection (a) shall not apply with respect to any period of service performed before the date of the enactment of this Act \[Nov. 25, 2015\].”
+
  __Pay Increases Deemed Equivalent Increases in Pay__ 
 
 [Pub. L. 103–89, § 5(a)][/us/pl/103/89/s5/a], Sept. 30, 1993, [107 Stat. 984][/us/stat/107/984], provided that: 
@@ -323,6 +335,9 @@ Oct. 29, 1965, Pub. L. 89–301, § 3, 79 Stat. 1112.  </td>
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/92/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1106
+[/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
+[/us/usc/t5/s5335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5335
 [/us/pl/103/89/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs5%2Fa
 [/us/stat/107/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F984
 [/us/usc/t5/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5404

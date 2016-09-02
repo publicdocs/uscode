@@ -29,7 +29,7 @@
 
                 (i) who is not serving a probationary or trial period under an initial appointment; or
 
-                (ii) who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
+                (ii) except as provided in [section 1599e of title 10][/us/usc/t10/s1599e], who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
 
             (B)
 
@@ -89,7 +89,7 @@
 
     (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added [Pub. L. 95–454, title II, § 204(a)][/us/pl/95/454/s204/a], Oct. 13, 1978, [92 Stat. 1135][/us/stat/92/1135]; amended [Pub. L. 101–376, § 2(a)][/us/pl/101/376/s2/a], Aug. 17, 1990, [104 Stat. 461][/us/stat/104/461]; [Pub. L. 102–378, § 6(a)][/us/pl/102/378/s6/a], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358]; [Pub. L. 103–359, title V, § 501][/us/pl/103/359/s501](l), Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XVI, § 1634(b)][/us/pl/104/201/s1634/b], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], (f), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241], 3242.)
+(Added [Pub. L. 95–454, title II, § 204(a)][/us/pl/95/454/s204/a], Oct. 13, 1978, [92 Stat. 1135][/us/stat/92/1135]; amended [Pub. L. 101–376, § 2(a)][/us/pl/101/376/s2/a], Aug. 17, 1990, [104 Stat. 461][/us/stat/104/461]; [Pub. L. 102–378, § 6(a)][/us/pl/102/378/s6/a], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358]; [Pub. L. 103–359, title V, § 501][/us/pl/103/359/s501](l), Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XVI, § 1634(b)][/us/pl/104/201/s1634/b], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], (f), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241], 3242; [Pub. L. 114–92, div. A, title XI, § 1105(c)(4)][/us/pl/114/92/s1105/c/4], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
 
  __References in Text__ 
 
@@ -100,6 +100,8 @@
     A prior section 7511, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 528][/us/stat/80/528]; [Pub. L. 94–183, § 2(30)][/us/pl/94/183/s2/30], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058], defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by [Pub. L. 95–454, § 204(a)][/us/pl/95/454/s204/a].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(A)(ii). [Pub. L. 114–92][/us/pl/114/92] inserted “except as provided in [section 1599e of title 10][/us/usc/t10/s1599e],” before “who”.
 
     2006—Subsec. (a)(1)(B)(ii). [Pub. L. 109–435, § 604(b)][/us/pl/109/435/s604/b], substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
@@ -188,6 +190,7 @@
 ----------
 ----------
 
+[/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/usc/t5/s7501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7501%2F2
 [/us/usc/t10/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1614
 [/us/usc/t39/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1005%2Fa
@@ -206,12 +209,16 @@
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/109/435/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fb
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
+[/us/pl/114/92/s1105/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1105%2Fc%2F4
+[/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
 [/us/usc/t22/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3903
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F528
 [/us/pl/94/183/s2/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F30
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
 [/us/pl/95/454/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs204%2Fa
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/pl/109/435/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fb
 [/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

@@ -199,9 +199,15 @@
 
         (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 551][/us/stat/100/551]; amended [Pub. L. 100–43, § 2][/us/pl/100/43/s2], May 22, 1987, [101 Stat. 315][/us/stat/101/315]; [Pub. L. 100–366, § 2(a)][/us/pl/100/366/s2/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 3(a)][/us/pl/101/335/s3/a], July 17, 1990, [104 Stat. 320][/us/stat/104/320]; [Pub. L. 102–378, § 2(68)][/us/pl/102/378/s2/68], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–316, title I, § 103(i)][/us/pl/104/316/s103/i], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 111–31, div. B, title I, § 104][/us/pl/111/31/s104], June 22, 2009, [123 Stat. 1854][/us/stat/123/1854]; [Pub. L. 113–255, § 2(a)][/us/pl/113/255/s2/a], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 551][/us/stat/100/551]; amended [Pub. L. 100–43, § 2][/us/pl/100/43/s2], May 22, 1987, [101 Stat. 315][/us/stat/101/315]; [Pub. L. 100–366, § 2(a)][/us/pl/100/366/s2/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 3(a)][/us/pl/101/335/s3/a], July 17, 1990, [104 Stat. 320][/us/stat/104/320]; [Pub. L. 102–378, § 2(68)][/us/pl/102/378/s2/68], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–316, title I, § 103(i)][/us/pl/104/316/s103/i], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 111–31, div. B, title I, § 104][/us/pl/111/31/s104], June 22, 2009, [123 Stat. 1854][/us/stat/123/1854]; [Pub. L. 113–255, § 2(a)][/us/pl/113/255/s2/a], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920]; [Pub. L. 114–92, div. A, title VI, § 632(d)][/us/pl/114/92/s632/d], Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+
+ __Amendment of Subsection (c)(2)__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 632(d), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2) of this section is amended in subparagraph (A) by striking “(A) Consistent with the requirements of subparagraph (B), if an” and inserting “If an” and by striking subparagraph (B). See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2). [Pub. L. 114–92][/us/pl/114/92] substituted “If an” for “(A) Consistent with the requirements of subparagraph (B), if an” and struck out subpar. (B) which read as follows: “If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
 
     2014—Subsec. (c)(2). [Pub. L. 113–255][/us/pl/113/255] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
 
@@ -236,6 +242,10 @@
     1988—Subsec. (e)(3)(A). [Pub. L. 100–366][/us/pl/100/366] struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
 
     1987—Subsecs. (h), (i). [Pub. L. 100–43][/us/pl/100/43] added subsecs. (h) and (i).
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of this title][/us/usc/t5/s8432].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -308,6 +318,11 @@
 [/us/stat/123/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1854
 [/us/pl/113/255/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fa
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
+[/us/pl/114/92/s632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fd
+[/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/pl/111/31/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fa
 [/us/pl/111/31/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fb
@@ -325,6 +340,9 @@
 [/us/pl/101/335/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F1
 [/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/pl/100/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F43
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/113/255/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fe
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/usc/t5/s8439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8439

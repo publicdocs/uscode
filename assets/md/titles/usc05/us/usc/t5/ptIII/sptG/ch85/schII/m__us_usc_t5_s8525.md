@@ -15,17 +15,29 @@
 
 ## § 8525. Effect on other statutes
 
-    \[(a) Repealed. [Pub. L. 90–83, § 1(90)][/us/pl/90/83/s1/90], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219].\]
+    (a)
+
+     Subsection (b)(2) does not apply to an individual who—
+
+        (1) is otherwise entitled to compensation under this subchapter;
+
+        (2) is described in [section 3311(b) of title 38][/us/usc/t38/s3311/b];
+
+        (3) is not receiving retired pay under title 10; and
+
+        (4) was discharged or released from service in the Armed Forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration (including through a reduction in force) under honorable conditions, but did not voluntarily separate from such service.
 
     (b)
 
-     An individual is not entitled to compensation under this subchapter for any period with respect to which he receives—
+     An individual is not entitled to compensation under this subchapter for any period with respect to which the individual receives—
 
-        (1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a); or
+        (1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a);
 
-        (2) an educational assistance allowance under chapter 35 of title 38.
+        (2) except in the case of an individual described in subsection (a), an educational assistance allowance under chapter 33 of title 38; or
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 591][/us/stat/80/591]; [Pub. L. 90–83, § 1(90)][/us/pl/90/83/s1/90], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219].)
+        (3) an educational assistance allowance under chapter 35 of title 38.
+
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 591][/us/stat/80/591]; [Pub. L. 90–83, § 1(90)][/us/pl/90/83/s1/90], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 114–92, div. A, title V, § 560][/us/pl/114/92/s560], Nov. 25, 2015, [129 Stat. 828][/us/stat/129/828].)
 
 <table>
 
@@ -93,6 +105,14 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265.  </td>
 
     This section deletes subsection (a) of [5 U.S.C. 8525][/us/usc/t5/s8525]. That subsection is now obsolete in view of the repeal, effective July 1, 1966, of chapter 43 of title 38, U.S.C., by [Public Law 89–50][/us/pl/89/50], section 1(a) ([79 Stat. 173][/us/stat/79/173]).
 
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92, § 560(b)][/us/pl/114/92/s560/b], added subsec. (a).
+
+    Subsec. (b). [Pub. L. 114–92, § 560(a)(1)][/us/pl/114/92/s560/a/1], substituted “the individual receives” for “he receives” in introductory provisions.
+
+    Subsec. (b)(2), (3). [Pub. L. 114–92, § 560(a)(2)][/us/pl/114/92/s560/a/2]–(4), added par. (2) and redesignated former par. (2) as (3).
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t5/ptIII/sptG/ch85/schII/m__us_usc_t5_s8524.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptG/ch87/m__us_usc_t5_ptIII_sptG_ch87.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8525)
@@ -100,12 +120,13 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265.  </td>
 ----------
 ----------
 
-[/us/pl/90/83/s1/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F90
-[/us/stat/81/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F219
+[/us/usc/t38/s3311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3311%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F591
 [/us/pl/90/83/s1/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F90
 [/us/stat/81/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F219
+[/us/pl/114/92/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560
+[/us/stat/129/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F828
 [/us/usc/t38/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1632
 [/us/usc/t38/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1632
 [/us/usc/t38/s1613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1613%2Fa
@@ -115,5 +136,8 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265.  </td>
 [/us/usc/t5/s8525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8525
 [/us/pl/89/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50
 [/us/stat/79/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F173
+[/us/pl/114/92/s560/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560%2Fb
+[/us/pl/114/92/s560/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560%2Fa%2F1
+[/us/pl/114/92/s560/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560%2Fa%2F2
 
 

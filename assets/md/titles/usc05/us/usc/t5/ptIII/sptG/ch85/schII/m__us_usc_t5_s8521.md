@@ -21,7 +21,7 @@
 
         (1)
 
-         “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 90 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
+         “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
 
             (A) the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service); and
 
@@ -47,7 +47,7 @@
 
     (b) The provisions of subchapter I of this chapter, subject to the modifications made by this subchapter, apply to individuals who have had Federal service as defined by subsection (a) of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 590][/us/stat/80/590]; [Pub. L. 90–83, § 1(89)][/us/pl/90/83/s1/89], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I, § 116(e)(4)][/us/pl/94/566/s116/e/4], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673]; [Pub. L. 96–215, § 4(b)][/us/pl/96/215/s4/b], Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124]; [Pub. L. 96–364, title IV, § 415(a)][/us/pl/96/364/s415/a], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 97–35, title XXIV, § 2405(a)][/us/pl/97/35/s2405/a], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876]; [Pub. L. 97–362, title II, § 201(a)][/us/pl/97/362/s201/a], (b), Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732]; [Pub. L. 102–164, title III, § 301(a)][/us/pl/102/164/s301/a], (b), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 110–317, § 7][/us/pl/110/317/s7], Aug. 29, 2008, [122 Stat. 3529][/us/stat/122/3529].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 590][/us/stat/80/590]; [Pub. L. 90–83, § 1(89)][/us/pl/90/83/s1/89], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I, § 116(e)(4)][/us/pl/94/566/s116/e/4], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673]; [Pub. L. 96–215, § 4(b)][/us/pl/96/215/s4/b], Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124]; [Pub. L. 96–364, title IV, § 415(a)][/us/pl/96/364/s415/a], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 97–35, title XXIV, § 2405(a)][/us/pl/97/35/s2405/a], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876]; [Pub. L. 97–362, title II, § 201(a)][/us/pl/97/362/s201/a], (b), Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732]; [Pub. L. 102–164, title III, § 301(a)][/us/pl/102/164/s301/a], (b), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 110–317, § 7][/us/pl/110/317/s7], Aug. 29, 2008, [122 Stat. 3529][/us/stat/122/3529]; [Pub. L. 114–92, div. A, title V, § 513(a)][/us/pl/114/92/s513/a], Nov. 25, 2015, [129 Stat. 809][/us/stat/129/809].)
 
 <table>
 
@@ -119,9 +119,11 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “180 days” for “90 days” in introductory provisions.
+
     2008—Subsec. (a)(1)(B)(ii)(III). [Pub. L. 110–317][/us/pl/110/317] substituted “hardship (including pursuant to a sole survivorship discharge, as that term is defined in [section 1174(i) of title 10][/us/usc/t10/s1174/i]),” for “hardship,”.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–164, § 301(b)][/us/pl/102/164/s301/b], substituted “90 days” for “180 days”.
+    1991—Subsec. (a)(1). [Pub. L. 102–164, § 301(b)][/us/pl/102/164/s301/b], substituted “90 days” for “180 days” in introductory provisions.
 
     Subsec. (c). [Pub. L. 102–164, § 301(a)][/us/pl/102/164/s301/a], struck out subsec. (c) which read as follows:
 
@@ -140,6 +142,12 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
     Subsec. (a)(1)(A). [Pub. L. 96–364][/us/pl/96/364] substituted “365” for “90”.
 
     1976—Subsec. (a)(3). [Pub. L. 94–566][/us/pl/94/566] added the Virgin Islands to definition of “State”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–92, div. A, title V, § 513(b)][/us/pl/114/92/s513/b], Nov. 25, 2015, [129 Stat. 809][/us/stat/129/809], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 25, 2015\], and shall apply with respect to periods of Federal service commencing on or after that date.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -211,12 +219,15 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 [/us/stat/105/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1059
 [/us/pl/110/317/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs7
 [/us/stat/122/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3529
+[/us/pl/114/92/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs513%2Fa
+[/us/stat/129/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F809
 [/us/usc/t5/s8521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8521
 [/us/usc/t42/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F1
 [/us/pl/102/107/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F107%2Fs8
 [/us/stat/105/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F546
 [/us/pl/102/164/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs301
 [/us/pl/102/107/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F107%2Fs10%2Fb
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/usc/t10/s1174/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174%2Fi
 [/us/pl/102/164/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs301%2Fb
@@ -227,6 +238,8 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 [/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/114/92/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs513%2Fb
+[/us/stat/129/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F809
 [/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/pl/110/317/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs10
 [/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108

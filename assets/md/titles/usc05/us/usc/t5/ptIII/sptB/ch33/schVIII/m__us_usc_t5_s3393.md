@@ -45,21 +45,23 @@
 
             (C) sufficient flexibility to allow for the appointment of individuals who have special or unique qualities which indicate a likelihood of executive success and who would not otherwise be eligible for appointment.
 
-    (d) An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee.
+    (d) An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee. The preceding sentence shall not apply to any individual covered by [section 1599e of title 10][/us/usc/t10/s1599e].
 
     (e) Each career appointee shall meet the executive qualifications of the position to which appointed, as determined in writing by the appointing authority.
 
     (f) The title of each career reserved position shall be published in the Federal Register.
 
-    (g) A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,,  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  3592, 3595, 7532, or 7543 of this title.
+    (g) A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  3592, 3595, 7532, or 7543 of this title.
 
-(Added [Pub. L. 95–454, title IV, § 403(a)][/us/pl/95/454/s403/a], Oct. 13, 1978, [92 Stat. 1161][/us/stat/92/1161]; amended [Pub. L. 97–35, title XVII, § 1704(c)][/us/pl/97/35/s1704/c], Aug. 13, 1981, [95 Stat. 758][/us/stat/95/758]; [Pub. L. 98–615, title III, § 306(b)(1)][/us/pl/98/615/s306/b/1], Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220]; [Pub. L. 101–12, § 9(b)][/us/pl/101/12/s9/b], Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35]; [Pub. L. 101–194, title V, § 506(b)(2)][/us/pl/101/194/s506/b/2], Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 101–280, § 6(d)(1)][/us/pl/101/280/s6/d/1], May 4, 1990, [104 Stat. 160][/us/stat/104/160]; [Pub. L. 107–296, title XIII, § 1321(a)(1)(A)][/us/pl/107/296/s1321/a/1/A], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296].)
+(Added [Pub. L. 95–454, title IV, § 403(a)][/us/pl/95/454/s403/a], Oct. 13, 1978, [92 Stat. 1161][/us/stat/92/1161]; amended [Pub. L. 97–35, title XVII, § 1704(c)][/us/pl/97/35/s1704/c], Aug. 13, 1981, [95 Stat. 758][/us/stat/95/758]; [Pub. L. 98–615, title III, § 306(b)(1)][/us/pl/98/615/s306/b/1], Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220]; [Pub. L. 101–12, § 9(b)][/us/pl/101/12/s9/b], Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35]; [Pub. L. 101–194, title V, § 506(b)(2)][/us/pl/101/194/s506/b/2], Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 101–280, § 6(d)(1)][/us/pl/101/280/s6/d/1], May 4, 1990, [104 Stat. 160][/us/stat/104/160]; [Pub. L. 107–296, title XIII, § 1321(a)(1)(A)][/us/pl/107/296/s1321/a/1/A], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 114–92, div. A, title XI, § 1105(c)(2)][/us/pl/114/92/s1105/c/2], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
 
  __Prior Provisions__ 
 
     A prior section 3393, added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], which related to limitations concerning part-time career employment opportunities, was renumbered as [section 3403 of this title][/us/usc/t5/s3403] by [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–92][/us/pl/114/92] inserted at end “The preceding sentence shall not apply to any individual covered by [section 1599e of title 10][/us/usc/t10/s1599e].”
 
     2002—Subsec. (g). [Pub. L. 107–296][/us/pl/107/296] struck out “3393a” after “1215,”.
 
@@ -100,6 +102,7 @@
 ----------
 ----------
 
+[/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/pl/95/454/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs403%2Fa
 [/us/stat/92/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1161
 [/us/pl/97/35/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1704%2Fc
@@ -114,11 +117,15 @@
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
 [/us/pl/107/296/s1321/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F1%2FA
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
+[/us/pl/114/92/s1105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1105%2Fc%2F2
+[/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
 [/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
 [/us/stat/92/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1057
 [/us/usc/t5/s3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3403
 [/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194

@@ -295,7 +295,33 @@
 
         (3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 541][/us/stat/100/541]; amended [Pub. L. 99–509, title VI, § 6001(a)(1)][/us/pl/99/509/s6001/a/1], (2), Oct. 21, 1986, [100 Stat. 1929][/us/stat/100/1929], 1930; [Pub. L. 100–20, § 1(b)][/us/pl/100/20/s1/b], Apr. 7, 1987, [101 Stat. 265][/us/stat/101/265]; [Pub. L. 100–238, title I][/us/pl/100/238], §§ 114, 115, 121, Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751], 1752; [Pub. L. 103–353][/us/pl/103/353], §§ 4(c), 5(e)(3), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3174; [Pub. L. 104–93, title III, § 304(a)][/us/pl/104/93/s304/a], Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965]; [Pub. L. 104–186, title II, § 215(16)][/us/pl/104/186/s215/16], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–316, title I, § 103(g)][/us/pl/104/316/s103/g], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–361][/us/pl/106/361], §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, [114 Stat. 1400][/us/stat/114/1400], 1401; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 138(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–233; [Pub. L. 107–304, § 1(b)(1)][/us/pl/107/304/s1/b/1], Nov. 27, 2002, [116 Stat. 2363][/us/stat/116/2363]; [Pub. L. 108–177, title IV, § 405(b)(2)][/us/pl/108/177/s405/b/2], Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632]; [Pub. L. 108–469, § 1(b)][/us/pl/108/469/s1/b], (c), (d)(2), Dec. 21, 2004, [118 Stat. 3891][/us/stat/118/3891]; [Pub. L. 111–31, div. B, title I, § 102][/us/pl/111/31/s102], June 22, 2009, [123 Stat. 1853][/us/stat/123/1853].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 541][/us/stat/100/541]; amended [Pub. L. 99–509, title VI, § 6001(a)(1)][/us/pl/99/509/s6001/a/1], (2), Oct. 21, 1986, [100 Stat. 1929][/us/stat/100/1929], 1930; [Pub. L. 100–20, § 1(b)][/us/pl/100/20/s1/b], Apr. 7, 1987, [101 Stat. 265][/us/stat/101/265]; [Pub. L. 100–238, title I][/us/pl/100/238], §§ 114, 115, 121, Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751], 1752; [Pub. L. 103–353][/us/pl/103/353], §§ 4(c), 5(e)(3), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3174; [Pub. L. 104–93, title III, § 304(a)][/us/pl/104/93/s304/a], Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965]; [Pub. L. 104–186, title II, § 215(16)][/us/pl/104/186/s215/16], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–316, title I, § 103(g)][/us/pl/104/316/s103/g], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–361][/us/pl/106/361], §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, [114 Stat. 1400][/us/stat/114/1400], 1401; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 138(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–233; [Pub. L. 107–304, § 1(b)(1)][/us/pl/107/304/s1/b/1], Nov. 27, 2002, [116 Stat. 2363][/us/stat/116/2363]; [Pub. L. 108–177, title IV, § 405(b)(2)][/us/pl/108/177/s405/b/2], Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632]; [Pub. L. 108–469, § 1(b)][/us/pl/108/469/s1/b], (c), (d)(2), Dec. 21, 2004, [118 Stat. 3891][/us/stat/118/3891]; [Pub. L. 111–31, div. B, title I, § 102][/us/pl/111/31/s102], June 22, 2009, [123 Stat. 1853][/us/stat/123/1853]; [Pub. L. 114–92, div. A, title VI, § 632(b)][/us/pl/114/92/s632/b], (c), Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+
+ __Amendment of Subsections (b)(2) and (g)__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 632(b), (c), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
+
+    (1) in subsection (b)(2):
+
+    (A) in subparagraph (D)(ii), by striking “Members” and inserting “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members”;
+
+    (B) in subparagraph (E), by striking “8440e(a)(1)” and inserting “8440e(b)(1)”; and
+
+    (C) by adding at the end the following new subparagraph:
+
+    “(F) Notwithstanding any other provision of this paragraph, if a full TSP member (as defined in section 8440e(a)) has declined automatic enrollment into the Thrift Savings Plan for a year, the full TSP member shall be automatically reenrolled on January 1 of the succeeding year, with contributions under subsection (a) at the default percentage of basic pay.”; and
+
+    (2) in subsection (g):
+
+    (A) in paragraph (2), by striking “or” after the semicolon in subparagraph (A)(iii), striking the period at the end of subparagraph (B) and inserting “; or”, and adding at the end the following:
+
+    “(C) 2 years of service in the case of a member of the uniformed services.”; and
+
+    (B) by adding at the end the following new paragraph:
+
+    (6) For purposes of this subsection, a member of the uniformed services shall be considered to have separated from Government employment if the member is discharged or released from service in the uniformed services.
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
@@ -308,6 +334,16 @@
     The Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. (k)(1), is [Pub. L. 107–306][/us/pl/107/306], Nov. 27, 2002, [116 Stat. 2383][/us/stat/116/2383]. Section 402 of the Act was formerly set out as a note under [section 403–4 of Title 50][/us/usc/t50/s403–4], War and National Defense, and was editorially reclassified as a note under [section 3505 of Title 50][/us/usc/t50/s3505].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(D)(ii). [Pub. L. 114–92, § 632(b)(1)][/us/pl/114/92/s632/b/1], substituted “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members” for “Members”.
+
+    Subsec. (b)(2)(E). [Pub. L. 114–92, § 632(b)(2)][/us/pl/114/92/s632/b/2], substituted “8440e(b)(1)” for “8440e(a)(1)”.
+
+    Subsec. (b)(2)(F). [Pub. L. 114–92, § 632(b)(3)][/us/pl/114/92/s632/b/3], added subpar. (F).
+
+    Subsec. (g)(2)(C). [Pub. L. 114–92, § 632(c)(1)][/us/pl/114/92/s632/c/1], added subpar. (C).
+
+    Subsec. (g)(6). [Pub. L. 114–92, § 632(c)(2)][/us/pl/114/92/s632/c/2], added par. (6).
 
     2009—Subsec. (b)(1)(B). [Pub. L. 111–31, § 102(b)][/us/pl/111/31/s102/b], which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
 
@@ -368,6 +404,42 @@
     Subsec. (c)(1). [Pub. L. 99–509, § 6001(a)(2)(A)][/us/pl/99/509/s6001/a/2/A], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
     Subsec. (c)(2)(C). [Pub. L. 99–509, § 6001(a)(2)(B)][/us/pl/99/509/s6001/a/2/B], added subpar. (C).
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+[Pub. L. 114–92, div. A, title VI, § 635][/us/pl/114/92/s635], Nov. 25, 2015, [129 Stat. 851][/us/stat/129/851], provided that:
+
+>     “(a)  __Effective Date__  __.—__ 
+
+>     The amendments made by this part \[part I (§§ 631–635) of subtitle D of title VI of [Pub. L. 114–92][/us/pl/114/92], enacting [section 1415 of Title 10][/us/usc/t10/s1415], Armed Forces, and [section 356 of Title 37][/us/usc/t37/s356], Pay and Allowances of the Uniformed Services, and amending this section and sections 8432b, 8438, and 8440e of this title, sections 1401, 1401a, 1409, 1410, 1413a, 1414, 1463, and 12739 of Title 10, [section 3045 of Title 33][/us/usc/t33/s3045], Navigation and Navigable Waters, sections 211 and 354 of Title 37, [section 5304 of Title 38][/us/usc/t38/s5304], Veterans’ Benefits, and [section 212 of Title 42][/us/usc/t42/s212], The Public Health and Welfare\] shall take effect on January 1, 2018.
+
+>     “(b) __Implementation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretaries concerned, the Director of the Office of Personnel Management, and the Federal Retirement Thrift Investment Board shall each and jointly take appropriate actions to ensure the full and effective implementation of the amendments made by this part in order to ensure that members of the uniformed services will be able to participate in the modernized retirement plan provided by this part commencing on the date specified in subsection (a).
+
+>         “(2)  __Implementation plan__  __.—__ 
+
+>         Not later than March 1, 2016, the Secretaries concerned shall submit to the appropriate committees of Congress a report containing a plan to ensure the full and effective commencement and operational implementation of the amendments made by this part in accordance with paragraph (1).
+
+>     “(c)  __Additional Technical and Conforming Amendments__  __.—__ 
+
+>     The report required by subsection (b) shall contain a draft of such legislation as may be necessary to make any additional technical and conforming changes to titles 10 and 37, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by this part.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘appropriate committees of Congress’ means—
+
+>             “(A) the Committee on Armed Services, the Committee on Energy and Commerce, the Committee on Natural Resources, the Committee on Oversight and Government Reform, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+>             “(B) the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, the Committee on Homeland Security and Governmental Affairs, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+>         “(2) The term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 37][/us/usc/t37/s101], United States Code.”
 
  __Effective Date of 2002 Amendment__ 
 
@@ -526,6 +598,10 @@
 [/us/stat/118/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3891
 [/us/pl/111/31/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102
 [/us/stat/123/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1853
+[/us/pl/114/92/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb
+[/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
 [/us/pl/111/31/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102%2Fa
 [/us/pl/98/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
@@ -533,6 +609,11 @@
 [/us/stat/116/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2383
 [/us/usc/t50/s403–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934
 [/us/usc/t50/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3505
+[/us/pl/114/92/s632/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb%2F1
+[/us/pl/114/92/s632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb%2F2
+[/us/pl/114/92/s632/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb%2F3
+[/us/pl/114/92/s632/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fc%2F1
+[/us/pl/114/92/s632/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fc%2F2
 [/us/pl/111/31/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102%2Fb
 [/us/pl/111/31/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102%2Fa
 [/us/pl/108/469/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fb
@@ -562,6 +643,15 @@
 [/us/pl/99/509/s6001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F1
 [/us/pl/99/509/s6001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F2%2FA
 [/us/pl/99/509/s6001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F2%2FB
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/stat/129/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F851
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t10/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1415
+[/us/usc/t37/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs356
+[/us/usc/t33/s3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3045
+[/us/usc/t38/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5304
+[/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212
+[/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
 [/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
 [/us/pl/107/304/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs1%2Fc
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351

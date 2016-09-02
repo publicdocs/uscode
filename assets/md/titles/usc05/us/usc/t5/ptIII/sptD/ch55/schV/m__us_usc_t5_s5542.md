@@ -51,7 +51,7 @@
 
             (A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act ([29 U.S.C. 213(f)][/us/usc/t29/s213/f]), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-            (B) Subparagraph (A) shall expire on September 30, 2015.
+            (B) Subparagraph (A) shall expire on September 30, 2017.
 
     (b)
 
@@ -161,7 +161,7 @@
 
             (F) shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 485][/us/stat/80/485]; [Pub. L. 90–83, § 1(24)][/us/pl/90/83/s1/24], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II, § 222(a)][/us/pl/90/206/s222/a], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641]; [Pub. L. 90–556, § 1][/us/pl/90/556/s1], Oct. 10, 1968, [82 Stat. 969][/us/stat/82/969]; [Pub. L. 92–194][/us/pl/92/194], Dec. 15, 1971, [85 Stat. 648][/us/stat/85/648]; [Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 322\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E), title II, § 210(1), title IV, § 410(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1460, 1468; [Pub. L. 102–378, § 2(41)][/us/pl/102/378/s2/41], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(c)][/us/pl/103/329/s633/c], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 104–52, title V, § 531][/us/pl/104/52/s531], Nov. 19, 1995, [109 Stat. 496][/us/stat/109/496]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(c)(2)\], (h) \[title VI, § 628(a)(1)\], div. G, subdiv. B, title XXIII, § 2316(c)(2), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–102, 2681–480, 2681–519, 2681–829; [Pub. L. 106–558, § 2(a)][/us/pl/106/558/s2/a], Dec. 21, 2000, [114 Stat. 2776][/us/stat/114/2776]; [Pub. L. 108–136, div. A, title XI, § 1121][/us/pl/108/136/s1121], Nov. 24, 2003, [117 Stat. 1636][/us/stat/117/1636]; [Pub. L. 111–383, div. A, title XI, § 1105(a)][/us/pl/111/383/s1105/a], Jan. 7, 2011, [124 Stat. 4383][/us/stat/124/4383]; [Pub. L. 113–277, § 2(c)(1)][/us/pl/113/277/s2/c/1], Dec. 18, 2014, [128 Stat. 3002][/us/stat/128/3002]; [Pub. L. 113–291, div. A, title XI, § 1106(a)][/us/pl/113/291/s1106/a], Dec. 19, 2014, [128 Stat. 3526][/us/stat/128/3526].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 485][/us/stat/80/485]; [Pub. L. 90–83, § 1(24)][/us/pl/90/83/s1/24], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II, § 222(a)][/us/pl/90/206/s222/a], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641]; [Pub. L. 90–556, § 1][/us/pl/90/556/s1], Oct. 10, 1968, [82 Stat. 969][/us/stat/82/969]; [Pub. L. 92–194][/us/pl/92/194], Dec. 15, 1971, [85 Stat. 648][/us/stat/85/648]; [Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 322\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E), title II, § 210(1), title IV, § 410(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1460, 1468; [Pub. L. 102–378, § 2(41)][/us/pl/102/378/s2/41], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(c)][/us/pl/103/329/s633/c], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 104–52, title V, § 531][/us/pl/104/52/s531], Nov. 19, 1995, [109 Stat. 496][/us/stat/109/496]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(c)(2)\], (h) \[title VI, § 628(a)(1)\], div. G, subdiv. B, title XXIII, § 2316(c)(2), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–102, 2681–480, 2681–519, 2681–829; [Pub. L. 106–558, § 2(a)][/us/pl/106/558/s2/a], Dec. 21, 2000, [114 Stat. 2776][/us/stat/114/2776]; [Pub. L. 108–136, div. A, title XI, § 1121][/us/pl/108/136/s1121], Nov. 24, 2003, [117 Stat. 1636][/us/stat/117/1636]; [Pub. L. 111–383, div. A, title XI, § 1105(a)][/us/pl/111/383/s1105/a], Jan. 7, 2011, [124 Stat. 4383][/us/stat/124/4383]; [Pub. L. 113–277, § 2(c)(1)][/us/pl/113/277/s2/c/1], Dec. 18, 2014, [128 Stat. 3002][/us/stat/128/3002]; [Pub. L. 113–291, div. A, title XI, § 1106(a)][/us/pl/113/291/s1106/a], Dec. 19, 2014, [128 Stat. 3526][/us/stat/128/3526]; [Pub. L. 114–92, div. A, title XI, § 1103][/us/pl/114/92/s1103], Nov. 25, 2015, [129 Stat. 1022][/us/stat/129/1022].)
 
 <table>
 
@@ -300,6 +300,8 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
     Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to [section 2709(a)(3) of Title 22][/us/usc/t22/s2709/a/3], Foreign Relations and Intercourse.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(6)(B). [Pub. L. 114–92][/us/pl/114/92] substituted “September 30, 2017” for “September 30, 2015”.
 
     2014—Subsec. (a)(6)(B). [Pub. L. 113–291][/us/pl/113/291] substituted “2015” for “2014”.
 
@@ -468,6 +470,8 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 [/us/stat/128/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3002
 [/us/pl/113/291/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1106%2Fa
 [/us/stat/128/3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3526
+[/us/pl/114/92/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1103
+[/us/stat/129/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1022
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F847
@@ -477,6 +481,7 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/usc/t22/s2709/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2709%2Fa%2F3
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

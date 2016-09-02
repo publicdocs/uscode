@@ -217,7 +217,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
  __Experimental Personnel Program for Scientific and Technical Personnel__ 
 
-[Pub. L. 105–261, div. A, title XI, § 1101][/us/pl/105/261/s1101], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\] title X, § 1087(d)(6), title XI, § 1113\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–314; [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], title XI, § 1116, Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], 1636; [Pub. L. 109–364, div. A, title XI, § 1103][/us/pl/109/364/s1103], Oct. 17, 2006, [120 Stat. 2408][/us/stat/120/2408]; [Pub. L. 110–181, div. A, title XI, § 1108][/us/pl/110/181/s1108], Jan. 28, 2008, [122 Stat. 358][/us/stat/122/358]; [Pub. L. 111–84, div. A, title XI, § 1104][/us/pl/111/84/s1104], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485]; [Pub. L. 112–81, div. A, title XI, § 1110][/us/pl/112/81/s1110], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi)][/us/pl/112/239/s1076/c/2/A/vi], title XI, § 1102(a), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1973; [Pub. L. 113–291, div. A, title XI, § 1104][/us/pl/113/291/s1104], Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525], provided that:
+[Pub. L. 105–261, div. A, title XI, § 1101][/us/pl/105/261/s1101], Oct. 17, 1998, [112 Stat. 2139][/us/stat/112/2139], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\] title X, § 1087(d)(6), title XI, § 1113\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–314; [Pub. L. 108–136, div. A, title IX, § 921(g)][/us/pl/108/136/s921/g], title XI, § 1116, Nov. 24, 2003, [117 Stat. 1570][/us/stat/117/1570], 1636; [Pub. L. 109–364, div. A, title XI, § 1103][/us/pl/109/364/s1103], Oct. 17, 2006, [120 Stat. 2408][/us/stat/120/2408]; [Pub. L. 110–181, div. A, title XI, § 1108][/us/pl/110/181/s1108], Jan. 28, 2008, [122 Stat. 358][/us/stat/122/358]; [Pub. L. 111–84, div. A, title XI, § 1104][/us/pl/111/84/s1104], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485]; [Pub. L. 112–81, div. A, title XI, § 1110][/us/pl/112/81/s1110], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi)][/us/pl/112/239/s1076/c/2/A/vi], title XI, § 1102(a), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1973; [Pub. L. 113–291, div. A, title XI, § 1104][/us/pl/113/291/s1104], Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92], §§ 1075(b), 1081(b)(5), Nov. 25, 2015, [129 Stat. 997][/us/stat/129/997], 1001, provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -289,35 +289,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 >             “(B) the period to which the employee’s service is limited under subsection (c), including any extension made under paragraph (2) of that subsection before the termination of the program; and
 
->         “(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service.
-
->     “(g)  __Annual Report__  __.—__ 
-
->         (1)
-
->             (A) Not later than December 31 of each year in which the authority under this section is in effect, the Secretary of Defense shall submit to the committees of Congress specified in subparagraph (B) a report on the operation of this section. Each report shall cover the fiscal year that most recently ended before such December 31.
-
->             “(B)
-
->              The committees of Congress specified in this subparagraph are—
-
->                 “(i) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
-
->                 “(ii) the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
-
->         “(2)
-
->          The annual report shall contain, for the period covered by the report, the following:
-
->             “(A) A detailed discussion of the exercise of authority under this section.
-
->             “(B) The sources from which individuals appointed under subsection (b)(1) were recruited.
-
->             “(C) The methodology used for identifying and selecting such individuals.
-
->             “(D) Any additional information that the Secretary considers helpful for assessing the utility of the authority under this section.”
-
-    \[[Pub. L. 113–291, § 1104(b)(2)][/us/pl/113/291/s1104/b/2], which directed amendment of subsec. (d)(2) of [section 1101 of Pub. L. 105–261][/us/pl/105/261/s1101], set out above, by substituting “calendar year” for “fiscal year”, was executed by making the substitution in subsec. (d)(1)(A) of such section before “2010”, to reflect the probable intent of Congress.\]
+>         “(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service.”
 
 \[[Pub. L. 112–239, div. A, title XI, § 1102(b)][/us/pl/112/239/s1102/b], Jan. 2, 2013, [126 Stat. 1973][/us/stat/126/1973], provided that: 
 
@@ -476,12 +448,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
 [/us/pl/113/291/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1104
 [/us/stat/128/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3525
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F997
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302%2F3
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/113/291/s1104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1104%2Fb%2F2
-[/us/pl/105/261/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1101
 [/us/pl/112/239/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1102%2Fb
 [/us/stat/126/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1973
 [/us/pl/105/261/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1101
