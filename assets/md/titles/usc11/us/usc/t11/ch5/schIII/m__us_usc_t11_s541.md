@@ -147,7 +147,7 @@
 
             (B) the debtor has no obligation to repay the money, redeem the collateral, or buy back the property at a stipulated price; and
 
-            (C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b); or
+            (C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b);
 
         (9)
 
@@ -157,7 +157,23 @@
 
             (B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
 
-            unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition.
+            unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
+
+        (10)
+
+         funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
+
+            (A) only if the designated beneficiary of such account was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were placed in such account;
+
+            (B)
+
+             only to the extent that such funds—
+
+                (i) are not pledged or promised to any entity in connection with any extension of credit; and
+
+                (ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
+
+            (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
 
         Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
@@ -179,7 +195,7 @@
 
     (f) Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2594][/us/stat/92/2594]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 363(a), 456, July 10, 1984, [98 Stat. 363][/us/stat/98/363], 376; [Pub. L. 101–508, title III, § 3007(a)(2)][/us/pl/101/508/s3007/a/2], Nov. 5, 1990, [104 Stat. 1388–28][/us/stat/104/1388-28]; [Pub. L. 102–486, title XXX, § 3017(b)][/us/pl/102/486/s3017/b], Oct. 24, 1992, [106 Stat. 3130][/us/stat/106/3130]; [Pub. L. 103–394, title II][/us/pl/103/394], §§ 208(b), 223, Oct. 22, 1994, [108 Stat. 4124][/us/stat/108/4124], 4129; [Pub. L. 109–8, title II, § 225(a)][/us/pl/109/8/s225/a], title III, § 323, title XII, §§ 1212, 1221(c), 1230, Apr. 20, 2005, [119 Stat. 65][/us/stat/119/65], 97, 194, 196, 201; [Pub. L. 111–327, § 2(a)(22)][/us/pl/111/327/s2/a/22], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2594][/us/stat/92/2594]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 363(a), 456, July 10, 1984, [98 Stat. 363][/us/stat/98/363], 376; [Pub. L. 101–508, title III, § 3007(a)(2)][/us/pl/101/508/s3007/a/2], Nov. 5, 1990, [104 Stat. 1388–28][/us/stat/104/1388-28]; [Pub. L. 102–486, title XXX, § 3017(b)][/us/pl/102/486/s3017/b], Oct. 24, 1992, [106 Stat. 3130][/us/stat/106/3130]; [Pub. L. 103–394, title II][/us/pl/103/394], §§ 208(b), 223, Oct. 22, 1994, [108 Stat. 4124][/us/stat/108/4124], 4129; [Pub. L. 109–8, title II, § 225(a)][/us/pl/109/8/s225/a], title III, § 323, title XII, §§ 1212, 1221(c), 1230, Apr. 20, 2005, [119 Stat. 65][/us/stat/119/65], 97, 194, 196, 201; [Pub. L. 111–327, § 2(a)(22)][/us/pl/111/327/s2/a/22], Dec. 22, 2010, [124 Stat. 3560][/us/stat/124/3560]; [Pub. L. 113–295, div. B, title I, § 104(a)][/us/pl/113/295/s104/a], Dec. 19, 2014, [128 Stat. 4063][/us/stat/128/4063].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -235,11 +251,13 @@
 
     The Higher Education Act of 1965, referred to in subsec. (b)(3), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
-    The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7) and (f), is classified generally to Title 26, Internal Revenue Code.
+    The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10), and (f), is classified generally to Title 26, Internal Revenue Code.
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(10). [Pub. L. 113–295][/us/pl/113/295] added par. (10).
 
     2010—Subsec. (b)(6)(B). [Pub. L. 111–327][/us/pl/111/327] substituted “section 529(b)(6)” for “section 529(b)(7)”.
 
@@ -286,6 +304,10 @@
     Subsec. (d). [Pub. L. 98–353, § 456(c)][/us/pl/98/353/s456/c], inserted “(1) or (2)” after “(a)”.
 
     Subsec. (e). [Pub. L. 98–353, § 456(d)][/us/pl/98/353/s456/d], struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see [section 104(d) of Pub. L. 113–295][/us/pl/113/295/s104/d], set out as a note under [section 521 of this title][/us/usc/t11/s521].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -338,6 +360,8 @@
 [/us/stat/119/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F65
 [/us/pl/111/327/s2/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F22
 [/us/stat/124/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3560
+[/us/pl/113/295/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fa
+[/us/stat/128/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4063
 [/us/usc/t7/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs196
 [/us/usc/t26/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7501
 [/us/usc/t11/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs108
@@ -351,6 +375,7 @@
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8/s225/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs225%2Fa%2F1%2FA
 [/us/pl/109/8/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1212
@@ -375,6 +400,9 @@
 [/us/pl/98/353/s456/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs456%2Fb%2F2
 [/us/pl/98/353/s456/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs456%2Fc
 [/us/pl/98/353/s456/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs456%2Fd
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fd
+[/us/usc/t11/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs521
 [/us/pl/109/8/s1221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1221%2Fc
 [/us/pl/109/8/s1221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1221%2Fd
 [/us/usc/t11/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs363

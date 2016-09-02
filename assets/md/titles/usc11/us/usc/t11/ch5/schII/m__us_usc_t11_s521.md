@@ -83,7 +83,7 @@
 
         (2) a copy of the debt repayment plan, if any, developed under section 109(h) through the approved nonprofit budget and credit counseling agency referred to in paragraph (1).
 
-    (c) In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986) or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
+    (c) In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986), an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code, <sup>\[1\]</sup>  <sup><sup> 1 So in original. A closing parenthesis probably should precede the comma. </sup></sup>  or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
 
     (d) If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor or as to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
 
@@ -171,7 +171,7 @@
 
         (2) If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 
-([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 305, 452, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 375; [Pub. L. 99–554, title II, § 283(h)][/us/pl/99/554/s283/h], Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 109–8, title I, § 106(d)][/us/pl/109/8/s106/d], title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 66, 78, 80, 89, 92, 118, 123, 133; [Pub. L. 111–16, § 2(5)][/us/pl/111/16/s2/5], (6), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327, § 2(a)(16)][/us/pl/111/327/s2/a/16], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2586][/us/stat/92/2586]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 305, 452, July 10, 1984, [98 Stat. 352][/us/stat/98/352], 375; [Pub. L. 99–554, title II, § 283(h)][/us/pl/99/554/s283/h], Oct. 27, 1986, [100 Stat. 3117][/us/stat/100/3117]; [Pub. L. 109–8, title I, § 106(d)][/us/pl/109/8/s106/d], title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, [119 Stat. 38][/us/stat/119/38], 66, 78, 80, 89, 92, 118, 123, 133; [Pub. L. 111–16, § 2(5)][/us/pl/111/16/s2/5], (6), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 111–327, § 2(a)(16)][/us/pl/111/327/s2/a/16], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559]; [Pub. L. 113–295, div. B, title I, § 104(c)][/us/pl/113/295/s104/c], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064].)
 
  __Historical and Revision Notes__ 
 
@@ -189,11 +189,13 @@
 
     Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(7), is classified to [section 1002 of Title 29][/us/usc/t29/s1002], Labor.
 
-    Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1) and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
+    Sections 530(b)(1), 529A(b), and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1), 529A(b), and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
 
     Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is [section 315(c) of Pub. L. 109–8][/us/pl/109/8/s315/c], which is set out as a note under this section.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] inserted “, an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,” after “Internal Revenue Code of 1986)”.
 
     2010—Subsec. (a)(2). [Pub. L. 111–327, § 2(a)(16)(A)(iii)][/us/pl/111/327/s2/a/16/A/iii], in subpar. (C) substituted “except that” for subpar. (C) designation.
 
@@ -244,6 +246,12 @@
     Pars. (2) to (5). [Pub. L. 98–353, § 305(1)][/us/pl/98/353/s305/1], (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
     [Pub. L. 98–353, § 452][/us/pl/98/353/s452], which directed the insertion of “, whether or not immunity is granted under [section 344 of this title][/us/usc/t11/s344]” after second reference to “estate” in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. B, title I, § 104(d)][/us/pl/113/295/s104/d], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 541 and 707 of this title\] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -326,8 +334,11 @@
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/327/s2/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16
 [/us/stat/124/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3559
+[/us/pl/113/295/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fc
+[/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/pl/109/8/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs315%2Fc
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/327/s2/a/16/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FA%2Fiii
 [/us/pl/111/327/s2/a/16/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FA%2Fi
 [/us/pl/111/327/s2/a/16/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F16%2FA%2Fii
@@ -356,6 +367,8 @@
 [/us/pl/98/353/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs305%2F1
 [/us/pl/98/353/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs452
 [/us/usc/t11/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs344
+[/us/pl/113/295/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fd
+[/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
